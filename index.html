@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Skyberrys | Dr. Carrie Hartley Segal</title>
     <style>
-        /* Retro Web 2.0 Palette */
         :root {
             --bg-dark: #121212;
             --card-bg: #1e1e1e;
@@ -15,180 +14,152 @@
             --text-dim: #a0a0a0;
         }
 
+        html { scroll-behavior: smooth; } /* Smooth jumping down the page */
+
         body {
             background-color: var(--bg-dark);
             color: var(--text-main);
-            font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
+            font-family: "Lucida Grande", sans-serif;
+            margin: 0; padding: 0;
         }
 
-        /* The Classic 2007 Header Gradient */
         header {
             background: linear-gradient(to bottom, #222 0%, #000 100%);
             border-bottom: 3px solid var(--turquoise);
-            padding: 40px 20px;
+            padding: 50px 20px;
             text-align: center;
-            box-shadow: 0 4px 15px rgba(0, 206, 209, 0.2);
         }
 
-        h1 {
-            color: var(--turquoise);
-            font-size: 2.5em;
-            margin: 0;
-            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
-            letter-spacing: -1px;
-        }
+        .container { max-width: 900px; margin: 40px auto; padding: 0 20px; }
 
-        .container {
-            max-width: 800px;
-            margin: 40px auto;
-            padding: 0 20px;
-        }
-
-        /* Intro Section */
-        .bio {
-            background: var(--card-bg);
-            border-radius: 15px;
-            padding: 25px;
-            border: 1px solid #333;
-            margin-bottom: 40px;
-        }
-
-        /* Apps Grid - The "Etsy/Twitter" Card Look */
+        /* Bigger App Grid */
         .apps-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
         }
 
         .app-card {
             background: linear-gradient(145deg, #252525, #1a1a1a);
             border: 1px solid #444;
-            border-radius: 12px;
-            padding: 20px;
+            border-radius: 20px;
+            padding: 30px;
             text-align: center;
-            transition: transform 0.2s, border-color 0.2s;
-            cursor: default;
+            text-decoration: none; /* For the link */
+            display: block;
+            transition: 0.3s;
         }
 
         .app-card:hover {
             border-color: var(--turquoise);
-            transform: translateY(-5px);
-            box-shadow: 0 5px 15px rgba(0, 206, 209, 0.1);
+            transform: scale(1.05);
+            box-shadow: 0 0 20px rgba(0, 206, 209, 0.3);
         }
 
-        /* Icon styling */
-        .icon-container {
+        .app-icon-large {
+            width: 120px;
+            height: 120px;
+            border-radius: 25px;
             margin-bottom: 15px;
-            height: 70px; /* Forces uniform height */
-            display: flex;
-            align-items: center;
-            justify-content: center;
+            box-shadow: 0 8px 15px rgba(0,0,0,0.5);
+            border: 1px solid #444;
         }
 
-        .app-icon {
-            max-height: 60px;
-            max-width: 60px;
-            border-radius: 12px; /* Slight rounder corner popular back then */
-            /* Skeuomorphic inner shadow effect popular in Web 2.0 */
-            box-shadow: inset 0 2px 4px rgba(0,0,0,0.3), 0 1px 1px rgba(255,255,255,0.1);
-        }
+        .app-card h3 { color: var(--turquoise-glow); margin: 10px 0; font-size: 1.3em; }
 
-        .app-card h3 {
-            margin: 0;
-            color: var(--turquoise-glow);
-            font-size: 1.1em;
-            letter-spacing: -0.5px;
-        }
-
-        /* YouTube Button - High Gloss Web 2.0 Style */
-        .yt-link {
-            display: block;
-            width: fit-content;
-            margin: 50px auto;
-            background: linear-gradient(to bottom, #00ced1 0%, #008b8b 100%);
-            color: white;
-            text-decoration: none;
-            padding: 15px 30px;
-            border-radius: 50px;
-            font-weight: bold;
-            font-size: 1.2em;
-            box-shadow: 0 4px 0 #005f5f;
-            text-shadow: 0 1px 2px rgba(0,0,0,0.3);
-            text-align: center;
-        }
-
-        .yt-link:active {
-            box-shadow: 0 1px 0 #005f5f;
-            transform: translateY(3px);
-        }
-
-        footer {
-            text-align: center;
+        /* Spotlight Section (Orchid Journal) */
+        .spotlight {
+            background: #181818;
+            border: 2px solid var(--turquoise);
+            border-radius: 25px;
+            margin-top: 80px;
             padding: 40px;
-            color: var(--text-dim);
-            font-size: 0.8em;
-            border-top: 1px solid #333;
         }
 
-        a { color: var(--turquoise); }
+        .screenshot-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 15px;
+            margin: 30px 0;
+        }
+
+        .screenshot-grid img {
+            width: 100%;
+            border-radius: 10px;
+            border: 1px solid #555;
+            transition: 0.3s;
+        }
+
+        .screenshot-grid img:hover { border-color: var(--turquoise); transform: scale(1.02); }
+
+        .badge-area {
+            text-align: center;
+            margin-top: 20px;
+            font-style: italic;
+            color: var(--turquoise);
+        }
+
+        .yt-link {
+            display: block; width: fit-content; margin: 50px auto;
+            background: linear-gradient(to bottom, #00ced1 0%, #008b8b 100%);
+            color: white; text-decoration: none; padding: 15px 40px;
+            border-radius: 50px; font-weight: bold;
+            box-shadow: 0 4px 0 #005f5f;
+        }
+
+        footer { text-align: center; padding: 60px; color: var(--text-dim); font-size: 0.8em; }
     </style>
 </head>
 <body>
 
 <header>
     <h1>skyberrys.com</h1>
-    <p style="color: var(--text-dim);">The Digital Home of Dr. Carrie Hartley Segal</p>
+    <p>Simple and delightful apps for improving your day.</p>
 </header>
 
 <div class="container">
-    <section class="bio">
-        <h2>About</h2>
-        <p>Welcome! This is a simple landing page to showcase my recent projects and apps. I am a creator focused on blending utility with a bit of wonder.</p>
-        <p>You can reach me at <a href="mailto:carrie@skyberrys.com">carrie@skyberrys.com</a>.</p>
-    </section>
-
-    <h2 style="text-align: center; margin-bottom: 30px;">My Apps</h2>
+    
     <div class="apps-grid">
-        
-        <div class="app-card">
-            <div class="icon-container">
-                <img src="orchid_journal_icon.png" alt="Orchid Journal Icon" class="app-icon">
-            </div>
+        <a href="#orchid-spotlight" class="app-card">
+            <img src="orchid_journal_icon.png" class="app-icon-large" alt="Orchid Journal">
             <h3>Orchid Journal</h3>
-        </div>
+            <p style="font-size: 0.8em; color: var(--turquoise);">Click for details ↓</p>
+        </a>
 
         <div class="app-card">
-            <div class="icon-container">
-                <img src="borrow_this_and_improve_it_icon.png" alt="Borrow This And Improve It Icon" class="app-icon">
-            </div>
+            <img src="borrow_this_and_improve_it_icon.png" class="app-icon-large" alt="Borrow This">
             <h3>Borrow This And Improve It</h3>
         </div>
-
         <div class="app-card">
-            <div class="icon-container">
-                <img src="how_home_alone_my_house_icon.png" alt="How Home Alone My House Icon" class="app-icon">
-            </div>
+            <img src="how_home_alone_my_house_icon.png" class="app-icon-large" alt="Home Alone">
             <h3>How Home Alone My House</h3>
         </div>
-
         <div class="app-card">
-            <div class="icon-container">
-                <img src="thirst_quencher_icon.png" alt="Thirst Quencher Icon" class="app-icon">
-            </div>
+            <img src="thirst_quencher_icon.png" class="app-icon-large" alt="Thirst Quencher">
             <h3>Thirst Quencher</h3>
         </div>
-
         <div class="app-card">
-            <div class="icon-container">
-                <img src="wildflower_witness_icon.png" alt="Wildflower Witness Icon" class="app-icon">
-            </div>
+            <img src="wildflower_witness_icon.png" class="app-icon-large" alt="Wildflower Witness">
             <h3>Wildflower Witness</h3>
         </div>
-
     </div>
+
+    <section id="orchid-spotlight" class="spotlight">
+        <h2 style="color: var(--turquoise); text-align: center;">Project Spotlight: Orchid Journal</h2>
+        <p style="text-align: center;">Journal about your orchids and view beautiful slideshows of them over time. Track growth, weight, water, and blooms and appreciate your garden. Gift an orchid to your friends and loved ones.</p>
+        
+        <div class="screenshot-grid">
+            <img src="oj_collection.png" alt="Collection View">
+            <img src="oj_glowStats.png" alt="Glow Stats">
+            <img src="oj_about.png" alt="About Section">
+            <img src="oj_gift.png" alt="Gift Feature">
+        </div>
+
+        <div class="badge-area">
+            <p>🚀 Coming Soon to the Apple App Store & Google Play</p>
+        </div>
+    </section>
 
     <a href="https://www.youtube.com/@DrCarrieHartleySegal" class="yt-link" target="_blank">
         Visit My YouTube Channel
@@ -196,7 +167,7 @@
 </div>
 
 <footer>
-    &copy; 2026 Dr. Carrie Hartley Segal. All rights reserved.
+    &copy; 2026 Dr. Carrie Hartley Segal | carrie@skyberrys.com
 </footer>
 
 </body>

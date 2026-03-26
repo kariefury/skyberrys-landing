@@ -3,7 +3,53 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Orchid Journal | Skyberrys</title>
+
+    <!-- ═══ SEO ═══ -->
+    <title>Orchid Journal — Free Orchid Care Tracker & Daily Mindfulness App | Skyberrys</title>
+    <meta name="description" content="Orchid Journal is a free, private orchid care app with daily photo journals, growth slideshows, and person-to-person orchid gifting. Live on iOS. Android beta open — 14 testers needed.">
+    <meta name="author" content="Dr. Carrie Hartley Segal">
+    <link rel="canonical" href="https://skyberrys.com/orchid-journal/">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://skyberrys.com/orchid-journal/">
+    <meta property="og:site_name" content="Skyberrys">
+    <meta property="og:title" content="Orchid Journal — Free Orchid Care Tracker & Daily Mindfulness App">
+    <meta property="og:description" content="A free, private orchid care tracker with daily journals, growth slideshows, and orchid gifting. No ads. No data. Live on iOS — Android beta open.">
+    <meta property="og:image" content="https://skyberrys.com/orchid_journal_icon.png">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Orchid Journal — Free Orchid Care & Mindfulness App">
+    <meta name="twitter:description" content="Track your orchids daily. Free, private, no ads. Live on iOS — Android beta open.">
+    <meta name="twitter:image" content="https://skyberrys.com/orchid_journal_icon.png">
+
+    <!-- JSON-LD: SoftwareApplication -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "Orchid Journal",
+      "description": "A free, private orchid care app with daily photo journals, growth slideshows, and person-to-person orchid gifting. No ads. No data collected.",
+      "url": "https://skyberrys.com/orchid-journal/",
+      "applicationCategory": "LifestyleApplication",
+      "operatingSystem": "iOS, Android",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Dr. Carrie Hartley Segal",
+        "url": "https://skyberrys.com"
+      },
+      "downloadUrl": "https://apps.apple.com/us/app/orchid-journal/id6760272733",
+      "aggregateRating": null
+    }
+    </script>
+    <!-- ═══ /SEO ═══ -->
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
     <style>
@@ -61,18 +107,6 @@
             box-shadow: 0 12px 40px rgba(0,0,0,0.6);
             border: 1px solid #333;
         }
-        .app-icon-placeholder {
-            width: 120px; height: 120px;
-            border-radius: 28px;
-            margin: 0 auto 24px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 3em;
-            background: var(--card-bg);
-            border: 1px solid #333;
-            box-shadow: 0 12px 40px rgba(0,0,0,0.6);
-        }
         h1 {
             font-family: 'Cormorant Garamond', Georgia, serif;
             font-size: 3em;
@@ -104,10 +138,7 @@
         }
         .badge-live    { background: rgba(0,206,209,0.15); color: var(--turquoise); border: 1px solid rgba(0,206,209,0.3); }
         .badge-health  { background: rgba(0,206,209,0.1); color: var(--turquoise); border: 1px solid rgba(0,206,209,0.2); }
-        .badge-beta    { background: rgba(114,179,74,0.15); color: #72b34a; border: 1px solid rgba(114,179,74,0.3); }
         .badge-android { background: rgba(114,179,74,0.1); color: #72b34a; border: 1px solid rgba(114,179,74,0.2); }
-        .badge-dev     { background: rgba(224,153,58,0.15); color: #e0993a; border: 1px solid rgba(224,153,58,0.3); }
-        .badge-community { background: rgba(167,139,250,0.1); color: #a78bfa; border: 1px solid rgba(167,139,250,0.3); }
 
         .container { max-width: 760px; margin: 0 auto; padding: 0 24px; }
 
@@ -207,7 +238,7 @@
         }
         footer a { color: var(--turquoise); text-decoration: none; }
     </style>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🫐</text></svg>">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🫐</text></svg>">
 </head>
 <body>
 
@@ -218,7 +249,7 @@
 </nav>
 
 <div class="hero">
-    <img src="../orchid_journal_icon.png" class="app-icon" alt="Orchid Journal icon">
+    <img src="../orchid_journal_icon.png" class="app-icon" alt="Orchid Journal app icon — a purple orchid on dark background">
     <h1>Orchid Journal</h1>
     <p class="hero-sub">A daily practice in noticing, nurturing, and connection.</p>
     <div class="badge-row">
@@ -258,10 +289,10 @@
         <p class="section-label">Screenshots</p>
         <h2 class="section-title">See it in action</h2>
         <div class="screenshots">
-            <img src="../oj_collection.png" alt="Orchid collection view">
-            <img src="../oj_glowStats.png" alt="Glow stats">
-            <img src="../oj_about.png" alt="About screen">
-            <img src="../oj_gift.png" alt="Gift feature">
+            <img src="../oj_collection.png" alt="Orchid Journal collection view showing named orchids with photos">
+            <img src="../oj_glowStats.png" alt="Orchid Journal growth stats and care history">
+            <img src="../oj_about.png" alt="Orchid Journal about screen">
+            <img src="../oj_gift.png" alt="Orchid Journal gifting feature — transfer an orchid to a friend">
         </div>
     </section>
 
@@ -272,7 +303,7 @@
 
         <div class="cta-box">
             <p>Download for iPhone, or join the Android beta:</p>
-            <a href="https://apps.apple.com/us/app/orchid-journal/id6760272733" class="btn btn-turquoise" target="_blank">🍎 Download on App Store</a>
+            <a href="https://apps.apple.com/us/app/orchid-journal/id6760272733" class="btn btn-turquoise" target="_blank" rel="noopener">🍎 Download on App Store</a>
             <a href="mailto:carrie@skyberrys.com?subject=Android beta tester" class="btn btn-outline">📧 Join Android Beta</a>
         </div>
     </section>

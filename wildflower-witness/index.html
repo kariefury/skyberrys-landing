@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wildflower Witness | Skyberrys</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0e0e0e; --card-bg: #1a1a1a;
+            --turquoise: #00ced1;
+            --text-main: #e8e8e8; --text-dim: #888; --text-bright: #fff;
+            --accent: #f472b6;
+            --accent2: #fb923c;
+        }
+        * { box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+        body { background-color: var(--bg-dark); color: var(--text-main); font-family: 'DM Sans', 'Lucida Grande', sans-serif; margin: 0; padding: 0; line-height: 1.75; }
+        nav { padding: 18px 32px; border-bottom: 1px solid #1e1e1e; display: flex; align-items: center; gap: 12px; }
+        nav a { color: var(--turquoise); text-decoration: none; font-size: 0.88em; }
+        nav a:hover { text-decoration: underline; }
+        nav .sep { color: #444; }
+        .hero { padding: 70px 24px 50px; text-align: center; position: relative; overflow: hidden; }
+        .hero::before { content: ''; position: absolute; top: -80px; left: 50%; transform: translateX(-50%); width: 600px; height: 350px; background: radial-gradient(ellipse, rgba(244,114,182,0.07) 0%, transparent 70%); pointer-events: none; }
+        .app-icon-placeholder { width: 120px; height: 120px; border-radius: 28px; margin: 0 auto 24px; display: flex; align-items: center; justify-content: center; font-size: 3em; background: var(--card-bg); border: 1px solid #333; box-shadow: 0 12px 40px rgba(0,0,0,0.6); }
+        h1 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 3em; font-weight: 600; color: var(--text-bright); margin: 0 0 10px; }
+        .hero-sub { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 1.3em; color: var(--accent); margin: 0 0 20px; }
+        .badge-row { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 12px; }
+        .badge { font-size: 0.72em; font-weight: 500; padding: 4px 14px; border-radius: 20px; letter-spacing: 0.05em; text-transform: uppercase; }
+        .badge-dev  { background: rgba(244,114,182,0.12); color: var(--accent); border: 1px solid rgba(244,114,182,0.3); }
+        .badge-nature { background: rgba(251,146,60,0.1); color: var(--accent2); border: 1px solid rgba(251,146,60,0.25); }
+        .badge-free { background: rgba(0,206,209,0.1); color: var(--turquoise); border: 1px solid rgba(0,206,209,0.2); }
+        .container { max-width: 760px; margin: 0 auto; padding: 0 24px; }
+        .content-section { padding: 50px 0; border-top: 1px solid #1e1e1e; }
+        .section-label { font-size: 0.72em; letter-spacing: 0.15em; text-transform: uppercase; color: var(--turquoise); margin-bottom: 8px; font-weight: 500; }
+        .section-title { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2em; font-weight: 600; color: var(--text-bright); margin: 0 0 20px; }
+        p { margin: 0 0 18px; color: #c0c0c0; font-size: 0.97em; }
+        p.lead { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.3em; font-style: italic; color: var(--text-bright); line-height: 1.6; }
+        .features-list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+        .features-list li { background: var(--card-bg); border: 1px solid #2a2a2a; border-radius: 12px; padding: 16px 18px; font-size: 0.88em; color: #c8c8c8; display: flex; gap: 12px; align-items: flex-start; }
+        .features-list li .feat-icon { font-size: 1.2em; flex-shrink: 0; margin-top: 1px; }
+        .callout { background: rgba(244,114,182,0.06); border: 1px solid rgba(244,114,182,0.2); border-left: 3px solid var(--accent); border-radius: 0 12px 12px 0; padding: 20px 24px; margin: 24px 0; font-size: 0.9em; color: #f0c0d8; }
+        .callout strong { color: #fce4ef; }
+        .cta-box { background: var(--card-bg); border: 1px solid #2a2a2a; border-top: 3px solid var(--accent); border-radius: 16px; padding: 32px; margin-top: 30px; text-align: center; }
+        .cta-box p { color: #aaa; font-size: 0.9em; margin-bottom: 18px; }
+        .btn { display: inline-block; padding: 12px 30px; border-radius: 50px; font-size: 0.88em; font-weight: 500; text-decoration: none; margin: 6px; transition: opacity 0.2s, transform 0.2s; }
+        .btn:hover { opacity: 0.85; transform: translateY(-1px); }
+        .btn-pink { background: linear-gradient(to bottom, #f472b6, #be185d); color: white; box-shadow: 0 3px 0 #9d174d; }
+        footer { text-align: center; padding: 50px 24px; color: var(--text-dim); font-size: 0.8em; border-top: 1px solid #1e1e1e; margin-top: 60px; }
+        footer a { color: var(--turquoise); text-decoration: none; }
+    </style>
+</head>
+<body>
+
+<nav>
+    <a href="../index.html">skyberrys.com</a>
+    <span class="sep">›</span>
+    <span style="color: #aaa;">Wildflower Witness</span>
+</nav>
+
+<div class="hero">
+    <div class="app-icon-placeholder">🌸</div>
+    <h1>Wildflower Witness</h1>
+    <p class="hero-sub">Slow down. Watch something bloom. And stand up for it if you have to.</p>
+    <div class="badge-row">
+        <span class="badge badge-dev">● In Development</span>
+        <span class="badge badge-nature">🌸 Community Spirit</span>
+        <span class="badge badge-free">Free · No data collected</span>
+    </div>
+</div>
+
+<div class="container">
+
+    <section class="content-section">
+        <p class="section-label">The idea</p>
+        <h2 class="section-title">Pay attention. Then bear witness.</h2>
+        <p class="lead">A wildflower doesn't announce itself. You have to be there, consistently, over days, to see what it becomes.</p>
+        <p>Wildflower Witness grew out of a deep appreciation for the green world that does its quiet work alongside everything else we do. California poppies blooming on a hillside, a patch of lupine coming back year after year, the precise stages of a flower that most people walk past without seeing. This app is about learning to see.</p>
+        <p>But there's a practical side too. In California, the golden poppy is the state flower — and it's illegal to pick or damage them on public lands. I've watched people damage them carelessly or deliberately, and the problem is that by the time authorities could respond, the moment is gone. Wildflower Witness creates a timestamped, geotagged photo bundle that can be submitted to local governing bodies as documentation. It turns a casual nature observer into someone who can actually make a report.</p>
+        <p>The core app is working well. I want to refine the lifecycle story-building and finalize the reporting workflow before publishing.</p>
+    </section>
+
+    <section class="content-section">
+        <p class="section-label">Features</p>
+        <h2 class="section-title">What it does</h2>
+        <ul class="features-list">
+            <li><span class="feat-icon">📸</span> <div><strong>Bulk photo import</strong><br>Upload many photos at once — the app groups them by location and date into coherent wildflower stories.</div></li>
+            <li><span class="feat-icon">🗺️</span> <div><strong>Geolocation grouping</strong><br>Photos taken near the same location over multiple days are automatically clustered into a single flower's lifecycle.</div></li>
+            <li><span class="feat-icon">🎞️</span> <div><strong>Lifecycle stories</strong><br>Watch the growth and bloom of a specific wildflower unfold as a photo timeline — from first bud to full flower.</div></li>
+            <li><span class="feat-icon">📢</span> <div><strong>Reporting bundle</strong><br>If you witness damage to protected wildflowers, compile your photos into a formal bundle for submission to local authorities.</div></li>
+            <li><span class="feat-icon">📍</span> <div><strong>Location-tagged entries</strong><br>Every entry is tagged so you can find your wildflower spots again next season.</div></li>
+        </ul>
+    </section>
+
+    <section class="content-section">
+        <p class="section-label">California poppies</p>
+        <h2 class="section-title">Why this matters locally.</h2>
+        <p>California's golden poppy — <em>Eschscholzia californica</em> — is protected on public lands. Most people don't know this, and enforcement is difficult because incidents are brief and often undocumented.</p>
+        <div class="callout">
+            <strong>Wildflower Witness aims to change that.</strong> If you've been watching a poppy over days with your phone and you see someone damage it, your photo bundle is already 80% complete. The app makes civic action as easy as the observation that prompted it.
+        </div>
+        <p>This isn't about punishment — it's about documentation giving people who care about these places a real way to act. Green spaces belong to everyone, and that comes with responsibility for everyone.</p>
+    </section>
+
+    <section class="content-section">
+        <p class="section-label">Stay in touch</p>
+        <h2 class="section-title">Interested in this project?</h2>
+        <p>Wildflower Witness is in active development. If you're a nature-lover, a botanist, or someone who's ever watched a hillside bloom and wanted to do more than just photograph it — reach out.</p>
+        <div class="cta-box">
+            <p>Get notified when Wildflower Witness launches:</p>
+            <a href="mailto:carrie@skyberrys.com?subject=Wildflower Witness" class="btn btn-pink">🌸 Stay in the loop</a>
+        </div>
+    </section>
+
+</div>
+
+<footer>
+    <p><a href="../index.html">← Back to Skyberrys</a> &nbsp;|&nbsp; <a href="mailto:carrie@skyberrys.com">carrie@skyberrys.com</a></p>
+</footer>
+
+</body>
+</html>

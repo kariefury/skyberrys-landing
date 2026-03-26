@@ -4,175 +4,515 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Skyberrys | Dr. Carrie Hartley Segal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-dark: #121212;
-            --card-bg: #1e1e1e;
+            --bg-dark: #0e0e0e;
+            --bg-mid: #161616;
+            --card-bg: #1a1a1a;
             --turquoise: #00ced1;
             --turquoise-glow: #40e0d0;
-            --text-main: #e0e0e0;
-            --text-dim: #a0a0a0;
+            --turquoise-dim: rgba(0,206,209,0.12);
+            --text-main: #e8e8e8;
+            --text-dim: #888;
+            --text-bright: #fff;
+
+            --water: #3b9ede;
+            --food: #72b34a;
+            --shelter: #e0993a;
+            --health: #00ced1;
+            --community: #a78bfa;
         }
 
-        html { scroll-behavior: smooth; } /* Smooth jumping down the page */
+        * { box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
 
         body {
             background-color: var(--bg-dark);
             color: var(--text-main);
-            font-family: "Lucida Grande", sans-serif;
+            font-family: 'DM Sans', 'Lucida Grande', sans-serif;
             margin: 0; padding: 0;
+            line-height: 1.7;
         }
 
+        /* ─── HEADER ─── */
         header {
-            background: linear-gradient(to bottom, #222 0%, #000 100%);
-            border-bottom: 3px solid var(--turquoise);
-            padding: 50px 20px;
+            position: relative;
+            overflow: hidden;
+            padding: 80px 20px 70px;
             text-align: center;
+            background: var(--bg-dark);
+            border-bottom: 1px solid #2a2a2a;
         }
 
-        .container { max-width: 900px; margin: 40px auto; padding: 0 20px; }
+        header::before {
+            content: '';
+            position: absolute;
+            top: -120px; left: 50%;
+            transform: translateX(-50%);
+            width: 700px; height: 400px;
+            background: radial-gradient(ellipse, rgba(0,206,209,0.08) 0%, transparent 70%);
+            pointer-events: none;
+        }
 
-        /* Bigger App Grid */
+        .site-title {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 3.8em;
+            font-weight: 600;
+            color: var(--text-bright);
+            margin: 0 0 10px;
+            letter-spacing: 0.02em;
+        }
+
+        .site-title span { color: var(--turquoise); }
+
+        .site-byline {
+            font-size: 1em;
+            color: var(--text-dim);
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            margin: 0 0 25px;
+        }
+
+        .site-tagline {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 1.45em;
+            font-style: italic;
+            color: var(--turquoise-glow);
+            max-width: 600px;
+            margin: 0 auto;
+            opacity: 0.9;
+        }
+
+        /* ─── CONTAINER ─── */
+        .container { max-width: 960px; margin: 0 auto; padding: 0 24px; }
+
+        /* ─── SECTION HEADINGS ─── */
+        .section-label {
+            font-size: 0.72em;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--turquoise);
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+
+        .section-title {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 2.2em;
+            font-weight: 600;
+            color: var(--text-bright);
+            margin: 0 0 20px;
+            line-height: 1.2;
+        }
+
+        /* ─── MISSION ─── */
+        .mission {
+            padding: 70px 0 50px;
+            border-bottom: 1px solid #222;
+        }
+
+        .mission p {
+            font-size: 1.08em;
+            color: #c8c8c8;
+            max-width: 720px;
+            margin: 0 0 18px;
+        }
+
+        .mission p.lead {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 1.45em;
+            font-style: italic;
+            color: var(--text-bright);
+            line-height: 1.5;
+        }
+
+        .pbc-note {
+            margin-top: 30px;
+            padding: 18px 24px;
+            background: var(--turquoise-dim);
+            border-left: 3px solid var(--turquoise);
+            border-radius: 0 10px 10px 0;
+            font-size: 0.92em;
+            color: #c0e8e8;
+        }
+
+        /* ─── FOUNDATIONS ─── */
+        .foundations {
+            padding: 60px 0;
+            border-bottom: 1px solid #222;
+        }
+
+        .foundations-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+            gap: 16px;
+            margin-top: 30px;
+        }
+
+        .foundation-pill {
+            padding: 20px;
+            border-radius: 14px;
+            text-align: center;
+            background: var(--card-bg);
+            border: 1px solid #2a2a2a;
+        }
+
+        .foundation-pill .icon { font-size: 2em; margin-bottom: 8px; }
+        .foundation-pill .name { font-weight: 600; font-size: 0.95em; }
+        .foundation-pill.water  { border-top: 3px solid var(--water);   .name { color: var(--water); } }
+        .foundation-pill.food   { border-top: 3px solid var(--food);    }
+        .foundation-pill.shelter{ border-top: 3px solid var(--shelter); }
+        .foundation-pill.health { border-top: 3px solid var(--health);  }
+
+        .foundation-pill.water  .name { color: var(--water); }
+        .foundation-pill.food   .name { color: var(--food); }
+        .foundation-pill.shelter .name { color: var(--shelter); }
+        .foundation-pill.health .name { color: var(--health); }
+
+        .foundation-pill p {
+            font-size: 0.8em;
+            color: var(--text-dim);
+            margin: 8px 0 0;
+            line-height: 1.4;
+        }
+
+        /* ─── APPS GRID ─── */
+        .apps-section { padding: 60px 0; border-bottom: 1px solid #222; }
+
         .apps-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 30px;
-            margin-top: 40px;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 24px;
+            margin-top: 36px;
         }
 
         .app-card {
-            background: linear-gradient(145deg, #252525, #1a1a1a);
-            border: 1px solid #444;
+            background: var(--card-bg);
+            border: 1px solid #2a2a2a;
             border-radius: 20px;
-            padding: 30px;
+            padding: 28px;
             text-align: center;
-            text-decoration: none; /* For the link */
+            text-decoration: none;
             display: block;
-            transition: 0.3s;
+            transition: transform 0.25s, border-color 0.25s, box-shadow 0.25s;
+            position: relative;
         }
 
         .app-card:hover {
             border-color: var(--turquoise);
-            transform: scale(1.05);
-            box-shadow: 0 0 20px rgba(0, 206, 209, 0.3);
+            transform: translateY(-4px);
+            box-shadow: 0 12px 35px rgba(0,206,209,0.15);
         }
 
         .app-icon-large {
-            width: 120px;
-            height: 120px;
-            border-radius: 25px;
-            margin-bottom: 15px;
-            box-shadow: 0 8px 15px rgba(0,0,0,0.5);
-            border: 1px solid #444;
+            width: 100px; height: 100px;
+            border-radius: 22px;
+            margin-bottom: 14px;
+            box-shadow: 0 6px 18px rgba(0,0,0,0.5);
+            border: 1px solid #333;
         }
 
-        .app-card h3 { color: var(--turquoise-glow); margin: 10px 0; font-size: 1.3em; }
-
-        /* Spotlight Section (Orchid Journal) */
-        .spotlight {
-            background: #181818;
-            border: 2px solid var(--turquoise);
-            border-radius: 25px;
-            margin-top: 80px;
-            padding: 40px;
+        .app-card h3 {
+            color: var(--turquoise-glow);
+            margin: 8px 0 6px;
+            font-size: 1.1em;
+            font-weight: 600;
         }
 
-        .screenshot-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-            gap: 15px;
-            margin: 30px 0;
+        .app-card p {
+            font-size: 0.82em;
+            color: var(--text-dim);
+            margin: 0 0 12px;
+            line-height: 1.5;
         }
 
-        .screenshot-grid img {
-            width: 100%;
+        .status-badge {
+            display: inline-block;
+            font-size: 0.7em;
+            font-weight: 500;
+            padding: 3px 10px;
+            border-radius: 20px;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+
+        .status-live     { background: rgba(0,206,209,0.15); color: var(--turquoise); border: 1px solid rgba(0,206,209,0.3); }
+        .status-beta     { background: rgba(114,179,74,0.15); color: var(--food); border: 1px solid rgba(114,179,74,0.3); }
+        .status-dev      { background: rgba(224,153,58,0.15); color: var(--shelter); border: 1px solid rgba(224,153,58,0.3); }
+        .status-soon     { background: rgba(167,139,250,0.1); color: var(--community); border: 1px solid rgba(167,139,250,0.3); }
+
+        .foundation-tag {
+            font-size: 0.68em;
+            padding: 2px 8px;
             border-radius: 10px;
-            border: 1px solid #555;
-            transition: 0.3s;
+            display: inline-block;
+            margin-top: 4px;
         }
 
-        .screenshot-grid img:hover { border-color: var(--turquoise); transform: scale(1.02); }
+        .tag-water   { background: rgba(59,158,222,0.15); color: var(--water); }
+        .tag-food    { background: rgba(114,179,74,0.15); color: var(--food); }
+        .tag-shelter { background: rgba(224,153,58,0.15); color: var(--shelter); }
+        .tag-health  { background: rgba(0,206,209,0.15);  color: var(--health); }
+        .tag-community { background: rgba(167,139,250,0.12); color: var(--community); }
 
-        .badge-area {
+        .arrow-hint { color: var(--turquoise); font-size: 0.75em; margin-top: 10px; display: block; opacity: 0.7; }
+
+        /* ─── YOUTUBE / PROJECTS ─── */
+        .projects-section {
+            padding: 60px 0;
+            border-bottom: 1px solid #222;
+        }
+
+        .project-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 24px;
+            margin-top: 36px;
+        }
+
+        .project-card {
+            background: var(--card-bg);
+            border: 1px solid #2a2a2a;
+            border-radius: 20px;
+            padding: 32px;
+        }
+
+        .project-card h3 {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 1.5em;
+            color: var(--text-bright);
+            margin: 0 0 12px;
+        }
+
+        .project-card p {
+            font-size: 0.88em;
+            color: #b0b0b0;
+            line-height: 1.7;
+            margin: 0 0 18px;
+        }
+
+        .project-icon { font-size: 2.2em; margin-bottom: 16px; display: block; }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 24px;
+            border-radius: 50px;
+            font-size: 0.85em;
+            font-weight: 500;
+            text-decoration: none;
+            transition: opacity 0.2s, transform 0.2s;
+        }
+
+        .btn:hover { opacity: 0.85; transform: translateY(-1px); }
+
+        .btn-turquoise {
+            background: linear-gradient(to bottom, #00ced1, #008b8b);
+            color: white;
+            box-shadow: 0 3px 0 #005f5f;
+        }
+
+        /* ─── GIVING BACK ─── */
+        .giving-section {
+            padding: 60px 0;
+            border-bottom: 1px solid #222;
+        }
+
+        .giving-section p {
+            font-size: 1em;
+            color: #c0c0c0;
+            max-width: 700px;
+            line-height: 1.8;
+            margin: 0 0 16px;
+        }
+
+        /* ─── FOOTER ─── */
+        footer {
             text-align: center;
-            margin-top: 20px;
-            font-style: italic;
-            color: var(--turquoise);
+            padding: 60px 20px;
+            color: var(--text-dim);
+            font-size: 0.8em;
         }
 
-        .yt-link {
-            display: block; width: fit-content; margin: 50px auto;
-            background: linear-gradient(to bottom, #00ced1 0%, #008b8b 100%);
-            color: white; text-decoration: none; padding: 15px 40px;
-            border-radius: 50px; font-weight: bold;
-            box-shadow: 0 4px 0 #005f5f;
+        footer a { color: var(--turquoise); text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+
+        /* ─── ANIMATIONS ─── */
+        @keyframes fadeUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to   { opacity: 1; transform: translateY(0); }
         }
 
-        footer { text-align: center; padding: 60px; color: var(--text-dim); font-size: 0.8em; }
+        .fade-up { animation: fadeUp 0.7s ease both; }
+        .delay-1 { animation-delay: 0.1s; }
+        .delay-2 { animation-delay: 0.22s; }
+        .delay-3 { animation-delay: 0.34s; }
     </style>
 </head>
 <body>
 
 <header>
-    <h1>skyberrys.com</h1>
-    <p>Simple and delightful apps for improving your day.</p>
+    <h1 class="site-title fade-up"><span>sky</span>berrys</h1>
+    <p class="site-byline fade-up delay-1">Dr. Carrie Hartley Segal</p>
+    <p class="site-tagline fade-up delay-2">Anti-dark-pattern apps for a world with enough water, food, shelter, and healthcare for everyone.</p>
 </header>
 
 <div class="container">
-    
-    <div class="apps-grid">
-        <a href="#orchid-spotlight" class="app-card">
-            <img src="orchid_journal_icon.png" class="app-icon-large" alt="Orchid Journal">
-            <h3>Orchid Journal</h3>
-            <p style="font-size: 0.8em; color: var(--turquoise);">Click for details ↓</p>
-        </a>
 
-        <div class="app-card">
-            <img src="borrow_this_and_improve_it_icon.png" class="app-icon-large" alt="Borrow This">
-            <h3>Borrow This And Improve It</h3>
-        </div>
-        <div class="app-card">
-            <img src="how_home_alone_my_house_icon.png" class="app-icon-large" alt="Home Alone">
-            <h3>How Home Alone My House</h3>
-        </div>
-        <div class="app-card">
-            <img src="thirst_quencher_icon.png" class="app-icon-large" alt="Thirst Quencher">
-            <h3>Thirst Quencher</h3>
-        </div>
-        <div class="app-card">
-            <img src="wildflower_witness_icon.png" class="app-icon-large" alt="Wildflower Witness">
-            <h3>Wildflower Witness</h3>
-        </div>
-        <div class="app-card">
-            <img src="waste_not_want_not_icon.png" class="app-icon-large" alt="Waste Not Want Not">
-            <h3>Waste Not Want Not</h3>
-        </div>
-    </div>
+    <!-- MISSION -->
+    <section class="mission">
+        <p class="section-label">Who I am & why this exists</p>
+        <h2 class="section-title">Building for the communities<br>that built me.</h2>
 
-    <section id="orchid-spotlight" class="spotlight">
-        <h2 style="color: var(--turquoise); text-align: center;">Project Spotlight: Orchid Journal</h2>
-        <p style="text-align: center;">Journal about your orchids and view beautiful slideshows of them over time. Track growth, weight, water, and blooms and appreciate your garden. Gift an orchid to your friends and loved ones.</p>
-        
-        <div class="screenshot-grid">
-            <img src="oj_collection.png" alt="Collection View">
-            <img src="oj_glowStats.png" alt="Glow Stats">
-            <img src="oj_about.png" alt="About Section">
-            <img src="oj_gift.png" alt="Gift Feature">
-        </div>
+        <p class="lead">I've spent my career learning from incredible communities of scientists, educators, neighbors, and curious humans. Now I want to give that back — through software that makes everyday life a little more mindful, a little more connected, and a lot more free.</p>
 
-        <div class="badge-area">
-            <p>🚀 Coming Soon to the Apple App Store & Google Play</p>
+        <p>Every app on this site is free, contains zero ads, and collects no data. Apps should not exploit attention or harvest privacy. I believe in apps that get out of your way and quietly make something better.</p>
+
+        <p>These are independent apps published under my own name. The apps are vibe-coded projects with AI as a collaborator, not a replacement for intention. Each one started with a real problem I or someone I know actually had.</p>
+
+        <div class="pbc-note">
+            ✦ I'm building toward a <strong>Public Benefit Corporation in California</strong> to formalize this work — funding development of future projects, keeping apps free, and eventually paying a modest salary so I can do this full-time. If that interests you, watch this space.
         </div>
     </section>
 
-    <a href="https://www.youtube.com/@DrCarrieHartleySegal" class="yt-link" target="_blank">
-        Visit My YouTube Channel
-    </a>
+    <!-- FOUNDATIONS -->
+    <section class="foundations">
+        <p class="section-label">The framework</p>
+        <h2 class="section-title">Four foundations. One focus.</h2>
+        <p style="color: #aaa; max-width: 640px; margin-bottom: 0;">My apps and research are organized around four basic things every human needs. It's already a big ask — so I'm starting here.</p>
+
+        <div class="foundations-grid">
+            <div class="foundation-pill water">
+                <div class="icon">💧</div>
+                <div class="name">Water</div>
+                <p>Clean, accessible hydration for every body, every day.</p>
+            </div>
+            <div class="foundation-pill food">
+                <div class="icon">🌾</div>
+                <div class="name">Food</div>
+                <p>Reducing waste and sharing abundance in local communities.</p>
+            </div>
+            <div class="foundation-pill shelter">
+                <div class="icon">🏡</div>
+                <div class="name">Shelter</div>
+                <p>Safe, clean, welcoming spaces — and the tools to keep them that way.</p>
+            </div>
+            <div class="foundation-pill health">
+                <div class="icon">🌿</div>
+                <div class="name">Healthcare</div>
+                <p>Mindfulness, habit, and connection as the quiet foundations of health.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- APPS -->
+    <section class="apps-section">
+        <p class="section-label">The apps</p>
+        <h2 class="section-title">Six apps. All free.</h2>
+        <p style="color: #aaa; max-width: 640px;">Each one is at a different stage. Some are live, some are being tested, some are almost there. Click any card to read the full story.</p>
+
+        <div class="apps-grid">
+
+            <a href="orchid-journal/index.html" class="app-card">
+                <span class="status-badge status-live">● Live</span><br>
+                <img src="orchid_journal_icon.png" class="app-icon-large" alt="Orchid Journal">
+                <h3>Orchid Journal</h3>
+                <p>A daily mindfulness practice, disguised as an orchid tracker.</p>
+                <span class="foundation-tag tag-health">🌿 Healthcare</span>
+                <span class="arrow-hint">Read more →</span>
+            </a>
+
+            <a href="how-pranked-my-house/index.html" class="app-card">
+                <span class="status-badge status-beta">● Almost Ready</span><br>
+                <img src="how_pranked_my_house_icon.png" class="app-icon-large" alt="How Pranked My House">
+                <h3>How Pranked My House</h3>
+                <p>Scan a room with your camera — and find out how many tripping hazards it hides.</p>
+                <span class="foundation-tag tag-shelter">🏡 Shelter</span>
+                <span class="arrow-hint">Read more →</span>
+            </a>
+
+            <a href="borrow-this/index.html" class="app-card">
+                <span class="status-badge status-beta">● Android Beta</span><br>
+                <img src="borrow_this_and_improve_it_icon.png" class="app-icon-large" alt="Borrow This And Improve It">
+                <h3>Borrow This And Improve It</h3>
+                <p>Save something from the trash. Fix it. Pass it on. Reduce, reuse, rejoice.</p>
+                <span class="foundation-tag tag-community">♻️ Community Spirit</span>
+                <span class="arrow-hint">Read more →</span>
+            </a>
+
+            <a href="thirst-quencher/index.html" class="app-card">
+                <span class="status-badge status-dev">● In Development</span><br>
+                <img src="thirst_quencher_icon.png" class="app-icon-large" alt="Thirst Quencher">
+                <h3>Thirst Quencher</h3>
+                <p>Request a free drink. No account needed. Pay it forward when you can.</p>
+                <span class="foundation-tag tag-water">💧 Water</span>
+                <span class="arrow-hint">Read more →</span>
+            </a>
+
+            <a href="waste-not-want-not/index.html" class="app-card">
+                <span class="status-badge status-dev">● In Development</span><br>
+                <img src="waste_not_want_not_icon.png" class="app-icon-large" alt="Waste Not Want Not">
+                <h3>Waste Not, Want Not</h3>
+                <p>Share your extra food with neighbors. Shop what's about to go to waste nearby.</p>
+                <span class="foundation-tag tag-food">🌾 Food</span>
+                <span class="arrow-hint">Read more →</span>
+            </a>
+
+            <a href="wildflower-witness/index.html" class="app-card">
+                <span class="status-badge status-dev">● In Development</span><br>
+                <img src="wildflower_witness_icon.png" class="app-icon-large" alt="Wildflower Witness">
+                <h3>Wildflower Witness</h3>
+                <p>Track the lifecycle of wildflowers near you — and stand up for them when they're threatened.</p>
+                <span class="foundation-tag tag-community">🌸 Community Spirit</span>
+                <span class="arrow-hint">Read more →</span>
+            </a>
+
+        </div>
+    </section>
+
+    <!-- YOUTUBE / PROJECTS -->
+    <section class="projects-section">
+        <p class="section-label">Beyond the apps</p>
+        <h2 class="section-title">Bigger questions. Same mission.</h2>
+        <p style="color: #aaa; max-width: 680px;">Check out my YouTube channel, where I'm working on two bigger projects that sit behind everything else I build.</p>
+
+        <div class="project-cards">
+
+            <div class="project-card">
+                <span class="project-icon">🌐</span>
+                <h3>LED Globe & Viewing Portal</h3>
+                <p>A physical and digital data visualization project exploring how to make planetary-scale information tangible and beautiful. The idea: if you could hold the world's data in your hands as a glowing sphere, what would you want to see? I'm documenting the entire build process — hardware, software, and the ideas behind it — on YouTube.</p>
+                <a href="https://www.youtube.com/@DrCarrieHartleySegal" class="btn btn-turquoise" target="_blank">Watch on YouTube →</a>
+            </div>
+
+            <div class="project-card">
+                <span class="project-icon">📊</span>
+                <h3>AI Scorecard for Humanity</h3>
+                <p>How well are the four leading AI providers actually helping humans improve water, food, shelter, and healthcare? I'm building a public scorecard to compare them honestly — not on benchmark tests, but on the outcomes that matter most to ordinary people. The methodology is evolving live on YouTube.</p>
+                <a href="https://www.youtube.com/@DrCarrieHartleySegal" class="btn btn-turquoise" target="_blank">Follow the project →</a>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- GIVING BACK -->
+    <section class="giving-section">
+        <p class="section-label">The philosophy</p>
+        <h2 class="section-title">Why everything is free.</h2>
+        <p>I've benefited enormously from free software, free education, and generous communities. Open source tools, public libraries, scientists who published their work, teachers who over-explained — I wouldn't be who I am without them.</p>
+        <p>Skyberrys apps are my attempt to put something back into that current. Every app is free because the people who would benefit most from them are often the people least able to pay. If you want to support the work, a kind word, a beta test, or a small donation via <a href="https://venmo.com/skyberrys" style="color: var(--turquoise);">Venmo</a> all help.</p>
+        <p>Eventually the Public Benefit Corporation I'm working toward will formalize this — selling some digital goods, accepting donations, and channeling the proceeds back into development of projects like the LED Globe, more advanced apps, and the infrastructure that keeps everything running. But the apps stay free.</p>
+    </section>
+
 </div>
 
 <footer>
-    &copy; 2026 Dr. Carrie Hartley Segal | 
-    <a href="/orchid-journal-privacy">Orchid Journal Privacy Policy</a>
+    <p>&copy; 2026 Dr. Carrie Hartley Segal &nbsp;|&nbsp; <a href="mailto:carrie@skyberrys.com">carrie@skyberrys.com</a></p>
+    <p style="margin-top: 8px;">
+        <a href="orchid-journal-privacy">Orchid Journal Privacy Policy</a>
+    </p>
 </footer>
 
 </body>

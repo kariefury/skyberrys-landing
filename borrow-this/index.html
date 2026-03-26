@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Borrow This And Improve It | Skyberrys</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0e0e0e; --card-bg: #1a1a1a;
+            --turquoise: #00ced1; --turquoise-glow: #40e0d0;
+            --text-main: #e8e8e8; --text-dim: #888; --text-bright: #fff;
+            --accent: #a78bfa;
+        }
+        * { box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+        body { background-color: var(--bg-dark); color: var(--text-main); font-family: 'DM Sans', 'Lucida Grande', sans-serif; margin: 0; padding: 0; line-height: 1.75; }
+        nav { padding: 18px 32px; border-bottom: 1px solid #1e1e1e; display: flex; align-items: center; gap: 12px; }
+        nav a { color: var(--turquoise); text-decoration: none; font-size: 0.88em; }
+        nav a:hover { text-decoration: underline; }
+        nav .sep { color: #444; }
+        .hero { padding: 70px 24px 50px; text-align: center; position: relative; overflow: hidden; }
+        .hero::before { content: ''; position: absolute; top: -80px; left: 50%; transform: translateX(-50%); width: 600px; height: 350px; background: radial-gradient(ellipse, rgba(167,139,250,0.08) 0%, transparent 70%); pointer-events: none; }
+        .app-icon { width: 120px; height: 120px; border-radius: 28px; margin: 0 auto 24px; display: block; box-shadow: 0 12px 40px rgba(0,0,0,0.6); border: 1px solid #333; }
+        .app-icon-placeholder { width: 120px; height: 120px; border-radius: 28px; margin: 0 auto 24px; display: flex; align-items: center; justify-content: center; font-size: 3em; background: var(--card-bg); border: 1px solid #333; box-shadow: 0 12px 40px rgba(0,0,0,0.6); }
+        h1 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 3em; font-weight: 600; color: var(--text-bright); margin: 0 0 10px; }
+        .hero-sub { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 1.3em; color: var(--accent); margin: 0 0 20px; }
+        .badge-row { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 12px; }
+        .badge { font-size: 0.72em; font-weight: 500; padding: 4px 14px; border-radius: 20px; letter-spacing: 0.05em; text-transform: uppercase; }
+        .badge-beta { background: rgba(114,179,74,0.15); color: #72b34a; border: 1px solid rgba(114,179,74,0.3); }
+        .badge-community { background: rgba(167,139,250,0.1); color: #a78bfa; border: 1px solid rgba(167,139,250,0.3); }
+        .badge-free { background: rgba(0,206,209,0.1); color: var(--turquoise); border: 1px solid rgba(0,206,209,0.2); }
+        .container { max-width: 760px; margin: 0 auto; padding: 0 24px; }
+        .content-section { padding: 50px 0; border-top: 1px solid #1e1e1e; }
+        .section-label { font-size: 0.72em; letter-spacing: 0.15em; text-transform: uppercase; color: var(--turquoise); margin-bottom: 8px; font-weight: 500; }
+        .section-title { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2em; font-weight: 600; color: var(--text-bright); margin: 0 0 20px; }
+        p { margin: 0 0 18px; color: #c0c0c0; font-size: 0.97em; }
+        p.lead { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.3em; font-style: italic; color: var(--text-bright); line-height: 1.6; }
+        .features-list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+        .features-list li { background: var(--card-bg); border: 1px solid #2a2a2a; border-radius: 12px; padding: 16px 18px; font-size: 0.88em; color: #c8c8c8; display: flex; gap: 12px; align-items: flex-start; }
+        .features-list li .feat-icon { font-size: 1.2em; flex-shrink: 0; margin-top: 1px; }
+        .story-item { background: var(--card-bg); border: 1px solid #2a2a2a; border-left: 3px solid var(--accent); border-radius: 0 12px 12px 0; padding: 16px 20px; margin-bottom: 12px; font-size: 0.9em; color: #c0c0c0; }
+        .story-item strong { color: #e8e8e8; }
+        .cta-box { background: var(--card-bg); border: 1px solid #2a2a2a; border-top: 3px solid var(--accent); border-radius: 16px; padding: 32px; margin-top: 30px; text-align: center; }
+        .cta-box p { color: #aaa; font-size: 0.9em; margin-bottom: 18px; }
+        .btn { display: inline-block; padding: 12px 30px; border-radius: 50px; font-size: 0.88em; font-weight: 500; text-decoration: none; margin: 6px; transition: opacity 0.2s, transform 0.2s; }
+        .btn:hover { opacity: 0.85; transform: translateY(-1px); }
+        .btn-purple { background: linear-gradient(to bottom, #a78bfa, #6d28d9); color: white; box-shadow: 0 3px 0 #4c1d95; }
+        .btn-outline { border: 1px solid #444; color: #ccc; background: transparent; }
+        .btn-outline:hover { border-color: var(--accent); color: var(--accent); }
+        footer { text-align: center; padding: 50px 24px; color: var(--text-dim); font-size: 0.8em; border-top: 1px solid #1e1e1e; margin-top: 60px; }
+        footer a { color: var(--turquoise); text-decoration: none; }
+    </style>
+</head>
+<body>
+
+<nav>
+    <a href="../index.html">skyberrys.com</a>
+    <span class="sep">›</span>
+    <span style="color: #aaa;">Borrow This And Improve It</span>
+</nav>
+
+<div class="hero">
+    <div class="app-icon-placeholder">♻️</div>
+    <h1>Borrow This And Improve It</h1>
+    <p class="hero-sub">One person's trash is someone else's next project.</p>
+    <div class="badge-row">
+        <span class="badge badge-beta">● Android Beta</span>
+        <span class="badge badge-community">♻️ Community Spirit</span>
+        <span class="badge badge-free">Free · No ads · No data</span>
+    </div>
+</div>
+
+<div class="container">
+
+    <section class="content-section">
+        <p class="section-label">The idea</p>
+        <h2 class="section-title">Most broken things aren't broken.</h2>
+        <p class="lead">They're just waiting for someone who knows what a $6 nut can do.</p>
+        <p>Borrow This And Improve It is a personal log for things you've rescued from abandonment or the trash — what you found, what you did to fix or improve it, and your plan for passing it on when you're done. It's not a marketplace. It's a practice: a way of training yourself to see the potential in something before you see its flaws.</p>
+        <p>The reduce, reuse, recycle ethos is easy to agree with in the abstract. This app makes it concrete. You open it when you find something worth saving, document the repair, and mark it when it finds a new home. The whole lifecycle, in one place, on your device.</p>
+        <p>Borrow This And Improve It is currently in Android beta while a few more features are added. It will publish publicly after How Pranked My House launches.</p>
+    </section>
+
+    <section class="content-section">
+        <p class="section-label">What it does</p>
+        <h2 class="section-title">Features</h2>
+        <ul class="features-list">
+            <li><span class="feat-icon">📋</span> <div><strong>Rescue log</strong><br>Document items you've saved from the trash, with photos, descriptions, and where you found them.</div></li>
+            <li><span class="feat-icon">🔧</span> <div><strong>Improvement history</strong><br>Track what you did to fix or improve each item — parts, cost, time, what you learned.</div></li>
+            <li><span class="feat-icon">🤝</span> <div><strong>Pass-it-on tracking</strong><br>Record your intentions for each item and mark it when it finds a new home.</div></li>
+            <li><span class="feat-icon">📸</span> <div><strong>Before & after photos</strong><br>Document the transformation with photos at every stage.</div></li>
+            <li><span class="feat-icon">🔒</span> <div><strong>Private by design</strong><br>Your rescue log stays on your device. No accounts, no uploads.</div></li>
+        </ul>
+    </section>
+
+    <section class="content-section">
+        <p class="section-label">Get it</p>
+        <h2 class="section-title">Android beta is open.</h2>
+        <p>Borrow This And Improve It is currently in Android beta testing. If you want to test it early and help shape the final features, reach out. It will be published publicly after How Pranked My House launches.</p>
+        <div class="cta-box">
+            <p>Interested in Android beta testing or want to be notified at launch?</p>
+            <a href="/cdn-cgi/l/email-protection#63000211110a062310081a010611111a104d000c0e5c101601090600175e210c11110c1443370b0a1043010617024317061017" class="btn btn-purple">📧 Join the Beta</a>
+        </div>
+    </section>
+
+</div>
+
+<footer>
+    <p><a href="../index.html">← Back to Skyberrys</a> &nbsp;|&nbsp; <a href="/cdn-cgi/l/e

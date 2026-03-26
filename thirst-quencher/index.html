@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thirst Quencher | Skyberrys</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0e0e0e; --card-bg: #1a1a1a;
+            --turquoise: #00ced1; --turquoise-glow: #40e0d0;
+            --text-main: #e8e8e8; --text-dim: #888; --text-bright: #fff;
+            --accent: #3b9ede;
+        }
+        * { box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+        body { background-color: var(--bg-dark); color: var(--text-main); font-family: 'DM Sans', 'Lucida Grande', sans-serif; margin: 0; padding: 0; line-height: 1.75; }
+        nav { padding: 18px 32px; border-bottom: 1px solid #1e1e1e; display: flex; align-items: center; gap: 12px; }
+        nav a { color: var(--turquoise); text-decoration: none; font-size: 0.88em; }
+        nav a:hover { text-decoration: underline; }
+        nav .sep { color: #444; }
+        .hero { padding: 70px 24px 50px; text-align: center; position: relative; overflow: hidden; }
+        .hero::before { content: ''; position: absolute; top: -80px; left: 50%; transform: translateX(-50%); width: 600px; height: 350px; background: radial-gradient(ellipse, rgba(59,158,222,0.1) 0%, transparent 70%); pointer-events: none; }
+        .app-icon { width: 120px; height: 120px; border-radius: 28px; margin: 0 auto 24px; display: block; box-shadow: 0 12px 40px rgba(0,0,0,0.6); border: 1px solid #333; }
+        .app-icon-placeholder { width: 120px; height: 120px; border-radius: 28px; margin: 0 auto 24px; display: flex; align-items: center; justify-content: center; font-size: 3em; background: var(--card-bg); border: 1px solid #333; box-shadow: 0 12px 40px rgba(0,0,0,0.6); }
+        h1 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 3em; font-weight: 600; color: var(--text-bright); margin: 0 0 10px; }
+        .hero-sub { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 1.3em; color: var(--accent); margin: 0 0 20px; }
+        .badge-row { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 12px; }
+        .badge { font-size: 0.72em; font-weight: 500; padding: 4px 14px; border-radius: 20px; letter-spacing: 0.05em; text-transform: uppercase; }
+        .badge-dev  { background: rgba(59,158,222,0.15); color: var(--accent); border: 1px solid rgba(59,158,222,0.3); }
+        .badge-water { background: rgba(59,158,222,0.1); color: var(--accent); border: 1px solid rgba(59,158,222,0.2); }
+        .badge-free { background: rgba(0,206,209,0.1); color: var(--turquoise); border: 1px solid rgba(0,206,209,0.2); }
+        .container { max-width: 760px; margin: 0 auto; padding: 0 24px; }
+        .content-section { padding: 50px 0; border-top: 1px solid #1e1e1e; }
+        .section-label { font-size: 0.72em; letter-spacing: 0.15em; text-transform: uppercase; color: var(--turquoise); margin-bottom: 8px; font-weight: 500; }
+        .section-title { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2em; font-weight: 600; color: var(--text-bright); margin: 0 0 20px; }
+        p { margin: 0 0 18px; color: #c0c0c0; font-size: 0.97em; }
+        p.lead { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.3em; font-style: italic; color: var(--text-bright); line-height: 1.6; }
+        .features-list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+        .features-list li { background: var(--card-bg); border: 1px solid #2a2a2a; border-radius: 12px; padding: 16px 18px; font-size: 0.88em; color: #c8c8c8; display: flex; gap: 12px; align-items: flex-start; }
+        .features-list li .feat-icon { font-size: 1.2em; flex-shrink: 0; margin-top: 1px; }
+        .philosophy-box { background: rgba(59,158,222,0.06); border: 1px solid rgba(59,158,222,0.2); border-radius: 16px; padding: 28px 32px; margin: 24px 0; }
+        .philosophy-box p { color: #b8d4ee; font-size: 0.95em; margin-bottom: 12px; }
+        .philosophy-box p:last-child { margin-bottom: 0; }
+        .philosophy-box strong { color: #d0e8f8; }
+        .cta-box { background: var(--card-bg); border: 1px solid #2a2a2a; border-top: 3px solid var(--accent); border-radius: 16px; padding: 32px; margin-top: 30px; text-align: center; }
+        .cta-box p { color: #aaa; font-size: 0.9em; margin-bottom: 18px; }
+        .btn { display: inline-block; padding: 12px 30px; border-radius: 50px; font-size: 0.88em; font-weight: 500; text-decoration: none; margin: 6px; transition: opacity 0.2s, transform 0.2s; }
+        .btn:hover { opacity: 0.85; transform: translateY(-1px); }
+        .btn-blue { background: linear-gradient(to bottom, #3b9ede, #1a6aaa); color: white; box-shadow: 0 3px 0 #0d4070; }
+        footer { text-align: center; padding: 50px 24px; color: var(--text-dim); font-size: 0.8em; border-top: 1px solid #1e1e1e; margin-top: 60px; }
+        footer a { color: var(--turquoise); text-decoration: none; }
+    </style>
+</head>
+<body>
+
+<nav>
+    <a href="../index.html">skyberrys.com</a>
+    <span class="sep">›</span>
+    <span style="color: #aaa;">Thirst Quencher</span>
+</nav>
+
+<div class="hero">
+    <div class="app-icon-placeholder">💧</div>
+    <h1>Thirst Quencher</h1>
+    <p class="hero-sub">Request a free drink. No account. No strings. Pay it forward.</p>
+    <div class="badge-row">
+        <span class="badge badge-dev">● In Development</span>
+        <span class="badge badge-water">💧 Water Foundation</span>
+        <span class="badge badge-free">Free · Pay it forward</span>
+    </div>
+</div>
+
+<div class="container">
+
+    <section class="content-section">
+        <p class="section-label">The idea</p>
+        <h2 class="section-title">The most thirsty person<br>knows they are thirsty.</h2>
+        <p class="lead">What's the best way to get a drink to whoever needs it most? Let them tell you they need it.</p>
+        <p>I spent time thinking about what a genuine solution to hydration access would look like. The surveillance route — tracking people, scoring their need, deciding who deserves help — is dystopian and wouldn't work anyway. The simpler answer is radical in how obvious it is: give people a way to raise their hand.</p>
+        <p>Thirst Quencher is a pay-it-forward app. You request a free drink — any drink, within your dietary restrictions. Someone in the pool of donors paid for it. You receive it within 10 minutes. No account required. No personal data retained. You wait 12 hours before requesting another, to keep the pool sustainable.</p>
+        <p>The pool itself starts with real money I'm raising by selling extra belongings — starting with an unused vacuum cleaner on Facebook Marketplace. When the pool runs low, drinks slow. When people donate, they refill. The economics are transparent and honest.</p>
+        <p>Thirst Quencher has a functional prototype but needs significant work before it's ready to publish. It will launch after Borrow This And Improve It.</p>
+    </section>
+
+    <section class="content-section">
+        <p class="section-label">The philosophy</p>
+        <h2 class="section-title">No surveillance. No judgment.</h2>
+        <div class="philosophy-box">
+            <p><strong>Why no account?</strong> Because the most vulnerable people are often the least willing to create one. An account is a barrier. We remove it.</p>
+            <p><strong>Why a selfie?</strong> The selfie stays on your device — it's never uploaded. It's a soft confirmation that a human made the request, not a bot farm draining the pool.</p>
+            <p><strong>Why 12 hours between requests?</strong> To keep the pool available for everyone. It's not a punishment — it's mathematics. The pool is shared, and sharing requires restraint.</p>
+            <p><strong>Why random drink?</strong> Drink choice is a luxury problem. We ask for dietary restrictions (no caffeine, etc.) and handle the rest. The drink is a gift, not an order.</p>
+        </div>
+    </section>
+
+    <section class="content-section">
+        <p class="section-label">What it does</p>
+        <h2 class="section-title">Features</h2>
+        <ul class="features-list">
+            <li><span class="feat-icon">🙋</span> <div><strong>No-account request</strong><br>Request a free drink with zero signup. Just open the app and ask.</div></li>
+            <li><span class="feat-icon">⏱️</span> <div><strong>10-minute delivery</strong><br>Drinks delivered within 10 minutes of request, in your area.</div></li>
+            <li><span class="feat-icon">🥤</span> <div><strong>Dietary preferences</strong><br>Specify restrictions (no caffeine, etc.) — no other data needed.</div></li>
+            <li><span class="feat-icon">🕐</span> <div><strong>12-hour cooldown</strong><br>Keeps the pool available for everyone. Simple, transparent, fair.</div></li>
+            <li><span class="feat-icon">💙</span> <div><strong>Pay it forward pool</strong><br>Donate to refill the community drink pool when you have the means.</div></li>
+            <li><span class="feat-icon">📊</span> <div><strong>Transparent pool status</strong><br>See how full the pool is. Everyone can watch the resource being shared.</div></li>
+        </ul>
+    </section>
+
+    <section class="content-section">
+        <p class="section-label">Help it happen</p>
+        <h2 class="section-title">Interested in this project?</h2>
+        <p>Thirst Quencher is the most logistically ambitious app in the Skyberrys lineup. It requires real-world coordination, a seed fund, and eventually community donors to keep the pool flowing. If this project resonates with you — as a tester, donor, or partner — I'd love to hear from you.</p>
+        <div class="cta-box">
+            <p>Follow development or express interest in supporting the project:</p>
+            <a href="mailto:carrie@skyberrys.com?subject=Thirst Quencher" class="btn btn-blue">💧 Get in touch</a>
+        </div>
+    </section>
+
+</div>
+
+<footer>
+    <p><a href="../index.html">← Back to Skyberrys</a> &nbsp;|&nbsp; <a href="mailto:carrie@skyberrys.com">carrie@skyberrys.com</a></p>
+</footer>
+
+</body>
+</html>

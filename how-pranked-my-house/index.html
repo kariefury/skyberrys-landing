@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How Pranked My House | Skyberrys</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0e0e0e; --bg-mid: #161616; --card-bg: #1a1a1a;
+            --turquoise: #00ced1; --turquoise-glow: #40e0d0;
+            --text-main: #e8e8e8; --text-dim: #888; --text-bright: #fff;
+            --accent: #e0993a;
+        }
+        * { box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+        body { background-color: var(--bg-dark); color: var(--text-main); font-family: 'DM Sans', 'Lucida Grande', sans-serif; margin: 0; padding: 0; line-height: 1.75; }
+        nav { padding: 18px 32px; border-bottom: 1px solid #1e1e1e; display: flex; align-items: center; gap: 12px; }
+        nav a { color: var(--turquoise); text-decoration: none; font-size: 0.88em; }
+        nav a:hover { text-decoration: underline; }
+        nav .sep { color: #444; }
+        .hero { padding: 70px 24px 50px; text-align: center; position: relative; overflow: hidden; }
+        .hero::before { content: ''; position: absolute; top: -80px; left: 50%; transform: translateX(-50%); width: 600px; height: 350px; background: radial-gradient(ellipse, rgba(224,153,58,0.08) 0%, transparent 70%); pointer-events: none; }
+        .app-icon { width: 120px; height: 120px; border-radius: 28px; margin: 0 auto 24px; display: block; box-shadow: 0 12px 40px rgba(0,0,0,0.6); border: 1px solid #333; }
+        .app-icon-placeholder { width: 120px; height: 120px; border-radius: 28px; margin: 0 auto 24px; display: flex; align-items: center; justify-content: center; font-size: 3em; background: var(--card-bg); border: 1px solid #333; box-shadow: 0 12px 40px rgba(0,0,0,0.6); }
+        h1 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 3em; font-weight: 600; color: var(--text-bright); margin: 0 0 10px; }
+        .hero-sub { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 1.3em; color: var(--accent); margin: 0 0 20px; }
+        .badge-row { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 12px; }
+        .badge { font-size: 0.72em; font-weight: 500; padding: 4px 14px; border-radius: 20px; letter-spacing: 0.05em; text-transform: uppercase; }
+        .badge-live    { background: rgba(0,206,209,0.15); color: var(--turquoise); border: 1px solid rgba(0,206,209,0.3); }
+        .badge-soon    { background: rgba(224,153,58,0.15); color: #e0993a; border: 1px solid rgba(224,153,58,0.3); }
+        .badge-shelter { background: rgba(224,153,58,0.1); color: #e0993a; border: 1px solid rgba(224,153,58,0.2); }
+        .badge-free    { background: rgba(0,206,209,0.1); color: var(--turquoise); border: 1px solid rgba(0,206,209,0.2); }
+        .container { max-width: 760px; margin: 0 auto; padding: 0 24px; }
+        .content-section { padding: 50px 0; border-top: 1px solid #1e1e1e; }
+        .section-label { font-size: 0.72em; letter-spacing: 0.15em; text-transform: uppercase; color: var(--turquoise); margin-bottom: 8px; font-weight: 500; }
+        .section-title { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2em; font-weight: 600; color: var(--text-bright); margin: 0 0 20px; }
+        p { margin: 0 0 18px; color: #c0c0c0; font-size: 0.97em; }
+        p.lead { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.3em; font-style: italic; color: var(--text-bright); line-height: 1.6; }
+        .features-list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+        .features-list li { background: var(--card-bg); border: 1px solid #2a2a2a; border-radius: 12px; padding: 16px 18px; font-size: 0.88em; color: #c8c8c8; display: flex; gap: 12px; align-items: flex-start; }
+        .features-list li .feat-icon { font-size: 1.2em; flex-shrink: 0; margin-top: 1px; }
+        .cta-box { background: var(--card-bg); border: 1px solid #2a2a2a; border-top: 3px solid var(--accent); border-radius: 16px; padding: 32px; margin-top: 30px; text-align: center; }
+        .cta-box p { color: #aaa; font-size: 0.9em; margin-bottom: 18px; }
+        .btn { display: inline-block; padding: 12px 30px; border-radius: 50px; font-size: 0.88em; font-weight: 500; text-decoration: none; margin: 6px; transition: opacity 0.2s, transform 0.2s; }
+        .btn:hover { opacity: 0.85; transform: translateY(-1px); }
+        .btn-amber  { background: linear-gradient(to bottom, #e0993a, #b06a10); color: white; box-shadow: 0 3px 0 #7a4a00; }
+        .btn-outline { border: 1px solid #444; color: #ccc; background: transparent; }
+        .btn-outline:hover { border-color: var(--accent); color: var(--accent); }
+        footer { text-align: center; padding: 50px 24px; color: var(--text-dim); font-size: 0.8em; border-top: 1px solid #1e1e1e; margin-top: 60px; }
+        footer a { color: var(--turquoise); text-decoration: none; }
+    </style>
+</head>
+<body>
+
+<nav>
+    <a href="../index.html">skyberrys.com</a>
+    <span class="sep">›</span>
+    <span style="color: #aaa;">How Pranked My House</span>
+</nav>
+
+<div class="hero">
+    <div class="app-icon-placeholder">🏠</div>
+    <h1>How Pranked My House</h1>
+    <p class="hero-sub">Point your camera at a room. Find out how many surprises are hiding.</p>
+    <div class="badge-row">
+        <span class="badge badge-soon">● Almost Ready to Publish</span>
+        <span class="badge badge-shelter">🏡 Shelter</span>
+        <span class="badge badge-free">Free · No ads · No data</span>
+    </div>
+</div>
+
+<div class="container">
+
+    <section class="content-section">
+        <p class="section-label">The story</p>
+        <h2 class="section-title">Built with my kids, for my kids.</h2>
+        <p class="lead">It started as a silly project. It turned into something genuinely useful.</p>
+        <p>I made this app with my children, and it has the energy of something built by a family having fun together. You point your phone camera at a room, hit scan, and the app returns a "prank rating" — drawing detection boxes around potential hazards, clutter, and tripping dangers. It's funny. It's also real.</p>
+        <p>What I didn't expect was how useful it would become for chores. A messy room full of scattered toys fails the prank scan dramatically, and kids respond to that feedback in a way they don't respond to "please clean your room." The gamification isn't artificial — the app is genuinely assessing real risks.</p>
+        <p>There's something quietly meaningful about the shelter connection too. A clean, safe living space is a foundation of wellbeing. This app makes that tangible, in the most playful way possible.</p>
+        <p>How Pranked My House is almost ready to publish. I need to finish an iPhone build and make some moderate tweaks to the detection algorithm. It's the next app I'm shipping.</p>
+    </section>
+
+    <section class="content-section">
+        <p class="section-label">What it does</p>
+        <h2 class="section-title">Features</h2>
+        <ul class="features-list">
+            <li><span class="feat-icon">📸</span> <div><strong>Camera scan</strong><br>Point your camera at any room and scan it in real time.</div></li>
+            <li><span class="feat-icon">🎯</span> <div><strong>Object detection</strong><br>The app draws bounding boxes around items flagged as potential prank hazards or tripping risks.</div></li>
+            <li><span class="feat-icon">⭐</span> <div><strong>Prank rating</strong><br>Get a score for how prank-ready (or hazard-filled) the room is — a playful but honest assessment.</div></li>
+            <li><span class="feat-icon">🧹</span> <div><strong>Chore motivation</strong><br>A messy room fails. A clean room passes. Simple, visual, effective — especially for kids.</div></li>
+            <li><span class="feat-icon">🔒</span> <div><strong>Fully private</strong><br>No photos leave your device. The scan runs locally. Nothing is stored or shared.</div></li>
+        </ul>
+    </section>
+
+    <section class="content-section">
+        <p class="section-label">Coming soon</p>
+        <h2 class="section-title">Almost there.</h2>
+        <p>How Pranked My House is my next release. I'm finishing the iOS build and refining the detection algorithm before publishing. If you want to be notified when it launches, send me a quick email.</p>
+        <div class="cta-box">
+            <p>Get notified when How Pranked My House launches on iOS and Android:</p>
+            <a href="mailto:carrie@skyberrys.com?subject=Notify me: How Pranked My House" class="btn btn-amber">📧 Notify me at launch</a>
+        </div>
+    </section>
+
+</div>
+
+<footer>
+    <p><a href="../index.html">← Back to Skyberrys</a> &nbsp;|&nbsp; <a href="mailto:carrie@skyberrys.com">carrie@skyberrys.com</a></p>
+</footer>
+
+</body>
+</html>

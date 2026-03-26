@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orchid Journal | Skyberrys</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0e0e0e;
+            --bg-mid: #161616;
+            --card-bg: #1a1a1a;
+            --turquoise: #00ced1;
+            --turquoise-glow: #40e0d0;
+            --text-main: #e8e8e8;
+            --text-dim: #888;
+            --text-bright: #fff;
+            --accent: #c084fc;
+        }
+        * { box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            font-family: 'DM Sans', 'Lucida Grande', sans-serif;
+            margin: 0; padding: 0;
+            line-height: 1.75;
+        }
+        nav {
+            padding: 18px 32px;
+            border-bottom: 1px solid #1e1e1e;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        nav a { color: var(--turquoise); text-decoration: none; font-size: 0.88em; }
+        nav a:hover { text-decoration: underline; }
+        nav .sep { color: #444; }
+
+        .hero {
+            padding: 70px 24px 50px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: -80px; left: 50%;
+            transform: translateX(-50%);
+            width: 600px; height: 350px;
+            background: radial-gradient(ellipse, rgba(192,132,252,0.08) 0%, transparent 70%);
+            pointer-events: none;
+        }
+        .app-icon {
+            width: 120px; height: 120px;
+            border-radius: 28px;
+            margin: 0 auto 24px;
+            display: block;
+            box-shadow: 0 12px 40px rgba(0,0,0,0.6);
+            border: 1px solid #333;
+        }
+        .app-icon-placeholder {
+            width: 120px; height: 120px;
+            border-radius: 28px;
+            margin: 0 auto 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3em;
+            background: var(--card-bg);
+            border: 1px solid #333;
+            box-shadow: 0 12px 40px rgba(0,0,0,0.6);
+        }
+        h1 {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 3em;
+            font-weight: 600;
+            color: var(--text-bright);
+            margin: 0 0 10px;
+        }
+        .hero-sub {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-style: italic;
+            font-size: 1.3em;
+            color: var(--accent);
+            margin: 0 0 20px;
+        }
+        .badge-row {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 12px;
+        }
+        .badge {
+            font-size: 0.72em;
+            font-weight: 500;
+            padding: 4px 14px;
+            border-radius: 20px;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+        .badge-live    { background: rgba(0,206,209,0.15); color: var(--turquoise); border: 1px solid rgba(0,206,209,0.3); }
+        .badge-health  { background: rgba(0,206,209,0.1); color: var(--turquoise); border: 1px solid rgba(0,206,209,0.2); }
+        .badge-beta    { background: rgba(114,179,74,0.15); color: #72b34a; border: 1px solid rgba(114,179,74,0.3); }
+        .badge-android { background: rgba(114,179,74,0.1); color: #72b34a; border: 1px solid rgba(114,179,74,0.2); }
+        .badge-dev     { background: rgba(224,153,58,0.15); color: #e0993a; border: 1px solid rgba(224,153,58,0.3); }
+        .badge-community { background: rgba(167,139,250,0.1); color: #a78bfa; border: 1px solid rgba(167,139,250,0.3); }
+
+        .container { max-width: 760px; margin: 0 auto; padding: 0 24px; }
+
+        .content-section { padding: 50px 0; border-top: 1px solid #1e1e1e; }
+
+        .section-label {
+            font-size: 0.72em;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--turquoise);
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+        .section-title {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 2em;
+            font-weight: 600;
+            color: var(--text-bright);
+            margin: 0 0 20px;
+        }
+        p { margin: 0 0 18px; color: #c0c0c0; font-size: 0.97em; }
+        p.lead {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 1.3em;
+            font-style: italic;
+            color: var(--text-bright);
+            line-height: 1.6;
+        }
+
+        .features-list {
+            list-style: none;
+            padding: 0; margin: 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 14px;
+        }
+        .features-list li {
+            background: var(--card-bg);
+            border: 1px solid #2a2a2a;
+            border-radius: 12px;
+            padding: 16px 18px;
+            font-size: 0.88em;
+            color: #c8c8c8;
+            display: flex;
+            gap: 12px;
+            align-items: flex-start;
+        }
+        .features-list li .feat-icon { font-size: 1.2em; flex-shrink: 0; margin-top: 1px; }
+
+        .cta-box {
+            background: var(--card-bg);
+            border: 1px solid #2a2a2a;
+            border-top: 3px solid var(--turquoise);
+            border-radius: 16px;
+            padding: 32px;
+            margin-top: 30px;
+            text-align: center;
+        }
+        .cta-box p { color: #aaa; font-size: 0.9em; margin-bottom: 18px; }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 30px;
+            border-radius: 50px;
+            font-size: 0.88em;
+            font-weight: 500;
+            text-decoration: none;
+            margin: 6px;
+            transition: opacity 0.2s, transform 0.2s;
+        }
+        .btn:hover { opacity: 0.85; transform: translateY(-1px); }
+        .btn-turquoise { background: linear-gradient(to bottom, #00ced1, #008b8b); color: white; box-shadow: 0 3px 0 #005f5f; }
+        .btn-outline   { border: 1px solid #444; color: #ccc; background: transparent; }
+        .btn-outline:hover { border-color: var(--turquoise); color: var(--turquoise); }
+
+        .screenshots {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 12px;
+            margin: 24px 0;
+        }
+        .screenshots img {
+            width: 100%;
+            border-radius: 10px;
+            border: 1px solid #333;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+        .screenshots img:hover { transform: scale(1.02); border-color: var(--turquoise); }
+
+        footer {
+            text-align: center;
+            padding: 50px 24px;
+            color: var(--text-dim);
+            font-size: 0.8em;
+            border-top: 1px solid #1e1e1e;
+            margin-top: 60px;
+        }
+        footer a { color: var(--turquoise); text-decoration: none; }
+    </style>
+</head>
+<body>
+
+<nav>
+    <a href="../index.html">skyberrys.com</a>
+    <span class="sep">›</span>
+    <span style="color: #aaa;">Orchid Journal</span>
+</nav>
+
+<div class="hero">
+    <img src="../orchid_journal_icon.png" class="app-icon" alt="Orchid Journal icon">
+    <h1>Orchid Journal</h1>
+    <p class="hero-sub">A daily practice in noticing, nurturing, and connection.</p>
+    <div class="badge-row">
+        <span class="badge badge-live">● Live on App Store</span>
+        <span class="badge badge-android">Android — 14 testers needed</span>
+        <span class="badge badge-health">🌿 Healthcare</span>
+        <span class="badge badge-live">Free · No ads · Private</span>
+    </div>
+</div>
+
+<div class="container">
+
+    <section class="content-section">
+        <p class="section-label">The story</p>
+        <h2 class="section-title">Mindfulness, blooming daily.</h2>
+        <p class="lead">Orchids don't rush. Neither should you.</p>
+        <p>I built Orchid Journal because I wanted a reason to slow down once a day. Orchids are perfect teachers — they require patience, consistency, and attention. You can't rush a blossom. The app grew out of that philosophy: a daily ritual of caring for something beautiful, and recording what you see.</p>
+        <p>I consider it a healthcare app in the quietest possible way. Not medication management or symptom tracking — just the gentle discipline of showing up every day, noticing something, and writing it down. That practice, repeated, is its own kind of medicine.</p>
+        <p>I developed Orchid Journal on Android and use it every day. It's the first Skyberrys app I published, and everything I've learned about building with care is in it.</p>
+    </section>
+
+    <section class="content-section">
+        <p class="section-label">What it does</p>
+        <h2 class="section-title">Features</h2>
+
+        <ul class="features-list">
+            <li><span class="feat-icon">🌸</span> <div><strong>Named orchid collection</strong><br>Give each orchid a personal name and a photo. Build a gallery of your flowers over time.</div></li>
+            <li><span class="feat-icon">📓</span> <div><strong>Daily journal entries</strong><br>Each day: a new photo, a weight measurement, watering amount, bud count, and blossom count.</div></li>
+            <li><span class="feat-icon">🎞️</span> <div><strong>Growth slideshows</strong><br>Watch your orchid grow over days, weeks, and months in a beautiful photo timeline.</div></li>
+            <li><span class="feat-icon">🎁</span> <div><strong>Orchid gifting</strong><br>Care for an orchid for a few days, then transfer its full care history — and the orchid itself — to a friend. People-to-people, no cloud required.</div></li>
+            <li><span class="feat-icon">🔒</span> <div><strong>Completely private</strong><br>All data stays on your device. No accounts, no servers, no tracking. Your orchid's story is yours.</div></li>
+            <li><span class="feat-icon">💸</span> <div><strong>Forever free</strong><br>No subscriptions, no in-app purchases, no ads. Just orchids.</div></li>
+        </ul>
+    </section>
+
+    <section class="content-section">
+        <p class="section-label">Screenshots</p>
+        <h2 class="section-title">See it in action</h2>
+        <div class="screenshots">
+            <img src="../oj_collection.png" alt="Orchid collection view">
+            <img src="../oj_glowStats.png" alt="Glow stats">
+            <img src="../oj_about.png" alt="About screen">
+            <img src="../oj_gift.png" alt="Gift feature">
+        </div>
+    </section>
+
+    <section class="content-section">
+        <p class="section-label">Get it</p>
+        <h2 class="section-title">Available now — and almost on Android.</h2>
+        <p>Orchid Journal is live on the Apple App Store. For Android, I need 14 beta testers before I can publish it to Google Play. If you're an Android user with orchids (or curiosity), I'd love your help.</p>
+
+        <div class="cta-box">
+            <p>Download for iPhone, or join the Android beta:</p>
+            <a href="https://apps.apple.com/us/app/orchid-journal/id6760272733" class="btn btn-turquoise" target="_blank">🍎 Download on App Store</a>
+            <a href="mailto:carrie@skyberrys.com?subject=Android beta tester" class="btn btn-outline">📧 Join Android Beta</a>
+        </div>
+    </section>
+
+</div>
+
+<footer>
+    <p><a href="../index.html">← Back to Skyberrys</a> &nbsp;|&nbsp; <a href="../orchid-journal-privacy/index.html">Privacy Policy</a> &nbsp;|&nbsp; <a href="mailto:carrie@skyberrys.com">carrie@skyberrys.com</a></p>
+</footer>
+
+</body>
+</html>

@@ -304,26 +304,26 @@ def main():
 
     new_articles = []
 
-    print("\n[1/5] NewsAPI...")
+    print("\n[1/4] NewsAPI...")
     fetch_newsapi(new_articles)
     print(f"      {len(new_articles)} articles so far")
 
-    print("[2/5] GDELT...")
+    print("[2/4] GDELT...")
     before = len(new_articles)
     fetch_gdelt(new_articles)
     print(f"      +{len(new_articles)-before} articles")
 
-    print("[3/5] Semantic Scholar...")
+    print("[3/4] Semantic Scholar...")
     before = len(new_articles)
     fetch_semantic_scholar(new_articles)
     print(f"      +{len(new_articles)-before} papers")
 
-    print("[4/5] Reddit...")
-    before = len(new_articles)
-    fetch_reddit(new_articles)
-    print(f"      +{len(new_articles)-before} posts")
+    # print("[4/5] Reddit...")
+    # before = len(new_articles)
+    # fetch_reddit(new_articles)
+    # print(f"      +{len(new_articles)-before} posts")
 
-    print("[5/5] GitHub...")
+    print("[4/4] GitHub...")
     before = len(new_articles)
     fetch_github(new_articles)
     print(f"      +{len(new_articles)-before} repos")

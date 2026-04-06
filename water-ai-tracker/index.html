@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Water AI Index — tracking AI's contribution to water access</title>
+<base href="/water-ai-tracker/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,600;1,9..144,300&family=Instrument+Sans:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root {
+  --bg:        #f7f4ef;
+  --bg2:       #edeae3;
+  --ink:       #1a1814;
+  --ink2:      #6b6760;
+  --ink3:      #9e9b96;
+  --border:    #d8d4cc;
+  --openai:    #1a6b4a;
+  --anthropic: #c45c2b;
+  --google:    #1a4db5;
+  --xai:       #7c3aed;
+  --accent:    #2d6a4f;
+  --r: 6px;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: 16px; }
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Instrument Sans', sans-serif;
+  min-height: 100vh;
+}
+
+/* ── Topbar ── */
+.topbar {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 18px 40px;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg);
+  position: sticky; top: 0; z-index: 10;
+}
+.logo {
+  font-family: 'Fraunces', serif;
+  font-size: 20px; font-weight: 600; letter-spacing: -0.02em;
+}
+.logo span { color: var(--accent); font-style: italic; }
+.nav-meta { font-family: 'DM Mono', monospace; font-size: 11px; color: var(--ink3); }
+
+/* ── Hero ── */
+.hero {
+  padding: 56px 40px 40px;
+  border-bottom: 1px solid var(--border);
+  max-width: 900px;
+}
+.hero h1 {
+  font-family: 'Fraunces', serif;
+  font-size: clamp(28px, 4vw, 46px);
+  font-weight: 300; line-height: 1.15;
+  letter-spacing: -0.02em; margin-bottom: 14px;
+}
+.hero h1 em { font-style: italic; color: var(--accent); }
+.hero p {
+  font-size: 15px; color: var(--ink2); line-height: 1.7;
+  max-width: 560px;
+}
+
+/* ── Score cards ── */
+.cards-section { padding: 40px 40px 0; }
+.section-label {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px; color: var(--ink3);
+  text-transform: uppercase; letter-spacing: 0.08em;
+  margin-bottom: 20px;
+}
+.cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+.card {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: 20px 22px 18px;
+  position: relative; overflow: hidden;
+  transition: border-color 0.2s;
+}
+.card:hover { border-color: #aaa9a3; }
+.card-accent {
+  position: absolute; top: 0; left: 0; right: 0;
+  height: 3px;
+}
+.card-company {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--ink3); margin-bottom: 10px;
+}
+.card-score {
+  font-family: 'Fraunces', serif;
+  font-size: 48px; font-weight: 300; line-height: 1;
+  letter-spacing: -0.03em; margin-bottom: 2px;
+}
+.card-delta {
+  font-family: 'DM Mono', monospace;
+  font-size: 12px; margin-bottom: 14px;
+}
+.card-delta.up   { color: #1a6b4a; }
+.card-delta.down { color: #b84c1a; }
+.card-delta.flat { color: var(--ink3); }
+.card-bars { display: flex; flex-direction: column; gap: 5px; }
+.bar-row { display: flex; align-items: center; gap: 8px; }
+.bar-key {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px; color: var(--ink3);
+  width: 60px; flex-shrink: 0;
+}
+.bar-track {
+  flex: 1; height: 3px;
+  background: var(--bg2); border-radius: 2px; overflow: hidden;
+}
+.bar-fill { height: 100%; border-radius: 2px; transition: width 0.6s ease; }
+
+/* ── Chart ── */
+.chart-section {
+  padding: 40px;
+  border-top: 1px solid var(--border);
+  margin-top: 40px;
+}
+.chart-header {
+  display: flex; justify-content: space-between; align-items: baseline;
+  margin-bottom: 24px;
+}
+.chart-title {
+  font-family: 'Fraunces', serif;
+  font-size: 20px; font-weight: 300;
+}
+.chart-controls { display: flex; gap: 8px; }
+.ctrl-btn {
+  font-family: 'DM Mono', monospace; font-size: 11px;
+  background: none; border: 1px solid var(--border);
+  color: var(--ink2); padding: 4px 10px; border-radius: 4px;
+  cursor: pointer; transition: all 0.15s;
+}
+.ctrl-btn.active, .ctrl-btn:hover {
+  background: var(--ink); color: var(--bg); border-color: var(--ink);
+}
+.chart-wrap { position: relative; height: 280px; }
+
+/* ── Article feed ── */
+.feed-section { padding: 0 40px 40px; }
+.feed-header {
+  display: flex; justify-content: space-between; align-items: baseline;
+  margin-bottom: 20px; padding-top: 40px;
+  border-top: 1px solid var(--border);
+}
+.feed-title {
+  font-family: 'Fraunces', serif; font-size: 20px; font-weight: 300;
+}
+.feed-filter { display: flex; gap: 6px; flex-wrap: wrap; }
+.filter-btn {
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  background: none; border: 1px solid var(--border);
+  color: var(--ink2); padding: 3px 9px; border-radius: 20px;
+  cursor: pointer; transition: all 0.15s; text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.filter-btn.active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.filter-btn[data-co="openai"].active    { background: var(--openai);    border-color: var(--openai);    color: #fff; }
+.filter-btn[data-co="anthropic"].active { background: var(--anthropic); border-color: var(--anthropic); color: #fff; }
+.filter-btn[data-co="google"].active    { background: var(--google);    border-color: var(--google);    color: #fff; }
+.filter-btn[data-co="xai"].active       { background: var(--xai);       border-color: var(--xai);       color: #fff; }
+.articles { display: flex; flex-direction: column; gap: 1px; }
+.article-item {
+  display: grid; grid-template-columns: 80px 1fr 90px;
+  gap: 16px; align-items: start;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+  text-decoration: none; color: inherit;
+  transition: background 0.1s;
+}
+.article-item:hover { background: var(--bg2); margin: 0 -8px; padding: 14px 8px; border-radius: 4px; }
+.art-co {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em;
+  margin-top: 2px;
+}
+.art-title { font-size: 13px; line-height: 1.5; }
+.art-source {
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  color: var(--ink3); text-align: right; margin-top: 2px;
+}
+.art-snippet { font-size: 12px; color: var(--ink2); margin-top: 4px; line-height: 1.5; }
+.no-data {
+  text-align: center; padding: 60px 20px;
+  font-family: 'DM Mono', monospace; font-size: 12px; color: var(--ink3);
+}
+
+/* ── Footer ── */
+footer {
+  border-top: 1px solid var(--border); padding: 24px 40px;
+  display: flex; justify-content: space-between; align-items: center;
+}
+.footer-text {
+  font-family: 'DM Mono', monospace; font-size: 11px; color: var(--ink3);
+}
+.footer-link { color: var(--ink2); text-decoration: none; }
+.footer-link:hover { color: var(--ink); }
+
+@media (max-width: 700px) {
+  .topbar, .hero, .cards-section, .chart-section, .feed-section, footer {
+    padding-left: 20px; padding-right: 20px;
+  }
+  .cards { grid-template-columns: 1fr 1fr; }
+  .chart-header { flex-direction: column; gap: 12px; }
+  .article-item { grid-template-columns: 64px 1fr; }
+  .art-source { display: none; }
+}
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="logo">Water <span>AI</span> Index</div>
+  <div class="nav-meta" id="last-updated">Loading...</div>
+</header>
+
+<section class="hero">
+  <h1>How well is AI improving<br><em>access to water?</em></h1>
+  <p>A daily score for OpenAI, Anthropic, Google and xAI — built from news coverage,
+     academic research, GitHub activity, and direct reports from people in the field.</p>
+</section>
+
+<section class="cards-section">
+  <div class="section-label">Today's scores</div>
+  <div class="cards" id="score-cards">
+    <div class="no-data" style="grid-column:1/-1">Loading scores...</div>
+  </div>
+</section>
+
+<section class="chart-section">
+  <div class="chart-header">
+    <div class="chart-title">Score over time</div>
+    <div class="chart-controls">
+      <button class="ctrl-btn active" onclick="setWindow(30,this)">30d</button>
+      <button class="ctrl-btn" onclick="setWindow(90,this)">90d</button>
+      <button class="ctrl-btn" onclick="setWindow(0,this)">All</button>
+    </div>
+  </div>
+  <div class="chart-wrap">
+    <canvas id="trend-chart"></canvas>
+  </div>
+</section>
+
+<section class="feed-section">
+  <div class="feed-header">
+    <div class="feed-title">Recent articles &amp; signals</div>
+    <div class="feed-filter">
+      <button class="filter-btn active" data-co="all" onclick="filterArticles('all',this)">All</button>
+      <button class="filter-btn" data-co="openai" onclick="filterArticles('openai',this)">OpenAI</button>
+      <button class="filter-btn" data-co="anthropic" onclick="filterArticles('anthropic',this)">Anthropic</button>
+      <button class="filter-btn" data-co="google" onclick="filterArticles('google',this)">Google</button>
+      <button class="filter-btn" data-co="xai" onclick="filterArticles('xai',this)">xAI</button>
+    </div>
+  </div>
+  <div class="articles" id="article-feed">
+    <div class="no-data">Loading articles...</div>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-text">
+    Water AI Index — data updated daily via GitHub Actions
+  </div>
+  <div class="footer-text">
+    Signals: DM <a class="footer-link" href="https://twitter.com/skyberrys">@skyberrys</a> on X
+  </div>
+</footer>
+
+<script>
+const CO_COLORS = {
+  openai:    '#1a6b4a',
+  anthropic: '#c45c2b',
+  google:    '#1a4db5',
+  xai:       '#7c3aed',
+};
+const CO_NAMES = {
+  openai: 'OpenAI', anthropic: 'Anthropic', google: 'Google', xai: 'xAI'
+};
+const SIGNAL_KEYS = ['compute','sentiment','human','evidence','github'];
+
+let scoresData   = null;
+let articlesData = null;
+let mentionsData = null;
+let trendChart   = null;
+let activeFilter = 'all';
+let activeWindow = 30;
+
+async function loadData() {
+  try {
+    [scoresData, articlesData, mentionsData] = await Promise.all([
+      fetch('data/scores.json').then(r=>r.json()),
+      fetch('data/articles.json').then(r=>r.json()),
+      fetch('data/mentions.json').then(r=>r.json()),
+    ]);
+    render();
+  } catch(e) {
+    document.getElementById('score-cards').innerHTML =
+      `<div class="no-data" style="grid-column:1/-1">No data yet — run the collector to populate data/scores.json</div>`;
+  }
+}
+
+function render() {
+  const entries = scoresData.entries;
+  if (!entries.length) {
+    document.getElementById('score-cards').innerHTML =
+      '<div class="no-data" style="grid-column:1/-1">No scores yet — first run pending.</div>';
+    return;
+  }
+
+  const latest = entries[entries.length - 1];
+  const prev   = entries.length > 1 ? entries[entries.length - 2] : null;
+
+  document.getElementById('last-updated').textContent =
+    'Updated ' + latest.date;
+
+  renderCards(latest, prev);
+  renderChart(entries);
+  renderFeed();
+}
+
+function renderCards(latest, prev) {
+  const html = scoresData.companies.map(co => {
+    const score   = latest.scores[co] ?? 0;
+    const signals = latest.signals?.[co] ?? {};
+    const prevScore = prev?.scores?.[co];
+    let delta = '', deltaClass = 'flat';
+    if (prevScore !== undefined) {
+      const d = score - prevScore;
+      if (d > 0.4)  { delta = `+${d.toFixed(1)}`; deltaClass = 'up'; }
+      else if (d < -0.4) { delta = `${d.toFixed(1)}`; deltaClass = 'down'; }
+      else { delta = '—'; }
+    }
+    const bars = SIGNAL_KEYS.map(k => {
+      const v = (signals[k] ?? 0) * 100;
+      return `<div class="bar-row">
+        <div class="bar-key">${k}</div>
+        <div class="bar-track">
+          <div class="bar-fill" style="width:${v}%;background:${CO_COLORS[co]}"></div>
+        </div>
+      </div>`;
+    }).join('');
+    return `<div class="card">
+      <div class="card-accent" style="background:${CO_COLORS[co]}"></div>
+      <div class="card-company">${CO_NAMES[co]}</div>
+      <div class="card-score" style="color:${CO_COLORS[co]}">${score.toFixed(0)}</div>
+      <div class="card-delta ${deltaClass}">${delta}</div>
+      <div class="card-bars">${bars}</div>
+    </div>`;
+  }).join('');
+  document.getElementById('score-cards').innerHTML = html;
+}
+
+function renderChart(entries) {
+  let subset = entries;
+  if (activeWindow > 0) {
+    subset = entries.slice(-activeWindow);
+  }
+  const labels = subset.map(e => e.date.slice(5));
+  const datasets = scoresData.companies.map(co => ({
+    label: CO_NAMES[co],
+    data: subset.map(e => e.scores[co] ?? null),
+    borderColor: CO_COLORS[co],
+    backgroundColor: CO_COLORS[co] + '18',
+    borderWidth: 2,
+    pointRadius: subset.length > 60 ? 0 : 3,
+    tension: 0.3, fill: false,
+  }));
+
+  const ctx = document.getElementById('trend-chart').getContext('2d');
+  if (trendChart) trendChart.destroy();
+  trendChart = new Chart(ctx, {
+    type: 'line',
+    data: { labels, datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: {
+          labels: { font: { family: "'DM Mono', monospace", size: 11 },
+                    color: '#6b6760', boxWidth: 12, padding: 16 }
+        },
+        tooltip: {
+          callbacks: {
+            label: ctx => ` ${ctx.dataset.label}: ${ctx.parsed.y?.toFixed(1) ?? '—'}`
+          }
+        }
+      },
+      scales: {
+        x: { grid: { color: '#d8d4cc' }, ticks: { font: { family:"'DM Mono',monospace", size:10 }, color:'#9e9b96' } },
+        y: { min: 0, max: 100,
+             grid: { color: '#d8d4cc' },
+             ticks: { font: { family:"'DM Mono',monospace", size:10 }, color:'#9e9b96' } }
+      }
+    }
+  });
+}
+
+function setWindow(days, btn) {
+  activeWindow = days;
+  document.querySelectorAll('.ctrl-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  if (scoresData) renderChart(scoresData.entries);
+}
+
+function renderFeed() {
+  const allEntries = [
+    ...(articlesData?.entries || []).map(a => ({...a, _type:'article'})),
+    ...(mentionsData?.entries || []).map(m => ({...m, _type:'mention',
+        title: `@${m.author}: ${m.text.slice(0,80)}…`,
+        url: `https://twitter.com/i/web/status/${m.tweet_id}`,
+        source: 'twitter/@skyberrys',
+        snippet: m.text})),
+  ]
+  .sort((a,b) => b.date.localeCompare(a.date))
+  .slice(0, 120);
+
+  const filtered = activeFilter === 'all'
+    ? allEntries
+    : allEntries.filter(a => a.company === activeFilter);
+
+  if (!filtered.length) {
+    document.getElementById('article-feed').innerHTML =
+      '<div class="no-data">No articles yet for this filter.</div>';
+    return;
+  }
+
+  const html = filtered.slice(0,40).map(a => {
+    const co = a.company || 'general';
+    const color = CO_COLORS[co] || '#6b6760';
+    return `<a class="article-item" href="${a.url||'#'}" target="_blank" rel="noopener">
+      <div class="art-co" style="color:${color}">${CO_NAMES[co]||co}</div>
+      <div>
+        <div class="art-title">${a.title||'Untitled'}</div>
+        ${a.snippet ? `<div class="art-snippet">${a.snippet.slice(0,120)}…</div>` : ''}
+      </div>
+      <div class="art-source">${a.source||''}<br>${a.date||''}</div>
+    </a>`;
+  }).join('');
+  document.getElementById('article-feed').innerHTML = html;
+}
+
+function filterArticles(co, btn) {
+  activeFilter = co;
+  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  if (articlesData) renderFeed();
+}
+
+loadData();
+</script>
+</body>
+</html>

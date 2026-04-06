@@ -1,0 +1,13 @@
+{
+  "_schema_version": "1.0",
+  "_description": "Daily composite water-access scores for each AI company. Each entry covers one UTC date. Scores are 0–100.",
+  "weights": {
+    "compute":   0.25,
+    "sentiment": 0.20,
+    "human":     0.30,
+    "evidence":  0.15,
+    "github":    0.10
+  },
+  "companies": ["openai", "anthropic", "google", "xai"],
+  "entries": []
+}

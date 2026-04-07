@@ -329,6 +329,256 @@
       "title": "BurritoMao/EY_WATER_2026",
       "url": "https://github.com/BurritoMao/EY_WATER_2026",
       "snippet": "Stars:0 | To develop a robust machine learning model capable of predicting water quality across various river locations in South Africa. In addition to accurate predictions, the model should also identify and emphasize the key factors that significantly influence water quality."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "Reconstitution of woody biomass framework via dual-functional lignin engineering toward efficient and salt-resistant solar desalination",
+      "url": "https://www.nature.com/articles/s41467-026-70270-0",
+      "snippet": "Biomass-based systems for solar evaporation are a promising sustainable method to address global freshwater scarcity; however, current systems are inefficient. Here, the authors report a dual-function lignin-engineered reconstituted wood framework for a bioma…"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "Optimization of a hybrid solar still–HDH system via parametric study for lightweight desalination in remote areas",
+      "url": "https://www.nature.com/articles/s41598-026-43049-y",
+      "snippet": "Freshwater scarcity in remote and arid regions necessitates desalination systems that are not only productive but also lightweight, low-cost, and easy to deploy. In this study, a transient numerical model of a hybrid solar still–humidification–dehumidificatio…"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "xai",
+      "model_family": "grok",
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Advancing Water Quality Assessment and Prediction Using Machine Learning Models, Coupled with Explainable Artificial Intelligence (XAI) Techniques Like Shapley Additive Explanations (SHAP) For Interpreting the Black-Box Nature",
+      "url": "https://www.semanticscholar.org/paper/cfcb0c6fc51348cd6ff8dd450e45b0212119e062",
+      "snippet": ""
+    },
+    {
+      "date": "2026-04-07",
+      "company": "xai",
+      "model_family": "grok",
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Employing Explainable Artificial Intelligence (XAI) for Enhanced Water Quality Assessment",
+      "url": "https://www.semanticscholar.org/paper/4c7922e8ad057c163f19d7cc3b55320e38041447",
+      "snippet": "Maintaining the purity and quality of water is crucial for the well-being of numerous living organisms, as water consumption directly impacts physical health. Unfortunately, Earth is experiencing a concerning decline in water quality, resulting in a plethora of diseases and health deficiencies among individuals. One of the main challenges in water quality management is the presence of Total Dissol"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "xai",
+      "model_family": "grok",
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Interpreting optimised data-driven solution with explainable artificial intelligence (XAI) for water quality assessment for better decision-making in pollution management",
+      "url": "https://www.semanticscholar.org/paper/840fdc7c5ed9d7502a73b21b590210feac506884",
+      "snippet": ""
+    },
+    {
+      "date": "2026-04-07",
+      "company": "xai",
+      "model_family": "grok",
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "An IoT-Enabled Hybrid DRL-XAI Framework for Transparent Urban Water Management",
+      "url": "https://www.semanticscholar.org/paper/98c77736df4f191cc40ccaaa788929ef51a2b6f2",
+      "snippet": ""
+    },
+    {
+      "date": "2026-04-07",
+      "company": "xai",
+      "model_family": "grok",
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Water supply; work crew of Ju and Herero building /Xai/xai water tower and piping",
+      "url": "https://www.semanticscholar.org/paper/f837993b0364935bd2d0bfa76537f223bcadd2ac",
+      "snippet": ""
+    },
+    {
+      "date": "2026-04-07",
+      "company": "openai",
+      "model_family": "gpt",
+      "model_variant": "gpt-4-generic",
+      "source": "semantic_scholar",
+      "title": "The Implementation of Multimodal Large Language Models for Hydrological Applications: A Comparative Study of GPT-4 Vision, Gemini, LLaVa, and Multimodal-GPT",
+      "url": "https://www.semanticscholar.org/paper/965a6de65b8cebef8901ed4dd4fb38995f710dd3",
+      "snippet": "Large Language Models (LLMs) combined with visual foundation models have demonstrated significant advancements, achieving intelligence levels comparable to human capabilities. This study analyzes the latest Multimodal LLMs (MLLMs), including Multimodal-GPT, GPT-4 Vision, Gemini, and LLaVa, with a focus on hydrological applications such as flood management, water level monitoring, agricultural wate"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "yash-patil-ai/CROP-YIELD-PREDICTION-USING-MACHINE-LEARNING",
+      "url": "https://github.com/yash-patil-ai/CROP-YIELD-PREDICTION-USING-MACHINE-LEARNING",
+      "snippet": "Stars:0 | Crop yield prediction helps in making decisions at global, regional, and field levels by considering factors like soil, weather, and environment. Precision agriculture uses advanced technologies to improve yield and quality while reducing environmental impact. It also helps analyze the effects of water, nutrients, pests, diseases throughout crop"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shraddhapatil2005sp-lang/SentinAqua--Water-Monitoring",
+      "url": "https://github.com/shraddhapatil2005sp-lang/SentinAqua--Water-Monitoring",
+      "snippet": "Stars:0 | SentinAqua is an intelligent water quality monitoring system designed to detect pollution levels and predict possible industrial sources using Machine Learning. The system simulates real-time sensor data and provides meaningful insights through a web-based dashboard."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AjayRana1123/Aquacheck",
+      "url": "https://github.com/AjayRana1123/Aquacheck",
+      "snippet": "Stars:0 | Water Quality Detection — A full-stack web app that predicts water drinkability using machine learning. Users input parameters like pH, hardness, and solids; a Python ML model returns real-time predictions. Built with React, Node.js, Firebase Auth, MongoDB Atlas, and a pre-trained scikit-learn model."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "polar-bear-after-lunch/AareML",
+      "url": "https://github.com/polar-bear-after-lunch/AareML",
+      "snippet": "Stars:0 | Predicting River Water Quality in Swiss Catchments using Machine Learning "
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "cc-code-examples/rich-waterbuffalo-156807",
+      "url": "https://github.com/cc-code-examples/rich-waterbuffalo-156807",
+      "snippet": "Stars:0 | Python code example for the Claude Code challenge"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "year-of-the/vaper",
+      "url": "https://github.com/year-of-the/vaper",
+      "snippet": "Stars:0 | How much water you've boiled with Claude today."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "jbcrane13/GrowWise",
+      "url": "https://github.com/jbcrane13/GrowWise",
+      "snippet": "Stars:1 | 🌱 Modern iOS gardening app built with SwiftUI, SwiftData, and Claude-Flow orchestration. Features plant care tracking, watering reminders, and AI-powered gardening assistance."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "pacificwater2/water-code",
+      "url": "https://github.com/pacificwater2/water-code",
+      "snippet": "Stars:14 | A clean-room terminal coding agent built from Claude Code architecture research."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "kashiff0/apex-reef-dashboard",
+      "url": "https://github.com/kashiff0/apex-reef-dashboard",
+      "snippet": "Stars:0 | Self-hosted Neptune Apex reef controller dashboard with live programming, water quality log, and Claude AI integration"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "josephdandrea519/Deep-Water-Websites",
+      "url": "https://github.com/josephdandrea519/Deep-Water-Websites",
+      "snippet": "Stars:0 | Deep Water Websites client. Optimized for Netlify deployment, SEO performance, and Claude Code automation."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "patricklafrance/plantz-claude-v2",
+      "url": "https://github.com/patricklafrance/plantz-claude-v2",
+      "snippet": "Stars:0 | A plant watering application to try out a mouture of a Claude Code setup"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "aayushh-code/ccguilt",
+      "url": "https://github.com/aayushh-code/ccguilt",
+      "snippet": "Stars:0 | Claude Code Guilt Trip ,satirical environmental impact tracker for your AI habit. Research-backed energy, CO2, water, and tree destruction metrics."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "TechAwarenessMA/OpenH2O",
+      "url": "https://github.com/TechAwarenessMA/OpenH2O",
+      "snippet": "Stars:0 | Know your AI footprint. Upload your Claude conversations export and see your energy, water, and carbon impact."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Monet-Ltd/monet-setup",
+      "url": "https://github.com/Monet-Ltd/monet-setup",
+      "snippet": "Stars:0 | Claude Code plugin for Water Lilies IoT displays"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "Gagana-r/watersense-rag-bot",
+      "url": "https://github.com/Gagana-r/watersense-rag-bot",
+      "snippet": "Stars:0 | RAG-based Water Quality Q&A chatbot using LangChain, FAISS, and Google Gemini API"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "shashank28-1999/water-quality-analysis",
+      "url": "https://github.com/shashank28-1999/water-quality-analysis",
+      "snippet": "Stars:0 | A machine learning web app that analyzes water quality using 12 classification models (Random Forest, XGBoost, SVM, Neural Network and more) with real-time predictions, confusion matrices, and Gemini AI expert analysis. Built with React + Vite, trained on the Water Potability dataset."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "4RN1E/Streamlit-Data-App",
+      "url": "https://github.com/4RN1E/Streamlit-Data-App",
+      "snippet": "Stars:0 | Initial commit of an assignment I did in class. The assignment includes a water quality dashboard with built in Gemini 3 API. Tab 4 includes the NASA API with the APOD (astronomy picture of the day)."
     }
   ]
 }

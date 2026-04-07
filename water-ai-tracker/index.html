@@ -74,19 +74,20 @@ body {
   margin-bottom: 20px;
 }
 .cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+
+/* ── Card ── */
 .card {
   background: #fff;
   border: 1px solid var(--border);
   border-radius: var(--r);
-  padding: 20px 22px 18px;
-  position: relative; overflow: hidden;
+  overflow: hidden;
   transition: border-color 0.2s;
 }
 .card:hover { border-color: #aaa9a3; }
 .card-accent {
-  position: absolute; top: 0; left: 0; right: 0;
-  height: 3px;
+  height: 3px; width: 100%;
 }
+.card-main { padding: 20px 22px 18px; }
 .card-company {
   font-family: 'DM Mono', monospace;
   font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase;
@@ -116,6 +117,68 @@ body {
   background: var(--bg2); border-radius: 2px; overflow: hidden;
 }
 .bar-fill { height: 100%; border-radius: 2px; transition: width 0.6s ease; }
+
+/* ── Expand toggle ── */
+.card-expand-btn {
+  display: flex; align-items: center; justify-content: space-between;
+  width: 100%; padding: 10px 22px;
+  border: none; border-top: 1px solid var(--border);
+  background: var(--bg);
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  color: var(--ink3); text-transform: uppercase; letter-spacing: 0.06em;
+  cursor: pointer; transition: background 0.15s, color 0.15s;
+}
+.card-expand-btn:hover { background: var(--bg2); color: var(--ink2); }
+.expand-chevron {
+  display: inline-block; transition: transform 0.25s ease;
+  font-size: 8px;
+}
+.card.expanded .expand-chevron { transform: rotate(180deg); }
+
+/* ── Model breakdown panel ── */
+.model-breakdown {
+  display: none;
+  border-top: 1px solid var(--border);
+  background: var(--bg);
+}
+.card.expanded .model-breakdown { display: block; }
+.model-row {
+  display: flex; align-items: center; gap: 10px;
+  padding: 9px 22px;
+  border-bottom: 1px solid var(--border);
+}
+.model-row:last-child { border-bottom: none; }
+.model-row-label {
+  flex: 1; min-width: 0;
+}
+.model-family-tag {
+  font-family: 'DM Mono', monospace;
+  font-size: 9px; text-transform: uppercase; letter-spacing: 0.06em;
+  color: var(--ink3); margin-bottom: 1px;
+}
+.model-variant-name {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px; color: var(--ink); font-weight: 500;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.model-score-pill {
+  font-family: 'Fraunces', serif;
+  font-size: 16px; font-weight: 300;
+  flex-shrink: 0; width: 42px; text-align: right;
+}
+.model-mini-bars {
+  width: 64px; flex-shrink: 0;
+  display: flex; flex-direction: column; gap: 3px;
+}
+.model-mini-bar-track {
+  height: 2px; background: var(--border); border-radius: 1px; overflow: hidden;
+}
+.model-mini-bar-fill { height: 100%; border-radius: 1px; }
+.model-no-data {
+  padding: 10px 22px;
+  font-family: 'DM Mono', monospace; font-size: 10px; color: var(--ink3);
+  font-style: italic;
+}
 
 /* ── Chart ── */
 .chart-section {
@@ -166,20 +229,42 @@ body {
 .filter-btn[data-co="anthropic"].active { background: var(--anthropic); border-color: var(--anthropic); color: #fff; }
 .filter-btn[data-co="google"].active    { background: var(--google);    border-color: var(--google);    color: #fff; }
 .filter-btn[data-co="xai"].active       { background: var(--xai);       border-color: var(--xai);       color: #fff; }
+
+/* Feed table */
 .articles { display: flex; flex-direction: column; gap: 1px; }
 .article-item {
-  display: grid; grid-template-columns: 80px 1fr 90px;
-  gap: 16px; align-items: start;
+  display: grid;
+  grid-template-columns: 80px 130px 1fr 90px;
+  gap: 14px; align-items: start;
   padding: 14px 0;
   border-bottom: 1px solid var(--border);
   text-decoration: none; color: inherit;
   transition: background 0.1s;
 }
-.article-item:hover { background: var(--bg2); margin: 0 -8px; padding: 14px 8px; border-radius: 4px; }
+.article-item:hover {
+  background: var(--bg2);
+  margin: 0 -8px; padding: 14px 8px; border-radius: 4px;
+}
 .art-co {
   font-family: 'DM Mono', monospace;
   font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em;
-  margin-top: 2px;
+  margin-top: 2px; line-height: 1.5;
+}
+/* Model attribution column */
+.art-model {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px; color: var(--ink3);
+  margin-top: 2px; line-height: 1.5;
+}
+.art-model-family {
+  font-size: 9px; text-transform: uppercase; letter-spacing: 0.04em;
+  margin-bottom: 1px;
+}
+.art-model-variant {
+  font-size: 10px; font-weight: 500; color: var(--ink2);
+}
+.art-model-none {
+  font-size: 10px; color: var(--ink3); font-style: italic;
 }
 .art-title { font-size: 13px; line-height: 1.5; }
 .art-source {
@@ -190,6 +275,20 @@ body {
 .no-data {
   text-align: center; padding: 60px 20px;
   font-family: 'DM Mono', monospace; font-size: 12px; color: var(--ink3);
+}
+
+/* Feed column headers */
+.feed-col-headers {
+  display: grid;
+  grid-template-columns: 80px 130px 1fr 90px;
+  gap: 14px;
+  padding: 0 0 8px;
+  border-bottom: 2px solid var(--border);
+  margin-bottom: 2px;
+}
+.feed-col-header {
+  font-family: 'DM Mono', monospace; font-size: 9px;
+  text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink3);
 }
 
 /* ── Footer ── */
@@ -203,14 +302,22 @@ footer {
 .footer-link { color: var(--ink2); text-decoration: none; }
 .footer-link:hover { color: var(--ink); }
 
+@media (max-width: 900px) {
+  .article-item, .feed-col-headers {
+    grid-template-columns: 72px 1fr 80px;
+  }
+  .art-model { display: none; }
+  .feed-col-headers > :nth-child(2) { display: none; }
+}
 @media (max-width: 700px) {
   .topbar, .hero, .cards-section, .chart-section, .feed-section, footer {
     padding-left: 20px; padding-right: 20px;
   }
   .cards { grid-template-columns: 1fr 1fr; }
   .chart-header { flex-direction: column; gap: 12px; }
-  .article-item { grid-template-columns: 64px 1fr; }
+  .article-item, .feed-col-headers { grid-template-columns: 64px 1fr; }
   .art-source { display: none; }
+  .feed-col-headers > :last-child { display: none; }
 }
 </style>
 </head>
@@ -224,7 +331,8 @@ footer {
 <section class="hero">
   <h1>How well is AI improving<br><em>access to water?</em></h1>
   <p>A daily score for OpenAI, Anthropic, Google and xAI — built from news coverage,
-     academic research, GitHub activity, and direct reports from people in the field.</p>
+     academic research, GitHub activity, and direct reports from people in the field.
+     Expand any company card to see scores broken down by individual model.</p>
 </section>
 
 <section class="cards-section">
@@ -253,11 +361,17 @@ footer {
     <div class="feed-title">Recent articles &amp; signals</div>
     <div class="feed-filter">
       <button class="filter-btn active" data-co="all" onclick="filterArticles('all',this)">All</button>
-      <button class="filter-btn" data-co="openai" onclick="filterArticles('openai',this)">OpenAI</button>
+      <button class="filter-btn" data-co="openai"    onclick="filterArticles('openai',this)">OpenAI</button>
       <button class="filter-btn" data-co="anthropic" onclick="filterArticles('anthropic',this)">Anthropic</button>
-      <button class="filter-btn" data-co="google" onclick="filterArticles('google',this)">Google</button>
-      <button class="filter-btn" data-co="xai" onclick="filterArticles('xai',this)">xAI</button>
+      <button class="filter-btn" data-co="google"    onclick="filterArticles('google',this)">Google</button>
+      <button class="filter-btn" data-co="xai"       onclick="filterArticles('xai',this)">xAI</button>
     </div>
+  </div>
+  <div class="feed-col-headers">
+    <div class="feed-col-header">Company</div>
+    <div class="feed-col-header">Model</div>
+    <div class="feed-col-header">Title</div>
+    <div class="feed-col-header" style="text-align:right">Source / Date</div>
   </div>
   <div class="articles" id="article-feed">
     <div class="no-data">Loading articles...</div>
@@ -279,11 +393,57 @@ const CO_COLORS = {
   anthropic: '#c45c2b',
   google:    '#1a4db5',
   xai:       '#7c3aed',
+  general:   '#6b6760',
 };
 const CO_NAMES = {
-  openai: 'OpenAI', anthropic: 'Anthropic', google: 'Google', xai: 'xAI'
+  openai: 'OpenAI', anthropic: 'Anthropic', google: 'Google', xai: 'xAI', general: 'General'
 };
 const SIGNAL_KEYS = ['compute','sentiment','human','evidence','github'];
+
+// Pretty-print a model variant slug → human label
+// e.g. "claude-sonnet-4-6" → "Sonnet 4.6"
+//      "gpt-4o"            → "GPT-4o"
+//      "gemini-2.5-flash"  → "Gemini 2.5 Flash"
+function fmtVariant(v) {
+  if (!v) return null;
+  // Custom overrides for known slugs
+  const LABELS = {
+    'claude-opus-4-6':    'Opus 4.6',
+    'claude-sonnet-4-6':  'Sonnet 4.6',
+    'claude-haiku-4-5':   'Haiku 4.5',
+    'claude-generic':     'Claude (generic)',
+    'gpt-4o':             'GPT-4o',
+    'gpt-4o-mini':        'GPT-4o mini',
+    'gpt-4.5':            'GPT-4.5',
+    'gpt-4-generic':      'GPT-4 (generic)',
+    'gpt-3.5':            'GPT-3.5',
+    'o3':                 'o3',
+    'o1':                 'o1',
+    'sora-2':             'Sora 2',
+    'sora':               'Sora',
+    'whisper':            'Whisper',
+    'gemini-2.5-pro':     'Gemini 2.5 Pro',
+    'gemini-2.5-flash':   'Gemini 2.5 Flash',
+    'gemini-2.0-pro':     'Gemini 2.0 Pro',
+    'gemini-2.0-flash':   'Gemini 2.0 Flash',
+    'gemini-1.5-pro':     'Gemini 1.5 Pro',
+    'gemini-1.5-flash':   'Gemini 1.5 Flash',
+    'gemini-generic':     'Gemini (generic)',
+    'veo-2':              'Veo 2',
+    'veo':                'Veo',
+    'grok-3':             'Grok 3',
+    'grok-2':             'Grok 2',
+    'grok-generic':       'Grok (generic)',
+  };
+  return LABELS[v] || v.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+}
+
+function fmtFamily(f) {
+  if (!f) return null;
+  const LABELS = { claude:'Claude', gpt:'GPT', sora:'Sora', whisper:'Whisper',
+                   gemini:'Gemini', veo:'Veo', grok:'Grok' };
+  return LABELS[f] || f.charAt(0).toUpperCase() + f.slice(1);
+}
 
 let scoresData   = null;
 let articlesData = null;
@@ -313,30 +473,29 @@ function render() {
       '<div class="no-data" style="grid-column:1/-1">No scores yet — first run pending.</div>';
     return;
   }
-
   const latest = entries[entries.length - 1];
   const prev   = entries.length > 1 ? entries[entries.length - 2] : null;
-
-  document.getElementById('last-updated').textContent =
-    'Updated ' + latest.date;
-
+  document.getElementById('last-updated').textContent = 'Updated ' + latest.date;
   renderCards(latest, prev);
   renderChart(entries);
   renderFeed();
 }
 
+// ── Cards ─────────────────────────────────────────────────────────────────
+
 function renderCards(latest, prev) {
   const html = scoresData.companies.map(co => {
-    const score   = latest.scores[co] ?? 0;
-    const signals = latest.signals?.[co] ?? {};
+    const score     = latest.scores[co] ?? 0;
+    const signals   = latest.signals?.[co] ?? {};
     const prevScore = prev?.scores?.[co];
     let delta = '', deltaClass = 'flat';
     if (prevScore !== undefined) {
       const d = score - prevScore;
-      if (d > 0.4)  { delta = `+${d.toFixed(1)}`; deltaClass = 'up'; }
-      else if (d < -0.4) { delta = `${d.toFixed(1)}`; deltaClass = 'down'; }
-      else { delta = '—'; }
+      if (d > 0.4)       { delta = `+${d.toFixed(1)}`; deltaClass = 'up'; }
+      else if (d < -0.4) { delta = `${d.toFixed(1)}`;  deltaClass = 'down'; }
+      else               { delta = '—'; }
     }
+
     const bars = SIGNAL_KEYS.map(k => {
       const v = (signals[k] ?? 0) * 100;
       return `<div class="bar-row">
@@ -346,23 +505,95 @@ function renderCards(latest, prev) {
         </div>
       </div>`;
     }).join('');
-    return `<div class="card">
+
+    // Model breakdown rows from model_scores
+    const modelRows = buildModelRows(co, latest, CO_COLORS[co]);
+
+    return `<div class="card" id="card-${co}">
       <div class="card-accent" style="background:${CO_COLORS[co]}"></div>
-      <div class="card-company">${CO_NAMES[co]}</div>
-      <div class="card-score" style="color:${CO_COLORS[co]}">${score.toFixed(0)}</div>
-      <div class="card-delta ${deltaClass}">${delta}</div>
-      <div class="card-bars">${bars}</div>
+      <div class="card-main">
+        <div class="card-company">${CO_NAMES[co]}</div>
+        <div class="card-score" style="color:${CO_COLORS[co]}">${score.toFixed(0)}</div>
+        <div class="card-delta ${deltaClass}">${delta}</div>
+        <div class="card-bars">${bars}</div>
+      </div>
+      <button class="card-expand-btn" onclick="toggleCard('${co}')">
+        <span>By model</span>
+        <span class="expand-chevron">▼</span>
+      </button>
+      <div class="model-breakdown">
+        ${modelRows}
+      </div>
     </div>`;
   }).join('');
   document.getElementById('score-cards').innerHTML = html;
 }
 
+function buildModelRows(company, latest, color) {
+  const modelScores = latest.model_scores || {};
+
+  // Gather all keys for this company that have a variant (deepest level)
+  // Key format: "company/family/variant" or "company/family"
+  const relevantKeys = Object.keys(modelScores).filter(k => {
+    const parts = k.split('/');
+    return parts[0] === company && parts.length >= 2;
+  });
+
+  // Prefer variant-level keys; fall back to family-level if no variants exist
+  const variantKeys = relevantKeys.filter(k => k.split('/').length === 3);
+  const familyKeys  = relevantKeys.filter(k => k.split('/').length === 2);
+  const keysToShow  = variantKeys.length > 0 ? variantKeys : familyKeys;
+
+  if (keysToShow.length === 0) {
+    return `<div class="model-no-data">No model-level data yet for this company.</div>`;
+  }
+
+  // Sort by score descending
+  keysToShow.sort((a, b) => (modelScores[b]?.score ?? 0) - (modelScores[a]?.score ?? 0));
+
+  return keysToShow.map(key => {
+    const parts   = key.split('/');
+    const family  = parts[1] || null;
+    const variant = parts[2] || null;
+    const data    = modelScores[key];
+    const score   = data?.score ?? 0;
+    const sigs    = data?.signals ?? {};
+    const artCount = data?.article_count ?? 0;
+    const menCount = data?.mention_count ?? 0;
+
+    const miniBarHtml = SIGNAL_KEYS.map(k => {
+      const v = (sigs[k] ?? 0) * 100;
+      return `<div class="model-mini-bar-track">
+        <div class="model-mini-bar-fill" style="width:${v}%;background:${color}"></div>
+      </div>`;
+    }).join('');
+
+    const label = variant ? fmtVariant(variant) : fmtFamily(family);
+    const familyLabel = fmtFamily(family);
+    const countLabel = `${artCount}a ${menCount}m`;
+
+    return `<div class="model-row" title="${countLabel} · ${SIGNAL_KEYS.map(k=>`${k}: ${((sigs[k]??0)*100).toFixed(0)}`).join(' · ')}">
+      <div class="model-row-label">
+        ${variant ? `<div class="model-family-tag">${familyLabel}</div>` : ''}
+        <div class="model-variant-name">${label}</div>
+      </div>
+      <div class="model-mini-bars">${miniBarHtml}</div>
+      <div class="model-score-pill" style="color:${color}">${score.toFixed(0)}</div>
+    </div>`;
+  }).join('');
+}
+
+function toggleCard(co) {
+  const card = document.getElementById(`card-${co}`);
+  card.classList.toggle('expanded');
+}
+
+// ── Chart ─────────────────────────────────────────────────────────────────
+
 function renderChart(entries) {
   let subset = entries;
-  if (activeWindow > 0) {
-    subset = entries.slice(-activeWindow);
-  }
-  const labels = subset.map(e => e.date.slice(5));
+  if (activeWindow > 0) subset = entries.slice(-activeWindow);
+  const labels   = subset.map(e => e.date.slice(5));
   const datasets = scoresData.companies.map(co => ({
     label: CO_NAMES[co],
     data: subset.map(e => e.scores[co] ?? null),
@@ -372,7 +603,6 @@ function renderChart(entries) {
     pointRadius: subset.length > 60 ? 0 : 3,
     tension: 0.3, fill: false,
   }));
-
   const ctx = document.getElementById('trend-chart').getContext('2d');
   if (trendChart) trendChart.destroy();
   trendChart = new Chart(ctx, {
@@ -409,14 +639,18 @@ function setWindow(days, btn) {
   if (scoresData) renderChart(scoresData.entries);
 }
 
+// ── Feed ──────────────────────────────────────────────────────────────────
+
 function renderFeed() {
   const allEntries = [
     ...(articlesData?.entries || []).map(a => ({...a, _type:'article'})),
-    ...(mentionsData?.entries || []).map(m => ({...m, _type:'mention',
-        title: `@${m.author}: ${m.text.slice(0,80)}…`,
-        url: `https://twitter.com/i/web/status/${m.tweet_id}`,
-        source: 'twitter/@skyberrys',
-        snippet: m.text})),
+    ...(mentionsData?.entries || []).map(m => ({
+      ...m, _type:'mention',
+      title:  `@${m.author}: ${m.text.slice(0,80)}…`,
+      url:    `https://twitter.com/i/web/status/${m.tweet_id}`,
+      source: 'twitter/@skyberrys',
+      snippet: m.text,
+    })),
   ]
   .sort((a,b) => b.date.localeCompare(a.date))
   .slice(0, 120);
@@ -431,11 +665,28 @@ function renderFeed() {
     return;
   }
 
-  const html = filtered.slice(0,40).map(a => {
-    const co = a.company || 'general';
+  const html = filtered.slice(0, 40).map(a => {
+    const co    = a.company || 'general';
     const color = CO_COLORS[co] || '#6b6760';
+    const coName = CO_NAMES[co] || co;
+
+    // Model attribution cell
+    const family  = a.model_family  || null;
+    const variant = a.model_variant || null;
+    let modelHtml;
+    if (variant) {
+      modelHtml = `<div class="art-model-family">${fmtFamily(family)}</div>
+                   <div class="art-model-variant">${fmtVariant(variant)}</div>`;
+    } else if (family) {
+      modelHtml = `<div class="art-model-family">${fmtFamily(family)}</div>
+                   <div class="art-model-none">variant unknown</div>`;
+    } else {
+      modelHtml = `<div class="art-model-none">—</div>`;
+    }
+
     return `<a class="article-item" href="${a.url||'#'}" target="_blank" rel="noopener">
-      <div class="art-co" style="color:${color}">${CO_NAMES[co]||co}</div>
+      <div class="art-co" style="color:${color}">${coName}</div>
+      <div class="art-model">${modelHtml}</div>
       <div>
         <div class="art-title">${a.title||'Untitled'}</div>
         ${a.snippet ? `<div class="art-snippet">${a.snippet.slice(0,120)}…</div>` : ''}

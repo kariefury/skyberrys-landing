@@ -1,5 +1,334 @@
 {
   "_schema_version": "1.0",
   "_description": "Raw articles collected daily. Each entry is one article associated with one company.",
-  "entries": []
+  "entries": [
+    {
+      "date": "2026-04-06",
+      "company": "openai",
+      "source": "newsapi",
+      "title": "Home Assistant waters my plants",
+      "url": "https://finnian.io/blog/home-assistant-waters-my-plants/",
+      "snippet": "My first foray into home automations, Zigbee and irrigation systems."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "ShradhaAnand17/AI-powered-Predictive-Analytics-for-Urban-Water-Supply-Management",
+      "url": "https://github.com/ShradhaAnand17/AI-powered-Predictive-Analytics-for-Urban-Water-Supply-Management",
+      "snippet": "Stars:0 | A scalable AI-powered system for urban water demand forecasting and tanker-based supply optimisation. Using Random Forest models with demographic, weather, and historical data, it delivers zone-wise predictions, optimizes allocations, and provides clear visualizations to support data-driven water management."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "aravindreddyp408-cloud/Aqua-Alert-AI",
+      "url": "https://github.com/aravindreddyp408-cloud/Aqua-Alert-AI",
+      "snippet": "Stars:0 | AquaAlert is a smart web and mobile platform that enables citizens to report water quality issues such as contamination, unusual color, odor, or supply shortages in real time. Using AI, the system analyzes user reports along with available environmental data to generate a live water risk map for communities. It helps authorities respond faster "
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "SUBHASHREE135/CivicAi",
+      "url": "https://github.com/SUBHASHREE135/CivicAi",
+      "snippet": "Stars:0 | CivicAI is an intelligent web-based platform designed to bridge the gap between citizens and government authorities by simplifying the process of reporting and analyzing civic issues. The system allows users to submit complaints related to public infrastructure such as road damage, water supply issues, and garbage management. Each complaint include"
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "modestesavadogo/The-2026-EY-AI-Data-Challenge-Optimizing-Clean-Water-Supply",
+      "url": "https://github.com/modestesavadogo/The-2026-EY-AI-Data-Challenge-Optimizing-Clean-Water-Supply",
+      "snippet": "Stars:0 | Water quality prediction using satellite imagery and climate data — 2026 EY AI & Data Challenge:"
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "vthiruselvam41-del/AI-Based-Smart-Irrigation-Monitoring-System.",
+      "url": "https://github.com/vthiruselvam41-del/AI-Based-Smart-Irrigation-Monitoring-System.",
+      "snippet": "Stars:0 | The AI Based Smart Irrigation Monitoring System automatically monitors soil moisture and controls irrigation to supply water to crops only when needed, helping save water and improve agricultural efficiency."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "karthikreddy06/water-potability-ml",
+      "url": "https://github.com/karthikreddy06/water-potability-ml",
+      "snippet": "Stars:0 | Machine learning project predicting drinking water quality using Random Forest, XGBoost, KNN, and Neural Networks with Streamlit app."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "Swetha5126/Water_quality_classification-using-ML",
+      "url": "https://github.com/Swetha5126/Water_quality_classification-using-ML",
+      "snippet": "Stars:0 | This project presents an intelligent system for predicting water potability using machine learning.The system leverages a Random Forest Classifier trained on water quality datasets to determine whether water is safe or unsafe . Here the model provides insights, including reasons for contamination and suggestions for improving water quality."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "harshitasharma26/Green-Sphere",
+      "url": "https://github.com/harshitasharma26/Green-Sphere",
+      "snippet": "Stars:0 |  A web app to monitor air quality, water safety, and soil conditions across India using Machine Learning and Streamlit."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "Nelvinebi/Water-Quality-Index-Prediction-Using-ML-XGBoost-RF-LSTM-",
+      "url": "https://github.com/Nelvinebi/Water-Quality-Index-Prediction-Using-ML-XGBoost-RF-LSTM-",
+      "snippet": "Stars:14 | This project applies Machine Learning (XGBoost, Random Forest) and Deep Learning (LSTM) to predict the Water Quality Index (WQI) using synthetic environmental data, helping assess water safety, support sustainable management, and demonstrate AI’s role in environmental monitoring and decision-making."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "Peeem032/Qwater",
+      "url": "https://github.com/Peeem032/Qwater",
+      "snippet": "Stars:0 | Qwater is a modern, full-stack artificial intelligence application built to analyze and predict water-related metrics (such as water quality, levels, or safety). It integrates advanced machine learning models directly into an interactive web platform."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "vinutmaradur/Data_Science-Water_quality_test_prediction",
+      "url": "https://github.com/vinutmaradur/Data_Science-Water_quality_test_prediction",
+      "snippet": "Stars:0 | Classification model to determine water quality based on chemical parameters using machine learning algorithms and data preprocessing techniques."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "kryptologyst/Water-Quality-Monitoring-System",
+      "url": "https://github.com/kryptologyst/Water-Quality-Monitoring-System",
+      "snippet": "Stars:0 | A comprehensive machine learning system for water quality assessment and monitoring, designed for educational and research purposes."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "Nelvinebi/Water-Quality-Index-Prediction-for-Niger-Delta-Rivers-Using-ML-and-XGBoost",
+      "url": "https://github.com/Nelvinebi/Water-Quality-Index-Prediction-for-Niger-Delta-Rivers-Using-ML-and-XGBoost",
+      "snippet": "Stars:2 | This project leverages machine learning and XGBoost to predict the Water Quality Index of Niger Delta rivers using synthetic environmental data, supporting data-driven water quality assessment, pollution monitoring, and sustainable water resource management."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "RangaMokshagna/aquasense",
+      "url": "https://github.com/RangaMokshagna/aquasense",
+      "snippet": "Stars:0 | Real time water quality monitoring using IoT sensors (ESP32), Machine Learning (SVM), and React dashboard"
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "SubhankarDeb/Capstone-Project-Aqua-sentinel",
+      "url": "https://github.com/SubhankarDeb/Capstone-Project-Aqua-sentinel",
+      "snippet": "Stars:0 | This project predicts waterborne disease risk using machine learning based on water quality parameters."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "alaafarid998/Irrigation-need-Prediction",
+      "url": "https://github.com/alaafarid998/Irrigation-need-Prediction",
+      "snippet": "Stars:0 | Deep learning model to predict crop irrigation needs (Low/Medium/High)"
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "Elkammar501/deep-learning-comp-Predicting-Irrigation-Need",
+      "url": "https://github.com/Elkammar501/deep-learning-comp-Predicting-Irrigation-Need",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "faridaessam434/Prediction-of-Irrigation-Need-Deep-Learning-Project",
+      "url": "https://github.com/faridaessam434/Prediction-of-Irrigation-Need-Deep-Learning-Project",
+      "snippet": "Stars:0 | Deep Learning project designed to optimize water usage. Developed using TensorFlow/Keras to predict irrigation needs based on soil & climate data. Features data preprocessing, neural network architecture, and performance evaluation to enhance agricultural efficiency."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "Kareem-Elhossiny/Irrigation_Need",
+      "url": "https://github.com/Kareem-Elhossiny/Irrigation_Need",
+      "snippet": "Stars:0 | A deep learning project aimed at predicting crop irrigation needs using environmental, soil, and climate data. Performed exploratory data analysis with a correlation heatmap to identify key feature relationships, handled class imbalance using SMOTE, and built a neural network that achieved 97.7% accuracy"
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "Emannasr5544-collab/Smart-Irrigation-Deep-Learning-",
+      "url": "https://github.com/Emannasr5544-collab/Smart-Irrigation-Deep-Learning-",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "Emannasr5544-collab/Smart-Irrigation-Deep-Learning",
+      "url": "https://github.com/Emannasr5544-collab/Smart-Irrigation-Deep-Learning",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "salmamahmoudabdelhaleem/Smart-Irrigation-Prediction-System-",
+      "url": "https://github.com/salmamahmoudabdelhaleem/Smart-Irrigation-Prediction-System-",
+      "snippet": "Stars:0 | Developed an intelligent irrigation prediction system using Deep Learning to estimate crop water requirements, aiming to optimize water usage and enhance agricultural efficiency."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "gehad-abdulaziz/Irrigation-Need-XGBoost-Deep-Learning",
+      "url": "https://github.com/gehad-abdulaziz/Irrigation-Need-XGBoost-Deep-Learning",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "sriram-mahendran/automated_greenhouse_webapp",
+      "url": "https://github.com/sriram-mahendran/automated_greenhouse_webapp",
+      "snippet": "Stars:1 | This web application uses trained deep learning and computer vision models to detect plant diseases and nutrient deficiencies. It also monitors plant growth and visualizes real-time sensor data. Additionally, machine learning models predict optimal irrigation schedules, enabling efficient and data-driven farm management."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "najzdev/AmaneAi",
+      "url": "https://github.com/najzdev/AmaneAi",
+      "snippet": "Stars:0 | Front only for now! the server and iot are not yet deployed in this version🌍 AI-powered IoT ecosystem for Smart Agriculture in Morocco. Featuring precision irrigation, livestock monitoring, yield optimization, and hazard detection. Built with Full-Stack Web, Deep Learning, and an agentic LLM (Wani) in Darija/Amazigh."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "DimoN-i/universal-watermark-remover-ai",
+      "url": "https://github.com/DimoN-i/universal-watermark-remover-ai",
+      "snippet": "Stars:0 | 💧 Remove watermarks from images efficiently using AI, ensuring clean visuals for your projects with ease and accuracy."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "samarahhiba/Water-Detection",
+      "url": "https://github.com/samarahhiba/Water-Detection",
+      "snippet": "Stars:0 | Water Detection is an AI-powered web app that analyzes images of water and predicts whether the water looks clean or contaminated using machine learning-based visual feature analysis."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "AICoolK8e8vC83i/AEGIS-Unified-Intelligence-Layer-with-Simulated-Paths-for-Hurricanes-Inspo-for-Other-Disasters.",
+      "url": "https://github.com/AICoolK8e8vC83i/AEGIS-Unified-Intelligence-Layer-with-Simulated-Paths-for-Hurricanes-Inspo-for-Other-Disasters.",
+      "snippet": "Stars:0 | AI Unified Dashboard for Hurricane w/ Robot Design and Deployment. The same layout can be applied to other natural disasters or to help with growing food/creating clean water infrastructure."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "DevExplorerr/Drips-Water",
+      "url": "https://github.com/DevExplorerr/Drips-Water",
+      "snippet": "Stars:1 | A high performance Flutter & Firebase water delivery ecosystem. Features Clean Architecture (Repository-Service-Provider), real-time Admin fulfillment dashboards, Google DialogFlow AI support, and advanced delivery scheduling"
+    },
+    {
+      "date": "2026-04-06",
+      "company": "google",
+      "source": "github",
+      "title": "KAWDHITHA-NIRMAL/Gemini-Watermark-Remover",
+      "url": "https://github.com/KAWDHITHA-NIRMAL/Gemini-Watermark-Remover",
+      "snippet": "Stars:3 | ultimate automated solution for cleaning AI-generated artwork ✨"
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "Hurve-en/CITA-CebuWaterWatchAI",
+      "url": "https://github.com/Hurve-en/CITA-CebuWaterWatchAI",
+      "snippet": "Stars:0 | SDG 6 - Clean Water and Sanitation"
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "justinpaul-4/AI-Text-Remover-from-Images-Remove-Words-and-Watermarks-Online",
+      "url": "https://github.com/justinpaul-4/AI-Text-Remover-from-Images-Remove-Words-and-Watermarks-Online",
+      "snippet": "Stars:0 | Erase unwanted text, watermarks, and captions from images using an AI-powered tool. Clean up photos instantly and Vist Website to try the tool online."
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "Nimblize1001/How-do-you-maintain-an-air-fryer-for-long-use-in-the-US-",
+      "url": "https://github.com/Nimblize1001/How-do-you-maintain-an-air-fryer-for-long-use-in-the-US-",
+      "snippet": "Stars:0 | To ensure the longevity of your best air fryer, regular cleaning is essential. After each use, allow the appliance to cool down before wiping the exterior and cleaning the basket and tray with warm,soapy water. Avoid using abrasive materials that could scratch the non-stick surfaces,and ensure all components are thoroughly dried before reassembling"
+    },
+    {
+      "date": "2026-04-06",
+      "company": "general",
+      "source": "github",
+      "title": "watercrawl/watercrawl-datasource-dify-plugin",
+      "url": "https://github.com/watercrawl/watercrawl-datasource-dify-plugin",
+      "snippet": "Stars:0 | A powerful Dify datasource plugin that integrates with [Watercrawl](https://watercrawl.dev) to recursively crawl websites and extract clean, LLM-ready content for AI applications."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "openai",
+      "source": "semantic_scholar",
+      "title": "Experimental Results with the Use of OpenAI with IoT Classes for Water Analysis in Rainfall",
+      "url": "https://www.semanticscholar.org/paper/e4391bfac0f7e5415243a28e90bc4959314382f8",
+      "snippet": "Water, being an essential resource for life and sustainable development, faces significant challenges such as scarcity due to factors such as climate change and population growth. Given this panorama, the need arises for innovative solutions to guarantee universal access to water. In this context, an Internet of Things (IoT) system has been developed in collaboration with OpenAI technology during "
+    },
+    {
+      "date": "2026-04-07",
+      "company": "openai",
+      "source": "semantic_scholar",
+      "title": "Land Use and Land Cover Maps for Stream Water Quality Assessment in Spatial Buffers: A Systematic Review of Recent Trends (2020–2024)",
+      "url": "https://www.semanticscholar.org/paper/cbf45c5b1105e32d52441b5c9a0b60b9dccd1308",
+      "snippet": "Assessing the impact of land use and land cover (LULC) on water quality (WQ) is central to land-based environmental research. Adhering to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, this study analyses recent trends using LULC maps to assess stream WQ within buffers, focusing on papers published between 2020 and 2024. It identifies relevant remote sensing pra"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "openai",
+      "source": "semantic_scholar",
+      "title": "Integrating Artificial Intelligence into an Automated Irrigation System",
+      "url": "https://www.semanticscholar.org/paper/1ef0731fbe841c5c63888ddb633f3af874767d50",
+      "snippet": "Climate change in Eastern Europe requires introducing automated irrigation systems and monitoring agricultural and climatic parameters to ensure food security. The automation of irrigation, together with the generation of climate reports based on AI (artificial intelligence) using OpenAI models for Internet of Things (IoT) data processing, contributes to the optimization of resources by reducing e"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "openai",
+      "source": "semantic_scholar",
+      "title": "Using artificial intelligence tools for data quality evaluation in the context of microplastic human health risk assessments.",
+      "url": "https://www.semanticscholar.org/paper/d9c334233a1d33e99537c882c9d0ae28ae910705",
+      "snippet": "Concerns about the negative impacts of microplastics on human health are increasing in society, while exposure and risk assessments require high-quality, reliable data. Although quality assurance and -control (QA/QC) frameworks exist to evaluate the reliability of data for these purposes, manually assessing studies is too time-consuming and prone to inconsistencies due to semantic ambiguities and "
+    },
+    {
+      "date": "2026-04-07",
+      "company": "general",
+      "source": "github",
+      "title": "NidhiPachaya2003/Water-Quality-Prediction-using-Machine-Learning-Algorithms",
+      "url": "https://github.com/NidhiPachaya2003/Water-Quality-Prediction-using-Machine-Learning-Algorithms",
+      "snippet": "Stars:0 | This project predicts water quality using Machine Learning models like Logistic Regression, Naive Bayes, SVM, KNN, Random Forest, and Decision Tree. It analyzes parameters such as pH, hardness, and turbidity to determine water potability and compares model performance using accuracy and other metrics."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "general",
+      "source": "github",
+      "title": "BurritoMao/EY_WATER_2026",
+      "url": "https://github.com/BurritoMao/EY_WATER_2026",
+      "snippet": "Stars:0 | To develop a robust machine learning model capable of predicting water quality across various river locations in South Africa. In addition to accurate predictions, the model should also identify and emphasize the key factors that significantly influence water quality."
+    }
+  ]
 }

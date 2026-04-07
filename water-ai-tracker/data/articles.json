@@ -281,6 +281,54 @@
       "title": "watercrawl/watercrawl-datasource-dify-plugin",
       "url": "https://github.com/watercrawl/watercrawl-datasource-dify-plugin",
       "snippet": "Stars:0 | A powerful Dify datasource plugin that integrates with [Watercrawl](https://watercrawl.dev) to recursively crawl websites and extract clean, LLM-ready content for AI applications."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "openai",
+      "source": "semantic_scholar",
+      "title": "Experimental Results with the Use of OpenAI with IoT Classes for Water Analysis in Rainfall",
+      "url": "https://www.semanticscholar.org/paper/e4391bfac0f7e5415243a28e90bc4959314382f8",
+      "snippet": "Water, being an essential resource for life and sustainable development, faces significant challenges such as scarcity due to factors such as climate change and population growth. Given this panorama, the need arises for innovative solutions to guarantee universal access to water. In this context, an Internet of Things (IoT) system has been developed in collaboration with OpenAI technology during "
+    },
+    {
+      "date": "2026-04-07",
+      "company": "openai",
+      "source": "semantic_scholar",
+      "title": "Land Use and Land Cover Maps for Stream Water Quality Assessment in Spatial Buffers: A Systematic Review of Recent Trends (2020–2024)",
+      "url": "https://www.semanticscholar.org/paper/cbf45c5b1105e32d52441b5c9a0b60b9dccd1308",
+      "snippet": "Assessing the impact of land use and land cover (LULC) on water quality (WQ) is central to land-based environmental research. Adhering to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, this study analyses recent trends using LULC maps to assess stream WQ within buffers, focusing on papers published between 2020 and 2024. It identifies relevant remote sensing pra"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "openai",
+      "source": "semantic_scholar",
+      "title": "Integrating Artificial Intelligence into an Automated Irrigation System",
+      "url": "https://www.semanticscholar.org/paper/1ef0731fbe841c5c63888ddb633f3af874767d50",
+      "snippet": "Climate change in Eastern Europe requires introducing automated irrigation systems and monitoring agricultural and climatic parameters to ensure food security. The automation of irrigation, together with the generation of climate reports based on AI (artificial intelligence) using OpenAI models for Internet of Things (IoT) data processing, contributes to the optimization of resources by reducing e"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "openai",
+      "source": "semantic_scholar",
+      "title": "Using artificial intelligence tools for data quality evaluation in the context of microplastic human health risk assessments.",
+      "url": "https://www.semanticscholar.org/paper/d9c334233a1d33e99537c882c9d0ae28ae910705",
+      "snippet": "Concerns about the negative impacts of microplastics on human health are increasing in society, while exposure and risk assessments require high-quality, reliable data. Although quality assurance and -control (QA/QC) frameworks exist to evaluate the reliability of data for these purposes, manually assessing studies is too time-consuming and prone to inconsistencies due to semantic ambiguities and "
+    },
+    {
+      "date": "2026-04-07",
+      "company": "general",
+      "source": "github",
+      "title": "NidhiPachaya2003/Water-Quality-Prediction-using-Machine-Learning-Algorithms",
+      "url": "https://github.com/NidhiPachaya2003/Water-Quality-Prediction-using-Machine-Learning-Algorithms",
+      "snippet": "Stars:0 | This project predicts water quality using Machine Learning models like Logistic Regression, Naive Bayes, SVM, KNN, Random Forest, and Decision Tree. It analyzes parameters such as pH, hardness, and turbidity to determine water potability and compares model performance using accuracy and other metrics."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "general",
+      "source": "github",
+      "title": "BurritoMao/EY_WATER_2026",
+      "url": "https://github.com/BurritoMao/EY_WATER_2026",
+      "snippet": "Stars:0 | To develop a robust machine learning model capable of predicting water quality across various river locations in South Africa. In addition to accurate predictions, the model should also identify and emphasize the key factors that significantly influence water quality."
     }
   ]
 }

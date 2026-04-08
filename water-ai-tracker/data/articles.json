@@ -579,6 +579,16 @@
       "title": "4RN1E/Streamlit-Data-App",
       "url": "https://github.com/4RN1E/Streamlit-Data-App",
       "snippet": "Stars:0 | Initial commit of an assignment I did in class. The assignment includes a water quality dashboard with built in Gemini 3 API. Tab 4 includes the NASA API with the APOD (astronomy picture of the day)."
+    },
+    {
+      "date": "2026-04-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Nelvinebi/hybrid-ai-lstm-xgboost-interpretable-water-quality-prediction",
+      "url": "https://github.com/Nelvinebi/hybrid-ai-lstm-xgboost-interpretable-water-quality-prediction",
+      "snippet": "Stars:11 | This project forecasts ocean current speeds using synthetic time series data and machine learning models. It demonstrates how lag-based features and supervised learning (Linear Regression, Random Forest) can be applied to environmental data for predictive analysis and educational purposes."
     }
   ]
 }

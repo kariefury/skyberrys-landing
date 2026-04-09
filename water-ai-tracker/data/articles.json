@@ -589,6 +589,66 @@
       "title": "Nelvinebi/hybrid-ai-lstm-xgboost-interpretable-water-quality-prediction",
       "url": "https://github.com/Nelvinebi/hybrid-ai-lstm-xgboost-interpretable-water-quality-prediction",
       "snippet": "Stars:11 | This project forecasts ocean current speeds using synthetic time series data and machine learning models. It demonstrates how lag-based features and supervised learning (Linear Regression, Random Forest) can be applied to environmental data for predictive analysis and educational purposes."
+    },
+    {
+      "date": "2026-04-09",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "Seasonal controls on groundwater irrigation quality in a semi-arid granitic watershed of Telangana, India: an integrated IWQI-GIS-multivariate approach",
+      "url": "https://www.nature.com/articles/s41598-026-46780-8",
+      "snippet": "Scientific Reports - Seasonal controls on groundwater irrigation quality in a semi-arid granitic watershed of Telangana, India: an integrated IWQI-GIS-multivariate approach"
+    },
+    {
+      "date": "2026-04-09",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "A Review of Low-Cost Point-of-Use Water Treatment Solutions Addressing Water Access and Quality in Resource-Limited Settings",
+      "url": "https://www.semanticscholar.org/paper/35105d7fab5470e57d1664555d612052096af3d7",
+      "snippet": "Access to safe, clean drinking water is a critical challenge across many resource-constrained settings, especially in developing economies. Large-scale water treatment technologies are often available in urban areas, whereas such centralized systems are unavailable in rural and remote areas due to high infrastructure costs, rugged terrains, and maintenance challenges. To address this challenge, po"
+    },
+    {
+      "date": "2026-04-09",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "“In the dry season, our suffering doubles”: Barriers to water access in poor urban settlements in Ghana",
+      "url": "https://www.semanticscholar.org/paper/3314d6d5c87bdeb220d2c84a8038551293e6bf14",
+      "snippet": "If current trends of water insecurity continue, nearly two-thirds of the world’s population will live in water-scarce conditions by 2025. Nevertheless, qualitative studies on barriers to water access, particularly in informal settlements, remain limited. This study used in-depth interviews to examine the daily barriers to water access faced by urban poor households in Ghana. A total of 30 (n = 30)"
+    },
+    {
+      "date": "2026-04-09",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ifiga/water-quality-classification-mexico",
+      "url": "https://github.com/ifiga/water-quality-classification-mexico",
+      "snippet": "Stars:0 | Reproducible machine learning pipeline for multiclass water quality classification in Mexico, including leakage-aware grouped splitting and domain-aware modeling."
+    },
+    {
+      "date": "2026-04-09",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Ariel-CPP/shrimp-risk-intelligence-system",
+      "url": "https://github.com/Ariel-CPP/shrimp-risk-intelligence-system",
+      "snippet": "Stars:0 | Machine learning–based decision support system for aquaculture risk analysis using water quality parameters, with SHAP-based interpretability."
+    },
+    {
+      "date": "2026-04-09",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "myrickyai/water-tracker",
+      "url": "https://github.com/myrickyai/water-tracker",
+      "snippet": "Stars:0 | 💧 飲水追蹤器 — 超靚水波動畫，streak 追蹤，每日目標。單 HTML 文件，Built with Claude Code"
     }
   ]
 }

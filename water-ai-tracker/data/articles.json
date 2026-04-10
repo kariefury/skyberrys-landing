@@ -649,6 +649,76 @@
       "title": "myrickyai/water-tracker",
       "url": "https://github.com/myrickyai/water-tracker",
       "snippet": "Stars:0 | 💧 飲水追蹤器 — 超靚水波動畫，streak 追蹤，每日目標。單 HTML 文件，Built with Claude Code"
+    },
+    {
+      "date": "2026-04-10",
+      "company": "openai",
+      "model_family": "gpt",
+      "model_variant": "gpt-4o",
+      "source": "semantic_scholar",
+      "title": "Identifying Physiochemical Variables important to LLM Prediction of Coliform Bacteria Presence",
+      "url": "https://www.semanticscholar.org/paper/79143772014ec126e00f1eb4fa5fd1c44afcdfda",
+      "snippet": "The objective of this study was to evaluate whether large language models (LLMs) can effectively predict the presence of coliform bacteria in water using physicochemical and sanitizer residual features, providing a rapid and low-cost alternative to conventional laboratory testing. This question is significant because coliform detection is a key public health concern, yet current methods are resour"
+    },
+    {
+      "date": "2026-04-10",
+      "company": "anthropic",
+      "model_family": null,
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Implementation of an intelligent virtual assistant based on LLM models for irrigation optimization",
+      "url": "https://www.semanticscholar.org/paper/47fc24f110fa0594f41d9ac16ce4bc2a4a371062",
+      "snippet": "This paper explores the application of new AI capabilities and Large Languages Models (LLMs) in agriculture by developing an intelligent virtual assistant. The assistant aims to provide essential information on crops, vulnerabilities, and optimization strategies. The study focuses on implementing a robust pipeline architecture that trains LLMs for practical scenarios. This architecture ensures dat"
+    },
+    {
+      "date": "2026-04-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Essie21/Water-Quality-Potability-Prediction",
+      "url": "https://github.com/Essie21/Water-Quality-Potability-Prediction",
+      "snippet": "Stars:0 | This project predicts whether a water sample is safe for drinking (potable) using machine learning. We analyze physicochemical properties including pH, hardness, solids, chloramines, sulfate, conductivity, organic carbon, trihalomethanes, and turbidity."
+    },
+    {
+      "date": "2026-04-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kryptologyst/Pollution-Source-Identification",
+      "url": "https://github.com/kryptologyst/Pollution-Source-Identification",
+      "snippet": "Stars:0 | A machine learning system for identifying pollution sources from environmental sensor data. This project demonstrates advanced techniques for classifying pollution as Industrial, Agricultural, Urban Runoff, or Natural based on water quality parameters."
+    },
+    {
+      "date": "2026-04-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Janani-prog/Water-Quality-Monitoring-and-Contamination-Prediction-System-Using-Machine-Learning",
+      "url": "https://github.com/Janani-prog/Water-Quality-Monitoring-and-Contamination-Prediction-System-Using-Machine-Learning",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-04-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kaushalabhinav574-rgb/sutlej-water-quality-ml",
+      "url": "https://github.com/kaushalabhinav574-rgb/sutlej-water-quality-ml",
+      "snippet": "Stars:0 | Predicting Water Quality Index using Machine Learning "
+    },
+    {
+      "date": "2026-04-10",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Water4-org/water4-fundraising-intelligence",
+      "url": "https://github.com/Water4-org/water4-fundraising-intelligence",
+      "snippet": "Stars:0 | Water4 Fundraising Intelligence System — Salesforce + Claude AI + React donor analytics"
     }
   ]
 }

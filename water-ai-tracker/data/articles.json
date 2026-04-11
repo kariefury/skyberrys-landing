@@ -719,6 +719,36 @@
       "title": "Water4-org/water4-fundraising-intelligence",
       "url": "https://github.com/Water4-org/water4-fundraising-intelligence",
       "snippet": "Stars:0 | Water4 Fundraising Intelligence System — Salesforce + Claude AI + React donor analytics"
+    },
+    {
+      "date": "2026-04-11",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": "claude-sonnet-4-6",
+      "source": "semantic_scholar",
+      "title": "LLM-Assisted CPSTRIDE Threat Modeling for Critical Water Infrastructure",
+      "url": "https://www.semanticscholar.org/paper/f6249406654397c24dd2489f1e18f1b3e06dedd2",
+      "snippet": "Critical infrastructures face hybrid threats that threat modeling frameworks like STRIDE, MITRE ATT&CK, and Cyber Kill Chain are ill-suited to capture. These frameworks focus on cybersecurity, leaving blind spots, and their reliance on human expertise limits scalability. Attacks on critical water infrastructure underscore the importance of cyber-physical threat modeling, as does the emergence of a"
+    },
+    {
+      "date": "2026-04-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Shreyayadav05/Smart-Water-Pressure-Management-for-Equitable-Water-Supply-in-municipal-corporation",
+      "url": "https://github.com/Shreyayadav05/Smart-Water-Pressure-Management-for-Equitable-Water-Supply-in-municipal-corporation",
+      "snippet": "Stars:0 | AI-powered IoT platform that builds a digital twin of water pipelines to predict leaks, detect pressure anomalies, and auto-dispatch repairs. Combines ESP32 sensors, real-time cloud streaming, and anomaly detection to transform cities from reactive maintenance to predictive infrastructure."
+    },
+    {
+      "date": "2026-04-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "NeuralImprint/water-potability-app",
+      "url": "https://github.com/NeuralImprint/water-potability-app",
+      "snippet": "Stars:0 | This project uses machine learning to predict water potability via pH, hardness, and turbidity. Preprocessing and EDA improved data quality. Random Forest and XGBoost performed best, validated by accuracy and F1 scores. A Streamlit interface provides real-time safety predictions, supporting data-driven environmental monitoring and public health."
     }
   ]
 }

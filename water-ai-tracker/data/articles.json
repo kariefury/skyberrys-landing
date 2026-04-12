@@ -749,6 +749,46 @@
       "title": "NeuralImprint/water-potability-app",
       "url": "https://github.com/NeuralImprint/water-potability-app",
       "snippet": "Stars:0 | This project uses machine learning to predict water potability via pH, hardness, and turbidity. Preprocessing and EDA improved data quality. Random Forest and XGBoost performed best, validated by accuracy and F1 scores. A Streamlit interface provides real-time safety predictions, supporting data-driven environmental monitoring and public health."
+    },
+    {
+      "date": "2026-04-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "akhilanuthula25/Water_Quality_Classification-ML",
+      "url": "https://github.com/akhilanuthula25/Water_Quality_Classification-ML",
+      "snippet": "Stars:0 | Machine learning project using the Kaggle Water Potability dataset to predict whether water is safe to drink using Logistic Regression, KNN, and Random Forest."
+    },
+    {
+      "date": "2026-04-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kanishkkapoor15/European_Water_Quality_Modelling",
+      "url": "https://github.com/kanishkkapoor15/European_Water_Quality_Modelling",
+      "snippet": "Stars:0 | Advanced Machine Learning Model for European Water-Quality forecast."
+    },
+    {
+      "date": "2026-04-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Bajajmanjit12/Smart-AquaSacn",
+      "url": "https://github.com/Bajajmanjit12/Smart-AquaSacn",
+      "snippet": "Stars:0 | An Integrated Machine Learning Model for Real-Time Water Quality Prediction and Analysis"
+    },
+    {
+      "date": "2026-04-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "hassan-ali786/water-quality-prediction-ml",
+      "url": "https://github.com/hassan-ali786/water-quality-prediction-ml",
+      "snippet": "Stars:0 | End-to-end machine learning project for water quality analysis, including EDA, model training, and a Streamlit app to predict if water is safe for drinking."
     }
   ]
 }

@@ -789,6 +789,26 @@
       "title": "hassan-ali786/water-quality-prediction-ml",
       "url": "https://github.com/hassan-ali786/water-quality-prediction-ml",
       "snippet": "Stars:0 | End-to-end machine learning project for water quality analysis, including EDA, model training, and a Streamlit app to predict if water is safe for drinking."
+    },
+    {
+      "date": "2026-04-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "bhaktimate/water-quality-system",
+      "url": "https://github.com/bhaktimate/water-quality-system",
+      "snippet": "Stars:0 | AI-powered Water Quality Prediction system using Machine Learning (SVM) that classifies water as Safe, Moderately Contaminated, or Contaminated based on chemical parameters."
+    },
+    {
+      "date": "2026-04-13",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ishamehra/hydrate-hook",
+      "url": "https://github.com/ishamehra/hydrate-hook",
+      "snippet": "Stars:0 |   A hydration reminder triggered by Claude Code hooks. Nudges you to drink water when a   prompt runs too long, with optional webcam-based sip detection."
     }
   ]
 }

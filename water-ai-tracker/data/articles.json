@@ -839,6 +839,46 @@
       "title": "onurkaraca87/ML-Hyperspectral-TSS",
       "url": "https://github.com/onurkaraca87/ML-Hyperspectral-TSS",
       "snippet": "Stars:3 | Machine learning–based estimation of Total Suspended Solids (TSS) using in situ hyperspectral reflectance and PRISMA, EMIT, and PACE satellite data. Includes CatBoost, Random Forest, XGBoost, LightGBM, and PLSR models for estuarine water quality monitoring."
+    },
+    {
+      "date": "2026-04-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "rohanMB357/Machine-learning-",
+      "url": "https://github.com/rohanMB357/Machine-learning-",
+      "snippet": "Stars:0 | Machine learning project for water pollution classification and water quality prediction using Python"
+    },
+    {
+      "date": "2026-04-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Shubham-css/AI-Powered-Water-Quality-Prediction-System",
+      "url": "https://github.com/Shubham-css/AI-Powered-Water-Quality-Prediction-System",
+      "snippet": "Stars:0 | AI-powered water quality prediction system using Machine Learning with Streamlit deployment"
+    },
+    {
+      "date": "2026-04-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AksharaaSharmaa/Ganga_Riverwater_Quality_Monitoring_SIH_2024",
+      "url": "https://github.com/AksharaaSharmaa/Ganga_Riverwater_Quality_Monitoring_SIH_2024",
+      "snippet": "Stars:5 | 🌊🔍 AI-powered system for real-time monitoring and forecasting of Ganga River water quality, integrating sensor data with machine learning to detect pollution trends and predict water parameters. Provides actionable insights through an intelligent decision support system to guide conservation and restoration efforts for India's sacred river .💧🌿"
+    },
+    {
+      "date": "2026-04-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Abhishek-gt07/Water-Potability-Prediction",
+      "url": "https://github.com/Abhishek-gt07/Water-Potability-Prediction",
+      "snippet": "Stars:0 | The goal of this project is to develop a machine learning model to predict water potability based on various water quality parameters. This model will help in assessing whether water is safe for consumption, which is crucial for public health and water management."
     }
   ]
 }

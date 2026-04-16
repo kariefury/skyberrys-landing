@@ -879,6 +879,36 @@
       "title": "Abhishek-gt07/Water-Potability-Prediction",
       "url": "https://github.com/Abhishek-gt07/Water-Potability-Prediction",
       "snippet": "Stars:0 | The goal of this project is to develop a machine learning model to predict water potability based on various water quality parameters. This model will help in assessing whether water is safe for consumption, which is crucial for public health and water management."
+    },
+    {
+      "date": "2026-04-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "moooom-claude/moooom-claude",
+      "url": "https://github.com/moooom-claude/moooom-claude",
+      "snippet": "Stars:0 | World Moms for Claude Code — 10 cultures of mom nagging you to drink water, eat food, and sit up straight. Plugin for Claude Code."
+    },
+    {
+      "date": "2026-04-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "mturac/moooom-claude",
+      "url": "https://github.com/mturac/moooom-claude",
+      "snippet": "Stars:0 | World Moms for Claude Code — 10 cultures of mom nagging you to drink water, eat food, and sit up straight"
+    },
+    {
+      "date": "2026-04-16",
+      "company": "openai",
+      "model_family": "gpt",
+      "model_variant": "gpt-4o",
+      "source": "github",
+      "title": "gabgaballday/impactapi-docs",
+      "url": "https://github.com/gabgaballday/impactapi-docs",
+      "snippet": "Stars:1 | Public documentation for ImpactAPI: estimate the carbon emissions, energy use, and water consumption of AI and LLM workloads. Covers supported models (GPT-4o, Claude 3.5, Gemini), cloud region carbon intensity, estimation methodology, and pricing. Pre-order now at impactapi.co.uk"
     }
   ]
 }

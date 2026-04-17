@@ -909,6 +909,56 @@
       "title": "gabgaballday/impactapi-docs",
       "url": "https://github.com/gabgaballday/impactapi-docs",
       "snippet": "Stars:1 | Public documentation for ImpactAPI: estimate the carbon emissions, energy use, and water consumption of AI and LLM workloads. Covers supported models (GPT-4o, Claude 3.5, Gemini), cloud region carbon intensity, estimation methodology, and pricing. Pre-order now at impactapi.co.uk"
+    },
+    {
+      "date": "2026-04-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "VishalRaj720/JalDrishti",
+      "url": "https://github.com/VishalRaj720/JalDrishti",
+      "snippet": "Stars:0 | **JalDrishti** 🌊 An AI-driven water quality monitoring and risk assessment system using Machine Learning to predict groundwater degradation, assess aquifer vulnerability, and design data-informed monitoring strategies for early contamination detection."
+    },
+    {
+      "date": "2026-04-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "MHridoy-123/Time-series-forecasting-of-aquaculture-water-quality-",
+      "url": "https://github.com/MHridoy-123/Time-series-forecasting-of-aquaculture-water-quality-",
+      "snippet": "Stars:0 | Time series forecasting of aquaculture water quality parameters using interpretable machine learning models on IoT sensor data"
+    },
+    {
+      "date": "2026-04-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Kavi-Cs/Enhancing-Accuracy-in-Reservoir-Drinking-Water-Quality-Assessment-Using-Machine-Learning.",
+      "url": "https://github.com/Kavi-Cs/Enhancing-Accuracy-in-Reservoir-Drinking-Water-Quality-Assessment-Using-Machine-Learning.",
+      "snippet": "Stars:1 | Machine learning Group project based on 2nd year PH 2024 - Electronics and Computing Laboratory in University of Colombo, Faculty of science."
+    },
+    {
+      "date": "2026-04-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "vishnu1116/my",
+      "url": "https://github.com/vishnu1116/my",
+      "snippet": "Stars:0 | Prediction and Control of Water Quality Using IoT and Machine Learning Technologies  This project offers a smart system for predicting and managing the quality of water by utilizing IoT and machine learning techniques through Arduino Uno, NodeMCU, and sensors for pH, turbidity, temperature, and TDS values"
+    },
+    {
+      "date": "2026-04-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "marceloceccon/aguas-puras",
+      "url": "https://github.com/marceloceccon/aguas-puras",
+      "snippet": "Stars:0 | AguasPuras - Clean water. Open data. On-chain transparency + AI monitoring. Starting in Floripa."
     }
   ]
 }

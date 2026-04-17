@@ -329,6 +329,586 @@
       "title": "BurritoMao/EY_WATER_2026",
       "url": "https://github.com/BurritoMao/EY_WATER_2026",
       "snippet": "Stars:0 | To develop a robust machine learning model capable of predicting water quality across various river locations in South Africa. In addition to accurate predictions, the model should also identify and emphasize the key factors that significantly influence water quality."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "Reconstitution of woody biomass framework via dual-functional lignin engineering toward efficient and salt-resistant solar desalination",
+      "url": "https://www.nature.com/articles/s41467-026-70270-0",
+      "snippet": "Biomass-based systems for solar evaporation are a promising sustainable method to address global freshwater scarcity; however, current systems are inefficient. Here, the authors report a dual-function lignin-engineered reconstituted wood framework for a bioma…"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "Optimization of a hybrid solar still–HDH system via parametric study for lightweight desalination in remote areas",
+      "url": "https://www.nature.com/articles/s41598-026-43049-y",
+      "snippet": "Freshwater scarcity in remote and arid regions necessitates desalination systems that are not only productive but also lightweight, low-cost, and easy to deploy. In this study, a transient numerical model of a hybrid solar still–humidification–dehumidificatio…"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "xai",
+      "model_family": "grok",
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Advancing Water Quality Assessment and Prediction Using Machine Learning Models, Coupled with Explainable Artificial Intelligence (XAI) Techniques Like Shapley Additive Explanations (SHAP) For Interpreting the Black-Box Nature",
+      "url": "https://www.semanticscholar.org/paper/cfcb0c6fc51348cd6ff8dd450e45b0212119e062",
+      "snippet": ""
+    },
+    {
+      "date": "2026-04-07",
+      "company": "xai",
+      "model_family": "grok",
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Employing Explainable Artificial Intelligence (XAI) for Enhanced Water Quality Assessment",
+      "url": "https://www.semanticscholar.org/paper/4c7922e8ad057c163f19d7cc3b55320e38041447",
+      "snippet": "Maintaining the purity and quality of water is crucial for the well-being of numerous living organisms, as water consumption directly impacts physical health. Unfortunately, Earth is experiencing a concerning decline in water quality, resulting in a plethora of diseases and health deficiencies among individuals. One of the main challenges in water quality management is the presence of Total Dissol"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "xai",
+      "model_family": "grok",
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Interpreting optimised data-driven solution with explainable artificial intelligence (XAI) for water quality assessment for better decision-making in pollution management",
+      "url": "https://www.semanticscholar.org/paper/840fdc7c5ed9d7502a73b21b590210feac506884",
+      "snippet": ""
+    },
+    {
+      "date": "2026-04-07",
+      "company": "xai",
+      "model_family": "grok",
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "An IoT-Enabled Hybrid DRL-XAI Framework for Transparent Urban Water Management",
+      "url": "https://www.semanticscholar.org/paper/98c77736df4f191cc40ccaaa788929ef51a2b6f2",
+      "snippet": ""
+    },
+    {
+      "date": "2026-04-07",
+      "company": "xai",
+      "model_family": "grok",
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Water supply; work crew of Ju and Herero building /Xai/xai water tower and piping",
+      "url": "https://www.semanticscholar.org/paper/f837993b0364935bd2d0bfa76537f223bcadd2ac",
+      "snippet": ""
+    },
+    {
+      "date": "2026-04-07",
+      "company": "openai",
+      "model_family": "gpt",
+      "model_variant": "gpt-4-generic",
+      "source": "semantic_scholar",
+      "title": "The Implementation of Multimodal Large Language Models for Hydrological Applications: A Comparative Study of GPT-4 Vision, Gemini, LLaVa, and Multimodal-GPT",
+      "url": "https://www.semanticscholar.org/paper/965a6de65b8cebef8901ed4dd4fb38995f710dd3",
+      "snippet": "Large Language Models (LLMs) combined with visual foundation models have demonstrated significant advancements, achieving intelligence levels comparable to human capabilities. This study analyzes the latest Multimodal LLMs (MLLMs), including Multimodal-GPT, GPT-4 Vision, Gemini, and LLaVa, with a focus on hydrological applications such as flood management, water level monitoring, agricultural wate"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "yash-patil-ai/CROP-YIELD-PREDICTION-USING-MACHINE-LEARNING",
+      "url": "https://github.com/yash-patil-ai/CROP-YIELD-PREDICTION-USING-MACHINE-LEARNING",
+      "snippet": "Stars:0 | Crop yield prediction helps in making decisions at global, regional, and field levels by considering factors like soil, weather, and environment. Precision agriculture uses advanced technologies to improve yield and quality while reducing environmental impact. It also helps analyze the effects of water, nutrients, pests, diseases throughout crop"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shraddhapatil2005sp-lang/SentinAqua--Water-Monitoring",
+      "url": "https://github.com/shraddhapatil2005sp-lang/SentinAqua--Water-Monitoring",
+      "snippet": "Stars:0 | SentinAqua is an intelligent water quality monitoring system designed to detect pollution levels and predict possible industrial sources using Machine Learning. The system simulates real-time sensor data and provides meaningful insights through a web-based dashboard."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AjayRana1123/Aquacheck",
+      "url": "https://github.com/AjayRana1123/Aquacheck",
+      "snippet": "Stars:0 | Water Quality Detection — A full-stack web app that predicts water drinkability using machine learning. Users input parameters like pH, hardness, and solids; a Python ML model returns real-time predictions. Built with React, Node.js, Firebase Auth, MongoDB Atlas, and a pre-trained scikit-learn model."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "polar-bear-after-lunch/AareML",
+      "url": "https://github.com/polar-bear-after-lunch/AareML",
+      "snippet": "Stars:0 | Predicting River Water Quality in Swiss Catchments using Machine Learning "
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "cc-code-examples/rich-waterbuffalo-156807",
+      "url": "https://github.com/cc-code-examples/rich-waterbuffalo-156807",
+      "snippet": "Stars:0 | Python code example for the Claude Code challenge"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "year-of-the/vaper",
+      "url": "https://github.com/year-of-the/vaper",
+      "snippet": "Stars:0 | How much water you've boiled with Claude today."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "jbcrane13/GrowWise",
+      "url": "https://github.com/jbcrane13/GrowWise",
+      "snippet": "Stars:1 | 🌱 Modern iOS gardening app built with SwiftUI, SwiftData, and Claude-Flow orchestration. Features plant care tracking, watering reminders, and AI-powered gardening assistance."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "pacificwater2/water-code",
+      "url": "https://github.com/pacificwater2/water-code",
+      "snippet": "Stars:14 | A clean-room terminal coding agent built from Claude Code architecture research."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "kashiff0/apex-reef-dashboard",
+      "url": "https://github.com/kashiff0/apex-reef-dashboard",
+      "snippet": "Stars:0 | Self-hosted Neptune Apex reef controller dashboard with live programming, water quality log, and Claude AI integration"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "josephdandrea519/Deep-Water-Websites",
+      "url": "https://github.com/josephdandrea519/Deep-Water-Websites",
+      "snippet": "Stars:0 | Deep Water Websites client. Optimized for Netlify deployment, SEO performance, and Claude Code automation."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "patricklafrance/plantz-claude-v2",
+      "url": "https://github.com/patricklafrance/plantz-claude-v2",
+      "snippet": "Stars:0 | A plant watering application to try out a mouture of a Claude Code setup"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "aayushh-code/ccguilt",
+      "url": "https://github.com/aayushh-code/ccguilt",
+      "snippet": "Stars:0 | Claude Code Guilt Trip ,satirical environmental impact tracker for your AI habit. Research-backed energy, CO2, water, and tree destruction metrics."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "TechAwarenessMA/OpenH2O",
+      "url": "https://github.com/TechAwarenessMA/OpenH2O",
+      "snippet": "Stars:0 | Know your AI footprint. Upload your Claude conversations export and see your energy, water, and carbon impact."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Monet-Ltd/monet-setup",
+      "url": "https://github.com/Monet-Ltd/monet-setup",
+      "snippet": "Stars:0 | Claude Code plugin for Water Lilies IoT displays"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "Gagana-r/watersense-rag-bot",
+      "url": "https://github.com/Gagana-r/watersense-rag-bot",
+      "snippet": "Stars:0 | RAG-based Water Quality Q&A chatbot using LangChain, FAISS, and Google Gemini API"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "shashank28-1999/water-quality-analysis",
+      "url": "https://github.com/shashank28-1999/water-quality-analysis",
+      "snippet": "Stars:0 | A machine learning web app that analyzes water quality using 12 classification models (Random Forest, XGBoost, SVM, Neural Network and more) with real-time predictions, confusion matrices, and Gemini AI expert analysis. Built with React + Vite, trained on the Water Potability dataset."
+    },
+    {
+      "date": "2026-04-07",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "4RN1E/Streamlit-Data-App",
+      "url": "https://github.com/4RN1E/Streamlit-Data-App",
+      "snippet": "Stars:0 | Initial commit of an assignment I did in class. The assignment includes a water quality dashboard with built in Gemini 3 API. Tab 4 includes the NASA API with the APOD (astronomy picture of the day)."
+    },
+    {
+      "date": "2026-04-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Nelvinebi/hybrid-ai-lstm-xgboost-interpretable-water-quality-prediction",
+      "url": "https://github.com/Nelvinebi/hybrid-ai-lstm-xgboost-interpretable-water-quality-prediction",
+      "snippet": "Stars:11 | This project forecasts ocean current speeds using synthetic time series data and machine learning models. It demonstrates how lag-based features and supervised learning (Linear Regression, Random Forest) can be applied to environmental data for predictive analysis and educational purposes."
+    },
+    {
+      "date": "2026-04-09",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "Seasonal controls on groundwater irrigation quality in a semi-arid granitic watershed of Telangana, India: an integrated IWQI-GIS-multivariate approach",
+      "url": "https://www.nature.com/articles/s41598-026-46780-8",
+      "snippet": "Scientific Reports - Seasonal controls on groundwater irrigation quality in a semi-arid granitic watershed of Telangana, India: an integrated IWQI-GIS-multivariate approach"
+    },
+    {
+      "date": "2026-04-09",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "A Review of Low-Cost Point-of-Use Water Treatment Solutions Addressing Water Access and Quality in Resource-Limited Settings",
+      "url": "https://www.semanticscholar.org/paper/35105d7fab5470e57d1664555d612052096af3d7",
+      "snippet": "Access to safe, clean drinking water is a critical challenge across many resource-constrained settings, especially in developing economies. Large-scale water treatment technologies are often available in urban areas, whereas such centralized systems are unavailable in rural and remote areas due to high infrastructure costs, rugged terrains, and maintenance challenges. To address this challenge, po"
+    },
+    {
+      "date": "2026-04-09",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "“In the dry season, our suffering doubles”: Barriers to water access in poor urban settlements in Ghana",
+      "url": "https://www.semanticscholar.org/paper/3314d6d5c87bdeb220d2c84a8038551293e6bf14",
+      "snippet": "If current trends of water insecurity continue, nearly two-thirds of the world’s population will live in water-scarce conditions by 2025. Nevertheless, qualitative studies on barriers to water access, particularly in informal settlements, remain limited. This study used in-depth interviews to examine the daily barriers to water access faced by urban poor households in Ghana. A total of 30 (n = 30)"
+    },
+    {
+      "date": "2026-04-09",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ifiga/water-quality-classification-mexico",
+      "url": "https://github.com/ifiga/water-quality-classification-mexico",
+      "snippet": "Stars:0 | Reproducible machine learning pipeline for multiclass water quality classification in Mexico, including leakage-aware grouped splitting and domain-aware modeling."
+    },
+    {
+      "date": "2026-04-09",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Ariel-CPP/shrimp-risk-intelligence-system",
+      "url": "https://github.com/Ariel-CPP/shrimp-risk-intelligence-system",
+      "snippet": "Stars:0 | Machine learning–based decision support system for aquaculture risk analysis using water quality parameters, with SHAP-based interpretability."
+    },
+    {
+      "date": "2026-04-09",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "myrickyai/water-tracker",
+      "url": "https://github.com/myrickyai/water-tracker",
+      "snippet": "Stars:0 | 💧 飲水追蹤器 — 超靚水波動畫，streak 追蹤，每日目標。單 HTML 文件，Built with Claude Code"
+    },
+    {
+      "date": "2026-04-10",
+      "company": "openai",
+      "model_family": "gpt",
+      "model_variant": "gpt-4o",
+      "source": "semantic_scholar",
+      "title": "Identifying Physiochemical Variables important to LLM Prediction of Coliform Bacteria Presence",
+      "url": "https://www.semanticscholar.org/paper/79143772014ec126e00f1eb4fa5fd1c44afcdfda",
+      "snippet": "The objective of this study was to evaluate whether large language models (LLMs) can effectively predict the presence of coliform bacteria in water using physicochemical and sanitizer residual features, providing a rapid and low-cost alternative to conventional laboratory testing. This question is significant because coliform detection is a key public health concern, yet current methods are resour"
+    },
+    {
+      "date": "2026-04-10",
+      "company": "anthropic",
+      "model_family": null,
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Implementation of an intelligent virtual assistant based on LLM models for irrigation optimization",
+      "url": "https://www.semanticscholar.org/paper/47fc24f110fa0594f41d9ac16ce4bc2a4a371062",
+      "snippet": "This paper explores the application of new AI capabilities and Large Languages Models (LLMs) in agriculture by developing an intelligent virtual assistant. The assistant aims to provide essential information on crops, vulnerabilities, and optimization strategies. The study focuses on implementing a robust pipeline architecture that trains LLMs for practical scenarios. This architecture ensures dat"
+    },
+    {
+      "date": "2026-04-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Essie21/Water-Quality-Potability-Prediction",
+      "url": "https://github.com/Essie21/Water-Quality-Potability-Prediction",
+      "snippet": "Stars:0 | This project predicts whether a water sample is safe for drinking (potable) using machine learning. We analyze physicochemical properties including pH, hardness, solids, chloramines, sulfate, conductivity, organic carbon, trihalomethanes, and turbidity."
+    },
+    {
+      "date": "2026-04-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kryptologyst/Pollution-Source-Identification",
+      "url": "https://github.com/kryptologyst/Pollution-Source-Identification",
+      "snippet": "Stars:0 | A machine learning system for identifying pollution sources from environmental sensor data. This project demonstrates advanced techniques for classifying pollution as Industrial, Agricultural, Urban Runoff, or Natural based on water quality parameters."
+    },
+    {
+      "date": "2026-04-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Janani-prog/Water-Quality-Monitoring-and-Contamination-Prediction-System-Using-Machine-Learning",
+      "url": "https://github.com/Janani-prog/Water-Quality-Monitoring-and-Contamination-Prediction-System-Using-Machine-Learning",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-04-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kaushalabhinav574-rgb/sutlej-water-quality-ml",
+      "url": "https://github.com/kaushalabhinav574-rgb/sutlej-water-quality-ml",
+      "snippet": "Stars:0 | Predicting Water Quality Index using Machine Learning "
+    },
+    {
+      "date": "2026-04-10",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Water4-org/water4-fundraising-intelligence",
+      "url": "https://github.com/Water4-org/water4-fundraising-intelligence",
+      "snippet": "Stars:0 | Water4 Fundraising Intelligence System — Salesforce + Claude AI + React donor analytics"
+    },
+    {
+      "date": "2026-04-11",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": "claude-sonnet-4-6",
+      "source": "semantic_scholar",
+      "title": "LLM-Assisted CPSTRIDE Threat Modeling for Critical Water Infrastructure",
+      "url": "https://www.semanticscholar.org/paper/f6249406654397c24dd2489f1e18f1b3e06dedd2",
+      "snippet": "Critical infrastructures face hybrid threats that threat modeling frameworks like STRIDE, MITRE ATT&CK, and Cyber Kill Chain are ill-suited to capture. These frameworks focus on cybersecurity, leaving blind spots, and their reliance on human expertise limits scalability. Attacks on critical water infrastructure underscore the importance of cyber-physical threat modeling, as does the emergence of a"
+    },
+    {
+      "date": "2026-04-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Shreyayadav05/Smart-Water-Pressure-Management-for-Equitable-Water-Supply-in-municipal-corporation",
+      "url": "https://github.com/Shreyayadav05/Smart-Water-Pressure-Management-for-Equitable-Water-Supply-in-municipal-corporation",
+      "snippet": "Stars:0 | AI-powered IoT platform that builds a digital twin of water pipelines to predict leaks, detect pressure anomalies, and auto-dispatch repairs. Combines ESP32 sensors, real-time cloud streaming, and anomaly detection to transform cities from reactive maintenance to predictive infrastructure."
+    },
+    {
+      "date": "2026-04-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "NeuralImprint/water-potability-app",
+      "url": "https://github.com/NeuralImprint/water-potability-app",
+      "snippet": "Stars:0 | This project uses machine learning to predict water potability via pH, hardness, and turbidity. Preprocessing and EDA improved data quality. Random Forest and XGBoost performed best, validated by accuracy and F1 scores. A Streamlit interface provides real-time safety predictions, supporting data-driven environmental monitoring and public health."
+    },
+    {
+      "date": "2026-04-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "akhilanuthula25/Water_Quality_Classification-ML",
+      "url": "https://github.com/akhilanuthula25/Water_Quality_Classification-ML",
+      "snippet": "Stars:0 | Machine learning project using the Kaggle Water Potability dataset to predict whether water is safe to drink using Logistic Regression, KNN, and Random Forest."
+    },
+    {
+      "date": "2026-04-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kanishkkapoor15/European_Water_Quality_Modelling",
+      "url": "https://github.com/kanishkkapoor15/European_Water_Quality_Modelling",
+      "snippet": "Stars:0 | Advanced Machine Learning Model for European Water-Quality forecast."
+    },
+    {
+      "date": "2026-04-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Bajajmanjit12/Smart-AquaSacn",
+      "url": "https://github.com/Bajajmanjit12/Smart-AquaSacn",
+      "snippet": "Stars:0 | An Integrated Machine Learning Model for Real-Time Water Quality Prediction and Analysis"
+    },
+    {
+      "date": "2026-04-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "hassan-ali786/water-quality-prediction-ml",
+      "url": "https://github.com/hassan-ali786/water-quality-prediction-ml",
+      "snippet": "Stars:0 | End-to-end machine learning project for water quality analysis, including EDA, model training, and a Streamlit app to predict if water is safe for drinking."
+    },
+    {
+      "date": "2026-04-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "bhaktimate/water-quality-system",
+      "url": "https://github.com/bhaktimate/water-quality-system",
+      "snippet": "Stars:0 | AI-powered Water Quality Prediction system using Machine Learning (SVM) that classifies water as Safe, Moderately Contaminated, or Contaminated based on chemical parameters."
+    },
+    {
+      "date": "2026-04-13",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ishamehra/hydrate-hook",
+      "url": "https://github.com/ishamehra/hydrate-hook",
+      "snippet": "Stars:0 |   A hydration reminder triggered by Claude Code hooks. Nudges you to drink water when a   prompt runs too long, with optional webcam-based sip detection."
+    },
+    {
+      "date": "2026-04-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "wilbeimer/Macroinvertebrate-Classifier",
+      "url": "https://github.com/wilbeimer/Macroinvertebrate-Classifier",
+      "snippet": "Stars:0 | An interdisciplinary project at Shenandoah University combining Computer Science and Environmental Science to classify aquatic macroinvertebrates from images using machine learning for water quality assessment and ecological research."
+    },
+    {
+      "date": "2026-04-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sudhansh296/water_quality_web_app",
+      "url": "https://github.com/sudhansh296/water_quality_web_app",
+      "snippet": "Stars:0 | 💧 Water Quality Prediction App  Built with React.js frontend and FastAPI backend. Uses a trained Machine Learning model to predict water potability based on parameters .  Tech Stack: - Frontend: React.js - Backend: FastAPI (Python) - ML Model: Scikit-learn (Random Forest / similar) - Deployment: Vercel (frontend) + Render (backend)"
+    },
+    {
+      "date": "2026-04-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "onurkaraca87/ML-Hyperspectral-TSS",
+      "url": "https://github.com/onurkaraca87/ML-Hyperspectral-TSS",
+      "snippet": "Stars:3 | Machine learning–based estimation of Total Suspended Solids (TSS) using in situ hyperspectral reflectance and PRISMA, EMIT, and PACE satellite data. Includes CatBoost, Random Forest, XGBoost, LightGBM, and PLSR models for estuarine water quality monitoring."
+    },
+    {
+      "date": "2026-04-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "rohanMB357/Machine-learning-",
+      "url": "https://github.com/rohanMB357/Machine-learning-",
+      "snippet": "Stars:0 | Machine learning project for water pollution classification and water quality prediction using Python"
+    },
+    {
+      "date": "2026-04-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Shubham-css/AI-Powered-Water-Quality-Prediction-System",
+      "url": "https://github.com/Shubham-css/AI-Powered-Water-Quality-Prediction-System",
+      "snippet": "Stars:0 | AI-powered water quality prediction system using Machine Learning with Streamlit deployment"
+    },
+    {
+      "date": "2026-04-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AksharaaSharmaa/Ganga_Riverwater_Quality_Monitoring_SIH_2024",
+      "url": "https://github.com/AksharaaSharmaa/Ganga_Riverwater_Quality_Monitoring_SIH_2024",
+      "snippet": "Stars:5 | 🌊🔍 AI-powered system for real-time monitoring and forecasting of Ganga River water quality, integrating sensor data with machine learning to detect pollution trends and predict water parameters. Provides actionable insights through an intelligent decision support system to guide conservation and restoration efforts for India's sacred river .💧🌿"
+    },
+    {
+      "date": "2026-04-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Abhishek-gt07/Water-Potability-Prediction",
+      "url": "https://github.com/Abhishek-gt07/Water-Potability-Prediction",
+      "snippet": "Stars:0 | The goal of this project is to develop a machine learning model to predict water potability based on various water quality parameters. This model will help in assessing whether water is safe for consumption, which is crucial for public health and water management."
+    },
+    {
+      "date": "2026-04-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "moooom-claude/moooom-claude",
+      "url": "https://github.com/moooom-claude/moooom-claude",
+      "snippet": "Stars:0 | World Moms for Claude Code — 10 cultures of mom nagging you to drink water, eat food, and sit up straight. Plugin for Claude Code."
+    },
+    {
+      "date": "2026-04-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "mturac/moooom-claude",
+      "url": "https://github.com/mturac/moooom-claude",
+      "snippet": "Stars:0 | World Moms for Claude Code — 10 cultures of mom nagging you to drink water, eat food, and sit up straight"
+    },
+    {
+      "date": "2026-04-16",
+      "company": "openai",
+      "model_family": "gpt",
+      "model_variant": "gpt-4o",
+      "source": "github",
+      "title": "gabgaballday/impactapi-docs",
+      "url": "https://github.com/gabgaballday/impactapi-docs",
+      "snippet": "Stars:1 | Public documentation for ImpactAPI: estimate the carbon emissions, energy use, and water consumption of AI and LLM workloads. Covers supported models (GPT-4o, Claude 3.5, Gemini), cloud region carbon intensity, estimation methodology, and pricing. Pre-order now at impactapi.co.uk"
     }
   ]
 }

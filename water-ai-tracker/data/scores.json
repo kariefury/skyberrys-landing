@@ -108,6 +108,563 @@
           "mention_count": 0
         }
       }
+    },
+    {
+      "date": "2026-04-08",
+      "scores": {
+        "openai": 22.5,
+        "anthropic": 22.5,
+        "google": 22.5,
+        "xai": 22.5
+      },
+      "signals": {
+        "openai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "anthropic": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "google": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "xai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        }
+      },
+      "model_scores": {}
+    },
+    {
+      "date": "2026-04-09",
+      "scores": {
+        "openai": 22.5,
+        "anthropic": 24.5,
+        "google": 35.6,
+        "xai": 22.5
+      },
+      "signals": {
+        "openai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "anthropic": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.2,
+          "article_count": 1,
+          "mention_count": 0
+        },
+        "google": {
+          "compute": 0.5,
+          "sentiment": 0.4027,
+          "human": 0.0,
+          "evidence": 1.0,
+          "github": 0.0,
+          "article_count": 3,
+          "mention_count": 0
+        },
+        "xai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        }
+      },
+      "model_scores": {
+        "anthropic/claude": {
+          "score": 24.5,
+          "signals": {
+            "compute": 0.5,
+            "sentiment": 0.5,
+            "human": 0.0,
+            "evidence": 0.0,
+            "github": 0.2
+          },
+          "article_count": 1,
+          "mention_count": 0
+        }
+      }
+    },
+    {
+      "date": "2026-04-10",
+      "scores": {
+        "openai": 29.2,
+        "anthropic": 31.4,
+        "google": 22.5,
+        "xai": 22.5
+      },
+      "signals": {
+        "openai": {
+          "compute": 0.5,
+          "sentiment": 0.8353,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 1,
+          "mention_count": 0
+        },
+        "anthropic": {
+          "compute": 0.5,
+          "sentiment": 0.8442,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.2,
+          "article_count": 2,
+          "mention_count": 0
+        },
+        "google": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "xai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        }
+      },
+      "model_scores": {
+        "anthropic/claude": {
+          "score": 29.3,
+          "signals": {
+            "compute": 0.5,
+            "sentiment": 0.7384,
+            "human": 0.0,
+            "evidence": 0.0,
+            "github": 0.2
+          },
+          "article_count": 1,
+          "mention_count": 0
+        },
+        "openai/gpt": {
+          "score": 29.2,
+          "signals": {
+            "compute": 0.5,
+            "sentiment": 0.8353,
+            "human": 0.0,
+            "evidence": 0.0,
+            "github": 0.0
+          },
+          "article_count": 1,
+          "mention_count": 0
+        },
+        "openai/gpt/gpt-4o": {
+          "score": 29.2,
+          "signals": {
+            "compute": 0.5,
+            "sentiment": 0.8353,
+            "human": 0.0,
+            "evidence": 0.0,
+            "github": 0.0
+          },
+          "article_count": 1,
+          "mention_count": 0
+        }
+      }
+    },
+    {
+      "date": "2026-04-11",
+      "scores": {
+        "openai": 22.5,
+        "anthropic": 12.7,
+        "google": 22.5,
+        "xai": 22.5
+      },
+      "signals": {
+        "openai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "anthropic": {
+          "compute": 0.5,
+          "sentiment": 0.0122,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 1,
+          "mention_count": 0
+        },
+        "google": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "xai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        }
+      },
+      "model_scores": {
+        "anthropic/claude": {
+          "score": 12.7,
+          "signals": {
+            "compute": 0.5,
+            "sentiment": 0.0122,
+            "human": 0.0,
+            "evidence": 0.0,
+            "github": 0.0
+          },
+          "article_count": 1,
+          "mention_count": 0
+        },
+        "anthropic/claude/claude-sonnet-4-6": {
+          "score": 12.7,
+          "signals": {
+            "compute": 0.5,
+            "sentiment": 0.0122,
+            "human": 0.0,
+            "evidence": 0.0,
+            "github": 0.0
+          },
+          "article_count": 1,
+          "mention_count": 0
+        }
+      }
+    },
+    {
+      "date": "2026-04-12",
+      "scores": {
+        "openai": 22.5,
+        "anthropic": 22.5,
+        "google": 22.5,
+        "xai": 22.5
+      },
+      "signals": {
+        "openai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "anthropic": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "google": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "xai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        }
+      },
+      "model_scores": {}
+    },
+    {
+      "date": "2026-04-13",
+      "scores": {
+        "openai": 22.5,
+        "anthropic": 24.5,
+        "google": 22.5,
+        "xai": 22.5
+      },
+      "signals": {
+        "openai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "anthropic": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.2,
+          "article_count": 1,
+          "mention_count": 0
+        },
+        "google": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "xai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        }
+      },
+      "model_scores": {
+        "anthropic/claude": {
+          "score": 24.5,
+          "signals": {
+            "compute": 0.5,
+            "sentiment": 0.5,
+            "human": 0.0,
+            "evidence": 0.0,
+            "github": 0.2
+          },
+          "article_count": 1,
+          "mention_count": 0
+        }
+      }
+    },
+    {
+      "date": "2026-04-14",
+      "scores": {
+        "openai": 22.5,
+        "anthropic": 22.5,
+        "google": 22.5,
+        "xai": 22.5
+      },
+      "signals": {
+        "openai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "anthropic": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "google": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "xai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        }
+      },
+      "model_scores": {}
+    },
+    {
+      "date": "2026-04-15",
+      "scores": {
+        "openai": 22.5,
+        "anthropic": 22.5,
+        "google": 22.5,
+        "xai": 22.5
+      },
+      "signals": {
+        "openai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "anthropic": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "google": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "xai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        }
+      },
+      "model_scores": {}
+    },
+    {
+      "date": "2026-04-16",
+      "scores": {
+        "openai": 29.8,
+        "anthropic": 24.5,
+        "google": 22.5,
+        "xai": 22.5
+      },
+      "signals": {
+        "openai": {
+          "compute": 0.5,
+          "sentiment": 0.7633,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.2,
+          "article_count": 1,
+          "mention_count": 0
+        },
+        "anthropic": {
+          "compute": 0.5,
+          "sentiment": 0.3988,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.4,
+          "article_count": 2,
+          "mention_count": 0
+        },
+        "google": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "xai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        }
+      },
+      "model_scores": {
+        "anthropic/claude": {
+          "score": 24.5,
+          "signals": {
+            "compute": 0.5,
+            "sentiment": 0.3988,
+            "human": 0.0,
+            "evidence": 0.0,
+            "github": 0.4
+          },
+          "article_count": 2,
+          "mention_count": 0
+        },
+        "openai/gpt": {
+          "score": 29.8,
+          "signals": {
+            "compute": 0.5,
+            "sentiment": 0.7633,
+            "human": 0.0,
+            "evidence": 0.0,
+            "github": 0.2
+          },
+          "article_count": 1,
+          "mention_count": 0
+        },
+        "openai/gpt/gpt-4o": {
+          "score": 29.8,
+          "signals": {
+            "compute": 0.5,
+            "sentiment": 0.7633,
+            "human": 0.0,
+            "evidence": 0.0,
+            "github": 0.2
+          },
+          "article_count": 1,
+          "mention_count": 0
+        }
+      }
     }
   ]
 }

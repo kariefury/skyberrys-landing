@@ -959,6 +959,46 @@
       "title": "marceloceccon/aguas-puras",
       "url": "https://github.com/marceloceccon/aguas-puras",
       "snippet": "Stars:0 | AguasPuras - Clean water. Open data. On-chain transparency + AI monitoring. Starting in Floripa."
+    },
+    {
+      "date": "2026-04-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Okes2024/A-hybrid-AI-model-integrating-LSTM-XGBoost-and-K-means-for-interpretable-prediction-_-clustering",
+      "url": "https://github.com/Okes2024/A-hybrid-AI-model-integrating-LSTM-XGBoost-and-K-means-for-interpretable-prediction-_-clustering",
+      "snippet": "Stars:54 | A Hybrid Machine Learning Framework for Water Quality Assessment and Contamination Clustering in the Niger Delt"
+    },
+    {
+      "date": "2026-04-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "jigishakarnik24/Water-Potability-ML-Project",
+      "url": "https://github.com/jigishakarnik24/Water-Potability-ML-Project",
+      "snippet": "Stars:0 | Machine Learning project to predict water quality using Streamlit dashboard"
+    },
+    {
+      "date": "2026-04-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Ravularamesh74/aquasense-predictor",
+      "url": "https://github.com/Ravularamesh74/aquasense-predictor",
+      "snippet": "Stars:1 | AquaSense is an AI-powered water quality prediction platform that leverages IoT sensor data and machine learning models to analyze and predict water quality in real time.  The system helps monitor critical parameters like pH, temperature, and turbidity, enabling smarter environmental "
+    },
+    {
+      "date": "2026-04-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Emeriego/PumpHealth",
+      "url": "https://github.com/Emeriego/PumpHealth",
+      "snippet": "Stars:0 | Develop machine learning models to predict the functionality status of water pumps across Tanzania based on a variety of features including location, water quality, management structure, and technical specifications. "
     }
   ]
 }

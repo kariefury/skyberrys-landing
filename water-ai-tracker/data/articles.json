@@ -999,6 +999,26 @@
       "title": "Emeriego/PumpHealth",
       "url": "https://github.com/Emeriego/PumpHealth",
       "snippet": "Stars:0 | Develop machine learning models to predict the functionality status of water pumps across Tanzania based on a variety of features including location, water quality, management structure, and technical specifications. "
+    },
+    {
+      "date": "2026-04-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Suhruthavarma/Water-Pollution-Analysis-Python-Power-BI-",
+      "url": "https://github.com/Suhruthavarma/Water-Pollution-Analysis-Python-Power-BI-",
+      "snippet": "Stars:0 | This project presents a comprehensive analysis of water quality across multiple monitoring stations over a five-year period (2020–2024). Using physicochemical parameters, a Water Quality Index (WQI) is computed, followed by statistical analysis, visualization, and machine learning modeling."
+    },
+    {
+      "date": "2026-04-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "abeeraz379/Predicting-Irrigation-Need",
+      "url": "https://github.com/abeeraz379/Predicting-Irrigation-Need",
+      "snippet": "Stars:0 | A supervised machine learning project that predicts irrigation needs using multi-class classification techniques. The model is trained on a synthetic dataset (630,000 samples) generated from a deep learning model using the original Irrigation Water Requirement Prediction Dataset. "
     }
   ]
 }

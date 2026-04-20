@@ -809,6 +809,67 @@
         }
       },
       "model_scores": {}
+    },
+    {
+      "date": "2026-04-20",
+      "scores": {
+        "openai": 22.5,
+        "anthropic": 25.3,
+        "google": 22.5,
+        "xai": 22.5
+      },
+      "signals": {
+        "openai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "anthropic": {
+          "compute": 0.5,
+          "sentiment": 0.5386,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.2,
+          "article_count": 1,
+          "mention_count": 0
+        },
+        "google": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "xai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        }
+      },
+      "model_scores": {
+        "anthropic/claude": {
+          "score": 25.3,
+          "signals": {
+            "compute": 0.5,
+            "sentiment": 0.5386,
+            "human": 0.0,
+            "evidence": 0.0,
+            "github": 0.2
+          },
+          "article_count": 1,
+          "mention_count": 0
+        }
+      }
     }
   ]
 }

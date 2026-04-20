@@ -1019,6 +1019,26 @@
       "title": "abeeraz379/Predicting-Irrigation-Need",
       "url": "https://github.com/abeeraz379/Predicting-Irrigation-Need",
       "snippet": "Stars:0 | A supervised machine learning project that predicts irrigation needs using multi-class classification techniques. The model is trained on a synthetic dataset (630,000 samples) generated from a deep learning model using the original Irrigation Water Requirement Prediction Dataset. "
+    },
+    {
+      "date": "2026-04-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sashank23/Smart-Irrigation-System-using-LSTM-Time-Series-Forecasting-Streamlit",
+      "url": "https://github.com/sashank23/Smart-Irrigation-System-using-LSTM-Time-Series-Forecasting-Streamlit",
+      "snippet": "Stars:0 | This project presents an IoT-based Precision Irrigation System powered by an LSTM (Long Short-Term Memory) deep learning model to optimize crop irrigation using real-time environmental inputs. The system predicts water usage efficiency and recommends whether irrigation should be ON or OFF, helping farmers conserve water and improve crop yield. "
+    },
+    {
+      "date": "2026-04-20",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "cc-code-examples/glamorous-waterbuffalo-253992",
+      "url": "https://github.com/cc-code-examples/glamorous-waterbuffalo-253992",
+      "snippet": "Stars:0 | C# code example for the Claude Code challenge"
     }
   ]
 }

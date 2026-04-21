@@ -909,6 +909,136 @@
       "title": "gabgaballday/impactapi-docs",
       "url": "https://github.com/gabgaballday/impactapi-docs",
       "snippet": "Stars:1 | Public documentation for ImpactAPI: estimate the carbon emissions, energy use, and water consumption of AI and LLM workloads. Covers supported models (GPT-4o, Claude 3.5, Gemini), cloud region carbon intensity, estimation methodology, and pricing. Pre-order now at impactapi.co.uk"
+    },
+    {
+      "date": "2026-04-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "VishalRaj720/JalDrishti",
+      "url": "https://github.com/VishalRaj720/JalDrishti",
+      "snippet": "Stars:0 | **JalDrishti** 🌊 An AI-driven water quality monitoring and risk assessment system using Machine Learning to predict groundwater degradation, assess aquifer vulnerability, and design data-informed monitoring strategies for early contamination detection."
+    },
+    {
+      "date": "2026-04-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "MHridoy-123/Time-series-forecasting-of-aquaculture-water-quality-",
+      "url": "https://github.com/MHridoy-123/Time-series-forecasting-of-aquaculture-water-quality-",
+      "snippet": "Stars:0 | Time series forecasting of aquaculture water quality parameters using interpretable machine learning models on IoT sensor data"
+    },
+    {
+      "date": "2026-04-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Kavi-Cs/Enhancing-Accuracy-in-Reservoir-Drinking-Water-Quality-Assessment-Using-Machine-Learning.",
+      "url": "https://github.com/Kavi-Cs/Enhancing-Accuracy-in-Reservoir-Drinking-Water-Quality-Assessment-Using-Machine-Learning.",
+      "snippet": "Stars:1 | Machine learning Group project based on 2nd year PH 2024 - Electronics and Computing Laboratory in University of Colombo, Faculty of science."
+    },
+    {
+      "date": "2026-04-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "vishnu1116/my",
+      "url": "https://github.com/vishnu1116/my",
+      "snippet": "Stars:0 | Prediction and Control of Water Quality Using IoT and Machine Learning Technologies  This project offers a smart system for predicting and managing the quality of water by utilizing IoT and machine learning techniques through Arduino Uno, NodeMCU, and sensors for pH, turbidity, temperature, and TDS values"
+    },
+    {
+      "date": "2026-04-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "marceloceccon/aguas-puras",
+      "url": "https://github.com/marceloceccon/aguas-puras",
+      "snippet": "Stars:0 | AguasPuras - Clean water. Open data. On-chain transparency + AI monitoring. Starting in Floripa."
+    },
+    {
+      "date": "2026-04-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Okes2024/A-hybrid-AI-model-integrating-LSTM-XGBoost-and-K-means-for-interpretable-prediction-_-clustering",
+      "url": "https://github.com/Okes2024/A-hybrid-AI-model-integrating-LSTM-XGBoost-and-K-means-for-interpretable-prediction-_-clustering",
+      "snippet": "Stars:54 | A Hybrid Machine Learning Framework for Water Quality Assessment and Contamination Clustering in the Niger Delt"
+    },
+    {
+      "date": "2026-04-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "jigishakarnik24/Water-Potability-ML-Project",
+      "url": "https://github.com/jigishakarnik24/Water-Potability-ML-Project",
+      "snippet": "Stars:0 | Machine Learning project to predict water quality using Streamlit dashboard"
+    },
+    {
+      "date": "2026-04-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Ravularamesh74/aquasense-predictor",
+      "url": "https://github.com/Ravularamesh74/aquasense-predictor",
+      "snippet": "Stars:1 | AquaSense is an AI-powered water quality prediction platform that leverages IoT sensor data and machine learning models to analyze and predict water quality in real time.  The system helps monitor critical parameters like pH, temperature, and turbidity, enabling smarter environmental "
+    },
+    {
+      "date": "2026-04-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Emeriego/PumpHealth",
+      "url": "https://github.com/Emeriego/PumpHealth",
+      "snippet": "Stars:0 | Develop machine learning models to predict the functionality status of water pumps across Tanzania based on a variety of features including location, water quality, management structure, and technical specifications. "
+    },
+    {
+      "date": "2026-04-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Suhruthavarma/Water-Pollution-Analysis-Python-Power-BI-",
+      "url": "https://github.com/Suhruthavarma/Water-Pollution-Analysis-Python-Power-BI-",
+      "snippet": "Stars:0 | This project presents a comprehensive analysis of water quality across multiple monitoring stations over a five-year period (2020–2024). Using physicochemical parameters, a Water Quality Index (WQI) is computed, followed by statistical analysis, visualization, and machine learning modeling."
+    },
+    {
+      "date": "2026-04-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "abeeraz379/Predicting-Irrigation-Need",
+      "url": "https://github.com/abeeraz379/Predicting-Irrigation-Need",
+      "snippet": "Stars:0 | A supervised machine learning project that predicts irrigation needs using multi-class classification techniques. The model is trained on a synthetic dataset (630,000 samples) generated from a deep learning model using the original Irrigation Water Requirement Prediction Dataset. "
+    },
+    {
+      "date": "2026-04-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sashank23/Smart-Irrigation-System-using-LSTM-Time-Series-Forecasting-Streamlit",
+      "url": "https://github.com/sashank23/Smart-Irrigation-System-using-LSTM-Time-Series-Forecasting-Streamlit",
+      "snippet": "Stars:0 | This project presents an IoT-based Precision Irrigation System powered by an LSTM (Long Short-Term Memory) deep learning model to optimize crop irrigation using real-time environmental inputs. The system predicts water usage efficiency and recommends whether irrigation should be ON or OFF, helping farmers conserve water and improve crop yield. "
+    },
+    {
+      "date": "2026-04-20",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "cc-code-examples/glamorous-waterbuffalo-253992",
+      "url": "https://github.com/cc-code-examples/glamorous-waterbuffalo-253992",
+      "snippet": "Stars:0 | C# code example for the Claude Code challenge"
     }
   ]
 }

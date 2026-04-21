@@ -1039,6 +1039,96 @@
       "title": "cc-code-examples/glamorous-waterbuffalo-253992",
       "url": "https://github.com/cc-code-examples/glamorous-waterbuffalo-253992",
       "snippet": "Stars:0 | C# code example for the Claude Code challenge"
+    },
+    {
+      "date": "2026-04-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Pilla-Panda/Waterborne-Disease-Risk-Prediction",
+      "url": "https://github.com/Pilla-Panda/Waterborne-Disease-Risk-Prediction",
+      "snippet": "Stars:0 | A machine learning model to predict the risk of waterborne diseases based on water quality parameters and environmental factors "
+    },
+    {
+      "date": "2026-04-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Rishav-Thakur1314/Water-quality-analysis",
+      "url": "https://github.com/Rishav-Thakur1314/Water-quality-analysis",
+      "snippet": "Stars:1 | End-to-end data analysis project on water quality and potability using Python, featuring EDA, statistical insights, visualization, and machine learning."
+    },
+    {
+      "date": "2026-04-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mshreyat/Water-Quality-Risk-Classification",
+      "url": "https://github.com/mshreyat/Water-Quality-Risk-Classification",
+      "snippet": "Stars:0 | This project analyzes water quality using machine learning to classify water as Safe or Unsafe."
+    },
+    {
+      "date": "2026-04-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "KumariShubhra/AI-Based-Water-Quality-Monitoring-Sytem",
+      "url": "https://github.com/KumariShubhra/AI-Based-Water-Quality-Monitoring-Sytem",
+      "snippet": "Stars:0 | AI-Based Water Quality Prediction System using Machine Learning and Flask"
+    },
+    {
+      "date": "2026-04-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Aaradhana-R/SipWise-Water-Potability--Monitor",
+      "url": "https://github.com/Aaradhana-R/SipWise-Water-Potability--Monitor",
+      "snippet": "Stars:0 | Machine learning project to predict water potability using water quality parameters like pH, hardness, and chemical composition."
+    },
+    {
+      "date": "2026-04-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "SaiHarshiniKoppuravri/An-intelligent-machine-learning-system-for-water-quality-prediction",
+      "url": "https://github.com/SaiHarshiniKoppuravri/An-intelligent-machine-learning-system-for-water-quality-prediction",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-04-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sohailkh5628-create/River-clean-AI",
+      "url": "https://github.com/sohailkh5628-create/River-clean-AI",
+      "snippet": "Stars:0 | RiverClean AI is a smart system to monitor and reduce river pollution. It uses drones and AI to detect waste, sensors to check water quality, and alerts authorities in real time. A cleaning robot removes garbage, while a mobile app enables public reporting, ensuring cleaner and sustainable rivers."
+    },
+    {
+      "date": "2026-04-21",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "bhushans-maker/Claude-water",
+      "url": "https://github.com/bhushans-maker/Claude-water",
+      "snippet": "Stars:0 | Water reminder app"
+    },
+    {
+      "date": "2026-04-21",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Raphiniel/claude_water",
+      "url": "https://github.com/Raphiniel/claude_water",
+      "snippet": "Stars:0 | "
     }
   ]
 }

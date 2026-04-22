@@ -1129,6 +1129,46 @@
       "title": "Raphiniel/claude_water",
       "url": "https://github.com/Raphiniel/claude_water",
       "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-04-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Enternatus/AWE-WQI-Water-Quality-Classifier",
+      "url": "https://github.com/Enternatus/AWE-WQI-Water-Quality-Classifier",
+      "snippet": "Stars:0 | Machine learning alogrithms and concepts are used to further tune the accuracies and extract the best possible and most accurate results from the base 4 algos different concepts are explored and also a new average aqi ensemble algorithm is also implemented to observe the results."
+    },
+    {
+      "date": "2026-04-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "bananijana/2.eia-mining-zone-water-quality-ml",
+      "url": "https://github.com/bananijana/2.eia-mining-zone-water-quality-ml",
+      "snippet": "Stars:0 | Environmental Impact Assessment of Mining Zone Water Quality Using Geochemical Indices and Machine Learning"
+    },
+    {
+      "date": "2026-04-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Nivi-144/AI-Powered-Gardening-System",
+      "url": "https://github.com/Nivi-144/AI-Powered-Gardening-System",
+      "snippet": "Stars:1 | The AI-Powered Gardening System uses AI and IoT to monitor plant conditions and automate watering. It collects real-time data like soil moisture, temperature, humidity, and air quality, then uses machine learning to decide watering needs, reducing water waste, improving plant health, and minimizing manual effort."
+    },
+    {
+      "date": "2026-04-22",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "utilify-io/utilify-mcp",
+      "url": "https://github.com/utilify-io/utilify-mcp",
+      "snippet": "Stars:0 | MCP server for AI agents to compare and sign up for Texas utility plans — electricity, internet, gas, water, trash. Works with Claude, ChatGPT, Cursor, Ollama, LM Studio, LangChain. OpenAPI 3.1 spec included. No auth."
     }
   ]
 }

@@ -1169,6 +1169,36 @@
       "title": "utilify-io/utilify-mcp",
       "url": "https://github.com/utilify-io/utilify-mcp",
       "snippet": "Stars:0 | MCP server for AI agents to compare and sign up for Texas utility plans — electricity, internet, gas, water, trash. Works with Claude, ChatGPT, Cursor, Ollama, LM Studio, LangChain. OpenAPI 3.1 spec included. No auth."
+    },
+    {
+      "date": "2026-04-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ASHUTOSH-BRAHMA/Black-Carbon-Impact-on-Himalayan-Glacier-Melting",
+      "url": "https://github.com/ASHUTOSH-BRAHMA/Black-Carbon-Impact-on-Himalayan-Glacier-Melting",
+      "snippet": "Stars:0 | Black carbon from fossil fuel/biomass combustion accelerates Himalayan glacier retreat via atmospheric heating & surface darkening. AI analysis of 100K observations shows BC causes 13% of annual melting, peaks in March-April. Random Forest model (R²=0.895) identifies PM2.5 as key predictor. Threatens 750M people's water supply."
+    },
+    {
+      "date": "2026-04-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "khalilhaddad7/Water-Potability-Prediction-Data-Analysis",
+      "url": "https://github.com/khalilhaddad7/Water-Potability-Prediction-Data-Analysis",
+      "snippet": "Stars:0 | Data analysis and machine learning project on water quality. Includes data cleaning, visualization, and model comparison (Decision Tree, KNN, Random Forest, Gradient Boosting) to predict water potability."
+    },
+    {
+      "date": "2026-04-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Hoshidee/DAT-350-Final-Project",
+      "url": "https://github.com/Hoshidee/DAT-350-Final-Project",
+      "snippet": "Stars:0 | Machine learning on water quality data"
     }
   ]
 }

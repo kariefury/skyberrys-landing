@@ -1199,6 +1199,26 @@
       "title": "Hoshidee/DAT-350-Final-Project",
       "url": "https://github.com/Hoshidee/DAT-350-Final-Project",
       "snippet": "Stars:0 | Machine learning on water quality data"
+    },
+    {
+      "date": "2026-04-24",
+      "company": "xai",
+      "model_family": "grok",
+      "model_variant": null,
+      "source": "github",
+      "title": "seetamrajuvishnupriya-max/AI-BASED-WATER-QUALITY-PREDICTION-",
+      "url": "https://github.com/seetamrajuvishnupriya-max/AI-BASED-WATER-QUALITY-PREDICTION-",
+      "snippet": "Stars:0 | An AI-based Water Quality Prediction System uses machine learning models like Random Forest, SVM, and XGBoost to classify water as safe or unsafe based on input parameters. It uses a Flask backend for prediction and a web interface for user interaction, along with XAI techniques to explain model decisions."
+    },
+    {
+      "date": "2026-04-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "TheTerminalThree/FloraCareAi",
+      "url": "https://github.com/TheTerminalThree/FloraCareAi",
+      "snippet": "Stars:0 | FloraCare AI is a smart plant care assistant that uses AI to help users keep plants healthy. It detects diseases from photos, gives watering reminders, tracks growth, and provides personalized care tips. The goal is to make plant care simple, data-driven, and accessible for everyone through a clean and modern app."
     }
   ]
 }

@@ -1219,6 +1219,86 @@
       "title": "TheTerminalThree/FloraCareAi",
       "url": "https://github.com/TheTerminalThree/FloraCareAi",
       "snippet": "Stars:0 | FloraCare AI is a smart plant care assistant that uses AI to help users keep plants healthy. It detects diseases from photos, gives watering reminders, tracks growth, and provides personalized care tips. The goal is to make plant care simple, data-driven, and accessible for everyone through a clean and modern app."
+    },
+    {
+      "date": "2026-04-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "srihita27/water-quality-iot-ml",
+      "url": "https://github.com/srihita27/water-quality-iot-ml",
+      "snippet": "Stars:0 | Smart Water Quality Monitoring using IoT simulation and Machine Learning"
+    },
+    {
+      "date": "2026-04-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "keithpaulkato/aquaculture-water-quality-ml",
+      "url": "https://github.com/keithpaulkato/aquaculture-water-quality-ml",
+      "snippet": "Stars:0 | Machine learning and deep learning-based classification of aquaculture water quality into Excellent, Good, and Poor categories using a full machine learning workflow."
+    },
+    {
+      "date": "2026-04-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "attarhadiya8-dot/water_quality_project",
+      "url": "https://github.com/attarhadiya8-dot/water_quality_project",
+      "snippet": "Stars:0 | Machine learning model to predict water potability based on quality parameters"
+    },
+    {
+      "date": "2026-04-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AshwingamerYt/River-Water-Quality-Analysis-And-Classification",
+      "url": "https://github.com/AshwingamerYt/River-Water-Quality-Analysis-And-Classification",
+      "snippet": "Stars:0 | Developed a River Water Analysis and Classification project using Machine Learning to predict water quality based on parameters such as pH, dissolved oxygen, BOD, conductivity, and bacteria levels. Implemented data preprocessing, analysis, and classification models like Logistic Regression and Random Forest for accurate prediction"
+    },
+    {
+      "date": "2026-04-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "prabhatpps/Automatic_Irrigation_Control_through_Embedded_Vision",
+      "url": "https://github.com/prabhatpps/Automatic_Irrigation_Control_through_Embedded_Vision",
+      "snippet": "Stars:0 | A sophisticated IoT-based smart irrigation system that leverages computer vision and deep learning to automate watering decisions based on real-time soil moisture classification."
+    },
+    {
+      "date": "2026-04-25",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "RodgerPo/folia",
+      "url": "https://github.com/RodgerPo/folia",
+      "snippet": "Stars:0 | Folia helps you keep your plants alive. Add plants, log observations, get AI care advice, and receive watering reminders before things go wrong. Built with Next.js, Neon Postgres, Clerk, and Claude AI."
+    },
+    {
+      "date": "2026-04-25",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "themavericksr/well-surveillance-agent-",
+      "url": "https://github.com/themavericksr/well-surveillance-agent-",
+      "snippet": "Stars:0 | LLM-powered agent (Claude API) that ingests well production CSV data, detects performance anomalies (PI decline, liquid loading, water breakthrough), and generates structured engineering summary reports — demonstrating agent-enabled, reproducible subsurface decision support."
+    },
+    {
+      "date": "2026-04-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ovijitM/The_Society",
+      "url": "https://github.com/ovijitM/The_Society",
+      "snippet": "Stars:0 | The Society is a micro-simulation of autonomous, LLM-powered agents living in a shared world. Each agent is born with a specific identity, role, and set of skills (e.g., Farming, Water Management, Engineering). To survive, they must navigate a dynamic task market, manage decaying personal needs (Food, Money, Knowledge, Social), and interact."
     }
   ]
 }

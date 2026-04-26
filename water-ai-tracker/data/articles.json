@@ -1299,6 +1299,46 @@
       "title": "ovijitM/The_Society",
       "url": "https://github.com/ovijitM/The_Society",
       "snippet": "Stars:0 | The Society is a micro-simulation of autonomous, LLM-powered agents living in a shared world. Each agent is born with a specific identity, role, and set of skills (e.g., Farming, Water Management, Engineering). To survive, they must navigate a dynamic task market, manage decaying personal needs (Food, Money, Knowledge, Social), and interact."
+    },
+    {
+      "date": "2026-04-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kirananyam45-bit/water-quality-prediction",
+      "url": "https://github.com/kirananyam45-bit/water-quality-prediction",
+      "snippet": "Stars:0 | Developed a machine learning model to predict water quality based on parameters like pH and turbidity. Implemented data preprocessing, model training using Random Forest, and evaluated performance using accuracy metrics."
+    },
+    {
+      "date": "2026-04-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "puniaiml/Water-potability-analysis",
+      "url": "https://github.com/puniaiml/Water-potability-analysis",
+      "snippet": "Stars:0 | Machine learning web app that predicts water safety using Random Forest based on 9 key quality parameters with interactive analytics."
+    },
+    {
+      "date": "2026-04-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "SaMarIbrahim3/Predicting-Irrigation-Need",
+      "url": "https://github.com/SaMarIbrahim3/Predicting-Irrigation-Need",
+      "snippet": "Stars:0 | Developed for a Kaggle competition, this project predicts crop irrigation needs using environmental and soil data. A deep learning approach was applied, showcasing AI’s role in smart agriculture to improve water efficiency and support sustainable farming practices."
+    },
+    {
+      "date": "2026-04-26",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "utoutoshuto/water-voice",
+      "url": "https://github.com/utoutoshuto/water-voice",
+      "snippet": "Stars:0 | AI音声入力アプリ。Claude APIで音声をリアルタイム整形してアクティブアプリに自動ペースト"
     }
   ]
 }

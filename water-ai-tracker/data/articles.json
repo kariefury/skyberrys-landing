@@ -1339,6 +1339,36 @@
       "title": "utoutoshuto/water-voice",
       "url": "https://github.com/utoutoshuto/water-voice",
       "snippet": "Stars:0 | AI音声入力アプリ。Claude APIで音声をリアルタイム整形してアクティブアプリに自動ペースト"
+    },
+    {
+      "date": "2026-04-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Ariel-CPP/AQUA-INSIGHT-NEXUS",
+      "url": "https://github.com/Ariel-CPP/AQUA-INSIGHT-NEXUS",
+      "snippet": "Stars:0 | A web-based machine learning decision support system for shrimp aquaculture risk assessment using water quality data, with real-time prediction, dataset upload, and SHAP-based interpretability."
+    },
+    {
+      "date": "2026-04-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ziadmahmoud-ml/AeroIrrigate",
+      "url": "https://github.com/ziadmahmoud-ml/AeroIrrigate",
+      "snippet": "Stars:0 | An advanced Deep Learning system designed for precision agriculture. Using Neural Networks to predict optimal irrigation timing based on environmental sensors, aiming to maximize crop yield and minimize water waste"
+    },
+    {
+      "date": "2026-04-27",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "getvari/vari-mcp",
+      "url": "https://github.com/getvari/vari-mcp",
+      "snippet": "Stars:0 | Vari Hydration Tools — public MCP server for Claude Desktop, Cursor, and other MCP clients. Six deterministic hydration calculators (water intake, dehydration, pregnancy, kidney, athlete, energy-optimizer)."
     }
   ]
 }

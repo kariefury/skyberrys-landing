@@ -1369,6 +1369,56 @@
       "title": "getvari/vari-mcp",
       "url": "https://github.com/getvari/vari-mcp",
       "snippet": "Stars:0 | Vari Hydration Tools — public MCP server for Claude Desktop, Cursor, and other MCP clients. Six deterministic hydration calculators (water intake, dehydration, pregnancy, kidney, athlete, energy-optimizer)."
+    },
+    {
+      "date": "2026-04-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Dhanusree22/ReSourceX",
+      "url": "https://github.com/Dhanusree22/ReSourceX",
+      "snippet": "Stars:0 | The app connects people who WANT to supply resources (food, clothes, books, water, etc.) with people who NEED them in real time using AI-based smart matching."
+    },
+    {
+      "date": "2026-04-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "rmcgill468/aqua_life",
+      "url": "https://github.com/rmcgill468/aqua_life",
+      "snippet": "Stars:0 | AI-powered drinking water quality prediction system using Machine Learning. Built with Streamlit, scikit-learn, SHAP and SMOTE. Supports UN SDG 6 - Clean Water and Sanitation."
+    },
+    {
+      "date": "2026-04-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "yubbha/WATER-QUALITY-ASSESSMENT-PREDICTION",
+      "url": "https://github.com/yubbha/WATER-QUALITY-ASSESSMENT-PREDICTION",
+      "snippet": "Stars:0 | Analyzed water quality dataset to predict potability using machine learning Applied clustering (K-Means) and PCA for pattern discovery Built classification model (CatBoost) achieving ~70% accuracy Evaluated models using ROC-AUC, F1-score, and recall"
+    },
+    {
+      "date": "2026-04-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nikkx01/Water-quality-predictor",
+      "url": "https://github.com/nikkx01/Water-quality-predictor",
+      "snippet": "Stars:1 | End-to-end machine learning project for water quality prediction. Evaluated multiple models and selected Random Forest (~96% accuracy), deployed as a Streamlit web app for real-time predictions."
+    },
+    {
+      "date": "2026-04-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sugoma11/Evaluating-prompt-optimization-techniques-for-water-management-LLM-assistant-with-RAG",
+      "url": "https://github.com/sugoma11/Evaluating-prompt-optimization-techniques-for-water-management-LLM-assistant-with-RAG",
+      "snippet": "Stars:0 | "
     }
   ]
 }

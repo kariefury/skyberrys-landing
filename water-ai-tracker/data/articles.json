@@ -1419,6 +1419,46 @@
       "title": "sugoma11/Evaluating-prompt-optimization-techniques-for-water-management-LLM-assistant-with-RAG",
       "url": "https://github.com/sugoma11/Evaluating-prompt-optimization-techniques-for-water-management-LLM-assistant-with-RAG",
       "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-04-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "MHridoy-123/Machine-Learning-Prediction-of-HM-Pollution-",
+      "url": "https://github.com/MHridoy-123/Machine-Learning-Prediction-of-HM-Pollution-",
+      "snippet": "Stars:0 | Heavy metal (HM) accumulation in lake sediments poses a persistent ecological threat and may increase aquatic organism vulnerability to disease, highlighting the need for cost-effective tools for integrated water-quality surveillance. "
+    },
+    {
+      "date": "2026-04-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "hit3shh/autonomous-water-cleaning-robot",
+      "url": "https://github.com/hit3shh/autonomous-water-cleaning-robot",
+      "snippet": "Stars:0 | Autonomous Water Surface Cleaning Robot using IoT, embedded AI, and smart waste collection mechanisms for sustainable waterbody maintenance."
+    },
+    {
+      "date": "2026-04-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "umairmujahid761-bit/LifeSync-AI",
+      "url": "https://github.com/umairmujahid761-bit/LifeSync-AI",
+      "snippet": "Stars:0 | \"LifeSync AI\".  The app should have a clean dashboard and include the following features:  1. AI Assistant:  * Chat interface * Responds to user questions about health, routine, and lifestyle  2. Healthy Routine:  * Water tracker * Sleep tracker * Daily habits  3. Mental Wellness:  * Mood tracker * Simple m"
+    },
+    {
+      "date": "2026-04-29",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ThingsLog/thingslog-ai-examples",
+      "url": "https://github.com/ThingsLog/thingslog-ai-examples",
+      "snippet": "Stars:0 | Codex and Claude prompts for installers and water integrators building ThingsLog monitoring businesses"
     }
   ]
 }

@@ -1459,6 +1459,76 @@
       "title": "ThingsLog/thingslog-ai-examples",
       "url": "https://github.com/ThingsLog/thingslog-ai-examples",
       "snippet": "Stars:0 | Codex and Claude prompts for installers and water integrators building ThingsLog monitoring businesses"
+    },
+    {
+      "date": "2026-04-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "DhruvBhadoriya-ux/Water-Quality-Monitoring-System-Machine-Learning-Based-Model-",
+      "url": "https://github.com/DhruvBhadoriya-ux/Water-Quality-Monitoring-System-Machine-Learning-Based-Model-",
+      "snippet": "Stars:0 | Developed a water quality monitoring model using Python and Random Forest to assess water safety based on sensor parameters such as pH. Applied data preprocessing and classification techniques to predict safe or unsafe water conditions, with potential use in real-time environmental monitoring."
+    },
+    {
+      "date": "2026-04-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "likalikali/PSWQCIKIFIML",
+      "url": "https://github.com/likalikali/PSWQCIKIFIML",
+      "snippet": "Stars:0 | The official repository for Prediction of Surface Water Quality Classification and Identification of Key Impact Factors based on Interpretable Machine Learning at JHI 2026."
+    },
+    {
+      "date": "2026-04-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "panchanyam/water-quality-sanitation-api",
+      "url": "https://github.com/panchanyam/water-quality-sanitation-api",
+      "snippet": "Stars:0 | Machine learning based water quality prediction API with real time inference, retraining support and Docker deployment aligned with United Nations SDG 6."
+    },
+    {
+      "date": "2026-04-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "vincentlitabalia31-cell/water-quality-ai",
+      "url": "https://github.com/vincentlitabalia31-cell/water-quality-ai",
+      "snippet": "Stars:0 | Water Quality AI System is a machine learning web app that predicts water potability using chemical parameters like pH, hardness, and turbidity. Built with Python, Scikit-learn, and Streamlit, it provides real-time predictions, confidence scores, and explainable insights for water safety analysis."
+    },
+    {
+      "date": "2026-04-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sarath11999/SAP_FLOW",
+      "url": "https://github.com/sarath11999/SAP_FLOW",
+      "snippet": "Stars:0 | Deep learning framework for predicting corn sap flow using Transformer architectures and environmental variables under deficit irrigation conditions, enabling precision irrigation and water management."
+    },
+    {
+      "date": "2026-04-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "fishman7337/sp-daaa-aiml-ca2-energy-consumption-forecast",
+      "url": "https://github.com/fishman7337/sp-daaa-aiml-ca2-energy-consumption-forecast",
+      "snippet": "Stars:0 | Time series forecasting project predicting energy consumption trends using ARIMA and SARIMAX models. Includes complete data cleaning, outlier handling, statistical tests, and seasonal decomposition to enhance model accuracy. Deployment covers gas, energy, and water consumption predictions."
+    },
+    {
+      "date": "2026-04-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "pixelschmiedehk/NutriTracker",
+      "url": "https://github.com/pixelschmiedehk/NutriTracker",
+      "snippet": "Stars:0 | AI-powered nutrition & calorie tracker — snap a photo of your meal and let Claude analyze it. Tracks macros, water intake, and progress toward your personal goals. PWA-ready for mobile installation."
     }
   ]
 }

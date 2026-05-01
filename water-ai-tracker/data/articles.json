@@ -1529,6 +1529,16 @@
       "title": "pixelschmiedehk/NutriTracker",
       "url": "https://github.com/pixelschmiedehk/NutriTracker",
       "snippet": "Stars:0 | AI-powered nutrition & calorie tracker — snap a photo of your meal and let Claude analyze it. Tracks macros, water intake, and progress toward your personal goals. PWA-ready for mobile installation."
+    },
+    {
+      "date": "2026-05-01",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "deepshekhar555/Water-Quality-Prediction-Aquaculture-IoT-ML",
+      "url": "https://github.com/deepshekhar555/Water-Quality-Prediction-Aquaculture-IoT-ML",
+      "snippet": "Stars:0 | IoT-based water quality prediction for aquaculture using Arduino sensors (pH, temperature, turbidity) and machine learning (Linear Regression) to estimate dissolved oxygen and ensure sustainable fish farming."
     }
   ]
 }

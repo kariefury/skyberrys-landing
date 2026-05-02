@@ -1539,6 +1539,56 @@
       "title": "deepshekhar555/Water-Quality-Prediction-Aquaculture-IoT-ML",
       "url": "https://github.com/deepshekhar555/Water-Quality-Prediction-Aquaculture-IoT-ML",
       "snippet": "Stars:0 | IoT-based water quality prediction for aquaculture using Arduino sensors (pH, temperature, turbidity) and machine learning (Linear Regression) to estimate dissolved oxygen and ensure sustainable fish farming."
+    },
+    {
+      "date": "2026-05-02",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sreekanthkumar129-netizen/Water-quality-analysis-ML",
+      "url": "https://github.com/sreekanthkumar129-netizen/Water-quality-analysis-ML",
+      "snippet": "Stars:0 | Machine learning project predicting drinking water potability using Support Vector Machine (SVM). Includes preprocessing, model training, evaluation with confusion matrix and classification report, and visualization of results."
+    },
+    {
+      "date": "2026-05-02",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "monikasengar/india-water-quality-analysis-ml",
+      "url": "https://github.com/monikasengar/india-water-quality-analysis-ml",
+      "snippet": "Stars:0 | A data-driven assessment of Indian water bodies using environmental indicators and machine learning (clustering, WQI prediction, anomaly detection)."
+    },
+    {
+      "date": "2026-05-02",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kubraabayram/pond-water-quality-monitoring",
+      "url": "https://github.com/kubraabayram/pond-water-quality-monitoring",
+      "snippet": "Stars:0 | An end-to-end IoT and Machine Learning system that monitors pH, TDS, and temperature using a FastAPI backend and Random Forest classification for real-time water quality assessment."
+    },
+    {
+      "date": "2026-05-02",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "madhavkmohan003/Explainable-Water-Quality-Prediction",
+      "url": "https://github.com/madhavkmohan003/Explainable-Water-Quality-Prediction",
+      "snippet": "Stars:0 | Machine Learning based water quality prediction system with explainable AI using SVM and Flask"
+    },
+    {
+      "date": "2026-05-02",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Saksham1702-hub/AI-ML-WATER-POTABILITY-PROJECT",
+      "url": "https://github.com/Saksham1702-hub/AI-ML-WATER-POTABILITY-PROJECT",
+      "snippet": "Stars:0 | A machine learning project that predicts whether water is potable or not using water quality parameters. The project includes data preprocessing, missing value handling, exploratory data analysis, feature scaling, model training, and performance evaluation using classification metrics."
     }
   ]
 }

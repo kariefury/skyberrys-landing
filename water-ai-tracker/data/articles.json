@@ -1589,6 +1589,26 @@
       "title": "Saksham1702-hub/AI-ML-WATER-POTABILITY-PROJECT",
       "url": "https://github.com/Saksham1702-hub/AI-ML-WATER-POTABILITY-PROJECT",
       "snippet": "Stars:0 | A machine learning project that predicts whether water is potable or not using water quality parameters. The project includes data preprocessing, missing value handling, exploratory data analysis, feature scaling, model training, and performance evaluation using classification metrics."
+    },
+    {
+      "date": "2026-05-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "jaideep7singh/PREDICTING-WATER-QUALITY-USING-ENSEMBLE-MACHINE-LEARNING",
+      "url": "https://github.com/jaideep7singh/PREDICTING-WATER-QUALITY-USING-ENSEMBLE-MACHINE-LEARNING",
+      "snippet": "Stars:0 | The main goal of this project to create a fast, accurate, and reliable system that can predict the Water Quality Index (WQI) using advanced machine learning techniques. Instead of depending only on traditional testing methods that take more time and resources,"
+    },
+    {
+      "date": "2026-05-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "RohanAtole/clean-drop-ai",
+      "url": "https://github.com/RohanAtole/clean-drop-ai",
+      "snippet": "Stars:0 | CleanDrop AI 💧 is a premium, smart management system for water purifiers. It uses a Java Spring Boot backend 🚀 and an AI Chatbot 🤖 to make ordering, tracking, and customer support seamless and modern! ✨"
     }
   ]
 }

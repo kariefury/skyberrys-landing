@@ -1609,6 +1609,56 @@
       "title": "RohanAtole/clean-drop-ai",
       "url": "https://github.com/RohanAtole/clean-drop-ai",
       "snippet": "Stars:0 | CleanDrop AI 💧 is a premium, smart management system for water purifiers. It uses a Java Spring Boot backend 🚀 and an AI Chatbot 🤖 to make ordering, tracking, and customer support seamless and modern! ✨"
+    },
+    {
+      "date": "2026-05-04",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "gdelt",
+      "title": "CA Soon May Have Over 300 Data Centers . Locals Worry About Water Supply Threats . ",
+      "url": "https://truthout.org/articles/ca-soon-may-have-over-300-data-centers-locals-worry-about-water-supply-threats/",
+      "snippet": "20260429T213000Z"
+    },
+    {
+      "date": "2026-05-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "PriyankaMenghare/Water-Potability-Prediction-ML",
+      "url": "https://github.com/PriyankaMenghare/Water-Potability-Prediction-ML",
+      "snippet": "Stars:0 | A machine learning pipeline to predict water potability using 9 water quality metrics. Covers EDA, missing value imputation, outlier removal, feature scaling, and comparison of 7 classifiers including Logistic Regression, Decision Tree, Random Forest, SVM, KNN, Naive Bayes, and AdaBoost."
+    },
+    {
+      "date": "2026-05-04",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Manavarya09/bullpen",
+      "url": "https://github.com/Manavarya09/bullpen",
+      "snippet": "Stars:0 | My AI engineering team for Claude Code — 64 named specialists I actually use every day. Atlas leads, Rune designs, Forge codes backend, Bastion guards security, Sage tells me to drink water. Deep agent prompts (anti-patterns + 2025 defaults + handoffs + checklists), per-role memory, ASCII activation cards. MIT."
+    },
+    {
+      "date": "2026-05-04",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "samridh3215/drink-water",
+      "url": "https://github.com/samridh3215/drink-water",
+      "snippet": "Stars:0 | Claude Code plugin to remind you to hit your water intake "
+    },
+    {
+      "date": "2026-05-04",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "michalplok/Mindustry-deep-to-shallow-water",
+      "url": "https://github.com/michalplok/Mindustry-deep-to-shallow-water",
+      "snippet": "Stars:0 | i made some small mod with claude it turns deep water into shallow water "
     }
   ]
 }

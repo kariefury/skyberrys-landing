@@ -1659,6 +1659,26 @@
       "title": "michalplok/Mindustry-deep-to-shallow-water",
       "url": "https://github.com/michalplok/Mindustry-deep-to-shallow-water",
       "snippet": "Stars:0 | i made some small mod with claude it turns deep water into shallow water "
+    },
+    {
+      "date": "2026-05-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shouryakumar6290/WATER_PURITY_CHECK",
+      "url": "https://github.com/shouryakumar6290/WATER_PURITY_CHECK",
+      "snippet": "Stars:0 | Water Quality Prediction System  This project is a Machine Learning-based Water Quality Analyzer that predicts whether water is safe or unsafe for drinking based on various chemical parameters.  It takes real-world water data as input, performs prediction using a trained model, and provides detailed insights, fault detection, and recommendations."
+    },
+    {
+      "date": "2026-05-06",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "DawnSpider96/waters",
+      "url": "https://github.com/DawnSpider96/waters",
+      "snippet": "Stars:0 | Light tool to create (and dispose of) git worktrees to run Claude Code"
     }
   ]
 }

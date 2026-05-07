@@ -1679,6 +1679,36 @@
       "title": "DawnSpider96/waters",
       "url": "https://github.com/DawnSpider96/waters",
       "snippet": "Stars:0 | Light tool to create (and dispose of) git worktrees to run Claude Code"
+    },
+    {
+      "date": "2026-05-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sameersing27/INTELLIGENT-ANALYSIS-OF-WATER-SUPPLY-INFRASTRUCTURE",
+      "url": "https://github.com/sameersing27/INTELLIGENT-ANALYSIS-OF-WATER-SUPPLY-INFRASTRUCTURE",
+      "snippet": "Stars:0 | An AI/ML-based smart infrastructure monitoring system developed to analyze water supply networks and predict potential pipe failures using machine learning algorithms. The project helps authorities reduce water leakage, improve maintenance planning, and enhance overall water distribution efficiency through data-driven decision-making"
+    },
+    {
+      "date": "2026-05-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "premprasad1707/-Smart_Resource_management_forcast",
+      "url": "https://github.com/premprasad1707/-Smart_Resource_management_forcast",
+      "snippet": "Stars:0 | this application that monitors, forecasts, and detects anomalies across 4 utilits (Water, Electricity, Fuel, Gas) for 22 countries from 2000–2024.  The real-world problem outlined in the Utility Intelligence Platform document — geopolitical supply disruptions (Russia–Ukraine), smart city monitoring, and AI-driven resource allocation."
+    },
+    {
+      "date": "2026-05-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mnifinicha/water-quality-monitoring-and-forecasting-using-intelligent-buoy-via-machine-learning",
+      "url": "https://github.com/mnifinicha/water-quality-monitoring-and-forecasting-using-intelligent-buoy-via-machine-learning",
+      "snippet": "Stars:0 | "
     }
   ]
 }

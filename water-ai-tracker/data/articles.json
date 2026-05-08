@@ -1709,6 +1709,16 @@
       "title": "mnifinicha/water-quality-monitoring-and-forecasting-using-intelligent-buoy-via-machine-learning",
       "url": "https://github.com/mnifinicha/water-quality-monitoring-and-forecasting-using-intelligent-buoy-via-machine-learning",
       "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-05-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "subha-maker/Marine-Biodiversity-Health-prediction",
+      "url": "https://github.com/subha-maker/Marine-Biodiversity-Health-prediction",
+      "snippet": "Stars:0 | Machine learning-based system to predict marine species health using water quality parameters like pH, temperature, salinity, and dissolved oxygen."
     }
   ]
 }

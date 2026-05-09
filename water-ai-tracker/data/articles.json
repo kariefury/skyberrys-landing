@@ -1719,6 +1719,36 @@
       "title": "subha-maker/Marine-Biodiversity-Health-prediction",
       "url": "https://github.com/subha-maker/Marine-Biodiversity-Health-prediction",
       "snippet": "Stars:0 | Machine learning-based system to predict marine species health using water quality parameters like pH, temperature, salinity, and dissolved oxygen."
+    },
+    {
+      "date": "2026-05-09",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "HarshalVision12345/Water_Quality",
+      "url": "https://github.com/HarshalVision12345/Water_Quality",
+      "snippet": "Stars:0 | The Water Quality Predictor is a Machine Learning-based application designed to determine the portability of water based on its chemical properties. By analyzing key metrics like pH levels, hardness, and sulfate content, this tool helps identify whether water is safe for human consumption."
+    },
+    {
+      "date": "2026-05-09",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "hemaofficial783/Water-Quality-Prediction",
+      "url": "https://github.com/hemaofficial783/Water-Quality-Prediction",
+      "snippet": "Stars:0 | mart Water Quality Analyzer is an AI-powered machine learning application that predicts whether water is safe or unsafe for drinking based on important water quality parameters like pH, turbidity, chloride, manganese, and water color. Built using Python, Streamlit, and Machine Learning for real-time water quality analysis."
+    },
+    {
+      "date": "2026-05-09",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "jacobwaynecolton/water-store-social-bot",
+      "url": "https://github.com/jacobwaynecolton/water-store-social-bot",
+      "snippet": "Stars:0 | Autonomous social media bot for Water Store OS — generates and posts content to Facebook and Instagram using Claude and DALL-E 3"
     }
   ]
 }

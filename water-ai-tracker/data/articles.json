@@ -1749,6 +1749,46 @@
       "title": "jacobwaynecolton/water-store-social-bot",
       "url": "https://github.com/jacobwaynecolton/water-store-social-bot",
       "snippet": "Stars:0 | Autonomous social media bot for Water Store OS — generates and posts content to Facebook and Instagram using Claude and DALL-E 3"
+    },
+    {
+      "date": "2026-05-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "adityaroy3010/FISH-FRESHNESS-DETECTION-USING-LOW-COST-IOT-HARDWARE",
+      "url": "https://github.com/adityaroy3010/FISH-FRESHNESS-DETECTION-USING-LOW-COST-IOT-HARDWARE",
+      "snippet": "Stars:0 | Low-cost IoT hardware (ESP32, MQ135, and TDS sensors) and machine learning models (Decision Trees, k-NN, and SVM) are used in this real-time fish spoilage detection system. The system classifies fish freshness by analyzing water quality, CO₂, and ammonia. The results are shown on an intuitive dashboard."
+    },
+    {
+      "date": "2026-05-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Zeyadmahmoud-ml/AeroIrrigate",
+      "url": "https://github.com/Zeyadmahmoud-ml/AeroIrrigate",
+      "snippet": "Stars:0 | An advanced Deep Learning system designed for precision agriculture. Using Neural Networks to predict optimal irrigation timing based on environmental sensors, aiming to maximize crop yield and minimize water waste"
+    },
+    {
+      "date": "2026-05-10",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "rotask/nlp-esg-extractor",
+      "url": "https://github.com/rotask/nlp-esg-extractor",
+      "snippet": "Stars:0 | Rule-based vs LLM pipeline for extracting ESG KPIs (Scope 1 emissions, energy, water) from corporate sustainability PDFs. ClimateBERT + Docling + Claude / Gemini tool-use. F1 = 0.96 on 5 FY2025 reports."
+    },
+    {
+      "date": "2026-05-10",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "vishalmadargaon/sahyadri-siri-water-health-map",
+      "url": "https://github.com/vishalmadargaon/sahyadri-siri-water-health-map",
+      "snippet": "Stars:0 | Android app for community water quality mapping with Firebase Auth, Gemini AI image analysis, OpenStreetMap, dashboard charts, and chatbot guidance."
     }
   ]
 }

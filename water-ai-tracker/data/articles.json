@@ -1789,6 +1789,46 @@
       "title": "vishalmadargaon/sahyadri-siri-water-health-map",
       "url": "https://github.com/vishalmadargaon/sahyadri-siri-water-health-map",
       "snippet": "Stars:0 | Android app for community water quality mapping with Firebase Auth, Gemini AI image analysis, OpenStreetMap, dashboard charts, and chatbot guidance."
+    },
+    {
+      "date": "2026-05-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Hopendra/water-potability-predictor",
+      "url": "https://github.com/Hopendra/water-potability-predictor",
+      "snippet": "Stars:0 | Machine learning project to predict whether water is safe for drinking using water quality parameters and classification algorithms. "
+    },
+    {
+      "date": "2026-05-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "BharathiMuthusamy/water-quality-prediction",
+      "url": "https://github.com/BharathiMuthusamy/water-quality-prediction",
+      "snippet": "Stars:0 | A machine-learning based web application that predicts whether water is Safe or Not Safe to drink using key water quality parameters. Built using CatBoost, SMOTE-Tomek, StandardScaler, and Streamlit."
+    },
+    {
+      "date": "2026-05-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Abhay0222/Water-Quality-Estimation-Using-Machine-Learning",
+      "url": "https://github.com/Abhay0222/Water-Quality-Estimation-Using-Machine-Learning",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-05-11",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "pixelbuyte/claude-camera-controll-openclaw",
+      "url": "https://github.com/pixelbuyte/claude-camera-controll-openclaw",
+      "snippet": "Stars:0 | being able to let the ai monitor the camera ands send real sight info and stuff like i tell it to remind me to drink water at --- time and it sends a messege and that being able to see whats going on and all"
     }
   ]
 }

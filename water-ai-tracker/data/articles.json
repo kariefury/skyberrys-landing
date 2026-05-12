@@ -1829,6 +1829,46 @@
       "title": "pixelbuyte/claude-camera-controll-openclaw",
       "url": "https://github.com/pixelbuyte/claude-camera-controll-openclaw",
       "snippet": "Stars:0 | being able to let the ai monitor the camera ands send real sight info and stuff like i tell it to remind me to drink water at --- time and it sends a messege and that being able to see whats going on and all"
+    },
+    {
+      "date": "2026-05-12",
+      "company": "xai",
+      "model_family": "grok",
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "XAI-Enhanced Stacking Ensemble Framework for Interpretable Water Potability Classification in Bangladesh",
+      "url": "https://www.semanticscholar.org/paper/ce5bfa676a2e1809c6855a8e06e939f45c86115b",
+      "snippet": "Ensuring access to potable water remains a critical challenge, particularly in developing countries such as Bangladesh, where contamination from industrial, agricultural, and municipal sources threatens public health. Conventional laboratory testing methods, though accurate, are costly, time-consuming, and unsuitable for large-scale monitoring. Machine learning (ML) offers efficiency and scalabili"
+    },
+    {
+      "date": "2026-05-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "aryamasharma27/AquaLens-Water-Quality-Analysis",
+      "url": "https://github.com/aryamasharma27/AquaLens-Water-Quality-Analysis",
+      "snippet": "Stars:0 | AI-powered water quality analysis and pH prediction system using Flask, Scikit-learn, and Machine Learning."
+    },
+    {
+      "date": "2026-05-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ninditya/aquasense-ds-assessment",
+      "url": "https://github.com/ninditya/aquasense-ds-assessment",
+      "snippet": "Stars:0 | Machine learning–driven water analytics system for identifying environmental patterns, evaluating water quality indicators, and supporting monitoring optimization."
+    },
+    {
+      "date": "2026-05-12",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "m4rt1n99/claude-fishing-trip-planner",
+      "url": "https://github.com/m4rt1n99/claude-fishing-trip-planner",
+      "snippet": "Stars:0 | Claude skill that has the ability to plan fishing trips in the Czech Republic, check info about bodies of water, and search public transport routes."
     }
   ]
 }

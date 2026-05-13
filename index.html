@@ -354,6 +354,57 @@
             box-shadow: 0 3px 0 #005f5f;
         }
 
+        /* ─── BLOG ─── */
+        .blog-section {
+            padding: 60px 0;
+            border-bottom: 1px solid #222;
+        }
+
+        .blog-post-list {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .blog-post-card {
+            background: var(--card-bg);
+            border: 1px solid #2a2a2a;
+            border-radius: 16px;
+            padding: 28px;
+            text-decoration: none;
+            display: block;
+            transition: border-color 0.25s, transform 0.25s, box-shadow 0.25s;
+            max-width: 680px;
+        }
+
+        .blog-post-card:hover {
+            border-color: var(--turquoise);
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(0,206,209,0.12);
+        }
+
+        .blog-post-date {
+            font-size: 0.72em;
+            letter-spacing: 0.08em;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+
+        .blog-post-card h3 {
+            color: var(--turquoise-glow);
+            margin: 0 0 8px;
+            font-size: 1.15em;
+            font-weight: 600;
+        }
+
+        .blog-post-card p {
+            font-size: 0.85em;
+            color: var(--text-dim);
+            margin: 0 0 10px;
+            line-height: 1.6;
+        }
+
         /* ─── GIVING BACK ─── */
         .giving-section {
             padding: 60px 0;
@@ -542,6 +593,26 @@
         </div>
     </section>
 
+    <!-- BLOG -->
+    <section class="blog-section">
+        <p class="section-label">From the blog</p>
+        <h2 class="section-title">Latest writing.</h2>
+        <p style="color: #aaa; max-width: 640px; margin-bottom: 36px;">Notes on building, thinking, and the ongoing experiment of using AI to help humans with the basics.</p>
+
+        <div class="blog-post-list">
+
+            <a href="/blog/ai-scorecard-two-months-in/" class="blog-post-card">
+                <div class="blog-post-date">May 13, 2026</div>
+                <h3>AI for Humanity Scorecard: Two Months In</h3>
+                <p>A progress report on the AI Scorecard project — what the tools suggested, what I actually built, and whether any of it is helping with water, food, shelter, and healthcare.</p>
+                <span class="arrow-hint">Read more →</span>
+            </a>
+
+        </div>
+
+        <a href="/blog/" class="btn btn-turquoise" style="margin-top: 32px; display: inline-block;">All posts →</a>
+    </section>
+
     <!-- GIVING BACK -->
     <section class="giving-section">
         <p class="section-label">The philosophy</p>
@@ -555,4 +626,8 @@
 
 <footer>
     <p>&copy; 2026 Dr. Carrie Hartley Segal &nbsp;|&nbsp; carrie@skyberrys.com</p>
-    <p 
+    <p><a href="/blog/">Blog</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/@DrCarrieHartleySegal" target="_blank" rel="noopener">YouTube</a> &nbsp;|&nbsp; <a href="/water-ai-tracker/">Water AI Index</a></p>
+</footer>
+
+</body>
+</html>

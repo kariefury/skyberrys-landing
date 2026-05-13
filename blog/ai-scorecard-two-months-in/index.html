@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI for Humanity Scorecard: Two Months In — Skyberrys Blog</title>
+    <meta name="description" content="A progress report on the AI for Humanity Scorecard project — what the AI tools suggested, what I actually built, and whether any of it is helping with water, food, shelter, and healthcare.">
+    <meta name="author" content="Dr. Carrie Hartley Segal">
+    <link rel="canonical" href="https://skyberrys.com/blog/ai-scorecard-two-months-in/">
+
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://skyberrys.com/blog/ai-scorecard-two-months-in/">
+    <meta property="og:site_name" content="Skyberrys">
+    <meta property="og:title" content="AI for Humanity Scorecard: Two Months In">
+    <meta property="og:description" content="A progress report on the AI for Humanity Scorecard — what the AI tools suggested, what I actually built, and whether any of it is helping with water, food, shelter, and healthcare.">
+    <meta property="og:image" content="https://skyberrys.com/orchid_journal_icon.png">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "AI for Humanity Scorecard: Two Months In",
+      "author": { "@type": "Person", "name": "Dr. Carrie Hartley Segal" },
+      "datePublished": "2026-05-13",
+      "publisher": { "@type": "Organization", "name": "Skyberrys", "url": "https://skyberrys.com" },
+      "url": "https://skyberrys.com/blog/ai-scorecard-two-months-in/"
+    }
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🫐</text></svg>">
+
+    <style>
+        :root {
+            --bg-dark: #0e0e0e;
+            --bg-mid: #161616;
+            --card-bg: #1a1a1a;
+            --turquoise: #00ced1;
+            --turquoise-glow: #40e0d0;
+            --turquoise-dim: rgba(0,206,209,0.12);
+            --text-main: #e8e8e8;
+            --text-dim: #888;
+            --text-bright: #fff;
+            --water: #3b9ede;
+            --food: #72b34a;
+            --shelter: #e0993a;
+            --health: #00ced1;
+        }
+
+        * { box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            font-family: 'DM Sans', 'Lucida Grande', sans-serif;
+            margin: 0; padding: 0;
+            line-height: 1.8;
+        }
+
+        /* ─── SITE HEADER ─── */
+        .site-header {
+            padding: 20px 24px;
+            border-bottom: 1px solid #222;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .site-header a {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 1.6em;
+            font-weight: 600;
+            color: var(--text-bright);
+            text-decoration: none;
+        }
+
+        .site-header a span { color: var(--turquoise); }
+
+        .breadcrumb {
+            font-size: 0.8em;
+            color: var(--text-dim);
+            margin-left: auto;
+        }
+
+        .breadcrumb a { color: var(--turquoise); text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+
+        /* ─── ARTICLE ─── */
+        .article-wrap {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 60px 24px 100px;
+        }
+
+        .post-label {
+            font-size: 0.72em;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--turquoise);
+            font-weight: 500;
+            margin-bottom: 14px;
+        }
+
+        h1.post-title {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 2.8em;
+            font-weight: 600;
+            color: var(--text-bright);
+            margin: 0 0 16px;
+            line-height: 1.2;
+        }
+
+        .post-meta {
+            font-size: 0.82em;
+            color: var(--text-dim);
+            margin-bottom: 48px;
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .post-meta span { display: flex; align-items: center; gap: 5px; }
+
+        /* ─── BODY ─── */
+        .post-body p {
+            font-size: 1.05em;
+            color: #c8c8c8;
+            margin: 0 0 22px;
+        }
+
+        .post-body h2 {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 1.85em;
+            font-weight: 600;
+            color: var(--text-bright);
+            margin: 48px 0 16px;
+            line-height: 1.3;
+        }
+
+        .post-body h3 {
+            font-size: 1.05em;
+            font-weight: 600;
+            color: var(--turquoise-glow);
+            margin: 32px 0 10px;
+            letter-spacing: 0.02em;
+        }
+
+        .post-body a {
+            color: var(--turquoise);
+            text-decoration: none;
+        }
+
+        .post-body a:hover { text-decoration: underline; }
+
+        .post-body ul {
+            color: #c0c0c0;
+            padding-left: 22px;
+            margin: 0 0 22px;
+        }
+
+        .post-body ul li { margin-bottom: 8px; }
+
+        .callout {
+            margin: 36px 0;
+            padding: 20px 26px;
+            background: var(--turquoise-dim);
+            border-left: 3px solid var(--turquoise);
+            border-radius: 0 12px 12px 0;
+            font-size: 1em;
+            color: #c0e8e8;
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-style: italic;
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+
+        .app-mention {
+            display: inline-block;
+            background: rgba(0,206,209,0.08);
+            border: 1px solid rgba(0,206,209,0.2);
+            border-radius: 8px;
+            padding: 2px 9px;
+            font-size: 0.9em;
+            color: var(--turquoise-glow);
+            text-decoration: none;
+        }
+
+        .app-mention:hover {
+            background: rgba(0,206,209,0.16);
+            text-decoration: none;
+        }
+
+        /* ─── VIDEO EMBED ─── */
+        .video-wrap {
+            margin: 40px 0;
+            border-radius: 16px;
+            overflow: hidden;
+            background: #111;
+            border: 1px solid #2a2a2a;
+        }
+
+        .video-wrap iframe {
+            width: 100%;
+            aspect-ratio: 16 / 9;
+            display: block;
+            border: none;
+        }
+
+        .video-caption {
+            font-size: 0.78em;
+            color: var(--text-dim);
+            padding: 10px 16px;
+            border-top: 1px solid #2a2a2a;
+        }
+
+        /* ─── DIVIDER ─── */
+        .post-divider {
+            border: none;
+            border-top: 1px solid #2a2a2a;
+            margin: 50px 0;
+        }
+
+        /* ─── BACK LINK ─── */
+        .back-link {
+            display: inline-block;
+            margin-top: 40px;
+            color: var(--turquoise);
+            text-decoration: none;
+            font-size: 0.9em;
+            font-weight: 500;
+        }
+
+        .back-link:hover { text-decoration: underline; }
+
+        /* ─── FOOTER ─── */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-dim);
+            font-size: 0.8em;
+            border-top: 1px solid #1e1e1e;
+        }
+
+        footer a { color: var(--turquoise); text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+<header class="site-header">
+    <a href="/"><span>sky</span>berrys</a>
+    <nav class="breadcrumb">
+        <a href="/">Home</a> / <a href="/blog/">Blog</a> / AI Scorecard Update
+    </nav>
+</header>
+
+<main class="article-wrap">
+
+    <p class="post-label">Blog &nbsp;·&nbsp; AI for Humanity</p>
+    <h1 class="post-title">AI for Humanity Scorecard: Two Months In</h1>
+
+    <div class="post-meta">
+        <span>✍️ Dr. Carrie Hartley Segal</span>
+        <span>📅 May 13, 2026</span>
+        <span>🎥 <a href="https://www.youtube.com/watch?v=OSqFi-YvNgE" target="_blank" rel="noopener">Watch on YouTube</a></span>
+    </div>
+
+    <div class="post-body">
+
+        <p>A couple of months ago I started a project I'm calling the <strong>AI for Humanity Scorecard</strong>. The premise is simple: I want to understand how well today's AI tools actually help people meet their four most basic needs — water, food, shelter, and healthcare. Not in theory. Not in benchmark results. In practice, when a real person asks.</p>
+
+        <p>Two months in, I have findings. They are… mixed.</p>
+
+        <div class="video-wrap">
+            <iframe src="https://www.youtube.com/embed/OSqFi-YvNgE" title="AI for Humanity Scorecard Update" allowfullscreen loading="lazy"></iframe>
+            <p class="video-caption">The video version of this update — same ideas, a little more rambling.</p>
+        </div>
+
+        <h2>How it started</h2>
+
+        <p>I shared a set of prompts designed to help people probe their AI tools — Gemini, Claude, and others — with questions about how to improve their own water security, food independence, shelter safety, and healthcare. The idea was to surface useful, grounded suggestions, not generic advice.</p>
+
+        <p>I also tried the prompts myself. And that's where things got interesting.</p>
+
+        <h2>The AI keeps telling me to build apps</h2>
+
+        <p>I have a PhD in computer engineering. I design chips professionally. So when I ask Gemini how I might increase my water security, you might understand why I was mildly puzzled when it suggested I <em>build an app</em>.</p>
+
+        <p>It kept doing this. For nearly every question — water, food, shelter, healthcare — the suggestion curved back toward software development. Build an iPhone app. Build an Android app. Create a tool.</p>
+
+        <p>I can only speculate that Gemini's background knowledge about me influenced this. It knows I'm technical. It knows I build things. And so it tells me to build things. Whether a person with different expertise would get different, better-suited suggestions is something I genuinely don't know yet — and it matters a lot for whether this tool is actually useful at scale.</p>
+
+        <p>Being me, I took the bait. Here's what I built:</p>
+
+        <ul>
+            <li><a href="/orchid-journal/" class="app-mention">Orchid Journal</a> — a mindfulness and journaling app, now live on the App Store</li>
+            <li><a href="/how-pranked-my-house/" class="app-mention">How Pranked My House</a> — a room-scanning safety app for shelter hazards</li>
+            <li><a href="/borrow-this/" class="app-mention">Borrow This And Improve It</a> — a community repair and reuse app, in Android beta</li>
+        </ul>
+
+        <p>Each of these came out of an AI suggestion. Each taught me something. But none of them were <em>easy</em>, and that brings me to the most important thing I've learned so far.</p>
+
+        <div class="callout">
+            "An AI tool telling me to build an app — and then using an AI to help release it for broad distribution — is a big step up from just programming an app."
+        </div>
+
+        <p>I am a technical person. I code. But publishing an app is not coding. The App Store submission process, the privacy policy requirements, the marketing, the beta testing pipeline — none of that has anything to do with the quality of your Swift or Kotlin. And if the AI is recommending app development to people who aren't technical at all, that's a real problem.</p>
+
+        <h2>What the AI got right: growing food to conserve water</h2>
+
+        <p>Not everything was app suggestions. One insight genuinely surprised me.</p>
+
+        <p>When I asked about conserving water, the AI pointed out that growing your own food locally could actually reduce pressure on water-stressed agricultural regions. The water used to grow food in California's Central Valley — or wherever your food travels from — often comes from areas with serious long-term water insecurity. If you can grow even a portion of your food locally, in a region with more reliable water access, you transfer some of that water risk away from fragile systems.</p>
+
+        <p>This is real. It's not a hack. It's not an app. It's a structural insight about food systems and water geography. My neighborhood has better water reliability than many food-producing regions — so a modest garden isn't just a hobby, it's a small act of water redistribution.</p>
+
+        <p>That said: I'm not growing nearly enough to make a meaningful dent in my food security. Gardening is not a skill you pick up in a week, and the goal here was never really about me anyway.</p>
+
+        <h2>The Water AI Index</h2>
+
+        <p>I also built <a href="/water-ai-tracker/">the Water AI Index</a> — a tracker that monitors how the four major AI companies are being used to address water, food, shelter, and healthcare issues. I've been watching it for about a month.</p>
+
+        <p>I'm not satisfied with it yet. The coverage is thin. What I really want is a way for people to submit their own experiences — through Reddit posts, tweets, or some kind of structured form — so that ordinary people's results are represented, not just news articles and press releases. The methodology is still evolving.</p>
+
+        <h2>The money loop problem</h2>
+
+        <p>There's a lot of content out there about using AI tools to make money. And yes, technically, money solves water, food, shelter, and healthcare. So I explored that path too.</p>
+
+        <p>The AI's top suggestion for me? <em>Create a Notion template.</em></p>
+
+        <p>I have a PhD in computer engineering. I was expecting something like "apply your chip design expertise to low-power IoT water sensors." Instead: Notion template. I'm not making a Notion template.</p>
+
+        <p>Beyond the silly suggestions, there's a structural loop worth naming: if you need an AI subscription to figure out how to make money, and then you spend that money on the AI subscription to figure out how to keep making money — you're not building independence, you're building dependency. The four basic needs (water, food, shelter, healthcare) shouldn't require a $20/month subscription to access guidance about.</p>
+
+        <p>Which raises a real question: what if the honest answer is to cancel the AI subscription, save $200 a year, and apply that to something concrete?</p>
+
+        <h2>What I still don't know</h2>
+
+        <p>Two months in, I don't have enough data from other people to draw conclusions. My own results are shaped by who I am — a technical person who builds apps, who lives somewhere with decent water access, who isn't personally facing scarcity in any of these four areas.</p>
+
+        <p>What I need to know: when someone who <em>is</em> facing a real scarcity problem asks these AI tools for help, what do they get? Is it useful? Is it accurate? Is it actionable without a technical background or disposable income?</p>
+
+        <p>I think it's really important that humans figure out water, food, shelter, and healthcare. Whether AI tools get us there faster — I genuinely don't know. It's possible they do. It's possible we'd be better off without them, thinking for ourselves, cancelling the subscriptions, and spending the money on seeds.</p>
+
+        <h2>What's next</h2>
+
+        <p>The most practical-sounding suggestion I've received so far — from the AI, ironically — was to build <a href="/thirst-quencher/" class="app-mention">Thirst Quencher</a>: an app for requesting a free drink of water, no account needed, with a pay-it-forward model. It has some technical complications I'm still working through, but it feels closer to the point than a Notion template.</p>
+
+        <p>I'm also thinking harder about reach. I do genuinely enjoy watching YouTube videos and reading blog posts where the creator shares the tools and products that actually helped them build something real. Maybe I should be doing more of that — being less allergic to promotion, bringing in help, and putting some energy into making the water/food/shelter/healthcare conversation louder.</p>
+
+        <p>Let me know what you think. If you've tried the AI prompts I shared earlier — or if you've found genuinely useful AI guidance on any of these four needs — I want to hear about it.</p>
+
+        <hr class="post-divider">
+
+        <p style="font-size: 0.9em; color: var(--text-dim);">This post is based on my YouTube update from May 2026. <a href="https://www.youtube.com/watch?v=OSqFi-YvNgE" target="_blank" rel="noopener">Watch the full video here.</a> Don't forget to like and subscribe if you find this work interesting — it helps more than you'd think.</p>
+
+    </div><!-- /post-body -->
+
+    <a href="/blog/" class="back-link">← All posts</a>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Dr. Carrie Hartley Segal &nbsp;|&nbsp; <a href="/">skyberrys.com</a> &nbsp;|&nbsp; carrie@skyberrys.com</p>
+</footer>
+
+</body>
+</html>

@@ -1869,6 +1869,66 @@
       "title": "m4rt1n99/claude-fishing-trip-planner",
       "url": "https://github.com/m4rt1n99/claude-fishing-trip-planner",
       "snippet": "Stars:0 | Claude skill that has the ability to plan fishing trips in the Czech Republic, check info about bodies of water, and search public transport routes."
+    },
+    {
+      "date": "2026-05-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "IhteshamIbnMalek/river-water-quality-ml",
+      "url": "https://github.com/IhteshamIbnMalek/river-water-quality-ml",
+      "snippet": "Stars:0 | Dataset, trained models, and Python implementation for machine learning-based river water quality classification and forecasting."
+    },
+    {
+      "date": "2026-05-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Afranium/Water-Monitoring-Research-Satellite-and-Machine-learning-framework-",
+      "url": "https://github.com/Afranium/Water-Monitoring-Research-Satellite-and-Machine-learning-framework-",
+      "snippet": "Stars:0 | This research proposes a satellite remote sensing and machine learning framework for monitoring Weija Reservoir in Accra, Ghana, as a cost-effective and spatially comprehensive alternative to the traditional water quality monitoring methods currently used at the reservoir."
+    },
+    {
+      "date": "2026-05-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mukuuund/Explainable-River-Water-Quality-Detection-Using-Machine-Learning-",
+      "url": "https://github.com/mukuuund/Explainable-River-Water-Quality-Detection-Using-Machine-Learning-",
+      "snippet": "Stars:0 | Explainable river water quality detection dashboard using machine learning, compliance analysis, hotspot detection, alerts, and SHAP/LIME explainability."
+    },
+    {
+      "date": "2026-05-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "abhijithappu909-hue/svm-drinking-water-potability",
+      "url": "https://github.com/abhijithappu909-hue/svm-drinking-water-potability",
+      "snippet": "Stars:0 | This project aims to predict whether drinking water is safe (potable) or not safe using Machine Learning, specifically the Support Vector Machine (SVM) algorithm. The model analyzes various chemical and physical properties of water to determine its quality."
+    },
+    {
+      "date": "2026-05-13",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": null,
+      "source": "github",
+      "title": "BobGichuru/CleanWater-web",
+      "url": "https://github.com/BobGichuru/CleanWater-web",
+      "snippet": "Stars:0 | google ai studio pull"
+    },
+    {
+      "date": "2026-05-13",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "jayvee6/ripple",
+      "url": "https://github.com/jayvee6/ripple",
+      "snippet": "Stars:0 | A /breathe slash command for Claude Code: a 4-7-8 breathing session with WebGPU water and singing-bowl chimes."
     }
   ]
 }

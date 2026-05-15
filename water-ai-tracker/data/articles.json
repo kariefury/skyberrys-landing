@@ -1929,6 +1929,56 @@
       "title": "jayvee6/ripple",
       "url": "https://github.com/jayvee6/ripple",
       "snippet": "Stars:0 | A /breathe slash command for Claude Code: a 4-7-8 breathing session with WebGPU water and singing-bowl chimes."
+    },
+    {
+      "date": "2026-05-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "KageRyo/WQSurrogateModels",
+      "url": "https://github.com/KageRyo/WQSurrogateModels",
+      "snippet": "Stars:5 | Machine learning backend for water quality prediction, built with Python, scikit-learn, and FastAPI."
+    },
+    {
+      "date": "2026-05-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "keithpaulkato/Water-Quality-Irrigation-Suitability",
+      "url": "https://github.com/keithpaulkato/Water-Quality-Irrigation-Suitability",
+      "snippet": "Stars:0 | Machine learning and deep learning-based prediction of irrigation water suitability using citizen-science environmental water-quality data containing physicochemical, temporal, and geospatial attributes."
+    },
+    {
+      "date": "2026-05-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "vsushmitha647-pixel/water-quality-prediction",
+      "url": "https://github.com/vsushmitha647-pixel/water-quality-prediction",
+      "snippet": "Stars:0 | Machine Learning project to predict water potability using Python and streamlit "
+    },
+    {
+      "date": "2026-05-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Break-Through-Tech/Biointerphase-Forecasting-HAB-Risk",
+      "url": "https://github.com/Break-Through-Tech/Biointerphase-Forecasting-HAB-Risk",
+      "snippet": "Stars:0 | Apply machine learning technique to publicly available data (water quality, meteorological, and satellite-derived environmental) to build models that predict the risk, occurrence, or growth of harmful algal blooms. "
+    },
+    {
+      "date": "2026-05-15",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "cc-code-examples/lively-waterbuffalo-255484",
+      "url": "https://github.com/cc-code-examples/lively-waterbuffalo-255484",
+      "snippet": "Stars:0 | Java code example for the Claude Code challenge"
     }
   ]
 }

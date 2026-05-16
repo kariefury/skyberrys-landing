@@ -1979,6 +1979,46 @@
       "title": "cc-code-examples/lively-waterbuffalo-255484",
       "url": "https://github.com/cc-code-examples/lively-waterbuffalo-255484",
       "snippet": "Stars:0 | Java code example for the Claude Code challenge"
+    },
+    {
+      "date": "2026-05-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "deeksha1234566/Sahayadri-Siri",
+      "url": "https://github.com/deeksha1234566/Sahayadri-Siri",
+      "snippet": "Stars:0 | Sahayadri-Siri is an AI-powered environmental monitoring app designed to track water quality and provide early warning alerts. It combines crowdsourced ecological data, machine learning, and geospatial visualization to help communities monitor and protect sensitive water resources"
+    },
+    {
+      "date": "2026-05-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sonusah8757/Water-Potability-Prediction",
+      "url": "https://github.com/sonusah8757/Water-Potability-Prediction",
+      "snippet": "Stars:0 | A machine learning-based water potability prediction system that analyzes water quality parameters and predicts whether water is safe for human consumption."
+    },
+    {
+      "date": "2026-05-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "anuj7260zs-web/hydroponic-monitoring-system",
+      "url": "https://github.com/anuj7260zs-web/hydroponic-monitoring-system",
+      "snippet": "Stars:0 | AI-based Hydroponic Water Quality Monitoring System using Arduino and Machine Learning"
+    },
+    {
+      "date": "2026-05-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "tighe-ecc/claude-cost",
+      "url": "https://github.com/tighe-ecc/claude-cost",
+      "snippet": "Stars:0 | Environmental footprint of your Claude Code token usage. Estimates energy (kWh), carbon (kg CO2e), and water (L) with citation-backed factors from peer-reviewed work."
     }
   ]
 }

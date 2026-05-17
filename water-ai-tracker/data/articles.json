@@ -2019,6 +2019,66 @@
       "title": "tighe-ecc/claude-cost",
       "url": "https://github.com/tighe-ecc/claude-cost",
       "snippet": "Stars:0 | Environmental footprint of your Claude Code token usage. Estimates energy (kWh), carbon (kg CO2e), and water (L) with citation-backed factors from peer-reviewed work."
+    },
+    {
+      "date": "2026-05-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "hanzlamubashir946575/nestle-milkchain-ai-intelligence",
+      "url": "https://github.com/hanzlamubashir946575/nestle-milkchain-ai-intelligence",
+      "snippet": "Stars:0 | \"An AI-powered Milk Supply Chain Management & Quality Assurance DBMS designed for Nestlé processing nodes. Features real-time multi-compartment screening, auto-billing calculations at Rs. 140/Kg standard, water adulteration tracking, and analytical risk dashboards.\""
+    },
+    {
+      "date": "2026-05-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "jayant047/SMART-WATER-QUALITY-PREDICTION",
+      "url": "https://github.com/jayant047/SMART-WATER-QUALITY-PREDICTION",
+      "snippet": "Stars:0 | AI-powered Smart Water Quality Prediction system using Machine Learning and Streamlit."
+    },
+    {
+      "date": "2026-05-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kirtika8953/Soil-and-Water-Nutrient-Analysis-with-Weed-Identification",
+      "url": "https://github.com/kirtika8953/Soil-and-Water-Nutrient-Analysis-with-Weed-Identification",
+      "snippet": "Stars:0 | This project is a pipeline-based intelligent agricultural system that analyses soil nutrients, evaluates water quality, and identifies weeds using Machine Learning and Deep Learning techniques. It helps in supporting precision agriculture and improving crop productivity through data-driven decisions. "
+    },
+    {
+      "date": "2026-05-17",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "lorenliu13/claude-code-for-hydrology",
+      "url": "https://github.com/lorenliu13/claude-code-for-hydrology",
+      "snippet": "Stars:0 | Learn Claude Code best practices through hands-on hydrology Python exercises — built for the water science research community"
+    },
+    {
+      "date": "2026-05-17",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "alessandranoack/garden-agent",
+      "url": "https://github.com/alessandranoack/garden-agent",
+      "snippet": "Stars:0 | A smart garden assistant powered by Claude AI that sends personalised watering recommendations based on your local weather, 30-day precipitation history, and your plants' individual needs."
+    },
+    {
+      "date": "2026-05-17",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-2.5-flash",
+      "source": "github",
+      "title": "talhaabidj/aqualens",
+      "url": "https://github.com/talhaabidj/aqualens",
+      "snippet": "Stars:0 | Autonomous freshwater monitoring agent using Sentinel‑2 imagery, six water‑quality indices, a deterministic risk model, and Gemini 2.5 Flash narratives, with a Next.js 15 frontend and FastAPI + PostGIS backend that exports branded PDF risk reports."
     }
   ]
 }

@@ -2079,6 +2079,46 @@
       "title": "talhaabidj/aqualens",
       "url": "https://github.com/talhaabidj/aqualens",
       "snippet": "Stars:0 | Autonomous freshwater monitoring agent using Sentinel‑2 imagery, six water‑quality indices, a deterministic risk model, and Gemini 2.5 Flash narratives, with a Next.js 15 frontend and FastAPI + PostGIS backend that exports branded PDF risk reports."
+    },
+    {
+      "date": "2026-05-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "tejaswinib004-cpu/Water-Quality-Classification",
+      "url": "https://github.com/tejaswinib004-cpu/Water-Quality-Classification",
+      "snippet": "Stars:0 | 💧 A Machine Learning project that predicts whether water is safe for drinking using Random Forest Classification and Streamlit."
+    },
+    {
+      "date": "2026-05-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Harshey14/EY-Data-and-AI-challenge-2026",
+      "url": "https://github.com/Harshey14/EY-Data-and-AI-challenge-2026",
+      "snippet": "Stars:0 | Utilised Snowflake to build a machine learning model that predicts water quality of South African water bodies."
+    },
+    {
+      "date": "2026-05-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sathwika9121/water-quality-classification",
+      "url": "https://github.com/sathwika9121/water-quality-classification",
+      "snippet": "Stars:0 | 💧 A Machine Learning mini project that predicts whether water is safe for drinking using Random Forest Classification and water quality parameters. Built with Python, Scikit-learn, Pandas, and Streamlit for real-time prediction and interactive visualization."
+    },
+    {
+      "date": "2026-05-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "KAMATCHI2004/AI-IOT-Sewage-Monitoring",
+      "url": "https://github.com/KAMATCHI2004/AI-IOT-Sewage-Monitoring",
+      "snippet": "Stars:0 | An AI-IoT based sewage water quality monitoring system that uses IoT sensors and the HAAF-Net hybrid machine learning model to analyze wastewater parameters in real time. The system predicts water quality, stores data in Firebase, and displays live monitoring, alerts, and analytics through a React dashboard."
     }
   ]
 }

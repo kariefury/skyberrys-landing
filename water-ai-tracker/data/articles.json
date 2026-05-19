@@ -2119,6 +2119,76 @@
       "title": "KAMATCHI2004/AI-IOT-Sewage-Monitoring",
       "url": "https://github.com/KAMATCHI2004/AI-IOT-Sewage-Monitoring",
       "snippet": "Stars:0 | An AI-IoT based sewage water quality monitoring system that uses IoT sensors and the HAAF-Net hybrid machine learning model to analyze wastewater parameters in real time. The system predicts water quality, stores data in Firebase, and displays live monitoring, alerts, and analytics through a React dashboard."
+    },
+    {
+      "date": "2026-05-19",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Heavy Metal Pollution in Water and Seston in a Subtropical Coastal Lagoon of the Gulf of Mexico: Hydrometeorological and Anthropic Influence",
+      "url": "https://www.semanticscholar.org/paper/8a8ed3cc5219817b39079e57227740718134fbc2",
+      "snippet": "Heavy metal pollution in aquatic ecosystems is a critical environmental issue worldwide. In these ecosystems, the seston adsorbs heavy metals from the water and introduces them into the food web, causing potential environmental and health risks. This study analyses how heavy metals (Cd, Hg, Cr, Cu, Pb, Fe, and Mn) are distributed in the water and seston of the Tampamachoco Lagoon, an ecosystem aff"
+    },
+    {
+      "date": "2026-05-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AkshatAnand007/ComplaintAiAnalysis",
+      "url": "https://github.com/AkshatAnand007/ComplaintAiAnalysis",
+      "snippet": "Stars:0 | Complaint AI Analysis is an AI-powered web application designed to simplify and improve the complaint management process for citizens and authorities. The platform allows users to submit complaints related to public services such as water supply, electricity, road damage, sanitation, and other civic issues."
+    },
+    {
+      "date": "2026-05-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nourreda7/MachineLearning_FinalProject",
+      "url": "https://github.com/nourreda7/MachineLearning_FinalProject",
+      "snippet": "Stars:0 | Water Quality Classification project using Machine Learning algorithms including KNN, SVM, Decision Tree, and Random Forest. Applied data preprocessing, visualization, GridSearchCV, MLflow, and Streamlit. SVM achieved the best performance among all tested models."
+    },
+    {
+      "date": "2026-05-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "riyaa06-eng/WaterGuard",
+      "url": "https://github.com/riyaa06-eng/WaterGuard",
+      "snippet": "Stars:0 | Machine Learning based Water Quality Analysis System using FastAPI and Random Forest."
+    },
+    {
+      "date": "2026-05-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "CompleteTech-LLC-AI-Research/gemma4good",
+      "url": "https://github.com/CompleteTech-LLC-AI-Research/gemma4good",
+      "snippet": "Stars:0 | Clean Drop: edge-AI water reporting and triage with Gemma 4"
+    },
+    {
+      "date": "2026-05-19",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "nooriayeshu39-cmyk/irrigation-chatbot",
+      "url": "https://github.com/nooriayeshu39-cmyk/irrigation-chatbot",
+      "snippet": "Stars:0 | 🌊 AI-powered chatbot for Pakistan's Irrigation Department — real-time assistance on water distribution, canal management, complaints & policy queries. Built with Claude API for officers & citizens. 💧🤖"
+    },
+    {
+      "date": "2026-05-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shf33225-ops/smart-water-system",
+      "url": "https://github.com/shf33225-ops/smart-water-system",
+      "snippet": "Stars:0 | Smart Water System is an AI-powered water conservancy platform. Built with FastAPI + MySQL and Vue 3 + Element Plus,      it features LLM-driven conversations, knowledge base management, and automated scheme generation. Users can design     water solutions, interpret specs, and access consultations through an intelligent chat interface."
     }
   ]
 }

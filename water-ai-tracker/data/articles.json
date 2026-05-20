@@ -2189,6 +2189,36 @@
       "title": "shf33225-ops/smart-water-system",
       "url": "https://github.com/shf33225-ops/smart-water-system",
       "snippet": "Stars:0 | Smart Water System is an AI-powered water conservancy platform. Built with FastAPI + MySQL and Vue 3 + Element Plus,      it features LLM-driven conversations, knowledge base management, and automated scheme generation. Users can design     water solutions, interpret specs, and access consultations through an intelligent chat interface."
+    },
+    {
+      "date": "2026-05-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "priyamunikrishnappa-cmyk/Water_Quality_Presiction",
+      "url": "https://github.com/priyamunikrishnappa-cmyk/Water_Quality_Presiction",
+      "snippet": "Stars:0 | Intelligent Water Quality Prediction using Machine Learning"
+    },
+    {
+      "date": "2026-05-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Mrudula385/water-ai-pro",
+      "url": "https://github.com/Mrudula385/water-ai-pro",
+      "snippet": "Stars:0 | Water AI Pro is a machine learning web app that predicts water quality as Safe or Unsafe using chemical parameters. It includes data visualization, bulk CSV analysis, and an AI chatbot to explain water quality concepts using Streamlit."
+    },
+    {
+      "date": "2026-05-20",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "DavidMume/waterbuilt-site-vision",
+      "url": "https://github.com/DavidMume/waterbuilt-site-vision",
+      "snippet": "Stars:0 | AI-powered construction site safety monitor using Claude Vision, n8n webhooks, PDF reports, and FastAPI dashboard"
     }
   ]
 }

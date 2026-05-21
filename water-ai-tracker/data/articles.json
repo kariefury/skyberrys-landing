@@ -2219,6 +2219,76 @@
       "title": "DavidMume/waterbuilt-site-vision",
       "url": "https://github.com/DavidMume/waterbuilt-site-vision",
       "snippet": "Stars:0 | AI-powered construction site safety monitor using Claude Vision, n8n webhooks, PDF reports, and FastAPI dashboard"
+    },
+    {
+      "date": "2026-05-21",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "Kazakhstan’s Mining Boom Faces a Growing Water Crisis",
+      "url": "https://oilprice.com/Metals/Commodities/Kazakhstans-Mining-Boom-Faces-a-Growing-Water-Crisis.html",
+      "snippet": "Kazakhstan’s mining sector is booming just as the country’s water supply is coming under increasing stress from climate change, antiquated infrastructure, and a growing population. Water supply will be vital to the sector’s long-term success, yet the issue is…"
+    },
+    {
+      "date": "2026-05-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "aravindreddy21382-pixel/Aqua-Alert-AI",
+      "url": "https://github.com/aravindreddy21382-pixel/Aqua-Alert-AI",
+      "snippet": "Stars:0 | AquaAlert is a smart web and mobile platform that enables citizens to report water quality issues such as contamination, unusual color, odor, or supply shortages in real time. Using AI, the system analyzes user reports along with available environmental data to generate a live water risk map for communities. It helps authorities respond faster "
+    },
+    {
+      "date": "2026-05-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shahid0074/water-quality-prediction-using-advanced-deep-learning-techniques",
+      "url": "https://github.com/shahid0074/water-quality-prediction-using-advanced-deep-learning-techniques",
+      "snippet": "Stars:0 | A deep learning- based system for predicting water quality parameters using environmental sensor data and machine learning models"
+    },
+    {
+      "date": "2026-05-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "MuhammadUsman-Khan/Water-Quality-Index-Analysis-and-Prediction",
+      "url": "https://github.com/MuhammadUsman-Khan/Water-Quality-Index-Analysis-and-Prediction",
+      "snippet": "Stars:1 | Machine learning regression pipeline to predict Water Quality Index (WQI) from physicochemical and microbiological water parameters. Benchmarks 6 models, Linear Regression wins with R² = 0.9916."
+    },
+    {
+      "date": "2026-05-21",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "jillanerishah-ciid/DaisyTasks",
+      "url": "https://github.com/jillanerishah-ciid/DaisyTasks",
+      "snippet": "Stars:0 | A Browser Extension (eventually) made my Claude Code that stores your To Do List in the shape of flowers. Water it to log completing a task as many times as you've set (ex. drink water x5). Once you're done, you can pick the flower (or a surprise creature that may have grown!) and place it in a vase to keep track. "
+    },
+    {
+      "date": "2026-05-21",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "robotnealan/claude-burritos",
+      "url": "https://github.com/robotnealan/claude-burritos",
+      "snippet": "Stars:1 | Junk food energy and water equivalents for your Claude Code status line 🌯"
+    },
+    {
+      "date": "2026-05-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ghackenberg/delta-dynamics",
+      "url": "https://github.com/ghackenberg/delta-dynamics",
+      "snippet": "Stars:1 | A low-poly ecosystem simulator featuring real-time dynamic terrain, GPU-accelerated water flow, resource management, and local LLM integration for AI entity behavior. Built with React, Three.js, and Web-LLM."
     }
   ]
 }

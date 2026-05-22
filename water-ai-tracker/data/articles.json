@@ -2289,6 +2289,36 @@
       "title": "ghackenberg/delta-dynamics",
       "url": "https://github.com/ghackenberg/delta-dynamics",
       "snippet": "Stars:1 | A low-poly ecosystem simulator featuring real-time dynamic terrain, GPU-accelerated water flow, resource management, and local LLM integration for AI entity behavior. Built with React, Three.js, and Web-LLM."
+    },
+    {
+      "date": "2026-05-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Hussamwaleed15/Water-Quality-Prediction",
+      "url": "https://github.com/Hussamwaleed15/Water-Quality-Prediction",
+      "snippet": "Stars:0 | Machine learning model to predict water potability based on water quality parameters"
+    },
+    {
+      "date": "2026-05-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "saanvi4996/water-quality-prediction",
+      "url": "https://github.com/saanvi4996/water-quality-prediction",
+      "snippet": "Stars:0 | This project uses machine learning to predict multiple water quality parameters such as BOD, nitrates, and oxygen levels. By analyzing real-world water data, the model helps detect pollution early and supports better environmental decision-making. It turns complex chemical readings into clear, actionable insights for water safety."
+    },
+    {
+      "date": "2026-05-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AbdalluhRajab/Machine-Learning-Water-Quality-Classification-Project-",
+      "url": "https://github.com/AbdalluhRajab/Machine-Learning-Water-Quality-Classification-Project-",
+      "snippet": "Stars:0 | "
     }
   ]
 }

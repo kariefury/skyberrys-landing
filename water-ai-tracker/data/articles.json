@@ -2319,6 +2319,26 @@
       "title": "AbdalluhRajab/Machine-Learning-Water-Quality-Classification-Project-",
       "url": "https://github.com/AbdalluhRajab/Machine-Learning-Water-Quality-Classification-Project-",
       "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-05-23",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "smslavin/waterworks-ai",
+      "url": "https://github.com/smslavin/waterworks-ai",
+      "snippet": "Stars:0 | Open source industrial AI demonstration — natural language process diagnostics for a water treatment plant simulation using Claude, MCP, MQTT, OPC-UA and InfluxDB."
+    },
+    {
+      "date": "2026-05-23",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "babynata/hydration-reminder-agentic",
+      "url": "https://github.com/babynata/hydration-reminder-agentic",
+      "snippet": "Stars:0 | Personalized water-drinking reminder skill for Claude Code / Claude.ai / any AI agent. Interview-based plan design, visual progress tracking, daily feedback loops. Bilingual."
     }
   ]
 }

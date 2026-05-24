@@ -2339,6 +2339,56 @@
       "title": "babynata/hydration-reminder-agentic",
       "url": "https://github.com/babynata/hydration-reminder-agentic",
       "snippet": "Stars:0 | Personalized water-drinking reminder skill for Claude Code / Claude.ai / any AI agent. Interview-based plan design, visual progress tracking, daily feedback loops. Bilingual."
+    },
+    {
+      "date": "2026-05-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Fikri-Rouzan/water-potability-classification",
+      "url": "https://github.com/Fikri-Rouzan/water-potability-classification",
+      "snippet": "Stars:0 | Machine learning-based classification to predict water potability and ensure consumption safety based on physicochemical quality metrics."
+    },
+    {
+      "date": "2026-05-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "JAE-G23/Sentinel2-Roding-Water-Quality-ML",
+      "url": "https://github.com/JAE-G23/Sentinel2-Roding-Water-Quality-ML",
+      "snippet": "Stars:0 | Machine learning investigation using Sentinel-2 Earth Observation data to predict River Roding water quality from catchment-scale spectral and land-cover features, combining in-situ hydrochemical measurements with Ridge Regression, Random Forest, SHAP explainability, and seasonal analysis."
+    },
+    {
+      "date": "2026-05-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "umNaman/Aqua-SIght-Ai",
+      "url": "https://github.com/umNaman/Aqua-SIght-Ai",
+      "snippet": "Stars:0 | An AI powered dashboard for predicting Eutrophication and water quality risks using Machine Learning and Python"
+    },
+    {
+      "date": "2026-05-24",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "mehdev67/aqua-wasted",
+      "url": "https://github.com/mehdev67/aqua-wasted",
+      "snippet": "Stars:0 | A Claude Code statusline that turns your token usage into the cooling water your AI session burns. 💧"
+    },
+    {
+      "date": "2026-05-24",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "kryvel/kalorka",
+      "url": "https://github.com/kryvel/kalorka",
+      "snippet": "Stars:1 | Python client and Claude Code skill for kaloricketabulky.cz (dine4fit) - log meals, water, weight from CLI or LLM agent"
     }
   ]
 }

@@ -2389,6 +2389,56 @@
       "title": "kryvel/kalorka",
       "url": "https://github.com/kryvel/kalorka",
       "snippet": "Stars:1 | Python client and Claude Code skill for kaloricketabulky.cz (dine4fit) - log meals, water, weight from CLI or LLM agent"
+    },
+    {
+      "date": "2026-05-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "pumpuni07/Coastal-Water-Quality-Prediction-via-Multi-Output-Machine-Learning",
+      "url": "https://github.com/pumpuni07/Coastal-Water-Quality-Prediction-via-Multi-Output-Machine-Learning",
+      "snippet": "Stars:0 | Predicts dissolved inorganic nitrogen (DIN), phosphorus (DIP), and silicate (DSi) in coastal waters using an Extra Trees Regressor trained on 12 oceanographic variables. Achieves R² > 0.98 on all targets with 5-fold cross-validation. Python · scikit-learn · Multi-Output ML"
+    },
+    {
+      "date": "2026-05-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Bhushan334/SeaShield-AI",
+      "url": "https://github.com/Bhushan334/SeaShield-AI",
+      "snippet": "Stars:1 | This project successfully developed a machine learning model to predict ocean pollution  levels using water quality parameters. The use of Random Forest and other techniques provided reliable results. The system improves efficiency and supports data-driven environmental decision-making, helping protect marine ecosystems."
+    },
+    {
+      "date": "2026-05-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "yashpotdar-py/water-potability-detection",
+      "url": "https://github.com/yashpotdar-py/water-potability-detection",
+      "snippet": "Stars:0 | A machine learning project to predict water potability based on quality parameters, featuring an end-to-end MLOps pipeline, a web interface, and scalable deployment with monitoring and CI/CD support."
+    },
+    {
+      "date": "2026-05-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kamalesh-sankaranarayanan/IoT-based-Water-Monitoring",
+      "url": "https://github.com/kamalesh-sankaranarayanan/IoT-based-Water-Monitoring",
+      "snippet": "Stars:0 | AquaSentinel is an IoT-based smart water quality monitoring system using ESP32, LoRa, Firebase, and Machine Learning. It monitors pH, turbidity, temperature, TDS, gases, GPS, and mobility in real time, provides ML-based analysis and reuse suggestions, and displays live data on a responsive web dashboard."
+    },
+    {
+      "date": "2026-05-25",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "gucceed/norric-plugins",
+      "url": "https://github.com/gucceed/norric-plugins",
+      "snippet": "Stars:0 | Norric's Claude Code plugin marketplace — Kreditvakt insolvency signals, Sigvik housing intel, SIGNAL procurement, Vattendom water judgments via the Norric MCP server."
     }
   ]
 }

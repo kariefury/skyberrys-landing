@@ -2439,6 +2439,26 @@
       "title": "gucceed/norric-plugins",
       "url": "https://github.com/gucceed/norric-plugins",
       "snippet": "Stars:0 | Norric's Claude Code plugin marketplace — Kreditvakt insolvency signals, Sigvik housing intel, SIGNAL procurement, Vattendom water judgments via the Norric MCP server."
+    },
+    {
+      "date": "2026-05-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Meghana-1444/ML-Water-Safety-Analysis",
+      "url": "https://github.com/Meghana-1444/ML-Water-Safety-Analysis",
+      "snippet": "Stars:0 | A machine learning-based system for predicting drinking water safety and assessing suitability for human consumption using water quality parameters."
+    },
+    {
+      "date": "2026-05-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Devashree-b-s/AI-Driven-Water-Pollution-Detection-and-Cleanup-Decision-Support-System",
+      "url": "https://github.com/Devashree-b-s/AI-Driven-Water-Pollution-Detection-and-Cleanup-Decision-Support-System",
+      "snippet": "Stars:0 | Presentation for our AI-based water pollution project. Using RAG, the system analyzes images from lakes, ponds, and tanks to detect pollution, recommend cleanup actions, and improve water quality. Highlights problem, solution, AI elements, target users, and anticipated impact"
     }
   ]
 }

@@ -2459,6 +2459,36 @@
       "title": "Devashree-b-s/AI-Driven-Water-Pollution-Detection-and-Cleanup-Decision-Support-System",
       "url": "https://github.com/Devashree-b-s/AI-Driven-Water-Pollution-Detection-and-Cleanup-Decision-Support-System",
       "snippet": "Stars:0 | Presentation for our AI-based water pollution project. Using RAG, the system analyzes images from lakes, ponds, and tanks to detect pollution, recommend cleanup actions, and improve water quality. Highlights problem, solution, AI elements, target users, and anticipated impact"
+    },
+    {
+      "date": "2026-05-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "addankiece24-cmrit/Automatic-river-clearning-",
+      "url": "https://github.com/addankiece24-cmrit/Automatic-river-clearning-",
+      "snippet": "Stars:0 | The system uses DC motors and a conveyor mechanism to automatically collect waste and transfer it into a storage container. It helps reduce water pollution, minimizes manual cleaning efforts, and protects aquatic life. The project can be further enhanced using sensors, IoT, solar power, and AI-based waste detection for advanced automation."
+    },
+    {
+      "date": "2026-05-27",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "lovering810/llmonbar",
+      "url": "https://github.com/lovering810/llmonbar",
+      "snippet": "Stars:1 | Per-query carbon and water footprint for LLM sessions. Claude Code plugin with pluggable parsers."
+    },
+    {
+      "date": "2026-05-27",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "14rsliu/journal-docx-formatter",
+      "url": "https://github.com/14rsliu/journal-docx-formatter",
+      "snippet": "Stars:0 | Claude Code skill: Format .docx files to Water Research / Elsevier journal submission style (Times New Roman, double-spaced, 1-inch margins)"
     }
   ]
 }

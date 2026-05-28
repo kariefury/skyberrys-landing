@@ -2489,6 +2489,56 @@
       "title": "14rsliu/journal-docx-formatter",
       "url": "https://github.com/14rsliu/journal-docx-formatter",
       "snippet": "Stars:0 | Claude Code skill: Format .docx files to Water Research / Elsevier journal submission style (Times New Roman, double-spaced, 1-inch margins)"
+    },
+    {
+      "date": "2026-05-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "marimbaleon/Brunnstein-Beverages",
+      "url": "https://github.com/marimbaleon/Brunnstein-Beverages",
+      "snippet": "Stars:0 | A fictional mid-sized German beverage manufacturer used as a demo company to showcase Data & AI use case demos. Covers production, supply chain, sales, and IoT scenarios across mineral water, soft drinks, and craft beverages."
+    },
+    {
+      "date": "2026-05-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ShrutiBathe/RiverIQ",
+      "url": "https://github.com/ShrutiBathe/RiverIQ",
+      "snippet": "Stars:0 | RiverIQ is an AI-based river water quality analysis system that detects and predicts missing water quality data using machine learning models. The system compares multiple ML algorithms, selects the best-performing model, and reconstructs complete station-wise river datasets accurately."
+    },
+    {
+      "date": "2026-05-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shankarpirajin/IBM-Water-quality-ML-project",
+      "url": "https://github.com/shankarpirajin/IBM-Water-quality-ML-project",
+      "snippet": "Stars:0 | Efficient Water Quality Analysis & Prediction using Machine Learning"
+    },
+    {
+      "date": "2026-05-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "bylinnea/Spire",
+      "url": "https://github.com/bylinnea/Spire",
+      "snippet": "Stars:0 | A personal Android app for tracking plant care with watering, fertilizing, repotting, misting, rotating, and cleaning schedules, with push reminders, health logs, a plant graveyard, and AI-powered plant identification."
+    },
+    {
+      "date": "2026-05-28",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Abhay-Raj-Singh/Water-Simulation-Claude",
+      "url": "https://github.com/Abhay-Raj-Singh/Water-Simulation-Claude",
+      "snippet": "Stars:0 | "
     }
   ]
 }

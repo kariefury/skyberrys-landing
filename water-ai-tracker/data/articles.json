@@ -2539,6 +2539,86 @@
       "title": "Abhay-Raj-Singh/Water-Simulation-Claude",
       "url": "https://github.com/Abhay-Raj-Singh/Water-Simulation-Claude",
       "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-05-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "anuvarnikasajith/Water-Potability",
+      "url": "https://github.com/anuvarnikasajith/Water-Potability",
+      "snippet": "Stars:0 | A water quality analysis and prediction project using Python for data preprocessing, visualization, and machine learning. The notebook analyzes water parameters, identifies quality patterns, and builds predictive models to determine water safety using libraries like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn."
+    },
+    {
+      "date": "2026-05-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "anaswaramaduo007-hub/water-potability",
+      "url": "https://github.com/anaswaramaduo007-hub/water-potability",
+      "snippet": "Stars:0 | A water quality analysis and prediction project using Python for data preprocessing, visualization, and machine learning. The notebook analyzes water parameters, identifies quality patterns, and builds predictive models to determine water safety using libraries like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn."
+    },
+    {
+      "date": "2026-05-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "achu2008archana-blip/water-potability",
+      "url": "https://github.com/achu2008archana-blip/water-potability",
+      "snippet": "Stars:0 | A water quality analysis and prediction project using Python for data preprocessing, visualization, and machine learning. The notebook analyzes water parameters, identifies quality patterns, and builds predictive models to determine water safety using libraries like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn."
+    },
+    {
+      "date": "2026-05-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "anagharajesh7-rgb/water-potability",
+      "url": "https://github.com/anagharajesh7-rgb/water-potability",
+      "snippet": "Stars:0 | A water quality analysis and prediction project using Python for data preprocessing, visualization, and machine learning. The notebook analyzes water parameters, identifies quality patterns, and builds predictive models to determine water safety using libraries like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn."
+    },
+    {
+      "date": "2026-05-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "abiee144p-cmd/water-testing",
+      "url": "https://github.com/abiee144p-cmd/water-testing",
+      "snippet": "Stars:0 | A water quality analysis and prediction project using Python for data preprocessing, visualization, and machine learning. The notebook analyzes water parameters, identifies quality patterns, and builds predictive models to determine water safety using libraries like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn."
+    },
+    {
+      "date": "2026-05-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "bnoooy666-collab/Water-potability",
+      "url": "https://github.com/bnoooy666-collab/Water-potability",
+      "snippet": "Stars:0 | This project focuses on predicting whether water is safe for drinking using Machine Learning techniques. The dataset contains various water quality parameters such as pH, hardness, solids, chloramines, sulfate, conductivity, organic carbon, trihalomethanes, and turbidity."
+    },
+    {
+      "date": "2026-05-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AqsaXny/Classification-WaterQuality",
+      "url": "https://github.com/AqsaXny/Classification-WaterQuality",
+      "snippet": "Stars:2 | Machine Learning with Random Forest Model"
+    },
+    {
+      "date": "2026-05-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "dinesh9997/WEEK-1",
+      "url": "https://github.com/dinesh9997/WEEK-1",
+      "snippet": "Stars:0 | It is about [Water quality prediction] using the machine learning algorithm."
     }
   ]
 }

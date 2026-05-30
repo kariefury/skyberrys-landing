@@ -2619,6 +2619,66 @@
       "title": "dinesh9997/WEEK-1",
       "url": "https://github.com/dinesh9997/WEEK-1",
       "snippet": "Stars:0 | It is about [Water quality prediction] using the machine learning algorithm."
+    },
+    {
+      "date": "2026-05-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "SoviaLearner/satria-water-quality-ews",
+      "url": "https://github.com/SoviaLearner/satria-water-quality-ews",
+      "snippet": "Stars:0 | Machine Learning-Based Early Warning System for Aquaculture Water Quality Classification using FastAPI, MLflow, React, and Docker."
+    },
+    {
+      "date": "2026-05-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "joanjosh17/Water-Quality-Monitoring-and-Disease-Risk-Prediction-Model",
+      "url": "https://github.com/joanjosh17/Water-Quality-Monitoring-and-Disease-Risk-Prediction-Model",
+      "snippet": "Stars:2 | Predicts water quality and disease outbreak risk using environmental and contamination data. Applies machine learning to identify high-risk regions, analyze pollution patterns, and generate actionable public health insights for water safety monitoring and disease prevention."
+    },
+    {
+      "date": "2026-05-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Prateek5490/godavari-river-forecast",
+      "url": "https://github.com/Prateek5490/godavari-river-forecast",
+      "snippet": "Stars:0 | Machine Learning project for Godavari River Water Quality Prediction (2012–2025)"
+    },
+    {
+      "date": "2026-05-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "adharshmk93/water-potability",
+      "url": "https://github.com/adharshmk93/water-potability",
+      "snippet": "Stars:0 | A water quality analysis and prediction project using Python for data preprocessing, visualization, and machine learning. The notebook analyzes water parameters, identifies quality patterns, and builds predictive models to determine water safety using libraries like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn."
+    },
+    {
+      "date": "2026-05-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "pentasir/thirsty-llm",
+      "url": "https://github.com/pentasir/thirsty-llm",
+      "snippet": "Stars:0 | Curious to see how much water your Claude sessions are using? "
+    },
+    {
+      "date": "2026-05-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "w8harshita/wattwise-ai",
+      "url": "https://github.com/w8harshita/wattwise-ai",
+      "snippet": "Stars:0 | ⚡ AI-powered energy consumption predictor for ML workloads — estimates kWh, CO₂, cost & water usage with Claude AI insights"
     }
   ]
 }

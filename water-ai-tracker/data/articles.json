@@ -2679,6 +2679,26 @@
       "title": "w8harshita/wattwise-ai",
       "url": "https://github.com/w8harshita/wattwise-ai",
       "snippet": "Stars:0 | ⚡ AI-powered energy consumption predictor for ML workloads — estimates kWh, CO₂, cost & water usage with Claude AI insights"
+    },
+    {
+      "date": "2026-05-31",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "MDAnsaar25/Water-and-Air-Quality-Analysis-and-Prediction",
+      "url": "https://github.com/MDAnsaar25/Water-and-Air-Quality-Analysis-and-Prediction",
+      "snippet": "Stars:0 | Its a real time live dashboard to monitor the status of air and water quality across the world and can predict water and air borne disease prior to safeguard and alert people across the globe. It includes Data Analysis and Machine Learning algorithms to predict the patterns."
+    },
+    {
+      "date": "2026-05-31",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "UTKARSH-RAJ-1/AquaWatch",
+      "url": "https://github.com/UTKARSH-RAJ-1/AquaWatch",
+      "snippet": "Stars:1 | An AI-powered Smart City Dashboard for monitoring Udaipur's lake ecosystem. Features real-time water quality tracking, incident reporting, and a Gemini-powered civic assistant."
     }
   ]
 }

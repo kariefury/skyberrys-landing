@@ -2699,6 +2699,36 @@
       "title": "UTKARSH-RAJ-1/AquaWatch",
       "url": "https://github.com/UTKARSH-RAJ-1/AquaWatch",
       "snippet": "Stars:1 | An AI-powered Smart City Dashboard for monitoring Udaipur's lake ecosystem. Features real-time water quality tracking, incident reporting, and a Gemini-powered civic assistant."
+    },
+    {
+      "date": "2026-06-01",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "tsgpushkar7-sketch/Water-Potablity-Detector-and-Microplastic-Detection.",
+      "url": "https://github.com/tsgpushkar7-sketch/Water-Potablity-Detector-and-Microplastic-Detection.",
+      "snippet": "Stars:0 | The Water Potability Detector and Microplastic Detection System is a smart IoT-based project using ESP32, Arduino Uno, and water quality sensors to check whether water is safe for drinking. A trained machine learning model analyzes sensor data to predict water potability and detect possible microplastic contamination in real time"
+    },
+    {
+      "date": "2026-06-01",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Hiranyakeshara/ChronicalKidneyDisease",
+      "url": "https://github.com/Hiranyakeshara/ChronicalKidneyDisease",
+      "snippet": "Stars:0 | A Next.js web application for CKDu risk prediction using water quality data and machine learning. The system allows users to input water quality parameters and view predicted CKDu risk levels through a simple and user-friendly interface."
+    },
+    {
+      "date": "2026-06-01",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "beese54/optimising-water-systems",
+      "url": "https://github.com/beese54/optimising-water-systems",
+      "snippet": "Stars:0 | AI-powered operator dashboard for Singapore's national water grid, using LP solver (OR-Tools) + conversational AI agent (Claude + Llama 3.3) to optimise daily dispatch across four national taps, with scenario simulation and resilience scoring."
     }
   ]
 }

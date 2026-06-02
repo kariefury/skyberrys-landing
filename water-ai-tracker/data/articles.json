@@ -2729,6 +2729,16 @@
       "title": "beese54/optimising-water-systems",
       "url": "https://github.com/beese54/optimising-water-systems",
       "snippet": "Stars:0 | AI-powered operator dashboard for Singapore's national water grid, using LP solver (OR-Tools) + conversational AI agent (Claude + Llama 3.3) to optimise daily dispatch across four national taps, with scenario simulation and resilience scoring."
+    },
+    {
+      "date": "2026-06-02",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mandeep6207/Smart-Water-Quality-Potability-Prediction",
+      "url": "https://github.com/mandeep6207/Smart-Water-Quality-Potability-Prediction",
+      "snippet": "Stars:0 | AI powered water quality and potability prediction system using environmental analytics, water chemistry indicators, and machine learning."
     }
   ]
 }

@@ -2739,6 +2739,26 @@
       "title": "mandeep6207/Smart-Water-Quality-Potability-Prediction",
       "url": "https://github.com/mandeep6207/Smart-Water-Quality-Potability-Prediction",
       "snippet": "Stars:0 | AI powered water quality and potability prediction system using environmental analytics, water chemistry indicators, and machine learning."
+    },
+    {
+      "date": "2026-06-03",
+      "company": "xai",
+      "model_family": null,
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "Water access is now a risk factor in SpaceX's IPO | TechCrunch",
+      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "snippet": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge."
+    },
+    {
+      "date": "2026-06-03",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "jdcho0721/Seyeon",
+      "url": "https://github.com/jdcho0721/Seyeon",
+      "snippet": "Stars:0 | 오후 1:43Claude 응답: \"A synesthetic digital work bringing Yun Seondo's Ouwuga to life — exploring water, stone, pine, bamboo, and moon through soundscape and tactile rhythm.\"A synesthetic digital work bringing Yun Seondo's Ouwuga to life — exploring water, stone, pine, bamboo, and moon through soundscape and tactile rhythm.\""
     }
   ]
 }

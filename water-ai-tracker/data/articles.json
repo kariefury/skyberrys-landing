@@ -2759,6 +2759,36 @@
       "title": "jdcho0721/Seyeon",
       "url": "https://github.com/jdcho0721/Seyeon",
       "snippet": "Stars:0 | 오후 1:43Claude 응답: \"A synesthetic digital work bringing Yun Seondo's Ouwuga to life — exploring water, stone, pine, bamboo, and moon through soundscape and tactile rhythm.\"A synesthetic digital work bringing Yun Seondo's Ouwuga to life — exploring water, stone, pine, bamboo, and moon through soundscape and tactile rhythm.\""
+    },
+    {
+      "date": "2026-06-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nikithaaloori29-afk/AI-smart-Complaint-portal-Telangana-Civic-grievance-management-system",
+      "url": "https://github.com/nikithaaloori29-afk/AI-smart-Complaint-portal-Telangana-Civic-grievance-management-system",
+      "snippet": "Stars:0 | AI Smart Complaint Portal improves Telangana's civic grievance system. It uses AI to automatically sort, track, and route public issues like potholes and water supply to the right department. The system features automated updates, geo-tagging, and fast resolution to ensure transparent, data-driven, and highly efficient city governance"
+    },
+    {
+      "date": "2026-06-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "veerampetavimalareddy-prog/AI-smart-complaint-portal-Telangana-civic-grievance-management-system",
+      "url": "https://github.com/veerampetavimalareddy-prog/AI-smart-complaint-portal-Telangana-civic-grievance-management-system",
+      "snippet": "Stars:0 | AI Smart Complaint Portal improves Telangana's civic grievance system. It uses AI to automatically sort, track, and route public issues like potholes and water supply to the right department. The system features automated updates, geo-tagging, and fast resolution to ensure transparent, data-driven, and highly efficient city governance"
+    },
+    {
+      "date": "2026-06-04",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "jean0123/hydrowatch",
+      "url": "https://github.com/jean0123/hydrowatch",
+      "snippet": "Stars:0 | Water Infrastructure Monitoring Dashboard — Django, FastAPI, Chart.js, Leaflet, Claude AI, Docker."
     }
   ]
 }

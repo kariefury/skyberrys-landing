@@ -2789,6 +2789,66 @@
       "title": "jean0123/hydrowatch",
       "url": "https://github.com/jean0123/hydrowatch",
       "snippet": "Stars:0 | Water Infrastructure Monitoring Dashboard — Django, FastAPI, Chart.js, Leaflet, Claude AI, Docker."
+    },
+    {
+      "date": "2026-06-05",
+      "company": "openai",
+      "model_family": "gemini",
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "Data Center Operators Are Trying to Fix Their Water Use Problems",
+      "url": "https://www.wired.com/story/data-center-operators-fix-water-use-problems/",
+      "snippet": "Google, Microsoft, and other hyperscalers have come under scrutiny for their impact on water quality and availability."
+    },
+    {
+      "date": "2026-06-05",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Oluwagbotemi-analytics/water-quality-potability-ml",
+      "url": "https://github.com/Oluwagbotemi-analytics/water-quality-potability-ml",
+      "snippet": "Stars:0 | End-to-end Machine Learning project predicting water potability using Random Forest, XGBoost, KMeans clustering, and SMOTE, Python, Scikit-Learn, SQL"
+    },
+    {
+      "date": "2026-06-05",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mitalimohurle28-ops/water_pollution_detection_CNN",
+      "url": "https://github.com/mitalimohurle28-ops/water_pollution_detection_CNN",
+      "snippet": "Stars:0 | AI-based image classification model to detect polluted and clean water using CNN for sustainability monitoring."
+    },
+    {
+      "date": "2026-06-05",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "brianharms/lockout",
+      "url": "https://github.com/brianharms/lockout",
+      "snippet": "Stars:0 | Blocks Claude Code prompts until you complete a real activity (pushups, a walk, water, a phone call), verified by webcam, Bluetooth, or FaceTime."
+    },
+    {
+      "date": "2026-06-05",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "agentsmill/reverie",
+      "url": "https://github.com/agentsmill/reverie",
+      "snippet": "Stars:0 | Reverie — a living, generative artwork that grows toward your attention. A space-colonization mind mirrored in dark water, with a bilingual first-person voice. Made by Claude."
+    },
+    {
+      "date": "2026-06-05",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "SUJJI-1111/water-quality-rag-system",
+      "url": "https://github.com/SUJJI-1111/water-quality-rag-system",
+      "snippet": "Stars:0 | End-to-end Retrieval-Augmented Generation (RAG) system for water-quality intelligence using LangChain, Sentence Transformers, FAISS, and Gemini."
     }
   ]
 }

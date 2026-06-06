@@ -2849,6 +2849,46 @@
       "title": "SUJJI-1111/water-quality-rag-system",
       "url": "https://github.com/SUJJI-1111/water-quality-rag-system",
       "snippet": "Stars:0 | End-to-end Retrieval-Augmented Generation (RAG) system for water-quality intelligence using LangChain, Sentence Transformers, FAISS, and Gemini."
+    },
+    {
+      "date": "2026-06-06",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "semantic_scholar",
+      "title": "Smart Agrocare: Automated Irrigation and Soil Nutrition Monitoring",
+      "url": "https://www.semanticscholar.org/paper/20dc3bf35ca25504d8e1d5bd150f9d6c51911111",
+      "snippet": "India's agrarian sector, while central to its economic foundation, continues to grapple with inefficient water management and inadequate soil monitoring. This paper introduces Smart AgroCare, an IoT-based precision farming solution developed to address irrigation inefficiency and soil nutrient degradation in smallholder sugarcane cultivation. An ESP32 microcontroller serves as the processing core,"
+    },
+    {
+      "date": "2026-06-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ghadgepranav02/Waterborne-Disease-Prediction-System",
+      "url": "https://github.com/ghadgepranav02/Waterborne-Disease-Prediction-System",
+      "snippet": "Stars:0 | Waterborne Disease Prediction System is a Django-based web application that uses machine learning to analyze water quality data and predict the risk level of waterborne diseases (High, Low, or Normal). It allows users to input water parameters and generates predictions with reports and visualizations to support public health awareness."
+    },
+    {
+      "date": "2026-06-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "biaa-araujo/Water_Quality_Analisys",
+      "url": "https://github.com/biaa-araujo/Water_Quality_Analisys",
+      "snippet": "Stars:0 | O Water Quality Predictor é um sistema de Machine Learning que prevê a potabilidade da água com base em dados físico-químicos. Usa modelos como Random Forest, KNN e redes neurais, treinados com mais de 3.200 amostras, e possui um frontend interativo para simulações simples e intuitivas."
+    },
+    {
+      "date": "2026-06-06",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Chrisamansood/save-tokens-save-water",
+      "url": "https://github.com/Chrisamansood/save-tokens-save-water",
+      "snippet": "Stars:0 | A Claude Code skill that activates low-token mode — tightens prompts, routes to cheaper models, and tracks tokens, cost, water & energy saved per session."
     }
   ]
 }

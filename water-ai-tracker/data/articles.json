@@ -2889,6 +2889,46 @@
       "title": "Chrisamansood/save-tokens-save-water",
       "url": "https://github.com/Chrisamansood/save-tokens-save-water",
       "snippet": "Stars:0 | A Claude Code skill that activates low-token mode — tightens prompts, routes to cheaper models, and tracks tokens, cost, water & energy saved per session."
+    },
+    {
+      "date": "2026-06-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "PreethaMurugan21105/AquaPulse-Water-Quality-Monitoring",
+      "url": "https://github.com/PreethaMurugan21105/AquaPulse-Water-Quality-Monitoring",
+      "snippet": "Stars:0 | An IoT-based water quality monitoring system for aquaculture using sensors and machine learning to monitor key water parameters and support sustainable fish farming."
+    },
+    {
+      "date": "2026-06-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "DevisriChodagiri/Water-Quality-Prediction",
+      "url": "https://github.com/DevisriChodagiri/Water-Quality-Prediction",
+      "snippet": "Stars:0 | Comparative analysis of machine learning models for water quality prediction."
+    },
+    {
+      "date": "2026-06-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "zaemyung/yunseul",
+      "url": "https://github.com/zaemyung/yunseul",
+      "snippet": "Stars:2 | Chat with your Obsidian vault using a local LLM (LM Studio, Ollama) or the Claude Code CLI. On-device retrieval, streaming, offline by default. 윤슬 — sparkling ripples on the water."
+    },
+    {
+      "date": "2026-06-07",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "lkaneda/ai-consumption-calc",
+      "url": "https://github.com/lkaneda/ai-consumption-calc",
+      "snippet": "Stars:0 | Calculator based on latest published research to see how much water and power is utilized based on token count, abstracted for the three main LLMs ChatGPT, Claude, and Gemini."
     }
   ]
 }

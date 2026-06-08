@@ -2929,6 +2929,66 @@
       "title": "lkaneda/ai-consumption-calc",
       "url": "https://github.com/lkaneda/ai-consumption-calc",
       "snippet": "Stars:0 | Calculator based on latest published research to see how much water and power is utilized based on token count, abstracted for the three main LLMs ChatGPT, Claude, and Gemini."
+    },
+    {
+      "date": "2026-06-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Nijay-sys/Aquawise",
+      "url": "https://github.com/Nijay-sys/Aquawise",
+      "snippet": "Stars:0 | AquaWise is an AI-powered water quality monitoring system that uses machine learning to analyze water quality data, detect anomalies, and predict future water quality trends."
+    },
+    {
+      "date": "2026-06-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Abbyk2214/harmful-algal-bloom-risk-prediction",
+      "url": "https://github.com/Abbyk2214/harmful-algal-bloom-risk-prediction",
+      "snippet": "Stars:0 | Machine learning project predicting harmful algal bloom risk in Maryland waterways using EPA/USGS water quality data and environmental indicators."
+    },
+    {
+      "date": "2026-06-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "TetiHAnna/water-quality-anomaly-detection-ukraine",
+      "url": "https://github.com/TetiHAnna/water-quality-anomaly-detection-ukraine",
+      "snippet": "Stars:0 | Source code and data for the Scientific Reports manuscript on machine-learning-based anomaly detection in surface water quality data."
+    },
+    {
+      "date": "2026-06-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Lightning-President-9/water-quality-prediction-flask",
+      "url": "https://github.com/Lightning-President-9/water-quality-prediction-flask",
+      "snippet": "Stars:0 | An interactive machine learning–based dashboard for predicting and visualizing river water quality parameters using historical monitoring data."
+    },
+    {
+      "date": "2026-06-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "krunaldeshbhratar9-git/water-quality-analysis",
+      "url": "https://github.com/krunaldeshbhratar9-git/water-quality-analysis",
+      "snippet": "Stars:0 | End-to-end Water Quality Analysis project using Python, Machine Learning, and Power BI. Includes exploratory data analysis (EDA), data cleaning, predictive modeling for water potability, visualizations, and an interactive dashboard"
+    },
+    {
+      "date": "2026-06-08",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "pppeee861005/watering-agent-interactive",
+      "url": "https://github.com/pppeee861005/watering-agent-interactive",
+      "snippet": "Stars:0 | 🌱 Intelligent Watering Decision System - Claude AI Powered"
     }
   ]
 }

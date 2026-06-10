@@ -2989,6 +2989,66 @@
       "title": "pppeee861005/watering-agent-interactive",
       "url": "https://github.com/pppeee861005/watering-agent-interactive",
       "snippet": "Stars:0 | 🌱 Intelligent Watering Decision System - Claude AI Powered"
+    },
+    {
+      "date": "2026-06-10",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "govindvenky2004/ai-water-supply-management",
+      "url": "https://github.com/govindvenky2004/ai-water-supply-management",
+      "snippet": "Stars:0 | India AI-Enhanced Water Supply Management System — ML pipeline with 8 models (demand forecasting, anomaly detection, burst risk, drought prediction) across 15 Indian cities, 1809 wards, 568K records using PySpark, MySQL Star Schema, MongoDB, Power BI and Gemini API"
+    },
+    {
+      "date": "2026-06-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "thearyt572-jpg/L-Eau-Claire",
+      "url": "https://github.com/thearyt572-jpg/L-Eau-Claire",
+      "snippet": "Stars:0 | Water quality prediction and risk detection system using machine learning. It processes physicochemical parameters like pH, DO, BOD, and conductivity to classify water safety."
+    },
+    {
+      "date": "2026-06-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "bz2562-cmd/streamflow-wq-lstm",
+      "url": "https://github.com/bz2562-cmd/streamflow-wq-lstm",
+      "snippet": "Stars:0 | Dataset exploration and research plan for machine learning based streamflow and water quality prediction using Caravan-Qual and NeuralHydrology"
+    },
+    {
+      "date": "2026-06-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "SophiaSengodan/AI-Powered-water-Quality-Monitoring",
+      "url": "https://github.com/SophiaSengodan/AI-Powered-water-Quality-Monitoring",
+      "snippet": "Stars:0 | AI-Powered Water Quality Monitoring is a smart system that uses IoT sensors and AI to monitor water quality in real time. It collects data such as pH, turbidity, temperature, and TDS levels, analyzes it for contamination risks, and sends alerts when issues are detected, helping ensure safe and clean water management."
+    },
+    {
+      "date": "2026-06-10",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "fmondora/co2-claude",
+      "url": "https://github.com/fmondora/co2-claude",
+      "snippet": "Stars:0 | Track your AI footprint: CO2, water, energy in Claude Code status bar"
+    },
+    {
+      "date": "2026-06-10",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "ardaturak/google-ai-agents-challenge-2026",
+      "url": "https://github.com/ardaturak/google-ai-agents-challenge-2026",
+      "snippet": "Stars:0 | Autonomous multi-agent water quality monitoring system built with Google ADK, Gemini, and MCP. 21 specialized agents detect anomalies, predict consumption, optimize costs, and ensure compliance for municipal park irrigation. Built for Google for Startups AI Agents Challenge 2026 - Track 1: Build."
     }
   ]
 }

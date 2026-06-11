@@ -3049,6 +3049,16 @@
       "title": "ardaturak/google-ai-agents-challenge-2026",
       "url": "https://github.com/ardaturak/google-ai-agents-challenge-2026",
       "snippet": "Stars:0 | Autonomous multi-agent water quality monitoring system built with Google ADK, Gemini, and MCP. 21 specialized agents detect anomalies, predict consumption, optimize costs, and ensure compliance for municipal park irrigation. Built for Google for Startups AI Agents Challenge 2026 - Track 1: Build."
+    },
+    {
+      "date": "2026-06-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "incrediblemohnish5/Smart-Drip-Irrigation-System-",
+      "url": "https://github.com/incrediblemohnish5/Smart-Drip-Irrigation-System-",
+      "snippet": "Stars:0 | An IoT powered Smart Drip Irrigation System designed to optimize water usage through usage of AI model and sensors"
     }
   ]
 }

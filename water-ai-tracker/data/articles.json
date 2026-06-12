@@ -3059,6 +3059,46 @@
       "title": "incrediblemohnish5/Smart-Drip-Irrigation-System-",
       "url": "https://github.com/incrediblemohnish5/Smart-Drip-Irrigation-System-",
       "snippet": "Stars:0 | An IoT powered Smart Drip Irrigation System designed to optimize water usage through usage of AI model and sensors"
+    },
+    {
+      "date": "2026-06-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "azumisakura/water-quality-monitoring-system",
+      "url": "https://github.com/azumisakura/water-quality-monitoring-system",
+      "snippet": "Stars:0 | Machine Learning-Based Water Quality Monitoring, Classification, and Visualization System using Imus Ambient Water Quality Data."
+    },
+    {
+      "date": "2026-06-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Rachi-collab/WaterQualityPrediction",
+      "url": "https://github.com/Rachi-collab/WaterQualityPrediction",
+      "snippet": "Stars:0 | The objective of this project is to forecast several water quality parameters based on machine learning models, i.e., MultiOutputRegressor. The project is being created within a one-month AICTE Virtual Internship organized by Shell in June 2025."
+    },
+    {
+      "date": "2026-06-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Priti-student/AquaStat-India-Regional-Water-Quality-Assessment-and-Machine-Learning-Inference",
+      "url": "https://github.com/Priti-student/AquaStat-India-Regional-Water-Quality-Assessment-and-Machine-Learning-Inference",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-06-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Yash197005/AquaCare",
+      "url": "https://github.com/Yash197005/AquaCare",
+      "snippet": "Stars:0 | Autonomous Water Floating Waste Detection and Cleaning Robot using AI and IoT."
     }
   ]
 }

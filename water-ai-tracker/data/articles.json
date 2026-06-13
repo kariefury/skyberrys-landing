@@ -3099,6 +3099,46 @@
       "title": "Yash197005/AquaCare",
       "url": "https://github.com/Yash197005/AquaCare",
       "snippet": "Stars:0 | Autonomous Water Floating Waste Detection and Cleaning Robot using AI and IoT."
+    },
+    {
+      "date": "2026-06-13",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "DavidWise01/waterworld",
+      "url": "https://github.com/DavidWise01/waterworld",
+      "snippet": "Stars:0 | WATERWORLD · WTR — the sixth UD0 film-world: the drowned world, honestly measured. 13 emergents, porthole roster, sunken Claude easter egg."
+    },
+    {
+      "date": "2026-06-13",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "augustineiacopelli/appaday-045-water-reminder",
+      "url": "https://github.com/augustineiacopelli/appaday-045-water-reminder",
+      "snippet": "Stars:0 | Water Reminder tracks your hydration by comparing photos of your glass over time. Snap a photo, and Claude estimates the current fill level; compared against your last check-in, it calculates what you actually drank, asking about refills when needed. A filling glass shows progress toward your daily goal."
+    },
+    {
+      "date": "2026-06-13",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "xSudhirx/prajapulse",
+      "url": "https://github.com/xSudhirx/prajapulse",
+      "snippet": "Stars:0 | PrajaPulse (ಪ್ರಜಾ ಪಲ್ಸ್) is a civic accountability platform for Bangalore residents to report local issues — water, roads, power, garbage — on a live geotagged map, track complaints by ward, and hold MLAs accountable through promise scorecards. Powered by AI-based multilingual complaint classification using the Claude API."
+    },
+    {
+      "date": "2026-06-13",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "paulriordanfb/stylized-water-claude",
+      "url": "https://github.com/paulriordanfb/stylized-water-claude",
+      "snippet": "Stars:0 | Wind Waker-style cel-shaded water shader for Godot 4.6"
     }
   ]
 }

@@ -3139,6 +3139,46 @@
       "title": "paulriordanfb/stylized-water-claude",
       "url": "https://github.com/paulriordanfb/stylized-water-claude",
       "snippet": "Stars:0 | Wind Waker-style cel-shaded water shader for Godot 4.6"
+    },
+    {
+      "date": "2026-06-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "pacemakerabc/Water-Quality-Prediction-Dashboard",
+      "url": "https://github.com/pacemakerabc/Water-Quality-Prediction-Dashboard",
+      "snippet": "Stars:0 | Hybrid Water Quality Prediction System using CPCB standards and Random Forest Machine Learning with an interactive Streamlit dashboard."
+    },
+    {
+      "date": "2026-06-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sanilshah01/AI-Powered-Water-Quality-Classification-System",
+      "url": "https://github.com/sanilshah01/AI-Powered-Water-Quality-Classification-System",
+      "snippet": "Stars:1 | Machine Learning based Water Quality Classification System using Python, Flask, WHO safety validation, Water Quality Scoring, Feature Importance Analysis, and PDF Report Generation."
+    },
+    {
+      "date": "2026-06-14",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "dmfenton/aqualogic",
+      "url": "https://github.com/dmfenton/aqualogic",
+      "snippet": "Stars:0 | Intelligent irrigation management system using Claude AI for smart watering decisions"
+    },
+    {
+      "date": "2026-06-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "EILab-Polimi/ResLLM",
+      "url": "https://github.com/EILab-Polimi/ResLLM",
+      "snippet": "Stars:0 | ResLLM is a Python-based library for simulating water system management with large language models (LLMs)."
     }
   ]
 }

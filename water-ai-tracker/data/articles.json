@@ -3179,6 +3179,46 @@
       "title": "EILab-Polimi/ResLLM",
       "url": "https://github.com/EILab-Polimi/ResLLM",
       "snippet": "Stars:0 | ResLLM is a Python-based library for simulating water system management with large language models (LLMs)."
+    },
+    {
+      "date": "2026-06-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "codedbydollys10/Water_Potability_Model",
+      "url": "https://github.com/codedbydollys10/Water_Potability_Model",
+      "snippet": "Stars:0 | Built a machine learning pipeline to predict water potability using water quality parameters, featuring data preprocessing, SMOTE balancing, and model comparison with Logistic Regression, Random Forest, and XGBoost."
+    },
+    {
+      "date": "2026-06-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "gentzhushi/water-quality-monitoring",
+      "url": "https://github.com/gentzhushi/water-quality-monitoring",
+      "snippet": "Stars:0 | Reference implementation for a Semantic Digital Twin-based system for intelligent real-time water quality monitoring, integrating IoT, stream processing, semantic technologies, and machine learning."
+    },
+    {
+      "date": "2026-06-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "engTarekIsmail/Egypt-Water-Quality-Analysis-Prediction-System",
+      "url": "https://github.com/engTarekIsmail/Egypt-Water-Quality-Analysis-Prediction-System",
+      "snippet": "Stars:0 | n end-to-end data analytics and machine learning system for monitoring, analyzing, and predicting drinking water quality across Egypt's governorates and water companies."
+    },
+    {
+      "date": "2026-06-15",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "mohdshahjada3-star/bluewatch-ai",
+      "url": "https://github.com/mohdshahjada3-star/bluewatch-ai",
+      "snippet": "Stars:1 | AI-powered marine pollution detection platform built with React.js and Claude AI. Supports image upload, risk analysis, pollution mapping, and authority dashboard. SDG 14 - Life Below Water."
     }
   ]
 }

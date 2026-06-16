@@ -3219,6 +3219,36 @@
       "title": "mohdshahjada3-star/bluewatch-ai",
       "url": "https://github.com/mohdshahjada3-star/bluewatch-ai",
       "snippet": "Stars:1 | AI-powered marine pollution detection platform built with React.js and Claude AI. Supports image upload, risk analysis, pollution mapping, and authority dashboard. SDG 14 - Life Below Water."
+    },
+    {
+      "date": "2026-06-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Nimra064/Stream-Analysis-ML",
+      "url": "https://github.com/Nimra064/Stream-Analysis-ML",
+      "snippet": "Stars:0 | A comprehensive machine learning project that analyzes **stream/water quality data** using a cleaned dataset (`SJ_Cleaned.zip`), implementing data preprocessing, exploratory data analysis, visualization, and predictive ML modeling — all within a richly detailed Jupyter Notebook with exported HTML and PDF reports."
+    },
+    {
+      "date": "2026-06-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "lexmoibusiness-stack/Lex-Consultant-Agents",
+      "url": "https://github.com/lexmoibusiness-stack/Lex-Consultant-Agents",
+      "snippet": "Stars:0 | Landing oficial de Lex Consultor Agents · Plataforma MCP industrial (código privado) que genera workflows n8n 1.x con calidad Six Sigma 6.0σ. 13 herramientas MCP, 51 adapters, 1.505 nodos catalogados. Cliente productivo: Indalo Water Panamá (bot WhatsApp, 10 workflows, 80 leads/hora)."
+    },
+    {
+      "date": "2026-06-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "nlok5923/water-script",
+      "url": "https://github.com/nlok5923/water-script",
+      "snippet": "Stars:0 | 💧 Claude Code plugin: estimate the fresh-water footprint of your prompts from real token usage. /water-report + /water-viz."
     }
   ]
 }

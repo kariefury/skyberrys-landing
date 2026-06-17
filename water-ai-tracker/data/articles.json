@@ -3249,6 +3249,66 @@
       "title": "nlok5923/water-script",
       "url": "https://github.com/nlok5923/water-script",
       "snippet": "Stars:0 | 💧 Claude Code plugin: estimate the fresh-water footprint of your prompts from real token usage. /water-report + /water-viz."
+    },
+    {
+      "date": "2026-06-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "anushasinu-gif/CivicAI-Bot",
+      "url": "https://github.com/anushasinu-gif/CivicAI-Bot",
+      "snippet": "Stars:0 | HCL Hackathon- Urbank issues like water supply, sewage and road potholes handling"
+    },
+    {
+      "date": "2026-06-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "likhithachilukuri15/Smart-Sensing-foer-water-quality-assessment-A-natural-language-generation-Prespective",
+      "url": "https://github.com/likhithachilukuri15/Smart-Sensing-foer-water-quality-assessment-A-natural-language-generation-Prespective",
+      "snippet": "Stars:0 | AI-based wastewater quality assessment system using machine learning and NLG to detect pollution, analyze water parameters, and generate simple reports for smart environmental monitoring."
+    },
+    {
+      "date": "2026-06-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Rishabhv22/River-Water-Quality-Analysis-Forecasting-System",
+      "url": "https://github.com/Rishabhv22/River-Water-Quality-Analysis-Forecasting-System",
+      "snippet": "Stars:0 | A River Water Quality Analysis and Forecasting System combines sensor networks, data analytics, and machine learning to continuously monitor river health, assess water quality, and predict future conditions. This enables timely intervention, sustainable water resource management, and protection of aquatic ecosystems."
+    },
+    {
+      "date": "2026-06-17",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "harshapoloju/Eco-chat",
+      "url": "https://github.com/harshapoloju/Eco-chat",
+      "snippet": "Stars:0 |  A Claude chat interface that visualizes the energy and water cost of AI replies. Toggle Eco Mode to get concise answers and watch the water gauge fill with what you saved. Runs on your own Claude account. No API key needed."
+    },
+    {
+      "date": "2026-06-17",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ril-1923/Watermelon-website-using-claude-ai",
+      "url": "https://github.com/ril-1923/Watermelon-website-using-claude-ai",
+      "snippet": "Stars:0 | I have created a watermelon website using html, css, jfavascript bootstrap in claude ai"
+    },
+    {
+      "date": "2026-06-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "KSMozn/industrial-water-ops-platform",
+      "url": "https://github.com/KSMozn/industrial-water-ops-platform",
+      "snippet": "Stars:0 | AI-powered operations platform for industrial water treatment businesses, combining field service management, lab-results intelligence, inventory tracking, manufacturing execution, and quote-to-delivery workflows on a modern Postgres, Node.js, Vue, and LLM-powered architecture."
     }
   ]
 }

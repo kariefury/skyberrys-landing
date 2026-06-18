@@ -3309,6 +3309,66 @@
       "title": "KSMozn/industrial-water-ops-platform",
       "url": "https://github.com/KSMozn/industrial-water-ops-platform",
       "snippet": "Stars:0 | AI-powered operations platform for industrial water treatment businesses, combining field service management, lab-results intelligence, inventory tracking, manufacturing execution, and quote-to-delivery workflows on a modern Postgres, Node.js, Vue, and LLM-powered architecture."
+    },
+    {
+      "date": "2026-06-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Emad023/AquaGuard-AI",
+      "url": "https://github.com/Emad023/AquaGuard-AI",
+      "snippet": "Stars:0 | AI-powered groundwater quality intelligence platform for drinking water and irrigation suitability assessment using environmental analytics and machine learning."
+    },
+    {
+      "date": "2026-06-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "iBhanupratap/Water_Quality-AI_Monitoring",
+      "url": "https://github.com/iBhanupratap/Water_Quality-AI_Monitoring",
+      "snippet": "Stars:0 | AI-powered Water Quality Monitoring System using Machine Learning and Streamlit"
+    },
+    {
+      "date": "2026-06-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "jenyokeke123-sketch/Predicting-Water-Quality-Index-in-Irish-Rivers-with-Explainable-Machine-Learning",
+      "url": "https://github.com/jenyokeke123-sketch/Predicting-Water-Quality-Index-in-Irish-Rivers-with-Explainable-Machine-Learning",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-06-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Hemanth18-2004/water_quality_project",
+      "url": "https://github.com/Hemanth18-2004/water_quality_project",
+      "snippet": "Stars:0 | Machine Learning-based web application for predicting water potability using water quality parameters with Python and Flask."
+    },
+    {
+      "date": "2026-06-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "utsavirawat17/Python-Projects",
+      "url": "https://github.com/utsavirawat17/Python-Projects",
+      "snippet": "Stars:0 | 8 Python projects showcasing fundamentals to advanced concepts: Calculator, Millionaire Game, PDFMerger, News App (APIs), Water Reminder, Virtual Assistant (AI), File Organizer, QR Generator. Each demonstrates OOP, libraries, file handling, and real-world problem-solving with clean code & documentation."
+    },
+    {
+      "date": "2026-06-18",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "theusanchez/stay-hydrated",
+      "url": "https://github.com/theusanchez/stay-hydrated",
+      "snippet": "Stars:0 | Hydration coach plugin for Claude Code — reminds you to drink water and locks tools until you do."
     }
   ]
 }

@@ -3369,6 +3369,36 @@
       "title": "theusanchez/stay-hydrated",
       "url": "https://github.com/theusanchez/stay-hydrated",
       "snippet": "Stars:0 | Hydration coach plugin for Claude Code — reminds you to drink water and locks tools until you do."
+    },
+    {
+      "date": "2026-06-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "22f3000169/Machine-Learning-for-Wastewater-Treatment",
+      "url": "https://github.com/22f3000169/Machine-Learning-for-Wastewater-Treatment",
+      "snippet": "Stars:1 | Developed a Machine Learning-based wastewater treatment prediction system using operational data from Kasarwadi STP (PCMC). Built predictive models for outlet water quality and sludge generation, enabling data-driven decision-making and demonstrating the application of AI in sustainable environmental engineering."
+    },
+    {
+      "date": "2026-06-19",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "doomtide/tidemark",
+      "url": "https://github.com/doomtide/tidemark",
+      "snippet": "Stars:0 | Local carbon and water footprint estimates for Claude Code, from its own OpenTelemetry metrics. MIT licensed."
+    },
+    {
+      "date": "2026-06-19",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "WeAreReForm/claude-code-statusline",
+      "url": "https://github.com/WeAreReForm/claude-code-statusline",
+      "snippet": "Stars:0 | Status line scripts for Claude Code — model, context bar, git, cost, water usage"
     }
   ]
 }

@@ -3399,6 +3399,66 @@
       "title": "WeAreReForm/claude-code-statusline",
       "url": "https://github.com/WeAreReForm/claude-code-statusline",
       "snippet": "Stars:0 | Status line scripts for Claude Code — model, context bar, git, cost, water usage"
+    },
+    {
+      "date": "2026-06-20",
+      "company": "openai",
+      "model_family": null,
+      "model_variant": null,
+      "source": "gdelt",
+      "title": "Massive Data Center Planned For The New Mexico Desert What It Means For Water Scarcity",
+      "url": "https://www.wateronline.com/doc/massive-data-center-planned-for-the-new-mexico-desert-what-it-means-for-water-scarcity-0001",
+      "snippet": "20260618T224500Z"
+    },
+    {
+      "date": "2026-06-20",
+      "company": "openai",
+      "model_family": null,
+      "model_variant": null,
+      "source": "gdelt",
+      "title": "Another Massive Data Center Planned What It Means For U . S . Water Scarcity",
+      "url": "https://www.wateronline.com/doc/another-massive-data-center-planned-what-it-means-for-u-s-water-scarcity-0001",
+      "snippet": "20260619T034500Z"
+    },
+    {
+      "date": "2026-06-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "saifsoomro63/Water-Quality-Analysis-and-Pollution-Classification",
+      "url": "https://github.com/saifsoomro63/Water-Quality-Analysis-and-Pollution-Classification",
+      "snippet": "Stars:0 | This project leverages unsupervised machine learning to analyze and classify water samples based on various physicochemical quality indicators. By applying K-Means clustering, the project categorizes water samples into distinct pollution levels, providing actionable insights for environmental management and resource protection."
+    },
+    {
+      "date": "2026-06-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "matbdev/waterscript-ey-data-science-challenge",
+      "url": "https://github.com/matbdev/waterscript-ey-data-science-challenge",
+      "snippet": "Stars:0 | A multi-modal machine learning solution to forecast water quality parameters in South Africa rivers using Landsat satellite imagery (STAC API), TerraClimate meteorological data, and Snowflake (Snowpark ML). Developed for the EY AI & Data Challenge 2026."
+    },
+    {
+      "date": "2026-06-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "spsanjith06/Water-Quality-Prediction-using-Machine-Learning",
+      "url": "https://github.com/spsanjith06/Water-Quality-Prediction-using-Machine-Learning",
+      "snippet": "Stars:0 | Machine Learning-based water quality prediction system that analyzes water parameters and determines whether water is safe and suitable for consumption."
+    },
+    {
+      "date": "2026-06-20",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "waterwoods-ai/waterwoods-skills",
+      "url": "https://github.com/waterwoods-ai/waterwoods-skills",
+      "snippet": "Stars:0 | Claude Code plugin marketplace — research and academic workflow skills"
     }
   ]
 }

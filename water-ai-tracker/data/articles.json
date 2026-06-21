@@ -3459,6 +3459,56 @@
       "title": "waterwoods-ai/waterwoods-skills",
       "url": "https://github.com/waterwoods-ai/waterwoods-skills",
       "snippet": "Stars:0 | Claude Code plugin marketplace — research and academic workflow skills"
+    },
+    {
+      "date": "2026-06-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "theub002/WaterAudit",
+      "url": "https://github.com/theub002/WaterAudit",
+      "snippet": "Stars:0 | A Water Audit platform for water management authorities to audit the water supply from and into the utility, along with its Carbon footprint and AI based prediction of risk points among the water supply network."
+    },
+    {
+      "date": "2026-06-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "MichelleNObi/Predicting-Water-Quality-Index-in-Irish-Rivers-with-Explainable-Machine-Learning",
+      "url": "https://github.com/MichelleNObi/Predicting-Water-Quality-Index-in-Irish-Rivers-with-Explainable-Machine-Learning",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-06-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "jyotheeswar012-max/swarm-park-guardian",
+      "url": "https://github.com/jyotheeswar012-max/swarm-park-guardian",
+      "snippet": "Stars:0 | 🌿 Autonomous Multi-Drone Park Maintenance System — AI-powered swarm drones that patrol, detect waste, trim grass & clean water bodies with real-time Streamlit dashboard"
+    },
+    {
+      "date": "2026-06-21",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "papadoc007/metla6-aura",
+      "url": "https://github.com/papadoc007/metla6-aura",
+      "snippet": "Stars:0 | Metla 6 (final assignment) - 60s product video for Aura smart water bottle, built with Remotion + Claude Code Skill"
+    },
+    {
+      "date": "2026-06-21",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "jacmani/tw-water-automation",
+      "url": "https://github.com/jacmani/tw-water-automation",
+      "snippet": "Stars:0 | Water consumption tracking system for Trinity World residential community. Processes handwritten meter reading sheets via Claude Vision, stores structured data in Supabase, and surfaces dashboards, logbook entries, and WhatsApp-shareable infographics for the Association committee."
     }
   ]
 }

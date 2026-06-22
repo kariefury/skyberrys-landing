@@ -3509,6 +3509,56 @@
       "title": "jacmani/tw-water-automation",
       "url": "https://github.com/jacmani/tw-water-automation",
       "snippet": "Stars:0 | Water consumption tracking system for Trinity World residential community. Processes handwritten meter reading sheets via Claude Vision, stores structured data in Supabase, and surfaces dashboards, logbook entries, and WhatsApp-shareable infographics for the Association committee."
+    },
+    {
+      "date": "2026-06-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Anithappriya/Water-Quality-Prediction",
+      "url": "https://github.com/Anithappriya/Water-Quality-Prediction",
+      "snippet": "Stars:0 | Machine Learning project to classify water quality as Safe or Unsafe using Random Forest, AdaBoost, and XGBoost algorithms."
+    },
+    {
+      "date": "2026-06-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "d1ya07/water-quality-prediction",
+      "url": "https://github.com/d1ya07/water-quality-prediction",
+      "snippet": "Stars:0 | This project uses Artificial Intelligence and Machine Learning to predict water quality and determine whether water is safe for drinking. By analyzing key physicochemical parameters, the system classifies water as potable or non-potable, providing a fast, reliable, and cost-effective solution for water quality assessment."
+    },
+    {
+      "date": "2026-06-22",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Anamikalearns-ai/Day-8-building-your-first-Ai",
+      "url": "https://github.com/Anamikalearns-ai/Day-8-building-your-first-Ai",
+      "snippet": "Stars:0 | This folder contains my Day 8 submission for the ABTalks 60-Day Claude AI Challenge. Task: Claude Artifacts — built a fully interactive Environmental Health Analyzer dashboard covering 20 Indian cities with real AQI data, PM2.5, PM10, water quality scores, health impact analysis, hair & skin risk assessment, and personalized recommendations using "
+    },
+    {
+      "date": "2026-06-22",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "abreparentesis/ai-footprint",
+      "url": "https://github.com/abreparentesis/ai-footprint",
+      "snippet": "Stars:0 | Estimate the water, energy, and CO2 footprint of your Claude Code usage from local transcripts. Read-only offset-cost estimate plus a self-contained infographic. Portable, offline Claude skill."
+    },
+    {
+      "date": "2026-06-22",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "smartiotinterface/smartiot-app-claude.ai-",
+      "url": "https://github.com/smartiotinterface/smartiot-app-claude.ai-",
+      "snippet": "Stars:0 | SmartIoT — Flutter app + ESP32 firmware (water level control)"
     }
   ]
 }

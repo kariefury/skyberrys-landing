@@ -3559,6 +3559,36 @@
       "title": "smartiotinterface/smartiot-app-claude.ai-",
       "url": "https://github.com/smartiotinterface/smartiot-app-claude.ai-",
       "snippet": "Stars:0 | SmartIoT — Flutter app + ESP32 firmware (water level control)"
+    },
+    {
+      "date": "2026-06-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sumeet-016/NE-EpiGuard",
+      "url": "https://github.com/sumeet-016/NE-EpiGuard",
+      "snippet": "Stars:0 | Predicting waterborne diseases in Northeast India using environmental, sanitation, water quality, and clinical data through EDA, feature engineering, and machine learning, with integration into an AI-powered health advisory system."
+    },
+    {
+      "date": "2026-06-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Abdullah21533/Iot-Driven-Smart-Aquaculture",
+      "url": "https://github.com/Abdullah21533/Iot-Driven-Smart-Aquaculture",
+      "snippet": "Stars:0 | An IoT-driven intelligent decision-making system for real-time fish species prediction and water quality monitoring using Machine Learning. Includes dataset, source code, and published Sensors 2024 paper."
+    },
+    {
+      "date": "2026-06-24",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Prajwal-sudo-600/CivicRadar",
+      "url": "https://github.com/Prajwal-sudo-600/CivicRadar",
+      "snippet": "Stars:0 | AI-powered civic platform for reporting, verifying, and tracking hyperlocal community issues (potholes, water leaks, broken streetlights) in real time. Built with React Native, Expo, Supabase, and Claude AI for image-based categorization and predictive insights."
     }
   ]
 }

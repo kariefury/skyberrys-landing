@@ -3589,6 +3589,66 @@
       "title": "Prajwal-sudo-600/CivicRadar",
       "url": "https://github.com/Prajwal-sudo-600/CivicRadar",
       "snippet": "Stars:0 | AI-powered civic platform for reporting, verifying, and tracking hyperlocal community issues (potholes, water leaks, broken streetlights) in real time. Built with React Native, Expo, Supabase, and Claude AI for image-based categorization and predictive insights."
+    },
+    {
+      "date": "2026-06-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "p66662432-oss/Water-Adulteration-Detection-Alert-System",
+      "url": "https://github.com/p66662432-oss/Water-Adulteration-Detection-Alert-System",
+      "snippet": "Stars:0 | The proposed system is intended for real-time monitoring of drinking water quality using IoT and Machine Learning technologies. The project focuses on measuring two important water quality parameters:  Total Dissolved Solids  Turbidity  The measured data are continuously collected, displayed, and uploaded to cloud platform for storage and analysis."
+    },
+    {
+      "date": "2026-06-25",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": null,
+      "source": "github",
+      "title": "gauravrana-s/IoT-Water-Adulteration-Detection-System",
+      "url": "https://github.com/gauravrana-s/IoT-Water-Adulteration-Detection-System",
+      "snippet": "Stars:0 | An ESP32-based IoT system for real-time water quality monitoring using TDS and turbidity sensors, featuring Google Sheets logging, email alerts, and machine learning-based contamination prediction."
+    },
+    {
+      "date": "2026-06-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "LemuelBryant/water-quality-ml-project",
+      "url": "https://github.com/LemuelBryant/water-quality-ml-project",
+      "snippet": "Stars:0 | Predict water potability using machine learning techniques."
+    },
+    {
+      "date": "2026-06-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "anmolsaharawat126-dot/Water-Quality-Monitoring-and-Prediction-System-",
+      "url": "https://github.com/anmolsaharawat126-dot/Water-Quality-Monitoring-and-Prediction-System-",
+      "snippet": "Stars:0 | AI-powered Water Quality Monitoring & Prediction System using Python, Data Analysis, and Machine Learning."
+    },
+    {
+      "date": "2026-06-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "pablonvsx/pisi3-ufrpe",
+      "url": "https://github.com/pablonvsx/pisi3-ufrpe",
+      "snippet": "Stars:0 | AquaSense: Water quality data science repository featuring EDA dashboards and Machine Learning experiments. Developed for the PISI 3 course (BSI/UFRPE)"
+    },
+    {
+      "date": "2026-06-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Knight-006/04-prj-Water-Game-Concept",
+      "url": "https://github.com/Knight-006/04-prj-Water-Game-Concept",
+      "snippet": "Stars:0 | Create a visual and written plan for a game idea that raises awareness about access to clean water. Plan the game’s layout, user interaction, and visual feedback, using AI to help brainstorm mechanics, scoring systems, or interactive features. Think through the game logic and visual design, and find opportunities to incorporate charity."
     }
   ]
 }

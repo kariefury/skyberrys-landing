@@ -3649,6 +3649,66 @@
       "title": "Knight-006/04-prj-Water-Game-Concept",
       "url": "https://github.com/Knight-006/04-prj-Water-Game-Concept",
       "snippet": "Stars:0 | Create a visual and written plan for a game idea that raises awareness about access to clean water. Plan the game’s layout, user interaction, and visual feedback, using AI to help brainstorm mechanics, scoring systems, or interactive features. Think through the game logic and visual design, and find opportunities to incorporate charity."
+    },
+    {
+      "date": "2026-06-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "tsgpushkar7-sketch/Water-Potablity-Detector-and-Microplastic-Detection",
+      "url": "https://github.com/tsgpushkar7-sketch/Water-Potablity-Detector-and-Microplastic-Detection",
+      "snippet": "Stars:0 | The Water Potability Detector and Microplastic Detection System is a smart IoT-based project using ESP32, Arduino Uno, and water quality sensors to check whether water is safe for drinking. A trained machine learning model analyzes sensor data to predict water potability and detect possible microplastic contamination in real time."
+    },
+    {
+      "date": "2026-06-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "meriemmerouane/WaterQualityPredection-",
+      "url": "https://github.com/meriemmerouane/WaterQualityPredection-",
+      "snippet": "Stars:0 | AquaVerify: A dual-engine Machine Learning API built with FastAPI and TensorFlow. Features data augmentation, Soft Voting ensemble, and deterministic safety thresholds for hydro-chemical analysis."
+    },
+    {
+      "date": "2026-06-26",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "WhOleit-hub/water-engineering-skill",
+      "url": "https://github.com/WhOleit-hub/water-engineering-skill",
+      "snippet": "Stars:0 | 水利工程领域 Claude Code Skill — 水文计算、水工设计、中国水利规范（国标+行标）、报告模板"
+    },
+    {
+      "date": "2026-06-26",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "s-m-anas/HydroSense",
+      "url": "https://github.com/s-m-anas/HydroSense",
+      "snippet": "Stars:0 | 🚀 HydroSense — AI-Generated Complete  Brand Package for Smart Water Bottle.  Created using Generative AI tools  including Claude, Canva AI & Suno AI."
+    },
+    {
+      "date": "2026-06-26",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "frkosk/claude-skill-bread",
+      "url": "https://github.com/frkosk/claude-skill-bread",
+      "snippet": "Stars:0 | AI skill for artisan bread: recipes, fermentation plans, levain system, troubleshooting. Based on Flour Water Salt Yeast (Forkish). Works in Claude Code (/bread) and any other AI tool."
+    },
+    {
+      "date": "2026-06-26",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "marmelab/ecologist-vscode",
+      "url": "https://github.com/marmelab/ecologist-vscode",
+      "snippet": "Stars:5 | VSCode extension to monitor co2, electricity, and water used by claude code sessions "
     }
   ]
 }

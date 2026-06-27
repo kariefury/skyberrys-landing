@@ -3709,6 +3709,56 @@
       "title": "marmelab/ecologist-vscode",
       "url": "https://github.com/marmelab/ecologist-vscode",
       "snippet": "Stars:5 | VSCode extension to monitor co2, electricity, and water used by claude code sessions "
+    },
+    {
+      "date": "2026-06-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Rajeshwari1608/Water-quality-prediction",
+      "url": "https://github.com/Rajeshwari1608/Water-quality-prediction",
+      "snippet": "Stars:0 | The Water Quality Prediction system uses machine learning to analyze key parameters like pH, turbidity, and dissolved oxygen to predict water safety. It helps in monitoring pollution levels, ensuring clean water supply, and supporting sustainable environmental management."
+    },
+    {
+      "date": "2026-06-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Sreyarao204/water-quality-prediction",
+      "url": "https://github.com/Sreyarao204/water-quality-prediction",
+      "snippet": "Stars:0 | Water Quality Prediction using Machine Learning"
+    },
+    {
+      "date": "2026-06-27",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "FilipCondac/watermark",
+      "url": "https://github.com/FilipCondac/watermark",
+      "snippet": "Stars:0 | macOS menu-bar app estimating the water footprint of your Claude Code usage"
+    },
+    {
+      "date": "2026-06-27",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "spencerahill/axisym-hc-swm",
+      "url": "https://github.com/spencerahill/axisym-hc-swm",
+      "snippet": "Stars:1 | Axisymmetric shallow water model of Hadley circulation upper branches, mostly written by Claude Code."
+    },
+    {
+      "date": "2026-06-27",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "HarishBalaji14/Agentic-Water-Quality-Index",
+      "url": "https://github.com/HarishBalaji14/Agentic-Water-Quality-Index",
+      "snippet": "Stars:0 | A Streamlit-based AutoML app with an agentic architecture — a ModelTrainerAgent autonomously trains 8+ regression models, selects the best performer, and an AI Agent interprets predictions to generate actionable water safety reports using Gemini/OpenAI, enabling end-to-end autonomous Water Quality Index analysis."
     }
   ]
 }

@@ -3769,6 +3769,26 @@
       "title": "Thomas-1776/agricultural_water_relationship",
       "url": "https://github.com/Thomas-1776/agricultural_water_relationship",
       "snippet": "Stars:0 | A comprehensive machine learning pipeline that applies regression and classification algorithms to evaluate agricultural parameters and drinking water quality. The project leverages advanced feature evaluation to map the complex, non-linear relationships that dictate resource sustainability over time."
+    },
+    {
+      "date": "2026-06-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Shivagupta9679/Smart-Aquaculture-Water-Quality-Index-Prediction-using-Ensemble-Machine-Learning",
+      "url": "https://github.com/Shivagupta9679/Smart-Aquaculture-Water-Quality-Index-Prediction-using-Ensemble-Machine-Learning",
+      "snippet": "Stars:0 | End-to-end Machine Learning project for predicting Aquaculture Water Quality Index using ensemble models"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "gorceacnatalia-lang/water-quality-prediction",
+      "url": "https://github.com/gorceacnatalia-lang/water-quality-prediction",
+      "snippet": "Stars:0 | Machine learning project for water quality analysis and prediction."
     }
   ]
 }

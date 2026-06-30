@@ -3789,6 +3789,106 @@
       "title": "gorceacnatalia-lang/water-quality-prediction",
       "url": "https://github.com/gorceacnatalia-lang/water-quality-prediction",
       "snippet": "Stars:0 | Machine learning project for water quality analysis and prediction."
+    },
+    {
+      "date": "2026-06-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "zlfzahra/taiwan-harmful-algal-bloom-detection",
+      "url": "https://github.com/zlfzahra/taiwan-harmful-algal-bloom-detection",
+      "snippet": "Stars:0 | Machine learning framework for harmful algal bloom detection using Sentinel-2 and in-situ water quality data."
+    },
+    {
+      "date": "2026-06-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ahmdtrdi/water-quality-prediction",
+      "url": "https://github.com/ahmdtrdi/water-quality-prediction",
+      "snippet": "Stars:0 | Machine Learning Models for prediciting water at South Africa"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mdtowhidultamim/Water_Quality_Classification_using_Machine_Learning",
+      "url": "https://github.com/mdtowhidultamim/Water_Quality_Classification_using_Machine_Learning",
+      "snippet": "Stars:0 | A supervised machine learning project for water quality classification using K-Nearest Neighbors (KNN) and Decision Tree algorithms. Includes exploratory data analysis (EDA), data preprocessing, SMOTE for class balancing, feature selection, model evaluation, and performance comparison using Scikit-learn."
+    },
+    {
+      "date": "2026-06-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "rocky2428/Fake-News-Detection",
+      "url": "https://github.com/rocky2428/Fake-News-Detection",
+      "snippet": "Stars:0 | •Used data analysis and machine learning to forecast river contamination levels by analyzing environmental factors. 01/2026 – 01/2026 •Helps authorities manage water quality and protect ecosystems from critical pollution events."
+    },
+    {
+      "date": "2026-06-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sanjaysaravanan8887/Rainwater-Quality-Classification-System-With-Adaptive-First-Flush",
+      "url": "https://github.com/sanjaysaravanan8887/Rainwater-Quality-Classification-System-With-Adaptive-First-Flush",
+      "snippet": "Stars:1 | Rainwater harvesting system that uses sensor fusion and machine learning to classify rainwater quality in real time, dynamically determine the end of the first-flush period, calculate a Rainwater Quality Index (RQI), and automatically divert water to the most suitable destination using an electronically controlled multi-path valve system."
+    },
+    {
+      "date": "2026-06-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "saitejaswini0311/Water-Quality-Prediction-Using-Machine-Learning",
+      "url": "https://github.com/saitejaswini0311/Water-Quality-Prediction-Using-Machine-Learning",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-06-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sankalpgaidhane77-star/AquaShield-AI",
+      "url": "https://github.com/sankalpgaidhane77-star/AquaShield-AI",
+      "snippet": "Stars:0 | AquaShield AI is an AI-powered water quality monitoring platform that predicts water safety using a Random Forest ML model with Express.js fallback support. It features live IoT dashboards, pollution heatmaps, clean water location services, and community hazard reporting to enable real-time environmental monitoring and safer water access."
+    },
+    {
+      "date": "2026-06-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "craftedup/watercooler",
+      "url": "https://github.com/craftedup/watercooler",
+      "snippet": "Stars:0 | Thin realtime collaboration layer for Claude agents run by different people — presence + a live message feed keyed by a shareable invite code. Bring your own Cloudflare Worker backend."
+    },
+    {
+      "date": "2026-06-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "xSubahx/at-what-cost",
+      "url": "https://github.com/xSubahx/at-what-cost",
+      "snippet": "Stars:0 | Footprint gate-check skill for Claude Code: estimate tokens, cost, time, CO2eq & water before a major LLM task."
+    },
+    {
+      "date": "2026-06-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "marmelab/ecologits-vscode",
+      "url": "https://github.com/marmelab/ecologits-vscode",
+      "snippet": "Stars:6 | VSCode extension to monitor co2, electricity, and water used by claude code sessions "
     }
   ]
 }

@@ -3889,6 +3889,46 @@
       "title": "marmelab/ecologits-vscode",
       "url": "https://github.com/marmelab/ecologits-vscode",
       "snippet": "Stars:6 | VSCode extension to monitor co2, electricity, and water used by claude code sessions "
+    },
+    {
+      "date": "2026-07-01",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "YII-672/Rainfall-Lag-Spatial-Heterogeneity-Water-Quality-Index",
+      "url": "https://github.com/YII-672/Rainfall-Lag-Spatial-Heterogeneity-Water-Quality-Index",
+      "snippet": "Stars:0 | Dataset and source code for investigating rainfall lag effects, spatial heterogeneity, and machine learning-based prediction of river water quality in the Klang River Basin, Malaysia."
+    },
+    {
+      "date": "2026-07-01",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "yrmfernandez/groundwater-quality-risk-assessment-system",
+      "url": "https://github.com/yrmfernandez/groundwater-quality-risk-assessment-system",
+      "snippet": "Stars:0 | An AI-powered web application for groundwater quality assessment using machine learning for irrigation suitability, drinking water safety, and anomaly detection."
+    },
+    {
+      "date": "2026-07-01",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "arnavnaman23-create/Water-Quality-Monitoring-and-Prediction-System",
+      "url": "https://github.com/arnavnaman23-create/Water-Quality-Monitoring-and-Prediction-System",
+      "snippet": "Stars:0 | A Machine Learning and Deep Learning project that predicts water potability using Logistic Regression, Random Forest, ANN, and detects anomalies using Isolation Forest."
+    },
+    {
+      "date": "2026-07-01",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "TsekaLuk/objectivize",
+      "url": "https://github.com/TsekaLuk/objectivize",
+      "snippet": "Stars:0 | 把内心戏私稿折射成可对外发布的客观分析 · 一个 water-shaped 的 Claude 技能"
     }
   ]
 }

@@ -3929,6 +3929,26 @@
       "title": "TsekaLuk/objectivize",
       "url": "https://github.com/TsekaLuk/objectivize",
       "snippet": "Stars:0 | 把内心戏私稿折射成可对外发布的客观分析 · 一个 water-shaped 的 Claude 技能"
+    },
+    {
+      "date": "2026-07-02",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kiranvanibudala-star/AI-driven-fish-disease-detection-and-water-quality-monitoring",
+      "url": "https://github.com/kiranvanibudala-star/AI-driven-fish-disease-detection-and-water-quality-monitoring",
+      "snippet": "Stars:0 | aquaculture plays a vital role in maintaining the marketing values of aquatic animals, so our project is to help to maintain the health of aquatic animals and monitoring the water environment. here we use artificial intelligence, deep learning and machine learning techniques. by creating such a website it helps fish farmers, aqua animal business.  "
+    },
+    {
+      "date": "2026-07-02",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "adityachaudhary99/thirsty",
+      "url": "https://github.com/adityachaudhary99/thirsty",
+      "snippet": "Stars:0 | An honest AI prompt-footprint meter (water, energy, CO2) for Claude — browser extension + Claude Code statusline + API wrapper. Estimates only."
     }
   ]
 }

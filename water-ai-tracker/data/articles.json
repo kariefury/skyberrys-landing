@@ -3949,6 +3949,86 @@
       "title": "adityachaudhary99/thirsty",
       "url": "https://github.com/adityachaudhary99/thirsty",
       "snippet": "Stars:0 | An honest AI prompt-footprint meter (water, energy, CO2) for Claude — browser extension + Claude Code statusline + API wrapper. Estimates only."
+    },
+    {
+      "date": "2026-07-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "rainbreak597/Project-Aegis",
+      "url": "https://github.com/rainbreak597/Project-Aegis",
+      "snippet": "Stars:0 | AI uses tons of fresh water everyday just to cool its servers. This is destroying our water supply an its using tons of dirty fuel everyday just to power and cool its servers. If we dont stop now, Global warming and lack of clean and freshwater will be the end of us. Thats where Project Aegis comes in. It  shall be explained throughout this journey"
+    },
+    {
+      "date": "2026-07-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Rakshithsreddy123/Water-Quality-Risk-Predictor-System",
+      "url": "https://github.com/Rakshithsreddy123/Water-Quality-Risk-Predictor-System",
+      "snippet": "Stars:0 | A Machine Learning-based web application that predicts water potability and contamination risk using water quality parameters, while providing treatment recommendations to improve water safety."
+    },
+    {
+      "date": "2026-07-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "suyashrajtiwari/Water-Adulteration-Detection-and-Alert-System",
+      "url": "https://github.com/suyashrajtiwari/Water-Adulteration-Detection-and-Alert-System",
+      "snippet": "Stars:0 | The proposed system is intended for real-time monitoring of drinking water quality using IoT and Machine Learning technologies. The project focuses on measuring two important water quality parameters: Total Dissolved Solids Turbidity The measured data are continuously collected, displayed, and uploaded to cloud platform for storage and analysis."
+    },
+    {
+      "date": "2026-07-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "karrapooja21/Water-quality-monitoring-and-detecting-system-using-ML",
+      "url": "https://github.com/karrapooja21/Water-quality-monitoring-and-detecting-system-using-ML",
+      "snippet": "Stars:0 | \"Machine Learning project for water quality monitoring and prediction.\""
+    },
+    {
+      "date": "2026-07-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sandhiya-vasi/AI_Clean_India",
+      "url": "https://github.com/sandhiya-vasi/AI_Clean_India",
+      "snippet": "Stars:0 | AI-powered Smart Garbage & Water Pollution Complaint Management System for reporting, tracking, and resolving public cleanliness issues through municipal authorities."
+    },
+    {
+      "date": "2026-07-03",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": null,
+      "source": "github",
+      "title": "parthshinde2323/LeafyCare-",
+      "url": "https://github.com/parthshinde2323/LeafyCare-",
+      "snippet": "Stars:0 | 🌿 LeafyCare is a Flutter-based smart plant care app for Android & Web. Manage your digital garden with watering reminders, AI-powered disease detection, sunlight monitoring, weather-based care tips, Google Sign-In, and cloud sync. Built for Indian household plants with a clean, nature-inspired UI."
+    },
+    {
+      "date": "2026-07-03",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "tpierrain/clepsydre",
+      "url": "https://github.com/tpierrain/clepsydre",
+      "snippet": "Stars:2 | A Fort Boyard–style water clock for your Claude Code context window — /clear before you're trapped in the context-rot room."
+    },
+    {
+      "date": "2026-07-03",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "UkawaJun/Fable5-VoxelCraftGame",
+      "url": "https://github.com/UkawaJun/Fable5-VoxelCraftGame",
+      "snippet": "Stars:0 | VoxelCraft is a high-performance voxel game framework written entirely in pure Python and generated from scratch by Claude Fable 5. Inspired by Minecraft, it leverages numpy vectorization for fast chunk updates, features rich physics, flowing water, day-night cycles, villages, and mobs — all running smoothly at 60 FPS."
     }
   ]
 }

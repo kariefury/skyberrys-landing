@@ -4029,6 +4029,86 @@
       "title": "UkawaJun/Fable5-VoxelCraftGame",
       "url": "https://github.com/UkawaJun/Fable5-VoxelCraftGame",
       "snippet": "Stars:0 | VoxelCraft is a high-performance voxel game framework written entirely in pure Python and generated from scratch by Claude Fable 5. Inspired by Minecraft, it leverages numpy vectorization for fast chunk updates, features rich physics, flowing water, day-night cycles, villages, and mobs — all running smoothly at 60 FPS."
+    },
+    {
+      "date": "2026-07-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "smrutiumrigar/surat-rainfall-prediction-",
+      "url": "https://github.com/smrutiumrigar/surat-rainfall-prediction-",
+      "snippet": "Stars:0 | Surat Rainfall Prediction is a machine learning project that predicts flood risk based on rainfall, water level increase, drainage quality, population density, distance from the Tapi River, and low-lying areas. It uses historical data to improve prediction accuracy and support early flood warnings and disaster management."
+    },
+    {
+      "date": "2026-07-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AakaashS/Water_potablity",
+      "url": "https://github.com/AakaashS/Water_potablity",
+      "snippet": "Stars:0 | A machine learning-powered web application that predicts whether water is safe to drink based on nine water quality parameters. Built using **Python**, **Flask**, and **Scikit-learn**, the project employs a **Random Forest Classifier** with feature scaling to deliver real-time predictions and confidence scores through an intuitive web interface."
+    },
+    {
+      "date": "2026-07-04",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "sarge-code/water-quality-analysis",
+      "url": "https://github.com/sarge-code/water-quality-analysis",
+      "snippet": "Stars:0 | A machine learning web app that analyzes water quality using 12 classification models (Random Forest, XGBoost, SVM, Neural Network and more) with real-time predictions, confusion matrices, and Gemini AI expert analysis. Built with React + Vite, trained on the Water Potability dataset."
+    },
+    {
+      "date": "2026-07-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Livashini-Projects/Data-Science---ML-project-1",
+      "url": "https://github.com/Livashini-Projects/Data-Science---ML-project-1",
+      "snippet": "Stars:0 |  Water Quality Prediction using Machine Learning "
+    },
+    {
+      "date": "2026-07-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "RinadSalem/Water-Potability-Prediction",
+      "url": "https://github.com/RinadSalem/Water-Potability-Prediction",
+      "snippet": "Stars:0 | This repository contains a comprehensive Data Mining project focused on predicting water potability (whether water is safe for human consumption or not) based on various water quality metrics. The pipeline covers data loading, exploration, visualization, preprocessing, and machine learning classification."
+    },
+    {
+      "date": "2026-07-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "prekkkk/AquaAlert",
+      "url": "https://github.com/prekkkk/AquaAlert",
+      "snippet": "Stars:0 | AquaAlert is a machine-learning–based water quality prediction system that analyzes parameters like pH, hardness, solids, and contaminants to classify water as safe or unsafe. It provides instant alerts when water quality drops below acceptable levels, helping users take timely action."
+    },
+    {
+      "date": "2026-07-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "owlent/atp-module",
+      "url": "https://github.com/owlent/atp-module",
+      "snippet": "Stars:0 | A robust, multi-output time-series forecasting pipeline engineered for large-scale marine aquaculture ponds. This framework processes synchronous IoT sensor arrays to build historical context lags, training machine learning models to predict multiple critical water quality parameters simultaneously."
+    },
+    {
+      "date": "2026-07-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Joel-Arpith/hydrobot-ai-surface-waste-cleaner",
+      "url": "https://github.com/Joel-Arpith/hydrobot-ai-surface-waste-cleaner",
+      "snippet": "Stars:2 | AI-powered, solar-driven autonomous surface water waste collection robot using YOLOv8, IoT, and a catamaran platform."
     }
   ]
 }

@@ -5413,6 +5413,91 @@
           "mention_count": 0
         }
       }
+    },
+    {
+      "date": "2026-07-05",
+      "scores": {
+        "openai": 22.5,
+        "anthropic": 29.3,
+        "google": 26.6,
+        "xai": 22.5
+      },
+      "signals": {
+        "openai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        },
+        "anthropic": {
+          "compute": 0.5,
+          "sentiment": 0.7384,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.2,
+          "article_count": 1,
+          "mention_count": 0
+        },
+        "google": {
+          "compute": 0.5,
+          "sentiment": 0.5055,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.4,
+          "article_count": 2,
+          "mention_count": 0
+        },
+        "xai": {
+          "compute": 0.5,
+          "sentiment": 0.5,
+          "human": 0.0,
+          "evidence": 0.0,
+          "github": 0.0,
+          "article_count": 0,
+          "mention_count": 0
+        }
+      },
+      "model_scores": {
+        "anthropic/claude": {
+          "score": 29.3,
+          "signals": {
+            "compute": 0.5,
+            "sentiment": 0.7384,
+            "human": 0.0,
+            "evidence": 0.0,
+            "github": 0.2
+          },
+          "article_count": 1,
+          "mention_count": 0
+        },
+        "google/gemini": {
+          "score": 26.6,
+          "signals": {
+            "compute": 0.5,
+            "sentiment": 0.5055,
+            "human": 0.0,
+            "evidence": 0.0,
+            "github": 0.4
+          },
+          "article_count": 2,
+          "mention_count": 0
+        },
+        "google/gemini/gemini-generic": {
+          "score": 26.6,
+          "signals": {
+            "compute": 0.5,
+            "sentiment": 0.5055,
+            "human": 0.0,
+            "evidence": 0.0,
+            "github": 0.4
+          },
+          "article_count": 2,
+          "mention_count": 0
+        }
+      }
     }
   ]
 }

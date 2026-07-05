@@ -4109,6 +4109,86 @@
       "title": "Joel-Arpith/hydrobot-ai-surface-waste-cleaner",
       "url": "https://github.com/Joel-Arpith/hydrobot-ai-surface-waste-cleaner",
       "snippet": "Stars:2 | AI-powered, solar-driven autonomous surface water waste collection robot using YOLOv8, IoT, and a catamaran platform."
+    },
+    {
+      "date": "2026-07-05",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "SARGE2899/water-quality-analysis",
+      "url": "https://github.com/SARGE2899/water-quality-analysis",
+      "snippet": "Stars:0 | A machine learning web app that analyzes water quality using 12 classification models (Random Forest, XGBoost, SVM, Neural Network and more) with real-time predictions, confusion matrices, and Gemini AI expert analysis. Built with React + Vite, trained on the Water Potability dataset."
+    },
+    {
+      "date": "2026-07-05",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kartiksahu2927/Smart-Health-Management-System",
+      "url": "https://github.com/kartiksahu2927/Smart-Health-Management-System",
+      "snippet": "Stars:0 | An AI-powered Smart Health Surveillance and Early Warning System that monitors water-borne diseases, predicts outbreaks, and provides real-time alerts using health data, water quality monitoring, and machine learning."
+    },
+    {
+      "date": "2026-07-05",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Code-With-Shanmukh/WaterNet-Legacy",
+      "url": "https://github.com/Code-With-Shanmukh/WaterNet-Legacy",
+      "snippet": "Stars:0 | Legacy Django-based water quality monitoring and prediction system for drinking and irrigation using machine learning. Preserved as the baseline for future modernization."
+    },
+    {
+      "date": "2026-07-05",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Likhithkpoojary/waterqualityprediction",
+      "url": "https://github.com/Likhithkpoojary/waterqualityprediction",
+      "snippet": "Stars:0 | This project predicts **water quality** using machine learning by analyzing key physicochemical parameters such as pH, turbidity, dissolved oxygen, conductivity, total dissolved solids (TDS), temperature, and other water quality indicators. The system classifies water quality accurately, helping support environmental monitoring and safe water"
+    },
+    {
+      "date": "2026-07-05",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "lillyeunice/Water-quality--classification",
+      "url": "https://github.com/lillyeunice/Water-quality--classification",
+      "snippet": "Stars:0 | A machine learning project for classifying water quality using python and scikit-learn"
+    },
+    {
+      "date": "2026-07-05",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "linegel/threejs-complete-set-of-skill",
+      "url": "https://github.com/linegel/threejs-complete-set-of-skill",
+      "snippet": "Stars:1 | 25 expert agent skills for ambitious Three.js WebGPU/TSL scenes — procedural oceans, clouds, planets, water optics, image pipelines, and screenshot-backed visual validation. For Claude Code, Codex, Cursor, and any skill-aware agent."
+    },
+    {
+      "date": "2026-07-05",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "juwwad/aquatrace",
+      "url": "https://github.com/juwwad/aquatrace",
+      "snippet": "Stars:0 | AquaTrace is a Chromium browser extension that estimates the water footprint of your AI conversations. It tracks prompt activity on supported sites such as ChatGPT, Gemini, and Claude, and shows an easy-to-read visual estimate in the popup."
+    },
+    {
+      "date": "2026-07-05",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "drmuruga/Chola-Eri-Simulation-RAG",
+      "url": "https://github.com/drmuruga/Chola-Eri-Simulation-RAG",
+      "snippet": "Stars:0 | ulti-agent simulation of 10th-century Chola water management using a RAG-based LLM architecture"
     }
   ]
 }

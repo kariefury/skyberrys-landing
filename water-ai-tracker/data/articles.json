@@ -4189,6 +4189,66 @@
       "title": "drmuruga/Chola-Eri-Simulation-RAG",
       "url": "https://github.com/drmuruga/Chola-Eri-Simulation-RAG",
       "snippet": "Stars:0 | ulti-agent simulation of 10th-century Chola water management using a RAG-based LLM architecture"
+    },
+    {
+      "date": "2026-07-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "YangaOk/Eutrophication-risk-using-Machine-Learning",
+      "url": "https://github.com/YangaOk/Eutrophication-risk-using-Machine-Learning",
+      "snippet": "Stars:0 | This repository contains the code and resources for a machine learning framework developed to predict eutrophication risk in the Vaal Dam using over 30 years of historical water quality monitoring data."
+    },
+    {
+      "date": "2026-07-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sarthak320/Water-_Quality-_Analysis",
+      "url": "https://github.com/sarthak320/Water-_Quality-_Analysis",
+      "snippet": "Stars:0 | Water Quality Analysis using Machine Learning to analyze water quality parameters and predict whether water is safe for drinking based on environmental and chemical data."
+    },
+    {
+      "date": "2026-07-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Code-With-Shanmukh/WaterNetV2",
+      "url": "https://github.com/Code-With-Shanmukh/WaterNetV2",
+      "snippet": "Stars:0 | Legacy Django-based water quality monitoring and prediction system for drinking and irrigation using machine learning. "
+    },
+    {
+      "date": "2026-07-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nourejerbi/AquaSense",
+      "url": "https://github.com/nourejerbi/AquaSense",
+      "snippet": "Stars:0 | An AI-powered IoT water quality monitoring system using ESP32, Firebase, and machine learning. It collects real-time sensor data, visualizes water conditions through a web dashboard, detects anomalies, predicts pollution trends, and provides intelligent recommendations for water quality management."
+    },
+    {
+      "date": "2026-07-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "praveenangadi10/Sintex-Cleanliness-Detection-Using-IOT-and-AI",
+      "url": "https://github.com/praveenangadi10/Sintex-Cleanliness-Detection-Using-IOT-and-AI",
+      "snippet": "Stars:0 | An AI and IoT-based smart water tank monitoring system that uses ESP32-CAM and computer vision to detect tank cleanliness while monitoring water level in real time through Telegram."
+    },
+    {
+      "date": "2026-07-06",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "royashbrook/waterbear",
+      "url": "https://github.com/royashbrook/waterbear",
+      "snippet": "Stars:0 | keep a claude --remote-control session alive forever (tmux + launchd), optionally resuming the same conversation on respawn , named for the tardigrade"
     }
   ]
 }

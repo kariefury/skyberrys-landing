@@ -4249,6 +4249,86 @@
       "title": "royashbrook/waterbear",
       "url": "https://github.com/royashbrook/waterbear",
       "snippet": "Stars:0 | keep a claude --remote-control session alive forever (tmux + launchd), optionally resuming the same conversation on respawn , named for the tardigrade"
+    },
+    {
+      "date": "2026-07-07",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Historical patterns of well drilling and groundwater depth in Arizona considering groundwater regulation and surface water access",
+      "url": "https://www.semanticscholar.org/paper/47d81f4dccca4032db414a61414d100bb316796d",
+      "snippet": "Arizona has a long history of groundwater use, and there is concern about long term groundwater sustainability across the state. We explore groundwater trends across Arizona and how they vary with respect to: (1) whether groundwater pumping is regulated, and (2) relative access to local or imported surface water. Well observations from the Arizona Department of Water Resources are used to quantify"
+    },
+    {
+      "date": "2026-07-07",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Water access and sanitation facilities in the Johor River Basin, Malaysia: a comparison between indigenous and more modernised communities",
+      "url": "https://www.semanticscholar.org/paper/a0ba34d70b64508629c57d64d30ed29498c96906",
+      "snippet": "\n Water access, sanitation and hygiene (WASH) data for Malaysia suggest that almost 100% of the population have access to basic sanitation and basic drinking water, but this data may not include marginalised communities and stateless individuals, indigenous or otherwise. The aim of this study was to evaluate WASH provision for residents of the Johor River Basin and evaluate the disparity in facili"
+    },
+    {
+      "date": "2026-07-07",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Impact of Participation in Groundwater Market on Farmland, Income, and Water Access: Evidence from Pakistan",
+      "url": "https://www.semanticscholar.org/paper/de5251e8d0f7eaac8cd487ccafd926b293456dd3",
+      "snippet": "Groundwater irrigation has a critical role in the sustainability of arable farming in many developing countries including Pakistan. Groundwater irrigation is generally practiced to supplement surface water supplies in Pakistan. Nevertheless, uninterrupted and extensive use of groundwater irrigation has raised several concerns about its sustainability and resultant environmental implications. Due t"
+    },
+    {
+      "date": "2026-07-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "subasri003/smart_community_health_monitoring",
+      "url": "https://github.com/subasri003/smart_community_health_monitoring",
+      "snippet": "Stars:0 | This project is a smart health monitoring system that collects water quality data such as pH, turbidity, and temperature. It analyzes the data to detect the risk of water-borne diseases using machine learning. "
+    },
+    {
+      "date": "2026-07-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "subasri003/smart__-community-health_-montoring",
+      "url": "https://github.com/subasri003/smart__-community-health_-montoring",
+      "snippet": "Stars:0 | This project is a smart health monitoring system that collects water quality data such as pH, turbidity, and temperature. It analyzes the data to detect the risk of water-borne diseases using machine learning. "
+    },
+    {
+      "date": "2026-07-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "subasri003/smart-community-health-monitoring-",
+      "url": "https://github.com/subasri003/smart-community-health-monitoring-",
+      "snippet": "Stars:0 | This project is a smart health monitoring system that collects water quality data such as pH, turbidity, and temperature. It analyzes the data to detect the risk of water-borne diseases using machine learning. "
+    },
+    {
+      "date": "2026-07-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "iskushpatel/AquaGuard_Agent",
+      "url": "https://github.com/iskushpatel/AquaGuard_Agent",
+      "snippet": "Stars:2 | AI-powered guardian of clean water. Democratizes water quality testing, predicts waterborne disease outbreaks, and delivers smart purification strategies."
+    },
+    {
+      "date": "2026-07-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "JakPot42/installation-resilience",
+      "url": "https://github.com/JakPot42/installation-resilience",
+      "snippet": "Stars:0 | Phase 6 Cluster 5 (Installation Resilience): shared-core reference library for the joule/GridPulse/Water Security Stress Monitor CLI merge -- STRESS_TIERS scale, demo_mode convention, and a Claude-brief wrapper with an explicit raise-or-fallback error mode."
     }
   ]
 }

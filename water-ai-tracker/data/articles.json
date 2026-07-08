@@ -4329,6 +4329,66 @@
       "title": "JakPot42/installation-resilience",
       "url": "https://github.com/JakPot42/installation-resilience",
       "snippet": "Stars:0 | Phase 6 Cluster 5 (Installation Resilience): shared-core reference library for the joule/GridPulse/Water Security Stress Monitor CLI merge -- STRESS_TIERS scale, demo_mode convention, and a Claude-brief wrapper with an explicit raise-or-fallback error mode."
+    },
+    {
+      "date": "2026-07-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ananyasamreddy/AI_GIS_Water_Supply_System",
+      "url": "https://github.com/ananyasamreddy/AI_GIS_Water_Supply_System",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-07-08",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "adithyag1r/jan-awaz-ai",
+      "url": "https://github.com/adithyag1r/jan-awaz-ai",
+      "snippet": "Stars:0 | A multilingual AI grievance-routing platform built for Indian Members of Parliament (MPs). The app allows citizens to type or speak their local issues in any regional language. Powered by the Gemini API, it automatically translates the text, auto-categorizes the department (e.g., Water Supply, Roads), scores the community urgency from 1 to 10."
+    },
+    {
+      "date": "2026-07-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "XinGao777/birmingham-water-quality",
+      "url": "https://github.com/XinGao777/birmingham-water-quality",
+      "snippet": "Stars:0 | Machine learning pipeline predicting hotel booking cancellations (Random Forest, AUC 0.930) on 119K real bookings, with external weather & holiday data.  中文含义:预测酒店订单取消的机器学习项目(随机森林,AUC 0.930),基于 11.9 万条真实订单,整合外部气象与假期数据。"
+    },
+    {
+      "date": "2026-07-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kartiksahu2927/Smart-Health-Surveillance-and-Early-Warning-System",
+      "url": "https://github.com/kartiksahu2927/Smart-Health-Surveillance-and-Early-Warning-System",
+      "snippet": "Stars:0 | An AI-powered Smart Health Surveillance and Early Warning System that monitors water-borne diseases, predicts outbreaks, and provides real-time alerts using health data, water quality monitoring, and machine learning."
+    },
+    {
+      "date": "2026-07-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ShenbakaAbiramiR/BIOFLOC-SENSING-AI",
+      "url": "https://github.com/ShenbakaAbiramiR/BIOFLOC-SENSING-AI",
+      "snippet": "Stars:0 | AI-powered Biofloc monitoring system using IoT sensors and machine learning for intelligent water quality analysis and aquaculture management."
+    },
+    {
+      "date": "2026-07-08",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "pitterrat-byte/claude-fable5-minecraft-shade",
+      "url": "https://github.com/pitterrat-byte/claude-fable5-minecraft-shade",
+      "snippet": "Stars:0 | An enhanced Minecraft shader pack built for Iris/OptiFine (1.21.6+). It modernizes the graphics pipeline while strictly preserving the vanilla art style. Features a procedural wind system for independent foliage movement, soft PCF shadows, screen-space reflections, depth water fog, volumetric god rays, SSAO, HDR auto-exposure."
     }
   ]
 }

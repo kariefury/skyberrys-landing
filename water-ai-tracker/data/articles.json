@@ -4389,6 +4389,76 @@
       "title": "pitterrat-byte/claude-fable5-minecraft-shade",
       "url": "https://github.com/pitterrat-byte/claude-fable5-minecraft-shade",
       "snippet": "Stars:0 | An enhanced Minecraft shader pack built for Iris/OptiFine (1.21.6+). It modernizes the graphics pipeline while strictly preserving the vanilla art style. Features a procedural wind system for independent foliage movement, soft PCF shadows, screen-space reflections, depth water fog, volumetric god rays, SSAO, HDR auto-exposure."
+    },
+    {
+      "date": "2026-07-09",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Impacts of anthropic action on water quality from spring water",
+      "url": "https://www.semanticscholar.org/paper/d0eae0523b55370837b32fc217e06e41a6e2697d",
+      "snippet": "Due to the sensitivity of water to external effects such as precipitation, land use and management, water quality must be monitored. This information is essential for decisions on its multiple and integrated use, as well as helping to mitigate environmental impacts. The aim of this study was to assess the water quality of perennial springs in the Palmital stream watershed, in Urutaí - GO. Water sa"
+    },
+    {
+      "date": "2026-07-09",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Survey of School Direct-Drinking Water Access for Children and Youth in Shanghai, China",
+      "url": "https://www.semanticscholar.org/paper/f7c866e04ba75b1e86c6db48befaa0587af8d610",
+      "snippet": "Background: Over the past decade, Shanghai primary and middle schools have installed and updated direct-drinking water facilities in compliance with local policies, but few studies have assessed the schools providing direct-drinking water access. Methods: A cross-sectional study was conducted with 167 public primary, middle, and high schools across Pudong New Area, Shanghai during Autumn 2024. The"
+    },
+    {
+      "date": "2026-07-09",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "morsalnm/Athabasca_water_quality_capstone",
+      "url": "https://github.com/morsalnm/Athabasca_water_quality_capstone",
+      "snippet": "Stars:0 | This focuses on my contributions to our group data science capstone project on analyzing water quality patterns using statistical and machine learning techniques."
+    },
+    {
+      "date": "2026-07-09",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "MahammadAyaz/Water-Quality-Prediction-Using-Data-Science",
+      "url": "https://github.com/MahammadAyaz/Water-Quality-Prediction-Using-Data-Science",
+      "snippet": "Stars:0 | A Data Science project that analyzes real-world water quality parameters to predict water quality using machine learning techniques. The project includes data preprocessing, exploratory data analysis (EDA), visualization, predictive modeling, and performance evaluation using publicly available datasets."
+    },
+    {
+      "date": "2026-07-09",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nishad-uday/River-Conservation-Dashboard",
+      "url": "https://github.com/nishad-uday/River-Conservation-Dashboard",
+      "snippet": "Stars:0 | AI and IoT based River Water Quality Monitoring Dashboard using Flask, Machine Learning, Arduino, and Real-time Sensor Data."
+    },
+    {
+      "date": "2026-07-09",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "piyushkhemka/sip",
+      "url": "https://github.com/piyushkhemka/sip",
+      "snippet": "Stars:0 | Sip 💧 — a low-latency Claude Code status line: cost, context, model, turns, and (soon) water consumed per LLM response. Every prompt takes a sip."
+    },
+    {
+      "date": "2026-07-09",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "arpitmathur16/plant_chatbot",
+      "url": "https://github.com/arpitmathur16/plant_chatbot",
+      "snippet": "Stars:0 |  Upload a plant photo, get species ID + LLM-generated care advice (light/water/soil ranges, dos/don'ts). FastAPI + Plant.id API + Claude/GPT. Confidence-aware — no fabricated specifics."
     }
   ]
 }

@@ -4459,6 +4459,46 @@
       "title": "arpitmathur16/plant_chatbot",
       "url": "https://github.com/arpitmathur16/plant_chatbot",
       "snippet": "Stars:0 |  Upload a plant photo, get species ID + LLM-generated care advice (light/water/soil ranges, dos/don'ts). FastAPI + Plant.id API + Claude/GPT. Confidence-aware — no fabricated specifics."
+    },
+    {
+      "date": "2026-07-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "yashgoyal-ds/water-potability-prediction",
+      "url": "https://github.com/yashgoyal-ds/water-potability-prediction",
+      "snippet": "Stars:0 | Machine Learning project to predict water potability using water quality parameters."
+    },
+    {
+      "date": "2026-07-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "rajveer9077/AquaEye-A-Standardized-System-for-Microparticulate-Matter-Analysis",
+      "url": "https://github.com/rajveer9077/AquaEye-A-Standardized-System-for-Microparticulate-Matter-Analysis",
+      "snippet": "Stars:0 |  AquaEye is an AI-powered water quality analysis system that detects and analyzes microparticulate matter using image processing, machine learning, and full-stack technologies."
+    },
+    {
+      "date": "2026-07-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "singhneelam-git/river-water-quality-analysis",
+      "url": "https://github.com/singhneelam-git/river-water-quality-analysis",
+      "snippet": "Stars:1 | End-to-end environmental water quality analysis using Python, SQL, statistics, and machine learning."
+    },
+    {
+      "date": "2026-07-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "MorsalNory/Athabasca_water_quality_capstone",
+      "url": "https://github.com/MorsalNory/Athabasca_water_quality_capstone",
+      "snippet": "Stars:0 | This focuses on my contributions to our group data science capstone project on analyzing water quality patterns using statistical and machine learning techniques."
     }
   ]
 }

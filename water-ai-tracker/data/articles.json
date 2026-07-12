@@ -4499,6 +4499,66 @@
       "title": "MorsalNory/Athabasca_water_quality_capstone",
       "url": "https://github.com/MorsalNory/Athabasca_water_quality_capstone",
       "snippet": "Stars:0 | This focuses on my contributions to our group data science capstone project on analyzing water quality patterns using statistical and machine learning techniques."
+    },
+    {
+      "date": "2026-07-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "tshabangubrunette-creator/water-quality-prediction",
+      "url": "https://github.com/tshabangubrunette-creator/water-quality-prediction",
+      "snippet": "Stars:0 | Machine Learning project for predicting water quality using environmental parameters"
+    },
+    {
+      "date": "2026-07-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "BajpaiS01/WaterQualityPrediction",
+      "url": "https://github.com/BajpaiS01/WaterQualityPrediction",
+      "snippet": "Stars:0 | Water Quality Prediction  (RMS) - This project aims to predict multiple water quality parameters using machine learning techniques, specifically MultiOutputRegressor wrapped around a RandomForestRegressor. It was developed as part of a one-month AICTE Virtual internship sponsored by Shell in June 2025."
+    },
+    {
+      "date": "2026-07-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Manishkumar1163/AI-Powered-Disease-Outbreak-Prediction-System",
+      "url": "https://github.com/Manishkumar1163/AI-Powered-Disease-Outbreak-Prediction-System",
+      "snippet": "Stars:0 | AI-powered public health intelligence system that predicts disease outbreaks using machine learning, environmental and water quality data, GIS visualization, and Generative AI."
+    },
+    {
+      "date": "2026-07-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "abhi5176/EcoSpire-environmental-intelligence-main",
+      "url": "https://github.com/abhi5176/EcoSpire-environmental-intelligence-main",
+      "snippet": "Stars:0 | EcoSpire is an AI-powered Environmental Intelligence Platform that uses Machine Learning, Computer Vision, and Image Processing to analyze water quality, monitor environmental conditions, and provide real-time insights through an interactive web dashboard."
+    },
+    {
+      "date": "2026-07-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "TyMill/AI-Aquatica",
+      "url": "https://github.com/TyMill/AI-Aquatica",
+      "snippet": "Stars:5 | AI-Aquatica is an open-source Python library for intelligent water quality analysis. It offers tools for data cleaning, imputation, ion balance verification, statistical analysis, ML modeling, visualization, and automatic reporting."
+    },
+    {
+      "date": "2026-07-12",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "HenryCROSS/FluidLoom",
+      "url": "https://github.com/HenryCROSS/FluidLoom",
+      "snippet": "Stars:0 | Procedurally generates animated Minecraft fluid textures — molten metal, water, potions — from a noise pipeline. AI-generated (Claude Code)."
     }
   ]
 }

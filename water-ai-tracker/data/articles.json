@@ -4559,6 +4559,66 @@
       "title": "HenryCROSS/FluidLoom",
       "url": "https://github.com/HenryCROSS/FluidLoom",
       "snippet": "Stars:0 | Procedurally generates animated Minecraft fluid textures — molten metal, water, potions — from a noise pipeline. AI-generated (Claude Code)."
+    },
+    {
+      "date": "2026-07-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Nanditha3105/GroundWater-Quality-Prediction",
+      "url": "https://github.com/Nanditha3105/GroundWater-Quality-Prediction",
+      "snippet": "Stars:0 | GPU Accelerated Machine Learning model for groundwater quality prediction using physicochemical parameters."
+    },
+    {
+      "date": "2026-07-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "yrmfernandez/AquaRisk",
+      "url": "https://github.com/yrmfernandez/AquaRisk",
+      "snippet": "Stars:0 | An AI-powered web application for groundwater quality assessment using machine learning for irrigation suitability, drinking water safety, and anomaly detection."
+    },
+    {
+      "date": "2026-07-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "24jr1a0573-hue/Water-Quality-prediction",
+      "url": "https://github.com/24jr1a0573-hue/Water-Quality-prediction",
+      "snippet": "Stars:0 | Machine Learning project to predict village water quality based on water parameters such as pH, TDS, turbidity, and other factors."
+    },
+    {
+      "date": "2026-07-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "24jr1a0573-hue/Village-Water-Quality-Prediction",
+      "url": "https://github.com/24jr1a0573-hue/Village-Water-Quality-Prediction",
+      "snippet": "Stars:0 | Machine Learning project to predict village water quality based on water parameters such as pH, TDS, turbidity, and other factors."
+    },
+    {
+      "date": "2026-07-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "satwikareddy2905-tech/Water-Quality-Prediction",
+      "url": "https://github.com/satwikareddy2905-tech/Water-Quality-Prediction",
+      "snippet": "Stars:0 | Machine Learning project for predicting water quality"
+    },
+    {
+      "date": "2026-07-13",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "beese54/aquaflow-scroll-world",
+      "url": "https://github.com/beese54/aquaflow-scroll-world",
+      "snippet": "Stars:0 | An immersive scroll-scrubbed landing page for a water treatment plant — one continuous AI-generated camera flight from reservoir to city. Built with Claude Code, the scroll-world agent skill by oso95, and Higgsfield (Nano Banana Pro + Seedance 2.0)."
     }
   ]
 }

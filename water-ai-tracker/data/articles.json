@@ -4619,6 +4619,46 @@
       "title": "beese54/aquaflow-scroll-world",
       "url": "https://github.com/beese54/aquaflow-scroll-world",
       "snippet": "Stars:0 | An immersive scroll-scrubbed landing page for a water treatment plant — one continuous AI-generated camera flight from reservoir to city. Built with Claude Code, the scroll-world agent skill by oso95, and Higgsfield (Nano Banana Pro + Seedance 2.0)."
+    },
+    {
+      "date": "2026-07-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Jiyaapatil35/Smart_Water_Quality_Monitoring",
+      "url": "https://github.com/Jiyaapatil35/Smart_Water_Quality_Monitoring",
+      "snippet": "Stars:0 | Water contamination is one of the most significant environmental and public health challenges worldwide. This project presents an IoT-enabled Smart Water Quality Monitoring System that combines real-time sensing and Machine Learning techniques to classify water usability and predict potential waterborne disease risks."
+    },
+    {
+      "date": "2026-07-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "dipli2006/_AI_Nutrition_Recovery_Method_Recommendation__",
+      "url": "https://github.com/dipli2006/_AI_Nutrition_Recovery_Method_Recommendation__",
+      "snippet": "Stars:0 | The project “AI Nutrient Recovery System” focuses on developing a machine learning-based solution to analyze water quality and recommend suitable nutrient recovery methods. Nutrient pollution in wastewater, especially nitrogen and phosphorus, is a major environmental concern affecting water bodies and agricultural sustainability."
+    },
+    {
+      "date": "2026-07-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Rashedbaig3/Water-Quality-Analysis",
+      "url": "https://github.com/Rashedbaig3/Water-Quality-Analysis",
+      "snippet": "Stars:0 | Machine Learning project to predict water potability using Python."
+    },
+    {
+      "date": "2026-07-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Sumit77884/Research-Paper",
+      "url": "https://github.com/Sumit77884/Research-Paper",
+      "snippet": "Stars:0 | An intelligent, IoT-driven Smart Water Treatment System that utilizes machine learning to transition facility operations from reactive to proactive maintenance. By continuously monitoring critical water quality parameters in real-time and deploying a multi-modal data fusion pipeline (incorporating LSTM, XGBoost, and Autoencoders)"
     }
   ]
 }

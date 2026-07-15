@@ -4659,6 +4659,36 @@
       "title": "Sumit77884/Research-Paper",
       "url": "https://github.com/Sumit77884/Research-Paper",
       "snippet": "Stars:0 | An intelligent, IoT-driven Smart Water Treatment System that utilizes machine learning to transition facility operations from reactive to proactive maintenance. By continuously monitoring critical water quality parameters in real-time and deploying a multi-modal data fusion pipeline (incorporating LSTM, XGBoost, and Autoencoders)"
+    },
+    {
+      "date": "2026-07-15",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "A systematic review of water treatment with Moringa oleifera seeds: Comparative analysis of jar testing methodologies and results",
+      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000425",
+      "snippet": "This systematic review aims to assess the reliability of contemporary research on water treatment with Moringa oleifera seeds. Academic databases were browsed on a yearly basis (2014 – 2024); identification and screening were conducted between July 17th 2023 …"
+    },
+    {
+      "date": "2026-07-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "THOUHIDSHAIK-1920/water-quality-dashboard",
+      "url": "https://github.com/THOUHIDSHAIK-1920/water-quality-dashboard",
+      "snippet": "Stars:0 | Machine Learning-Based Water Quality Monitoring and Contamination Prediction"
+    },
+    {
+      "date": "2026-07-15",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "camilleporco/thewaterheatercompany-design-system",
+      "url": "https://github.com/camilleporco/thewaterheatercompany-design-system",
+      "snippet": "Stars:0 | Design system reference for The Water Heater Company — tokens, primitives, and brand spec. Feed this to Claude/Cursor/v0 to keep AI-generated designs on-brand."
     }
   ]
 }

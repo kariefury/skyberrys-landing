@@ -4689,6 +4689,46 @@
       "title": "camilleporco/thewaterheatercompany-design-system",
       "url": "https://github.com/camilleporco/thewaterheatercompany-design-system",
       "snippet": "Stars:0 | Design system reference for The Water Heater Company — tokens, primitives, and brand spec. Feed this to Claude/Cursor/v0 to keep AI-generated designs on-brand."
+    },
+    {
+      "date": "2026-07-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "MahirShahrier-99/Explainable-ML-River-Water-Quality-Index",
+      "url": "https://github.com/MahirShahrier-99/Explainable-ML-River-Water-Quality-Index",
+      "snippet": "Stars:0 | Explainable machine learning for Water Quality Index modeling, pollution source identification, and forecasting (2024 to 2035) of the Turag River, Bangladesh, using DoE monitoring data from 2011 to 2023."
+    },
+    {
+      "date": "2026-07-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Valvln/Project-Water-Safety-AI",
+      "url": "https://github.com/Valvln/Project-Water-Safety-AI",
+      "snippet": "Stars:0 | Safety-first machine learning pipeline for water potability classification — risk-aware model selection, calibration, and feature selection with scikit-learn, SVC, and XGBoost to support environmental water-quality monitoring."
+    },
+    {
+      "date": "2026-07-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shravanzoad/water-quality-classification",
+      "url": "https://github.com/shravanzoad/water-quality-classification",
+      "snippet": "Stars:0 | Machine learning project for water quality classification using multiple classification algorithms."
+    },
+    {
+      "date": "2026-07-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "norman2112/bhyve-mcp",
+      "url": "https://github.com/norman2112/bhyve-mcp",
+      "snippet": "Stars:0 | MCP server for Orbit B-Hyve smart irrigation — control zones, schedules, and watering from Claude or any MCP client"
     }
   ]
 }

@@ -4729,6 +4729,66 @@
       "title": "norman2112/bhyve-mcp",
       "url": "https://github.com/norman2112/bhyve-mcp",
       "snippet": "Stars:0 | MCP server for Orbit B-Hyve smart irrigation — control zones, schedules, and watering from Claude or any MCP client"
+    },
+    {
+      "date": "2026-07-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "julianias14/chlorine-vision",
+      "url": "https://github.com/julianias14/chlorine-vision",
+      "snippet": "Stars:0 | AI-powered spectrophotometric analysis for water quality monitoring using computer vision and machine learning."
+    },
+    {
+      "date": "2026-07-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "gadeshrutiii/EcoVision-AI",
+      "url": "https://github.com/gadeshrutiii/EcoVision-AI",
+      "snippet": "Stars:0 | EcoVision AI is an AI-powered environmental monitoring platform developed under the Clean & Green Technology theme. It enables users to report environmental issues by uploading images of problems such as plastic waste, water pollution, and illegal dumping. The platform analyzes the uploaded image, provides an environmental assessment with severity."
+    },
+    {
+      "date": "2026-07-17",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "tomwl/DrascheWatering",
+      "url": "https://github.com/tomwl/DrascheWatering",
+      "snippet": "Stars:0 | IoT watering system based on work of Theo Billek and Claude"
+    },
+    {
+      "date": "2026-07-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Fino-wind/tether-mcp",
+      "url": "https://github.com/Fino-wind/tether-mcp",
+      "snippet": "Stars:0 | Official local MCP server for Tether — AI Health Sync. Your AI agent reads your end-to-end-encrypted Apple Health data (sleep, cycle, weight, water) — decrypted only on your machine."
+    },
+    {
+      "date": "2026-07-17",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "matthewdicataldo/produced-water-map",
+      "url": "https://github.com/matthewdicataldo/produced-water-map",
+      "snippet": "Stars:0 | Interactive map of 113k+ USGS produced-water samples with a built-in Claude data analyst — ask in English, it writes the SQL"
+    },
+    {
+      "date": "2026-07-17",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "tomwl/GRG_Hydration",
+      "url": "https://github.com/tomwl/GRG_Hydration",
+      "snippet": "Stars:0 | IoT watering system, based on code written by Theodor Billek and Claude"
     }
   ]
 }

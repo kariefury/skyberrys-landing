@@ -4789,6 +4789,66 @@
       "title": "tomwl/GRG_Hydration",
       "url": "https://github.com/tomwl/GRG_Hydration",
       "snippet": "Stars:0 | IoT watering system, based on code written by Theodor Billek and Claude"
+    },
+    {
+      "date": "2026-07-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "GowthamRavuri01/smart-rainwater-harvesting-energy-estimation-system",
+      "url": "https://github.com/GowthamRavuri01/smart-rainwater-harvesting-energy-estimation-system",
+      "snippet": "Stars:0 | AI-powered smart rainwater harvesting system that predicts water quality, harvestable rainwater, and rain energy generation using Machine Learning models with an interactive PyQt desktop application."
+    },
+    {
+      "date": "2026-07-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "poojadash2003/OceanGuard-Lite",
+      "url": "https://github.com/poojadash2003/OceanGuard-Lite",
+      "snippet": "Stars:0 | OceanGuard Lite - Machine Learning based Ocean Water Quality Prediction using Flask and Scikit-learn."
+    },
+    {
+      "date": "2026-07-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "gkumar2313-png/Monitoring-Analysis-of-water-Quality",
+      "url": "https://github.com/gkumar2313-png/Monitoring-Analysis-of-water-Quality",
+      "snippet": "Stars:0 | Designed and implemented an end-to-end Water Quality Index (WQI) prediction project using Python and Machine Learning. Processed and analyzed water quality data through data cleaning, preprocessing, EDA, and predictive modeling to identify key factors influencing water quality."
+    },
+    {
+      "date": "2026-07-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "harshitbehal2611-web/Water-quality-index-",
+      "url": "https://github.com/harshitbehal2611-web/Water-quality-index-",
+      "snippet": "Stars:0 | Developed a machine learning-based solution to analyze water quality parameters and predict the Water Quality Index (WQI). Performed extensive data cleaning, preprocessing, and exploratory data analysis to improve data quality and model performance."
+    },
+    {
+      "date": "2026-07-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "K-24-dec/Earthsense-AI",
+      "url": "https://github.com/K-24-dec/Earthsense-AI",
+      "snippet": "Stars:0 | Earthsense AI is an AI-powered web application under the Clean & Green Technology theme. It helps users make eco-friendly decisions by providing an AI chat and voice assistant, along with features for waste management, renewable energy, water conservation, environmental monitoring, and energy management."
+    },
+    {
+      "date": "2026-07-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Fino-wind/vaultbeat-mcp",
+      "url": "https://github.com/Fino-wind/vaultbeat-mcp",
+      "snippet": "Stars:0 | Official local MCP server for Tether — AI Health Sync. Your AI agent reads your end-to-end-encrypted Apple Health data (sleep, cycle, weight, water) — decrypted only on your machine."
     }
   ]
 }

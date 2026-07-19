@@ -4849,6 +4849,36 @@
       "title": "Fino-wind/vaultbeat-mcp",
       "url": "https://github.com/Fino-wind/vaultbeat-mcp",
       "snippet": "Stars:0 | Official local MCP server for Tether — AI Health Sync. Your AI agent reads your end-to-end-encrypted Apple Health data (sleep, cycle, weight, water) — decrypted only on your machine."
+    },
+    {
+      "date": "2026-07-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "parthshelar-dev/PureFlowAi",
+      "url": "https://github.com/parthshelar-dev/PureFlowAi",
+      "snippet": "Stars:0 | Agentic AI platform for SDG 6 (Clean Water & Sanitation) — 3 specialized AI agents + a cross-domain orchestrator for leak detection, water quality monitoring, and predictive maintenance. Built in n8n."
+    },
+    {
+      "date": "2026-07-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "atchaya2-atchu/Water-Surface-Cleaning-Boat-with-Water-Quality",
+      "url": "https://github.com/atchaya2-atchu/Water-Surface-Cleaning-Boat-with-Water-Quality",
+      "snippet": "Stars:0 | An AI-powered smart water surface cleaning boat that uses object detection to identify and collect floating waste while monitoring water quality parameters for efficient pollution control and environmental conservation."
+    },
+    {
+      "date": "2026-07-19",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Tym17/GardenMonitoring",
+      "url": "https://github.com/Tym17/GardenMonitoring",
+      "snippet": "Stars:0 | Watering & fertilization tracker for pepper plants intended for local networks. Generated using Claude Fable as a test"
     }
   ]
 }

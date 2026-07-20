@@ -4879,6 +4879,76 @@
       "title": "Tym17/GardenMonitoring",
       "url": "https://github.com/Tym17/GardenMonitoring",
       "snippet": "Stars:0 | Watering & fertilization tracker for pepper plants intended for local networks. Generated using Claude Fable as a test"
+    },
+    {
+      "date": "2026-07-20",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "semantic_scholar",
+      "title": "Integrating Large Language Models and Random Forest for Water-Ice-Snow Classification in Cold and Arid Region Lakes to Support Sustainable Water Management",
+      "url": "https://www.semanticscholar.org/paper/50074c7e02a74e4f5d0a6ae3e19a81c911197e4c",
+      "snippet": "Frequent seasonal phase transitions in cold and arid lakes require different remote sensing indices for frozen and open-water periods, complicating the use of traditional empirical indices for automated monitoring. To address this challenge, this study proposes an intelligent indexing framework integrating the heuristic reasoning of Large Language Models (LLMs) with Random Forest (RF) feature sele"
+    },
+    {
+      "date": "2026-07-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "eshwargowda003-glitch/Water-Pollution-Prediction-System",
+      "url": "https://github.com/eshwargowda003-glitch/Water-Pollution-Prediction-System",
+      "snippet": "Stars:0 | AI-powered Water Quality Prediction System using Machine Learning to classify water quality, detect pollution sources, and recommend treatment methods through an interactive Flask web application."
+    },
+    {
+      "date": "2026-07-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "yashaar04-cpu/NeptuneIQ-AI-Water-Quality-Prediction-System",
+      "url": "https://github.com/yashaar04-cpu/NeptuneIQ-AI-Water-Quality-Prediction-System",
+      "snippet": "Stars:0 | This repository contains the machine learning component of an AI-based water quality analysis system. The web interface is currently under development."
+    },
+    {
+      "date": "2026-07-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "vrushabh-09/EndToEnd_Machine_Learning_System_Using_FastAPI-Water-Potability-Prediction",
+      "url": "https://github.com/vrushabh-09/EndToEnd_Machine_Learning_System_Using_FastAPI-Water-Potability-Prediction",
+      "snippet": "Stars:0 | End-to-end ML system that predicts water potability from 9 water-quality measurements — EDA, trained scikit-learn pipeline, FastAPI service with validation & error handling, pytest suite, web UI, Docker, and CI/CD."
+    },
+    {
+      "date": "2026-07-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Nadeem014-r/water-quality-prediction",
+      "url": "https://github.com/Nadeem014-r/water-quality-prediction",
+      "snippet": "Stars:0 | Machine Learning project to predict whether water is safe for drinking."
+    },
+    {
+      "date": "2026-07-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Dhanush-CC/River_temperature",
+      "url": "https://github.com/Dhanush-CC/River_temperature",
+      "snippet": "Stars:0 | River temperature is an important environmental parameter that influences aquatic ecosystems, water quality, and biodiversity. This project leverages historical weather and climate data to forecast future river temperatures using advanced machine learning techniques."
+    },
+    {
+      "date": "2026-07-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "K-24-dec/Ecosense-AI",
+      "url": "https://github.com/K-24-dec/Ecosense-AI",
+      "snippet": "Stars:0 | Ecosense AI is an AI-powered web application under the Clean & Green Technology theme. It helps users make eco-friendly decisions by providing an AI chat and voice assistant, along with features for waste management, renewable energy, water conservation, environmental monitoring, and energy management."
     }
   ]
 }

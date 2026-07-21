@@ -4949,6 +4949,66 @@
       "title": "K-24-dec/Ecosense-AI",
       "url": "https://github.com/K-24-dec/Ecosense-AI",
       "snippet": "Stars:0 | Ecosense AI is an AI-powered web application under the Clean & Green Technology theme. It helps users make eco-friendly decisions by providing an AI chat and voice assistant, along with features for waste management, renewable energy, water conservation, environmental monitoring, and energy management."
+    },
+    {
+      "date": "2026-07-21",
+      "company": "openai",
+      "model_family": null,
+      "model_variant": null,
+      "source": "gdelt",
+      "title": "Canadian billionaire Kevin OLeary on AI data center causing water scarcity ; says : Those days are gone , now it is like ... ",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/canadian-billionaire-kevin-oleary-on-ai-data-center-causing-water-scarcity-says-those-days-are-gone-now-it-is-like-/articleshow/132526881.cms",
+      "snippet": "20260721T034500Z"
+    },
+    {
+      "date": "2026-07-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "gadeshrutiii/EcoVision-AI-Final",
+      "url": "https://github.com/gadeshrutiii/EcoVision-AI-Final",
+      "snippet": "Stars:0 | EcoVision AI is an AI-powered environmental monitoring platform developed under the Clean & Green Technology theme. It enables users to report environmental issues by uploading images of problems such as plastic waste, water pollution, and illegal dumping. The platform analyzes the uploaded image, provides an environmental assessment with severity."
+    },
+    {
+      "date": "2026-07-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "gadeshrutiii/EcoVision-AI-2-",
+      "url": "https://github.com/gadeshrutiii/EcoVision-AI-2-",
+      "snippet": "Stars:0 | EcoVision AI is an AI-powered environmental monitoring platform developed under the Clean & Green Technology theme. It enables users to report environmental issues by uploading images of problems such as plastic waste, water pollution, and illegal dumping. The platform analyzes the uploaded image, provides an environmental assessment with severity."
+    },
+    {
+      "date": "2026-07-21",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "SeanHollen/watercooler",
+      "url": "https://github.com/SeanHollen/watercooler",
+      "snippet": "Stars:0 | A shared room where your Claude Code agents hang out and talk — a General-topic broadcast bus for ccgram."
+    },
+    {
+      "date": "2026-07-21",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "evanwang810/thirsty-tokens",
+      "url": "https://github.com/evanwang810/thirsty-tokens",
+      "snippet": "Stars:0 | Estimate the data-center water your Claude Code habit has consumed. CLI, live desktop widget, MCP server, and web calculator."
+    },
+    {
+      "date": "2026-07-21",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Ayushmore1214/thirsty",
+      "url": "https://github.com/Ayushmore1214/thirsty",
+      "snippet": "Stars:6 | 💧 A terminal tool that shows how much water your Claude Code sessions drink, based on token usage."
     }
   ]
 }

@@ -5009,6 +5009,36 @@
       "title": "Ayushmore1214/thirsty",
       "url": "https://github.com/Ayushmore1214/thirsty",
       "snippet": "Stars:6 | 💧 A terminal tool that shows how much water your Claude Code sessions drink, based on token usage."
+    },
+    {
+      "date": "2026-07-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ashishsingh231/water-quality-monitoring-ml",
+      "url": "https://github.com/ashishsingh231/water-quality-monitoring-ml",
+      "snippet": "Stars:0 | IoT and Machine Learning based water quality monitoring system using Arduino, sensors, Python, and Flask."
+    },
+    {
+      "date": "2026-07-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Nyx-Blockchain/nyx-fund-mcp",
+      "url": "https://github.com/Nyx-Blockchain/nyx-fund-mcp",
+      "snippet": "Stars:0 | MCP server for hedge fund operations — fee calculators (high-water mark), NAV validation, exposure analysis, fund-ops docs search. Free, no API key. From Nyx Fund (nyxchain.org)."
+    },
+    {
+      "date": "2026-07-22",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "reganomika/HighWater",
+      "url": "https://github.com/reganomika/HighWater",
+      "snippet": "Stars:1 | Context-boundary hygiene for Claude Code: a hook that watches context size and forces a task-boundary checkpoint before the window quietly burns your budget."
     }
   ]
 }

@@ -5039,6 +5039,56 @@
       "title": "reganomika/HighWater",
       "url": "https://github.com/reganomika/HighWater",
       "snippet": "Stars:1 | Context-boundary hygiene for Claude Code: a hook that watches context size and forces a task-boundary checkpoint before the window quietly burns your budget."
+    },
+    {
+      "date": "2026-07-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Rahil-live/AidLoop",
+      "url": "https://github.com/Rahil-live/AidLoop",
+      "snippet": "Stars:0 | A student-led protest is currently ongoing in India. Participants are staying on-site for extended stretches and need a steady supply of food, water, and other daily essentials. Members of the public want to help, but have no easy way to know what's actually needed right now, or whether their help actually reached someone."
+    },
+    {
+      "date": "2026-07-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "daivdeepsolge7475/Water-Quality-Prediction",
+      "url": "https://github.com/daivdeepsolge7475/Water-Quality-Prediction",
+      "snippet": "Stars:0 | Machine Learning project to predict water potability using Random Forest and Streamlit."
+    },
+    {
+      "date": "2026-07-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Gaurvi-D/Water-Treatment-Analysis",
+      "url": "https://github.com/Gaurvi-D/Water-Treatment-Analysis",
+      "snippet": "Stars:0 | Machine Learning and Explainable AI for Water Treatment and Water Quality Analysis"
+    },
+    {
+      "date": "2026-07-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "altaseb12/-Water-Quality-Prediction-Model-Using-ML-and-DL-Algorithm",
+      "url": "https://github.com/altaseb12/-Water-Quality-Prediction-Model-Using-ML-and-DL-Algorithm",
+      "snippet": "Stars:0 | water quality using machine learning and deep learning techniques and to evaluate alternative predictive models for efficient water quality assessment."
+    },
+    {
+      "date": "2026-07-23",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "the-bipu/prompt-footprint",
+      "url": "https://github.com/the-bipu/prompt-footprint",
+      "snippet": "Stars:0 | Live water-footprint estimates for your AI chats (ChatGPT, Claude, Gemini, Perplexity, Grok). 100% local & private. Analytics and sustainability insights coming in V2/V3."
     }
   ]
 }

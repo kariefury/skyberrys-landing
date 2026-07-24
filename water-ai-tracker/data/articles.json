@@ -5089,6 +5089,46 @@
       "title": "the-bipu/prompt-footprint",
       "url": "https://github.com/the-bipu/prompt-footprint",
       "snippet": "Stars:0 | Live water-footprint estimates for your AI chats (ChatGPT, Claude, Gemini, Perplexity, Grok). 100% local & private. Analytics and sustainability insights coming in V2/V3."
+    },
+    {
+      "date": "2026-07-24",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "AI and Hyperscale Data Centers Drive Water Treatment Demand",
+      "url": "https://www.globenewswire.com/news-release/2026/07/22/3331117/28124/en/AI-and-Hyperscale-Data-Centers-Drive-Water-Treatment-Demand.html",
+      "snippet": "The global data center water & wastewater treatment equipment market is forecast to grow from USD 3.30 billion in 2026 to USD 5.90 billion by 2031, at a 12.3% CAGR. Growth is driven by hyperscale and AI data centers, liquid cooling, water scarcity, sustainabi…"
+    },
+    {
+      "date": "2026-07-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Sangramjeet18/JJM-REPORTS",
+      "url": "https://github.com/Sangramjeet18/JJM-REPORTS",
+      "snippet": "Stars:0 | 🚰 A data-driven analysis of the Jal Jeevan Mission (JJM) in West Bengal using official government datasets, Python, and Machine Learning to evaluate coverage, water quality, and district-wise performance."
+    },
+    {
+      "date": "2026-07-24",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ShaunPrice/robot-builder-skill",
+      "url": "https://github.com/ShaunPrice/robot-builder-skill",
+      "snippet": "Stars:0 | Claude skill: end-to-end robot-building mentor — parts to ROS to control, sim/RL gyms, and AI, for ground/water/air robots"
+    },
+    {
+      "date": "2026-07-24",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "yash1195/ai-meter",
+      "url": "https://github.com/yash1195/ai-meter",
+      "snippet": "Stars:0 | Local macOS menu-bar dashboard for Codex and Claude Code usage, energy, and water estimates."
     }
   ]
 }

@@ -5129,6 +5129,46 @@
       "title": "yash1195/ai-meter",
       "url": "https://github.com/yash1195/ai-meter",
       "snippet": "Stars:0 | Local macOS menu-bar dashboard for Codex and Claude Code usage, energy, and water estimates."
+    },
+    {
+      "date": "2026-07-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "JuanSebGarA/ML_ChinchinaRiver",
+      "url": "https://github.com/JuanSebGarA/ML_ChinchinaRiver",
+      "snippet": "Stars:0 | Machine Learning models for Water Quality Assessment in the Chinchiná River."
+    },
+    {
+      "date": "2026-07-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "yugigk007-dev/Water-Potability-Prediction",
+      "url": "https://github.com/yugigk007-dev/Water-Potability-Prediction",
+      "snippet": "Stars:0 | Machine Learning based Water Potability Prediction System for Intelligent Water Quality Assessments."
+    },
+    {
+      "date": "2026-07-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "maheshkarthik-45/AI_Based_Water_Quality_Recommendation",
+      "url": "https://github.com/maheshkarthik-45/AI_Based_Water_Quality_Recommendation",
+      "snippet": "Stars:0 | An AI-powered web application that predicts water quality using Machine Learning and Deep Learning models. Built with Python, Flask, TensorFlow, Scikit-learn, HTML, CSS, and JavaScript for real-time water quality analysis."
+    },
+    {
+      "date": "2026-07-25",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "mikesjavacode/project-aqua",
+      "url": "https://github.com/mikesjavacode/project-aqua",
+      "snippet": "Stars:0 | Real-time industrial water treatment simulation — 3D globe, chemistry-grounded process modelling, and a Claude process engineer"
     }
   ]
 }

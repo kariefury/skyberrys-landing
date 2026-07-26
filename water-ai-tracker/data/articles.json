@@ -5169,6 +5169,76 @@
       "title": "mikesjavacode/project-aqua",
       "url": "https://github.com/mikesjavacode/project-aqua",
       "snippet": "Stars:0 | Real-time industrial water treatment simulation — 3D globe, chemistry-grounded process modelling, and a Claude process engineer"
+    },
+    {
+      "date": "2026-07-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "subasri003/health_monitoring",
+      "url": "https://github.com/subasri003/health_monitoring",
+      "snippet": "Stars:0 | This project is a smart health monitoring system that collects water quality data such as pH, turbidity, and temperature. It analyzes the data to detect the risk of water-borne diseases using machine learning."
+    },
+    {
+      "date": "2026-07-26",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "suresh-prithivi/Steganographic-Water-marker",
+      "url": "https://github.com/suresh-prithivi/Steganographic-Water-marker",
+      "snippet": "Stars:0 | AudioSeal is an audio steganography and protection suite designed to embed and extract hidden signatures, ownership keys, and metadata inside sound files. Features include a clean visual UI, multi-format exporter (FLAC, WAV, OGG), Gemini voice transcription, AI assistant, AI cover art generator, and a Firestore database for credentials & logs. "
+    },
+    {
+      "date": "2026-07-26",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "zouhairy03/plant-ios",
+      "url": "https://github.com/zouhairy03/plant-ios",
+      "snippet": "Stars:0 | 🌱 AI plant care for iOS — identify plants & seeds, verify watering, and diagnose problems with Claude vision. SwiftUI + SwiftData, weather-aware, offline-first."
+    },
+    {
+      "date": "2026-07-26",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "adamtasteslikegood/10110TasteslikegoodPlaza",
+      "url": "https://github.com/adamtasteslikegood/10110TasteslikegoodPlaza",
+      "snippet": "Stars:1 | The Virtual Office 1st Person Experience where Claude Code meets Claude's Clothes. **Now with realistic water-cooler banter! (with last nights must-see-tv aware spoiler-alerts -- adjust in settings.json) "
+    },
+    {
+      "date": "2026-07-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ruwaydasalahw-coder/RAG-project_gov",
+      "url": "https://github.com/ruwaydasalahw-coder/RAG-project_gov",
+      "snippet": "Stars:0 | A scalable Cross-Lingual RAG framework for knowledge transfer between nations. Built with a modular pipeline, Hybrid Search (BM25 + Dense Retrieval), ChromaDB, and LLMs to support multiple domains such as Digital Government, Water Management, Education, and beyond."
+    },
+    {
+      "date": "2026-07-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ruwaydasalahw-coder/Knowledge-Transfer-Between-Nations-Cross-Lingual-RAG-Engine",
+      "url": "https://github.com/ruwaydasalahw-coder/Knowledge-Transfer-Between-Nations-Cross-Lingual-RAG-Engine",
+      "snippet": "Stars:0 | A scalable Cross-Lingual RAG framework for knowledge transfer between nations. Built with a modular pipeline, Hybrid Search (BM25 + Dense Retrieval), ChromaDB, and LLMs to support multiple domains such as Digital Government, Water Management, Education, and beyond."
+    },
+    {
+      "date": "2026-07-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ruwaydasalahw-coder/RAG-project",
+      "url": "https://github.com/ruwaydasalahw-coder/RAG-project",
+      "snippet": "Stars:0 | A scalable Cross-Lingual RAG framework for knowledge transfer between nations. Built with a modular pipeline, Hybrid Search (BM25 + Dense Retrieval), ChromaDB, and LLMs to support multiple domains such as Digital Government, Water Management, Education, and beyond."
     }
   ]
 }

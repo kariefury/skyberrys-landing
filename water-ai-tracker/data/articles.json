@@ -5239,6 +5239,76 @@
       "title": "ruwaydasalahw-coder/RAG-project",
       "url": "https://github.com/ruwaydasalahw-coder/RAG-project",
       "snippet": "Stars:0 | A scalable Cross-Lingual RAG framework for knowledge transfer between nations. Built with a modular pipeline, Hybrid Search (BM25 + Dense Retrieval), ChromaDB, and LLMs to support multiple domains such as Digital Government, Water Management, Education, and beyond."
+    },
+    {
+      "date": "2026-07-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Raynarr2112/Hidroponik-water-quality",
+      "url": "https://github.com/Raynarr2112/Hidroponik-water-quality",
+      "snippet": "Stars:0 | Aplikasi analisis kualitas air hidroponik menggunakan kombinasi Logika Fuzzy dan Machine Learning (Random Forest & MLP). Dibangun dengan Python dan Streamlit. "
+    },
+    {
+      "date": "2026-07-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "21VarunK/Air-and-Water-Quality-Index",
+      "url": "https://github.com/21VarunK/Air-and-Water-Quality-Index",
+      "snippet": "Stars:1 | **Air Quality Prediction using Machine Learning** predicts the Air Quality Index (AQI) using pollutant and weather data. The system preprocesses data, trains ML models, and forecasts air quality levels. It supports environmental monitoring, helps identify pollution trends, and enables timely decisions to reduce health risks."
+    },
+    {
+      "date": "2026-07-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Bhavani-0275/AquaIntel",
+      "url": "https://github.com/Bhavani-0275/AquaIntel",
+      "snippet": "Stars:0 | Water Quality Prediction using Machine Learning"
+    },
+    {
+      "date": "2026-07-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "climatechange-ai-tutorials/coastal-water-quality",
+      "url": "https://github.com/climatechange-ai-tutorials/coastal-water-quality",
+      "snippet": "Stars:0 | Monitoring Coastal Water Quality and Marine Ecosystem Change Using Satellite Remote Sensing and Machine Learning"
+    },
+    {
+      "date": "2026-07-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Sinovuyo209/water-quality-prediction-system",
+      "url": "https://github.com/Sinovuyo209/water-quality-prediction-system",
+      "snippet": "Stars:0 | An advanced machine learning web application for classifying and monitoring water quality metrics in South African river systems."
+    },
+    {
+      "date": "2026-07-27",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": null,
+      "source": "github",
+      "title": "ameerTurab/ameerturab",
+      "url": "https://github.com/ameerTurab/ameerturab",
+      "snippet": "Stars:0 | Hi  I'm Ameer Turab  MSc Water Engineering  Research Assistant at UFZ  Student Assistant at LHW Sachsen-Anhalt  Interested in  Hydrology Machine Learning Environmental Data Science GIS Water Quality Remote Sensing Skills  Python  QGIS  ArcGIS  Pandas  NumPy  Scikit-learn  GeoPandas  MATLAB  HEC-RAS  BASEMENT  Google Earth Engine"
+    },
+    {
+      "date": "2026-07-27",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "mbchavez27/aqua-cli",
+      "url": "https://github.com/mbchavez27/aqua-cli",
+      "snippet": "Stars:2 | An illustrative, animated water-footprint visualizer for your AI token usage — reads Claude Code, Gemini CLI, and opencode logs."
     }
   ]
 }

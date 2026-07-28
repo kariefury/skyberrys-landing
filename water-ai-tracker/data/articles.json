@@ -5309,6 +5309,36 @@
       "title": "mbchavez27/aqua-cli",
       "url": "https://github.com/mbchavez27/aqua-cli",
       "snippet": "Stars:2 | An illustrative, animated water-footprint visualizer for your AI token usage — reads Claude Code, Gemini CLI, and opencode logs."
+    },
+    {
+      "date": "2026-07-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Soumyajit017/AquaPure",
+      "url": "https://github.com/Soumyajit017/AquaPure",
+      "snippet": "Stars:0 | 💧 AquaPure - Water Quality Prediction System with Streamlit and Machine Learning"
+    },
+    {
+      "date": "2026-07-28",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "pwysocan-droid/gironde-fire-tracker",
+      "url": "https://github.com/pwysocan-droid/gironde-fire-tracker",
+      "snippet": "Stars:0 | Live wildfire tracker for the 2026 Lège-Cap-Ferret fire — satellite detections, wind, water bombers, AI bulletin. Built autonomously by Claude Code from a one-sentence idea; 21k visitors in 72h."
+    },
+    {
+      "date": "2026-07-28",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "trnprnc/Drippy",
+      "url": "https://github.com/trnprnc/Drippy",
+      "snippet": "Stars:0 | The transparency layer for your AI use. A macOS menu-bar meter for the energy, water, carbon and API-rate value behind your AI work, measured exactly from Claude Code's own token counts."
     }
   ]
 }

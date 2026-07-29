@@ -5339,6 +5339,46 @@
       "title": "trnprnc/Drippy",
       "url": "https://github.com/trnprnc/Drippy",
       "snippet": "Stars:0 | The transparency layer for your AI use. A macOS menu-bar meter for the energy, water, carbon and API-rate value behind your AI work, measured exactly from Claude Code's own token counts."
+    },
+    {
+      "date": "2026-07-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "irfanahza/Hydration-Checker-System-Model",
+      "url": "https://github.com/irfanahza/Hydration-Checker-System-Model",
+      "snippet": "Stars:0 | Machine learning pipeline for personalised water intake prediction and dehydration risk classification using NHANES, weather, and air quality data."
+    },
+    {
+      "date": "2026-07-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "abishek372006-crypto/aquasense",
+      "url": "https://github.com/abishek372006-crypto/aquasense",
+      "snippet": "Stars:0 | AquaSense is an intelligent IoT platform integrating water quality monitoring, leak detection, machine learning, and a real-time React dashboard for sustainable water management."
+    },
+    {
+      "date": "2026-07-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AishmithaBheeman/water-quality-prediction",
+      "url": "https://github.com/AishmithaBheeman/water-quality-prediction",
+      "snippet": "Stars:0 | Machine Learning based Water Quality Prediction application using Python and Streamlit."
+    },
+    {
+      "date": "2026-07-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "gollapellisathwik-hub/WATER-QUALITY-PREDICTION-USING-MACHINE-LEARNING",
+      "url": "https://github.com/gollapellisathwik-hub/WATER-QUALITY-PREDICTION-USING-MACHINE-LEARNING",
+      "snippet": "Stars:0 | Water Quality Prediction Using Machine Learning is a classification-based project that predicts water potability using physicochemical parameters such as pH, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic Carbon, Trihalomethanes, and Turbidity. It implements Decision Tree and KNN algorithms for accurate water quality assessment."
     }
   ]
 }

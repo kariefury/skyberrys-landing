@@ -5379,6 +5379,76 @@
       "title": "gollapellisathwik-hub/WATER-QUALITY-PREDICTION-USING-MACHINE-LEARNING",
       "url": "https://github.com/gollapellisathwik-hub/WATER-QUALITY-PREDICTION-USING-MACHINE-LEARNING",
       "snippet": "Stars:0 | Water Quality Prediction Using Machine Learning is a classification-based project that predicts water potability using physicochemical parameters such as pH, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic Carbon, Trihalomethanes, and Turbidity. It implements Decision Tree and KNN algorithms for accurate water quality assessment."
+    },
+    {
+      "date": "2026-07-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ashish6752/UrbanPulse-SmartCityAnalytics",
+      "url": "https://github.com/ashish6752/UrbanPulse-SmartCityAnalytics",
+      "snippet": "Stars:0 | Smart City Analytics Platform using Machine Learning, Time Series Forecasting, and Geospatial Analytics to predict traffic, air quality, energy, water demand, and population trends."
+    },
+    {
+      "date": "2026-07-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "dungnotnull/fog-water-harvester-design-agent-skill",
+      "url": "https://github.com/dungnotnull/fog-water-harvester-design-agent-skill",
+      "snippet": "Stars:1 | 🌫️ Production-grade multi-agent Claude Skill for fog-water harvester design in arid highlands. Models collection efficiency (CE), Liquid Water Content (LWC), wind velocity aerodynamic shade efficiency, mesh shade coefficients (Raschel/3D spacer), and water yield predictions with 10 quality gates. 💧✨"
+    },
+    {
+      "date": "2026-07-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "dungnotnull/solar-adsorption-cooling-system-agent-skill",
+      "url": "https://github.com/dungnotnull/solar-adsorption-cooling-system-agent-skill",
+      "snippet": "Stars:1 | ☀️ Production-grade multi-agent Claude Skill for solar adsorption cooling & refrigeration engineering. Models COP, SCP, working pairs (silica gel-water, zeolite-water, activated carbon-methanol), Dubinin-Astakhov adsorption kinetics, solar thermal collector sizing, and COP economics with 10 quality gates. ❄️✨"
+    },
+    {
+      "date": "2026-07-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "dungnotnull/portable-emergency-water-filter-agent-skill",
+      "url": "https://github.com/dungnotnull/portable-emergency-water-filter-agent-skill",
+      "snippet": "Stars:1 | 💧 Production-grade multi-agent Claude Skill for portable emergency water treatment engineering. Calculates Log Reduction Values (LRV), designs multi-barrier filtration (hollow-fiber/ceramic/activated carbon), and validates against NSF P231, EPA, and WHO WASH standards with bilingual support (EN/VI) & quality gates. 🚰✨"
+    },
+    {
+      "date": "2026-07-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "dungnotnull/building-rainwater-harvesting-agent-skill",
+      "url": "https://github.com/dungnotnull/building-rainwater-harvesting-agent-skill",
+      "snippet": "Stars:1 | 🌧️ Production-grade multi-agent Claude Skill for building rainwater harvesting & water reuse system design. Calculates catchment runoff, cistern sizing, filtration/UV treatment, and plumbing code compliance (UPC/IPC) based on ARCSA/ASPE and ISO 24516 standards. 💧✨"
+    },
+    {
+      "date": "2026-07-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "dungnotnull/custom-water-cooling-loop-design-agent-skill",
+      "url": "https://github.com/dungnotnull/custom-water-cooling-loop-design-agent-skill",
+      "snippet": "Stars:2 | 🖥️💧 Custom PC Liquid Cooling Loop Design Engine | Production-grade Claude Code skill & Python harness (v1.0.0) for high-performance PC thermal engineering. Features TDP-to-radiator sizing, pump hydraulic head math, galvanic corrosion checks, & crawl4ai RAG loops.."
+    },
+    {
+      "date": "2026-07-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "dungnotnull/water-rescue-drone-design-agent-skill",
+      "url": "https://github.com/dungnotnull/water-rescue-drone-design-agent-skill",
+      "snippet": "Stars:2 | 🚁🌊 Water-Rescue Drone Design & Testing Engine | Production-grade Claude Code skill & Python package (water_rescue_drone v1.2.0) for maritime SAR drones. Features endurance math, wind resistance.."
     }
   ]
 }

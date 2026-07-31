@@ -5449,6 +5449,56 @@
       "title": "dungnotnull/water-rescue-drone-design-agent-skill",
       "url": "https://github.com/dungnotnull/water-rescue-drone-design-agent-skill",
       "snippet": "Stars:2 | 🚁🌊 Water-Rescue Drone Design & Testing Engine | Production-grade Claude Code skill & Python package (water_rescue_drone v1.2.0) for maritime SAR drones. Features endurance math, wind resistance.."
+    },
+    {
+      "date": "2026-07-31",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "gligorrenatastefania-cell/water_quality-ml",
+      "url": "https://github.com/gligorrenatastefania-cell/water_quality-ml",
+      "snippet": "Stars:0 | Machine learning project for water quality prediction"
+    },
+    {
+      "date": "2026-07-31",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "gligorrenatastefania-cell/water-quality-ml",
+      "url": "https://github.com/gligorrenatastefania-cell/water-quality-ml",
+      "snippet": "Stars:0 | Machine learning project for water quality prediction"
+    },
+    {
+      "date": "2026-07-31",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Pranita2798/water-quality-prediction",
+      "url": "https://github.com/Pranita2798/water-quality-prediction",
+      "snippet": "Stars:1 | This project uses machine learning to predict whether water is potable (safe to drink) based on physicochemical properties."
+    },
+    {
+      "date": "2026-07-31",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "rayhenprakkash/Water-Quality-Prediction",
+      "url": "https://github.com/rayhenprakkash/Water-Quality-Prediction",
+      "snippet": "Stars:0 | The Water Quality Prediction System is a machine learning based web application designed to predict the quality of water by analyzing important water parameters. The system helps determine whether water is safe or unsafe for drinking and other purposes, enabling early detection of water pollution and supporting environmental monitoring."
+    },
+    {
+      "date": "2026-07-31",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "danielrosehill/netek-disconnect-plugin",
+      "url": "https://github.com/danielrosehill/netek-disconnect-plugin",
+      "snippet": "Stars:0 | Claude Code plugin: cancel Israeli service subscriptions (ניתוק) via netek.co.il — mobile, internet, landline, TV, water bars, newspapers, credit cards. Unofficial API."
     }
   ]
 }

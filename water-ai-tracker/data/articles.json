@@ -5499,6 +5499,36 @@
       "title": "danielrosehill/netek-disconnect-plugin",
       "url": "https://github.com/danielrosehill/netek-disconnect-plugin",
       "snippet": "Stars:0 | Claude Code plugin: cancel Israeli service subscriptions (ניתוק) via netek.co.il — mobile, internet, landline, TV, water bars, newspapers, credit cards. Unofficial API."
+    },
+    {
+      "date": "2026-08-01",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "adivaparisa/water-quality-ml",
+      "url": "https://github.com/adivaparisa/water-quality-ml",
+      "snippet": "Stars:0 | Predicting pH Levels in Georgia Water Systems Using Machine Learning"
+    },
+    {
+      "date": "2026-08-01",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "hemagowda8073/water-quality-risk-index",
+      "url": "https://github.com/hemagowda8073/water-quality-risk-index",
+      "snippet": "Stars:0 | Machine Learning-based Water Quality Risk Prediction System with WQRI calculation, risk classification, treatment recommendations, and a Streamlit dashboard"
+    },
+    {
+      "date": "2026-08-01",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "yogesh8441/Microplastic-Detector",
+      "url": "https://github.com/yogesh8441/Microplastic-Detector",
+      "snippet": "Stars:0 | MicroDetect is a web-based interactive demo showcasing how optical sensing and AI techniques can be used for detecting and analyzing microplastics in water samples. It combines a clean responsive UI with an upload-and-analyze simulation for educational and research purposes."
     }
   ]
 }

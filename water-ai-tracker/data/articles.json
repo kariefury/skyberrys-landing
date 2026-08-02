@@ -5529,6 +5529,36 @@
       "title": "yogesh8441/Microplastic-Detector",
       "url": "https://github.com/yogesh8441/Microplastic-Detector",
       "snippet": "Stars:0 | MicroDetect is a web-based interactive demo showcasing how optical sensing and AI techniques can be used for detecting and analyzing microplastics in water samples. It combines a clean responsive UI with an upload-and-analyze simulation for educational and research purposes."
+    },
+    {
+      "date": "2026-08-02",
+      "company": "openai",
+      "model_family": "gpt",
+      "model_variant": "gpt-4o",
+      "source": "semantic_scholar",
+      "title": "Toward advanced management of sludge bulking: An explainable evaluation framework to quantify and improve large language model cognitive capabilities.",
+      "url": "https://www.semanticscholar.org/paper/e309c694364f35f0138fe3fb71c7a3f8a97b6ced",
+      "snippet": "Activated sludge bulking is a globally prevalent operational failure in wastewater treatment plants (WWTPs), which demands timely, accurate human intervention, but the scarcity of specialist wastewater expertise poses a considerable challenge. Large language models (LLMs) potentially support bulking management by providing human-like cognitive capabilities. However, there is no explainable evaluat"
+    },
+    {
+      "date": "2026-08-02",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "reghais/ml-water-quality-biskra",
+      "url": "https://github.com/reghais/ml-water-quality-biskra",
+      "snippet": "Stars:0 | Machine Learning Applications for Terminal Complex Reservoir Water Quality — Biskra, Algeria)."
+    },
+    {
+      "date": "2026-08-02",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "afifa-y/Algal-Bloom-Sentinel",
+      "url": "https://github.com/afifa-y/Algal-Bloom-Sentinel",
+      "snippet": "Stars:0 | Algal Bloom Sentinel pulls live water-quality readings from a public USGS monitoring station, computes an explainable 0–100 bloom-risk score from those readings, and uses Claude to translate that score into a plain-language alert for either a water authority official or the general public."
     }
   ]
 }

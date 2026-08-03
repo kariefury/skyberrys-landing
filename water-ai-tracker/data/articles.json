@@ -5559,6 +5559,26 @@
       "title": "afifa-y/Algal-Bloom-Sentinel",
       "url": "https://github.com/afifa-y/Algal-Bloom-Sentinel",
       "snippet": "Stars:0 | Algal Bloom Sentinel pulls live water-quality readings from a public USGS monitoring station, computes an explainable 0–100 bloom-risk score from those readings, and uses Claude to translate that score into a plain-language alert for either a water authority official or the general public."
+    },
+    {
+      "date": "2026-08-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "bindhu-12086/smart-water-quality-prediction",
+      "url": "https://github.com/bindhu-12086/smart-water-quality-prediction",
+      "snippet": "Stars:0 | A Machine Learning based web application to predict drinking water quality using Flask."
+    },
+    {
+      "date": "2026-08-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "peifengstudio/water-reminder",
+      "url": "https://github.com/peifengstudio/water-reminder",
+      "snippet": "Stars:0 | A modern full-stack water reminder app built as a current-practice playground for Vue 3, TypeScript, Vite, FastAPI, SQLModel, Alembic, and future auth/background job integration. It explores clean frontend composables, small reusable UI primitives, PWA notifications, typed API design, database migrations, and AI-friendly project structure."
     }
   ]
 }

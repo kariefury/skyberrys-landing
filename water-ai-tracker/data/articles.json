@@ -5579,6 +5579,36 @@
       "title": "peifengstudio/water-reminder",
       "url": "https://github.com/peifengstudio/water-reminder",
       "snippet": "Stars:0 | A modern full-stack water reminder app built as a current-practice playground for Vue 3, TypeScript, Vite, FastAPI, SQLModel, Alembic, and future auth/background job integration. It explores clean frontend composables, small reusable UI primitives, PWA notifications, typed API design, database migrations, and AI-friendly project structure."
+    },
+    {
+      "date": "2026-08-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "amirthaa15/An-IoT-and-Machine-Learning-based-Biofloc-aquaculture-monitoring-system",
+      "url": "https://github.com/amirthaa15/An-IoT-and-Machine-Learning-based-Biofloc-aquaculture-monitoring-system",
+      "snippet": "Stars:0 | This project introduces an intelligent monitoring framework for biofloc-based aquaculture, integrating IoT sensors with machine learning to ensure real-time water quality assessment and improved fish survival. Sensor data is seamlessly collected and stored in the cloud, enabling streamlined analysis and decision-making."
+    },
+    {
+      "date": "2026-08-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Break-Through-Tech/Biointerphase-1C-forecasting-harmful-algal-bloom-risk",
+      "url": "https://github.com/Break-Through-Tech/Biointerphase-1C-forecasting-harmful-algal-bloom-risk",
+      "snippet": "Stars:0 | Apply machine learning technique to publicly available data (water quality, meteorological, and satellite-derived environmental) to build models that predict the risk, occurrence, or growth of harmful algal blooms."
+    },
+    {
+      "date": "2026-08-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Break-Through-Tech/Biointerphase-1A-forecasting-harmful-algal-bloom-risk",
+      "url": "https://github.com/Break-Through-Tech/Biointerphase-1A-forecasting-harmful-algal-bloom-risk",
+      "snippet": "Stars:0 | Apply machine learning technique to publicly available data (water quality, meteorological, and satellite-derived environmental) to build models that predict the risk, occurrence, or growth of harmful algal blooms. "
     }
   ]
 }

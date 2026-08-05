@@ -5609,6 +5609,46 @@
       "title": "Break-Through-Tech/Biointerphase-1A-forecasting-harmful-algal-bloom-risk",
       "url": "https://github.com/Break-Through-Tech/Biointerphase-1A-forecasting-harmful-algal-bloom-risk",
       "snippet": "Stars:0 | Apply machine learning technique to publicly available data (water quality, meteorological, and satellite-derived environmental) to build models that predict the risk, occurrence, or growth of harmful algal blooms. "
+    },
+    {
+      "date": "2026-08-05",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Sharvesh2810/Water-Quality-Prediction",
+      "url": "https://github.com/Sharvesh2810/Water-Quality-Prediction",
+      "snippet": "Stars:0 | Machine Learning based water quality prediction using XGBoost, KNN Imputation, SMOTE, and feature engineering."
+    },
+    {
+      "date": "2026-08-05",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "zeinabmodaber/01-water-potability-prediction",
+      "url": "https://github.com/zeinabmodaber/01-water-potability-prediction",
+      "snippet": "Stars:0 | Machine Learning project for predicting drinking water potability using water quality parameters."
+    },
+    {
+      "date": "2026-08-05",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Aryankoul97/koulfit-app",
+      "url": "https://github.com/Aryankoul97/koulfit-app",
+      "snippet": "Stars:0 | KoulFit is your all in one AI-powered calorie and nutrition tracker. Log meals with photos, voice, text, or barcode scans, track calories and macros, monitor water intake, weight, and daily progress, and achieve your fitness goals with smart insight all in one clean, fast, and easy-to-use app."
+    },
+    {
+      "date": "2026-08-05",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "harshinidodda27/Aquashield--Smart-water-quality-monitoring-system",
+      "url": "https://github.com/harshinidodda27/Aquashield--Smart-water-quality-monitoring-system",
+      "snippet": "Stars:0 | AquaShield is an IoT-based Smart Water Quality Monitoring System that monitors pH, turbidity, TDS, and temperature in real time. It provides instant alerts, cloud-based monitoring, and AI-driven insights to ensure safe water quality while supporting Sustainable Development Goal (SDG) 6 – Clean Water and Sanitation."
     }
   ]
 }

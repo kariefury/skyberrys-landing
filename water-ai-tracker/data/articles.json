@@ -5649,6 +5649,26 @@
       "title": "harshinidodda27/Aquashield--Smart-water-quality-monitoring-system",
       "url": "https://github.com/harshinidodda27/Aquashield--Smart-water-quality-monitoring-system",
       "snippet": "Stars:0 | AquaShield is an IoT-based Smart Water Quality Monitoring System that monitors pH, turbidity, TDS, and temperature in real time. It provides instant alerts, cloud-based monitoring, and AI-driven insights to ensure safe water quality while supporting Sustainable Development Goal (SDG) 6 – Clean Water and Sanitation."
+    },
+    {
+      "date": "2026-08-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "vanshchandekar1-netizen/Hydropulse",
+      "url": "https://github.com/vanshchandekar1-netizen/Hydropulse",
+      "snippet": "Stars:0 | HydroPulse is an AI & IoT-powered environmental monitoring platform that provides real-time water quality analysis, tree health monitoring, AI plant disease detection, predictive analytics, and smart alerts using ESP32, Machine Learning, an interactive web dashboard for smart cities,agriculture,environmental agencies,forest management,public health"
+    },
+    {
+      "date": "2026-08-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "soumyaadip/mumbai-port-water-quality",
+      "url": "https://github.com/soumyaadip/mumbai-port-water-quality",
+      "snippet": "Stars:0 | Multi-season machine learning pipeline for classifying coastal water quality around **Mumbai Port / JNPT** using satellite-derived parameters (turbidity, chlorophyll-a, TSM, CDOM, SAR backscatter, and oil-spill likelihood)."
     }
   ]
 }

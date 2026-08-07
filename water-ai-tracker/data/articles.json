@@ -5669,6 +5669,66 @@
       "title": "soumyaadip/mumbai-port-water-quality",
       "url": "https://github.com/soumyaadip/mumbai-port-water-quality",
       "snippet": "Stars:0 | Multi-season machine learning pipeline for classifying coastal water quality around **Mumbai Port / JNPT** using satellite-derived parameters (turbidity, chlorophyll-a, TSM, CDOM, SAR backscatter, and oil-spill likelihood)."
+    },
+    {
+      "date": "2026-08-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Lalit287/RiverWatch",
+      "url": "https://github.com/Lalit287/RiverWatch",
+      "snippet": "Stars:0 | An end-to-end data science application for river water quality analysis featuring interactive dashboards, GIS mapping, pollution forecasting, explainable AI, and machine learning-based water quality prediction."
+    },
+    {
+      "date": "2026-08-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "PoshithReddy13/Water-Quality-Prediction",
+      "url": "https://github.com/PoshithReddy13/Water-Quality-Prediction",
+      "snippet": "Stars:0 | Machine Learning project for predicting water quality using classification algorithms."
+    },
+    {
+      "date": "2026-08-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "RumitnShah/marine-water-quality-prediction",
+      "url": "https://github.com/RumitnShah/marine-water-quality-prediction",
+      "snippet": "Stars:0 | Developed an end-to-end machine learning system for Sea Surface Temperature (SST) prediction using ERSST datasets, featuring data preprocessing, regression modeling, and an interactive Streamlit dashboard."
+    },
+    {
+      "date": "2026-08-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "tusharchakrabortytusharum-png/AquaGuard-AI",
+      "url": "https://github.com/tusharchakrabortytusharum-png/AquaGuard-AI",
+      "snippet": "Stars:0 | Sustainable Development Goal 6 aims to ensure access to clean water and sanitation for everyone.  Our AI system helps users analyze water quality and receive recommendations."
+    },
+    {
+      "date": "2026-08-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "advaitkri-eng/homegrown",
+      "url": "https://github.com/advaitkri-eng/homegrown",
+      "snippet": "Stars:0 | Your AI use, as a plant that wilts. Turns Claude Code token usage into water and energy you can actually picture."
+    },
+    {
+      "date": "2026-08-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "signalblur/ficus",
+      "url": "https://github.com/signalblur/ficus",
+      "snippet": "Stars:0 | A carbon ledger for your Claude Code usage — energy, water, CO2e, and the offsets that settle them"
     }
   ]
 }

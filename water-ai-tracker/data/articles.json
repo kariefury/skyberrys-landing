@@ -5729,6 +5729,36 @@
       "title": "signalblur/ficus",
       "url": "https://github.com/signalblur/ficus",
       "snippet": "Stars:0 | A carbon ledger for your Claude Code usage — energy, water, CO2e, and the offsets that settle them"
+    },
+    {
+      "date": "2026-08-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "amanullahmd755-byte/Water-Borne-Disease-Early-Warning",
+      "url": "https://github.com/amanullahmd755-byte/Water-Borne-Disease-Early-Warning",
+      "snippet": "Stars:0 | Designed a machine learning-based system to predict water-borne disease outbreaks using environmental and water quality data. Implemented data preprocessing, predictive modeling, and visualization to support early detection and improve public health decision-making."
+    },
+    {
+      "date": "2026-08-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sanjayjr20041/IOT-based-water-quality-monitoring-and-Analyse-using-the-Machine-Learning",
+      "url": "https://github.com/sanjayjr20041/IOT-based-water-quality-monitoring-and-Analyse-using-the-Machine-Learning",
+      "snippet": "Stars:0 | Real-time water quality monitoring system using pH, TDS, temperature, and turbidity sensors on ESP32, with ML-based quality classification."
+    },
+    {
+      "date": "2026-08-08",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "austinrhermann/guzzler",
+      "url": "https://github.com/austinrhermann/guzzler",
+      "snippet": "Stars:0 | Menu bar app that shows your Claude Code token usage as water consumed"
     }
   ]
 }

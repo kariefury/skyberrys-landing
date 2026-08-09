@@ -5759,6 +5759,26 @@
       "title": "austinrhermann/guzzler",
       "url": "https://github.com/austinrhermann/guzzler",
       "snippet": "Stars:0 | Menu bar app that shows your Claude Code token usage as water consumed"
+    },
+    {
+      "date": "2026-08-09",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Tharunaruva/blockchain-AI-framework-for-tamper-proof-water-resource-allocation-and-realtime-quality-prediction",
+      "url": "https://github.com/Tharunaruva/blockchain-AI-framework-for-tamper-proof-water-resource-allocation-and-realtime-quality-prediction",
+      "snippet": "Stars:0 | Developed a Blockchain and AI-based water resource management system for secure and transparent water allocation. Integrated IoT sensors to monitor real-time water quality and used machine learning to predict contamination. Blockchain ensures tamper-proof records, enabling reliable monitoring, faster decisions, and sustainable water management."
+    },
+    {
+      "date": "2026-08-09",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "balajir0505/AI-Fish-shole-detection",
+      "url": "https://github.com/balajir0505/AI-Fish-shole-detection",
+      "snippet": "Stars:0 | My project is an AI-Based Fish Shoal Detection and Resource Identification System. We use Python and pre-trained models to analyze marine and sea-related parameters such as water temperature and depth to identify fish shoal patterns. My main role was Data Cleaning and Model Training"
     }
   ]
 }

@@ -5779,6 +5779,56 @@
       "title": "balajir0505/AI-Fish-shole-detection",
       "url": "https://github.com/balajir0505/AI-Fish-shole-detection",
       "snippet": "Stars:0 | My project is an AI-Based Fish Shoal Detection and Resource Identification System. We use Python and pre-trained models to analyze marine and sea-related parameters such as water temperature and depth to identify fish shoal patterns. My main role was Data Cleaning and Model Training"
+    },
+    {
+      "date": "2026-08-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Raj140503/Water-Quality-Monitoring-And-Prediction",
+      "url": "https://github.com/Raj140503/Water-Quality-Monitoring-And-Prediction",
+      "snippet": "Stars:0 | Machine learning-based water quality prediction system with an interactive Streamlit application for potable water classification."
+    },
+    {
+      "date": "2026-08-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Sameekshagithub/Water-Quality-Classification-Using-Semi-Supervised-Learning",
+      "url": "https://github.com/Sameekshagithub/Water-Quality-Classification-Using-Semi-Supervised-Learning",
+      "snippet": "Stars:0 | A machine learning project for classifying water quality using multiple semi-supervised learning algorithms. The project compares Self-Training, Label Propagation, Label Spreading, and Semi-Supervised SVM using limited labeled and unlabeled water-quality data."
+    },
+    {
+      "date": "2026-08-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "madhumithaharidas2004-alt/Water-Quality-Analyser-using-ML-",
+      "url": "https://github.com/madhumithaharidas2004-alt/Water-Quality-Analyser-using-ML-",
+      "snippet": "Stars:0 | Real-time water quality monitoring system using ESP32 and multiple sensors to measure pH, turbidity, TDS, and temperature. A LightGBM machine learning model classifies water as Safe or Unsafe, achieving 97.14% accuracy. The system also supports IoT-based monitoring using ThingSpeak."
+    },
+    {
+      "date": "2026-08-10",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Toufighi/Multi-OEM-Fleet-Orchestrator-Claude",
+      "url": "https://github.com/Toufighi/Multi-OEM-Fleet-Orchestrator-Claude",
+      "snippet": "Stars:0 | Multi-OEM fleet orchestration system for autonomous hospital cleaning robots — dual-constraint (battery + water) scheduling, a clean HAL across 3 OEM protocols, live disruption re-planning, and a Claude-powered explain/assistant layer with scoped human-in-the-loop tuning."
+    },
+    {
+      "date": "2026-08-10",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "yagnikaryan/watermark",
+      "url": "https://github.com/yagnikaryan/watermark",
+      "snippet": "Stars:0 | A Claude Code statusline that shows your token spend as a volume of water you can picture. The number is a range, and every coefficient shows its source."
     }
   ]
 }

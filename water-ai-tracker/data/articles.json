@@ -5829,6 +5829,46 @@
       "title": "yagnikaryan/watermark",
       "url": "https://github.com/yagnikaryan/watermark",
       "snippet": "Stars:0 | A Claude Code statusline that shows your token spend as a volume of water you can picture. The number is a range, and every coefficient shows its source."
+    },
+    {
+      "date": "2026-08-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Wizhali/IoT-Based-Double-Filter-RO-System",
+      "url": "https://github.com/Wizhali/IoT-Based-Double-Filter-RO-System",
+      "snippet": "Stars:0 | IoT-based RO water quality monitoring and disease prediction system using ESP32, sensors, Flask and Machine Learning."
+    },
+    {
+      "date": "2026-08-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "atharvadiwate11/AquaSense-AI",
+      "url": "https://github.com/atharvadiwate11/AquaSense-AI",
+      "snippet": "Stars:0 | AI-powered water quality and disturbance analysis system using machine learning, data analytics, and interactive visualization."
+    },
+    {
+      "date": "2026-08-11",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Toufighi/mbody-fleet-orchestrator-Claude",
+      "url": "https://github.com/Toufighi/mbody-fleet-orchestrator-Claude",
+      "snippet": "Stars:0 | Multi-OEM fleet orchestration system for autonomous hospital cleaning robots — dual-constraint (battery + water) scheduling, a clean HAL across 3 OEM protocols, live disruption re-planning, and a Claude-powered explain/assistant layer with scoped human-in-the-loop tuning."
+    },
+    {
+      "date": "2026-08-11",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Magonia-Research/ficus",
+      "url": "https://github.com/Magonia-Research/ficus",
+      "snippet": "Stars:0 | A carbon ledger for your Claude Code usage — energy, water, CO2e, and the offsets that settle them"
     }
   ]
 }

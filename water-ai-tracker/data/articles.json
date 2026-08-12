@@ -5869,6 +5869,56 @@
       "title": "Magonia-Research/ficus",
       "url": "https://github.com/Magonia-Research/ficus",
       "snippet": "Stars:0 | A carbon ledger for your Claude Code usage — energy, water, CO2e, and the offsets that settle them"
+    },
+    {
+      "date": "2026-08-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "DelliDaivaSandhya/water-quality-prediction",
+      "url": "https://github.com/DelliDaivaSandhya/water-quality-prediction",
+      "snippet": "Stars:0 | Water Quality Prediction using Machine Learning"
+    },
+    {
+      "date": "2026-08-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "singhasub/Water-Quality-Prediction-using-Machine-Learning",
+      "url": "https://github.com/singhasub/Water-Quality-Prediction-using-Machine-Learning",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-08-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "m4shook/AquaGuard_Water_Quality_Project",
+      "url": "https://github.com/m4shook/AquaGuard_Water_Quality_Project",
+      "snippet": "Stars:1 | AquaGuard is a machine learning-based water quality prediction system that analyzes physicochemical properties to determine whether water is potable or non-potable."
+    },
+    {
+      "date": "2026-08-12",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "sharifshayma/Fitflow",
+      "url": "https://github.com/sharifshayma/Fitflow",
+      "snippet": "Stars:0 | Personal nutrition & health tracker you can also drive from Claude — custom goals, food/water/weight logging, and dashboards. Next.js 16, Prisma Postgres, better-auth, MCP."
+    },
+    {
+      "date": "2026-08-12",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Morhc/environment-cost-of-claude",
+      "url": "https://github.com/Morhc/environment-cost-of-claude",
+      "snippet": "Stars:0 | What can actually be quantified about the environmental footprint of using Claude, from published sources — plus a tool to measure your own usage in CO2 and water"
     }
   ]
 }

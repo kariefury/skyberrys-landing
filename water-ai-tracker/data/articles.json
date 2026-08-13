@@ -5919,6 +5919,56 @@
       "title": "Morhc/environment-cost-of-claude",
       "url": "https://github.com/Morhc/environment-cost-of-claude",
       "snippet": "Stars:0 | What can actually be quantified about the environmental footprint of using Claude, from published sources — plus a tool to measure your own usage in CO2 and water"
+    },
+    {
+      "date": "2026-08-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "greek1984/whatsapp_1c_engineering",
+      "url": "https://github.com/greek1984/whatsapp_1c_engineering",
+      "snippet": "Stars:0 | AI-manager for engineering sectors in the Kazakhstan: heating, water supply, and sewage."
+    },
+    {
+      "date": "2026-08-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mshoaibali4949-stack/Coding-File",
+      "url": "https://github.com/mshoaibali4949-stack/Coding-File",
+      "snippet": "Stars:0 | Performance Evaluation of Machine Learning Models for Water Quality Prediction and Portability Assessment"
+    },
+    {
+      "date": "2026-08-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mshoaibali4949-stack/Performance-Evaluation-of-Machine-Learning-Models-for-Water-Quality",
+      "url": "https://github.com/mshoaibali4949-stack/Performance-Evaluation-of-Machine-Learning-Models-for-Water-Quality",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-08-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sahilthakur4528-cyber/ENVIRONMENT_MONITORING",
+      "url": "https://github.com/sahilthakur4528-cyber/ENVIRONMENT_MONITORING",
+      "snippet": "Stars:0 | A web-based Environmental Monitoring System using Flask, MySQL, and Machine Learning to monitor AQI, temperature, humidity, pollution, rainfall, and water quality through interactive dashboards, data analytics, dataset uploads, and AQI prediction."
+    },
+    {
+      "date": "2026-08-13",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "underwatercode/pressure-log",
+      "url": "https://github.com/underwatercode/pressure-log",
+      "snippet": "Stars:0 | Pressure Log is a small personal health companion app: a blood-pressure diary with a parallel log of daily-life events, meals, sleep and water, built for one person to use daily and to hand to a doctor. (mostly a fun side project of mine to play around with Claude code)"
     }
   ]
 }

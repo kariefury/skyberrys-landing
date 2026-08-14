@@ -5969,6 +5969,56 @@
       "title": "underwatercode/pressure-log",
       "url": "https://github.com/underwatercode/pressure-log",
       "snippet": "Stars:0 | Pressure Log is a small personal health companion app: a blood-pressure diary with a parallel log of daily-life events, meals, sleep and water, built for one person to use daily and to hand to a doctor. (mostly a fun side project of mine to play around with Claude code)"
+    },
+    {
+      "date": "2026-08-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "EshitaShar-005/aqua-sense-pridiction-cycle",
+      "url": "https://github.com/EshitaShar-005/aqua-sense-pridiction-cycle",
+      "snippet": "Stars:0 | a water quality tester app made using machine learning and data analytics concepts."
+    },
+    {
+      "date": "2026-08-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "MarcoAParraV/Water-Pollution-Paper-ML",
+      "url": "https://github.com/MarcoAParraV/Water-Pollution-Paper-ML",
+      "snippet": "Stars:0 | Interpretable machine learning pipeline for water pollution assessment using an adapted Objective Index of Pollution, trained on Indian river data and evaluated through cross-domain transfer to Mexican RENAMECA water-quality records."
+    },
+    {
+      "date": "2026-08-14",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "wallacekdawg-create/water-repair-claude",
+      "url": "https://github.com/wallacekdawg-create/water-repair-claude",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-08-14",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": "claude-generic",
+      "source": "github",
+      "title": "babeone/plantdaddy",
+      "url": "https://github.com/babeone/plantdaddy",
+      "snippet": "Stars:0 | Houseplant watering & fertilizing PWA. No accounts: your session is a UUID you keep as text or QR. One tap to log care, derived-not-stored due dates, winter mode, daily web push with quick actions. SvelteKit 5 + PostgreSQL, self-hosted. Vibecoded end to end with Claude Opus."
+    },
+    {
+      "date": "2026-08-14",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "masonpierce60/Claude",
+      "url": "https://github.com/masonpierce60/Claude",
+      "snippet": "Stars:0 | Water App"
     }
   ]
 }

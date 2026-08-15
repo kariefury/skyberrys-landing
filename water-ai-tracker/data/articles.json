@@ -6019,6 +6019,26 @@
       "title": "masonpierce60/Claude",
       "url": "https://github.com/masonpierce60/Claude",
       "snippet": "Stars:0 | Water App"
+    },
+    {
+      "date": "2026-08-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "vaishnavi3013/AquaSafe-Water-Quality-Prediction",
+      "url": "https://github.com/vaishnavi3013/AquaSafe-Water-Quality-Prediction",
+      "snippet": "Stars:0 | A machine learning based water quality prediction and suitable purification recommendation system."
+    },
+    {
+      "date": "2026-08-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "salma-elhady/MicroClean-AI-by-hydroX",
+      "url": "https://github.com/salma-elhady/MicroClean-AI-by-hydroX",
+      "snippet": "Stars:0 | MicroClean AI is an intelligent, software-driven water purification platform designed to tackle the escalating crisis of microplastic contamination in water ecosystems."
     }
   ]
 }

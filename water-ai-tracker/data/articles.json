@@ -6039,6 +6039,46 @@
       "title": "salma-elhady/MicroClean-AI-by-hydroX",
       "url": "https://github.com/salma-elhady/MicroClean-AI-by-hydroX",
       "snippet": "Stars:0 | MicroClean AI is an intelligent, software-driven water purification platform designed to tackle the escalating crisis of microplastic contamination in water ecosystems."
+    },
+    {
+      "date": "2026-08-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "aryaaaaa-prakash/Major_Project_AquaIQ",
+      "url": "https://github.com/aryaaaaa-prakash/Major_Project_AquaIQ",
+      "snippet": "Stars:0 | Water quality monitoring and prediction system using satellite imagery, GIS, machine learning, and Streamlit."
+    },
+    {
+      "date": "2026-08-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "deepanshugupta1501/FUNGiSENSE",
+      "url": "https://github.com/deepanshugupta1501/FUNGiSENSE",
+      "snippet": "Stars:0 | AI-based fungal risk prediction and recognition system using water quality parameters and machine learning."
+    },
+    {
+      "date": "2026-08-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": "claude-generic",
+      "source": "github",
+      "title": "ecoderP/ai-water-quality-advisor-2",
+      "url": "https://github.com/ecoderP/ai-water-quality-advisor-2",
+      "snippet": "Stars:0 | An AI-powered water quality advidor built with claude sonnet 3.5 on Amazon Bedrock."
+    },
+    {
+      "date": "2026-08-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "dwest922/claude-water-meter",
+      "url": "https://github.com/dwest922/claude-water-meter",
+      "snippet": "Stars:0 | Shows your VS Code Claude daily energy and water consumption"
     }
   ]
 }

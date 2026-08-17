@@ -6079,6 +6079,16 @@
       "title": "dwest922/claude-water-meter",
       "url": "https://github.com/dwest922/claude-water-meter",
       "snippet": "Stars:0 | Shows your VS Code Claude daily energy and water consumption"
+    },
+    {
+      "date": "2026-08-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "onyango-paschal/water-hyacinth-circular-economy-ml",
+      "url": "https://github.com/onyango-paschal/water-hyacinth-circular-economy-ml",
+      "snippet": "Stars:0 | A machine learning framework for predicting and optimizing water hyacinth valorization pathways, including biogas production, biochar yield, compost quality, and other bioconversion products."
     }
   ]
 }

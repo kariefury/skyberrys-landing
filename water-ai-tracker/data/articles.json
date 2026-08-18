@@ -6089,6 +6089,26 @@
       "title": "onyango-paschal/water-hyacinth-circular-economy-ml",
       "url": "https://github.com/onyango-paschal/water-hyacinth-circular-economy-ml",
       "snippet": "Stars:0 | A machine learning framework for predicting and optimizing water hyacinth valorization pathways, including biogas production, biochar yield, compost quality, and other bioconversion products."
+    },
+    {
+      "date": "2026-08-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "infineon-sustainable-farm/sustainable-farm",
+      "url": "https://github.com/infineon-sustainable-farm/sustainable-farm",
+      "snippet": "Stars:0 | Digital twin & AI-powered decision system for a sustainable dried mango supply chain from Burkina Faso to Germany, developed under the Infineon/BIT Excellence Program. Covers plants, water, processing, storage, energy, security, machinery, and sales & marketing across a 3-layer real-world → digital-twin → AI-decision architecture"
+    },
+    {
+      "date": "2026-08-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "maganisaipriyanka-cmd/Water_Quality_Prediction-using-Machine-Learning",
+      "url": "https://github.com/maganisaipriyanka-cmd/Water_Quality_Prediction-using-Machine-Learning",
+      "snippet": "Stars:0 | A machine learning system that analyzes water parameters to predict water quality. It helps detect contamination, assess water safety, and support effective monitoring and management of water resources."
     }
   ]
 }

@@ -6109,6 +6109,46 @@
       "title": "maganisaipriyanka-cmd/Water_Quality_Prediction-using-Machine-Learning",
       "url": "https://github.com/maganisaipriyanka-cmd/Water_Quality_Prediction-using-Machine-Learning",
       "snippet": "Stars:0 | A machine learning system that analyzes water parameters to predict water quality. It helps detect contamination, assess water safety, and support effective monitoring and management of water resources."
+    },
+    {
+      "date": "2026-08-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shwetha3657-sudo/groundwater-pollution-prediction",
+      "url": "https://github.com/shwetha3657-sudo/groundwater-pollution-prediction",
+      "snippet": "Stars:0 | An end-to-end Machine Learning system for groundwater pollution prediction and water quality classification (Safe, Moderate, Polluted) comparing SVM, KNN, Random Forest, and Decision Tree with interactive diagnostics and management recommendations."
+    },
+    {
+      "date": "2026-08-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "arya1917/ganga-water-quality-ml",
+      "url": "https://github.com/arya1917/ganga-water-quality-ml",
+      "snippet": "Stars:0 | End-to-end machine learning project for river water quality prediction."
+    },
+    {
+      "date": "2026-08-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Somajitkhatua/aquamitra-sdg6",
+      "url": "https://github.com/Somajitkhatua/aquamitra-sdg6",
+      "snippet": "Stars:0 | AquaMitra - AI conversational assistant for SDG 6 (Clean Water & Sanitation). 1M1B x IBM SkillsBuild AI for Sustainability internship project."
+    },
+    {
+      "date": "2026-08-19",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "NotNixy/TestWaterClaude",
+      "url": "https://github.com/NotNixy/TestWaterClaude",
+      "snippet": "Stars:0 | "
     }
   ]
 }

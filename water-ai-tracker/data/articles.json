@@ -6149,6 +6149,36 @@
       "title": "NotNixy/TestWaterClaude",
       "url": "https://github.com/NotNixy/TestWaterClaude",
       "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-08-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Naavalanarul/Real_Time_Water_Quality_Monitoring_System",
+      "url": "https://github.com/Naavalanarul/Real_Time_Water_Quality_Monitoring_System",
+      "snippet": "Stars:0 | An end-to-end IoT water quality monitoring system featuring ESP32 edge processing, an asynchronous Python/FastAPI backend, real-time React visualization, and embedded Machine Learning for predictive usability classification."
+    },
+    {
+      "date": "2026-08-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mennahallahmohamed2006-star/AquaSafe-Water-Quality-Prediction",
+      "url": "https://github.com/mennahallahmohamed2006-star/AquaSafe-Water-Quality-Prediction",
+      "snippet": "Stars:0 | > AquaSafe is a Machine Learning project for water quality analysis and safety prediction. The project uses chemical and biological water quality features to classify water samples as safe or unsafe using multiple classification algorithms, with a Tuned Decision Tree selected as the final model."
+    },
+    {
+      "date": "2026-08-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "voonabhavya123-glitch/water_quality_prediction",
+      "url": "https://github.com/voonabhavya123-glitch/water_quality_prediction",
+      "snippet": "Stars:0 | Machine learning project that predicts whether water is potable using water quality parameters."
     }
   ]
 }

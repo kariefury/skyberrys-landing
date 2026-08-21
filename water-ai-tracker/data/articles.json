@@ -6179,6 +6179,96 @@
       "title": "voonabhavya123-glitch/water_quality_prediction",
       "url": "https://github.com/voonabhavya123-glitch/water_quality_prediction",
       "snippet": "Stars:0 | Machine learning project that predicts whether water is potable using water quality parameters."
+    },
+    {
+      "date": "2026-08-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "spoortibalagaon/AI-driven-smart-micro-irrigation-system",
+      "url": "https://github.com/spoortibalagaon/AI-driven-smart-micro-irrigation-system",
+      "snippet": "Stars:0 | An AI-driven smart irrigation system that uses soil moisture and environmental data to automatically control water supply. It optimizes irrigation, reduces water wastage, minimizes manual effort, and supports efficient crop growth through intelligent, data-based decisions."
+    },
+    {
+      "date": "2026-08-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Usman4-oG2004/water-filtration-ml",
+      "url": "https://github.com/Usman4-oG2004/water-filtration-ml",
+      "snippet": "Stars:0 | Water quality anomaly detection system using Python and Machine Learning"
+    },
+    {
+      "date": "2026-08-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "GuruPreeth9903/Waterborne-Disease-Detection",
+      "url": "https://github.com/GuruPreeth9903/Waterborne-Disease-Detection",
+      "snippet": "Stars:0 | Machine learning-based water potability prediction system with Flask and Streamlit, featuring prediction, probability analysis, interactive visualizations, and statistical insights from water-quality data."
+    },
+    {
+      "date": "2026-08-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "manojkumar014329-bot/ai-water-quality-detection",
+      "url": "https://github.com/manojkumar014329-bot/ai-water-quality-detection",
+      "snippet": "Stars:0 | AI-Based Water Quality Detection Using pH Strip, OpenCV, FastAPI, and Machine Learning"
+    },
+    {
+      "date": "2026-08-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "chic-coder/Environment-Monitoring-System",
+      "url": "https://github.com/chic-coder/Environment-Monitoring-System",
+      "snippet": "Stars:0 | Developed an AI-powered environmental monitoring system for smart cities that integrates real-time air and water quality sensing with machine learning to detect and predict environmental hazards. Built a functional prototype using STM32, with a Python-based GUI for live monitoring and ML models for forecasting potential pollution risks."
+    },
+    {
+      "date": "2026-08-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "gobishasaids2025-afk/water-quality-classification-dashboard",
+      "url": "https://github.com/gobishasaids2025-afk/water-quality-classification-dashboard",
+      "snippet": "Stars:0 | Interactive Water Quality Classification Dashboard using Machine Learning"
+    },
+    {
+      "date": "2026-08-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "untrained0/CrowdWater-AI",
+      "url": "https://github.com/untrained0/CrowdWater-AI",
+      "snippet": "Stars:0 | An AI-powered, crowdsourced platform empowering communities to monitor, report, and map water pollution in real time. Leveraging user-submitted images and YOLOv8 computer vision, SmartWater detects garbage and industrial waste to help keep our water bodies clean."
+    },
+    {
+      "date": "2026-08-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "slngr17/skyield",
+      "url": "https://github.com/slngr17/skyield",
+      "snippet": "Stars:0 | Skyield is an AI-powered platform that analyzes rooftop photos and local climate data to calculate household solar potential and rainwater harvesting capacity. It turns imagery into actionable energy yields, hardware starter kits, and carbon offset metrics—making clean energy and water resilience accessible for every home."
+    },
+    {
+      "date": "2026-08-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "dharshhanmk/Veridian-Autonomous-Ecosystem-Observation-and-Management-System-Using-Drone",
+      "url": "https://github.com/dharshhanmk/Veridian-Autonomous-Ecosystem-Observation-and-Management-System-Using-Drone",
+      "snippet": "Stars:0 | Veridian is an AI-based autonomous drone system for monitoring and cleaning water surfaces. It uses YOLO to detect floating waste from an aerial view, maps waste using GPS, then descends for close-range verification and collection. It optimizes routes and avoids lifting objects beyond its safe payload capacity.**"
     }
   ]
 }

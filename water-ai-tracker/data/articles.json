@@ -6269,6 +6269,46 @@
       "title": "dharshhanmk/Veridian-Autonomous-Ecosystem-Observation-and-Management-System-Using-Drone",
       "url": "https://github.com/dharshhanmk/Veridian-Autonomous-Ecosystem-Observation-and-Management-System-Using-Drone",
       "snippet": "Stars:0 | Veridian is an AI-based autonomous drone system for monitoring and cleaning water surfaces. It uses YOLO to detect floating waste from an aerial view, maps waste using GPS, then descends for close-range verification and collection. It optimizes routes and avoids lifting objects beyond its safe payload capacity.**"
+    },
+    {
+      "date": "2026-08-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "chandana2908/accurate-water-quality-index-prediction",
+      "url": "https://github.com/chandana2908/accurate-water-quality-index-prediction",
+      "snippet": "Stars:0 | A machine learning-based system for predicting Water Quality Index (WQI) and classifying water quality using DO, pH, BOD, conductivity, nitrate, and coliform parameters."
+    },
+    {
+      "date": "2026-08-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Bitttu4/TechStack",
+      "url": "https://github.com/Bitttu4/TechStack",
+      "snippet": "Stars:0 | AI-powered platform for real-time Ganga river water-quality forecasting using IoT, satellite data, machine learning, and decision support."
+    },
+    {
+      "date": "2026-08-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Fatima-Channa/Water-Quality-Prediction-Model",
+      "url": "https://github.com/Fatima-Channa/Water-Quality-Prediction-Model",
+      "snippet": "Stars:0 | this project uses machine learning to predict whether water is safe or unsafe to drink. It uses water quality features such as pH, hardness, solids, and turbidity. A Logistic Regression model is trained on the dataset and connected to a simple Streamlit app for interactive predictions."
+    },
+    {
+      "date": "2026-08-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "enock19/Water-Quality",
+      "url": "https://github.com/enock19/Water-Quality",
+      "snippet": "Stars:0 | Prediction of the water quality using machine learning"
     }
   ]
 }

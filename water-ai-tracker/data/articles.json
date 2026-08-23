@@ -6309,6 +6309,16 @@
       "title": "enock19/Water-Quality",
       "url": "https://github.com/enock19/Water-Quality",
       "snippet": "Stars:0 | Prediction of the water quality using machine learning"
+    },
+    {
+      "date": "2026-08-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "yamini-thirumani/WaterTrackerAI",
+      "url": "https://github.com/yamini-thirumani/WaterTrackerAI",
+      "snippet": "Stars:0 | Staying hydrated is simple in theory but easy to forget in practice. WaterTrackerAI bridges that gap by combining a clean tracking interface with an AI agent that actually understands your habits - flagging when you're falling behind, celebrating when you hit your goals, and offering smart, personalized suggestions instead of generic reminders."
     }
   ]
 }

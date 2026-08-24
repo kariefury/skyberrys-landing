@@ -6319,6 +6319,76 @@
       "title": "yamini-thirumani/WaterTrackerAI",
       "url": "https://github.com/yamini-thirumani/WaterTrackerAI",
       "snippet": "Stars:0 | Staying hydrated is simple in theory but easy to forget in practice. WaterTrackerAI bridges that gap by combining a clean tracking interface with an AI agent that actually understands your habits - flagging when you're falling behind, celebrating when you hit your goals, and offering smart, personalized suggestions instead of generic reminders."
+    },
+    {
+      "date": "2026-08-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mahnoorfaisal1/AquaAI-Water-Potability",
+      "url": "https://github.com/mahnoorfaisal1/AquaAI-Water-Potability",
+      "snippet": "Stars:0 | Exploring machine learning for water quality assessment by predicting water potability from chemical and physical water-quality parameters."
+    },
+    {
+      "date": "2026-08-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Sinovuyo209/uMhlathuze-water-quality-detection-system",
+      "url": "https://github.com/Sinovuyo209/uMhlathuze-water-quality-detection-system",
+      "snippet": "Stars:0 | An advanced machine learning web application for classifying and monitoring water quality metrics in South African river systems."
+    },
+    {
+      "date": "2026-08-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "singhrohit09/AquaGuard-EVS-Project",
+      "url": "https://github.com/singhrohit09/AquaGuard-EVS-Project",
+      "snippet": "Stars:0 | AquaGuard is a machine-learning web application built with Python and Flask that predicts river water quality using a Random Forest classifier and chemical parameters like DO, pH, and Conductivity."
+    },
+    {
+      "date": "2026-08-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "hailetadele1983/midmar-catchment-iwqi-ml-reliability",
+      "url": "https://github.com/hailetadele1983/midmar-catchment-iwqi-ml-reliability",
+      "snippet": "Stars:0 | Code for evaluating irrigation water quality and machine learning prediction reliability in the Midmar Catchment, Tigray, Ethiopia (hydrochemical indices + 15 ML models, single-split/repeated/nested/LOOCV validation)"
+    },
+    {
+      "date": "2026-08-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Meghana-k-12/AI-Based-Clean-Drinking-Water-Prediction-System-for-Villages-",
+      "url": "https://github.com/Meghana-k-12/AI-Based-Clean-Drinking-Water-Prediction-System-for-Villages-",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-08-24",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "murillopmonteiro/CMC-Hydrosoluble-Confetti-and-BioGlitter",
+      "url": "https://github.com/murillopmonteiro/CMC-Hydrosoluble-Confetti-and-BioGlitter",
+      "snippet": "Stars:0 | A project I've done for my high school science fair, it ended up really well and I wanted to share. Me and my group designed a confetti that dissolves in water, while being biodegradable. We designed a bioglitter aswell. Our website and html file was made using claude code on top of our research"
+    },
+    {
+      "date": "2026-08-24",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Zhaijiadejiang/Water-Fortune-Telling",
+      "url": "https://github.com/Zhaijiadejiang/Water-Fortune-Telling",
+      "snippet": "Stars:0 | A Windows 10/11 Water Fortune-Telling app inspired by Japanese shrine culture. Built with assistance from OpenAI Codex and Claude."
     }
   ]
 }

@@ -6389,6 +6389,46 @@
       "title": "Zhaijiadejiang/Water-Fortune-Telling",
       "url": "https://github.com/Zhaijiadejiang/Water-Fortune-Telling",
       "snippet": "Stars:0 | A Windows 10/11 Water Fortune-Telling app inspired by Japanese shrine culture. Built with assistance from OpenAI Codex and Claude."
+    },
+    {
+      "date": "2026-08-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Saadhana440/Sustainable-Water-Quality-Monitoring-Technologies",
+      "url": "https://github.com/Saadhana440/Sustainable-Water-Quality-Monitoring-Technologies",
+      "snippet": "Stars:0 | Developed an AI-powered water quality monitoring and prediction system using Python, Machine Learning, and Streamlit. Implemented data preprocessing, Random Forest prediction, quality scoring, real-time alerts, interactive analytics, prediction history, and automated PDF report generation."
+    },
+    {
+      "date": "2026-08-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "HarshithaUppuluri/Aquasensor-River-Quality",
+      "url": "https://github.com/HarshithaUppuluri/Aquasensor-River-Quality",
+      "snippet": "Stars:0 | AquaPulse: Machine-learning-based River Derwent water quality monitoring, dissolved oxygen forecasting, anomaly detection and explainable AI."
+    },
+    {
+      "date": "2026-08-25",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "RetajCs/poster-design",
+      "url": "https://github.com/RetajCs/poster-design",
+      "snippet": "Stars:0 | A simple poster website I created for one of my paintings, inspired by Claude Monet’s Water Lilies. I built it using HTML and CSS as a small project to practice and improve my web development skills while combining my passion for art and design."
+    },
+    {
+      "date": "2026-08-25",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "tatsoft-llc/FrameworX-Projects",
+      "url": "https://github.com/tatsoft-llc/FrameworX-Projects",
+      "snippet": "Stars:1 | The workspace Tatsoft uses to build FrameworX industrial automation projects with Claude Code: working agreement, delivery skills, templates, and a worked water treatment project. Targets FrameworX 10.1.5 and later."
     }
   ]
 }

@@ -6429,6 +6429,26 @@
       "title": "tatsoft-llc/FrameworX-Projects",
       "url": "https://github.com/tatsoft-llc/FrameworX-Projects",
       "snippet": "Stars:1 | The workspace Tatsoft uses to build FrameworX industrial automation projects with Claude Code: working agreement, delivery skills, templates, and a worked water treatment project. Targets FrameworX 10.1.5 and later."
+    },
+    {
+      "date": "2026-08-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "harshitpulkit7ab-crypto/Nagar-AI",
+      "url": "https://github.com/harshitpulkit7ab-crypto/Nagar-AI",
+      "snippet": "Stars:0 | NagarAI is an AI-powered public infrastructure and governance system that analyzes citizen complaints, automatically classifies issues like roads, drainage, garbage, and water supply, assigns priority levels, and helps officials monitor and resolve problems efficiently through a centralized dashboard."
+    },
+    {
+      "date": "2026-08-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nadaaly2004z-cyber/water-quality-classification",
+      "url": "https://github.com/nadaaly2004z-cyber/water-quality-classification",
+      "snippet": "Stars:0 | Water quality identification using machine learning techniques"
     }
   ]
 }

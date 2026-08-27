@@ -6449,6 +6449,66 @@
       "title": "nadaaly2004z-cyber/water-quality-classification",
       "url": "https://github.com/nadaaly2004z-cyber/water-quality-classification",
       "snippet": "Stars:0 | Water quality identification using machine learning techniques"
+    },
+    {
+      "date": "2026-08-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "snehalj890/water-quality-ml-system_classification_",
+      "url": "https://github.com/snehalj890/water-quality-ml-system_classification_",
+      "snippet": "Stars:0 | Machine Learning-Based Water Quality Classification and Prediction System"
+    },
+    {
+      "date": "2026-08-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "jagatheeswari2/aqua",
+      "url": "https://github.com/jagatheeswari2/aqua",
+      "snippet": "Stars:0 | AquaSense is a Streamlit-based water quality analysis system that uses Machine Learning and Generative AI to analyze water-quality datasets, visualize parameters, predict water quality, identify problematic parameters, and provide AI-assisted insights and recommendations."
+    },
+    {
+      "date": "2026-08-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "jasmine2092003/Automated-Groundwater-Quality-and-Health-Risk-Prediction-System",
+      "url": "https://github.com/jasmine2092003/Automated-Groundwater-Quality-and-Health-Risk-Prediction-System",
+      "snippet": "Stars:0 | An ML-powered system that predicts groundwater quality and assesses health risks using water quality parameters, risk indices, and advanced machine learning models."
+    },
+    {
+      "date": "2026-08-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "jahnaviyalamancili-rgb/Smart-prawn-farming",
+      "url": "https://github.com/jahnaviyalamancili-rgb/Smart-prawn-farming",
+      "snippet": "Stars:0 | Machine Learning-Based Aquaculture Water Quality Prediction for Smart Prawn Farming"
+    },
+    {
+      "date": "2026-08-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "rohitjoshi-research/SPARC-Sensor-triggered-Panel-cleaning-with-Air-first-Resource-Conscious-design-",
+      "url": "https://github.com/rohitjoshi-research/SPARC-Sensor-triggered-Panel-cleaning-with-Air-first-Resource-Conscious-design-",
+      "snippet": "Stars:0 | Formal system design, dual-mode decision algorithms, and a critical feasibility review for a sensor-triggered, water-minimized targeted exterior cleaning system for vehicle body panels — includes a runnable reference implementation (synthetic simulation, not measured results)."
+    },
+    {
+      "date": "2026-08-27",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "freddie-northam/waterline",
+      "url": "https://github.com/freddie-northam/waterline",
+      "snippet": "Stars:0 | How much of your Claude and Codex subscription is left, in your macOS menu bar. Reads the logs both tools already write. No account, no key, no network."
     }
   ]
 }

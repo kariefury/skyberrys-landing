@@ -6509,6 +6509,36 @@
       "title": "freddie-northam/waterline",
       "url": "https://github.com/freddie-northam/waterline",
       "snippet": "Stars:0 | How much of your Claude and Codex subscription is left, in your macOS menu bar. Reads the logs both tools already write. No account, no key, no network."
+    },
+    {
+      "date": "2026-08-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "snehalj890/water-quality-ml-classification_project",
+      "url": "https://github.com/snehalj890/water-quality-ml-classification_project",
+      "snippet": "Stars:0 | Machine Learning-Based Water Quality Classification and Prediction System "
+    },
+    {
+      "date": "2026-08-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "pkhaliada-rgb/AI-Beach-Water-Quality-Monitoring",
+      "url": "https://github.com/pkhaliada-rgb/AI-Beach-Water-Quality-Monitoring",
+      "snippet": "Stars:0 | AI-powered system for monitoring and predicting beach water quality using environmental data and machine learning."
+    },
+    {
+      "date": "2026-08-28",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "ManavGopale27/WaterIntel",
+      "url": "https://github.com/ManavGopale27/WaterIntel",
+      "snippet": "Stars:0 | WaterIntel is a hybrid telemetry and advisory app combining a Scikit-learn regression model with Gemini LLM reasoning for real-time water quality evaluation. It features a Liquid Glass UI, offline fault-tolerance, and custom location inputs."
     }
   ]
 }

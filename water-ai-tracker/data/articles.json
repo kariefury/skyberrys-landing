@@ -6539,6 +6539,56 @@
       "title": "ManavGopale27/WaterIntel",
       "url": "https://github.com/ManavGopale27/WaterIntel",
       "snippet": "Stars:0 | WaterIntel is a hybrid telemetry and advisory app combining a Scikit-learn regression model with Gemini LLM reasoning for real-time water quality evaluation. It features a Liquid Glass UI, offline fault-tolerance, and custom location inputs."
+    },
+    {
+      "date": "2026-08-29",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "Water quality assessment of Remeți watercourse, Maramureș, Romania, located in a NATURA 2000 protected area subjected to anthropic pressure.",
+      "url": "https://www.semanticscholar.org/paper/ad9681cc398d0baa8a9918ff0ac8192c2430e1ba",
+      "snippet": "The study assessed the evolution of water indicators of Remeți water body that is located in the Remeți locality in the Upper Tisa, a Natura 2000 protected area. Thus, electric conductivity, dissolved oxygen, oxygen saturation, temperature, pH, turbidity, ammonium concentration (NH4+), nitrates (NO3-), nitrites (NO2-), orthophosphate (PO43-), dissolved Fe, Mn, water hardness, alkalinity (A) and ch"
+    },
+    {
+      "date": "2026-08-29",
+      "company": "xai",
+      "model_family": "grok",
+      "model_variant": null,
+      "source": "github",
+      "title": "vijay7770/aquashield-agent",
+      "url": "https://github.com/vijay7770/aquashield-agent",
+      "snippet": "Stars:0 | AI-powered supply chain disruption response agent for water utilities. Built with IBM Bob + watsonx.ai. Detects supplier disruptions, assesses safety criticality, ranks backup suppliers, and generates mitigation plans in seconds. IBM TechXchange 2026 Hackathon."
+    },
+    {
+      "date": "2026-08-29",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": null,
+      "source": "github",
+      "title": "codelic-ops/Global-Air-Water-Pollution-Analysis",
+      "url": "https://github.com/codelic-ops/Global-Air-Water-Pollution-Analysis",
+      "snippet": "Stars:0 | Analyzed a multi-city global dataset on air and water pollution levels to identify pollution trends and high-risk regions. Performed data cleaning, handled missing values, and conducted exploratory data analysis (EDA) to uncover correlations between pollution indicators. Built and trained a machine learning model on Google Colab ."
+    },
+    {
+      "date": "2026-08-29",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Nithin-ketavath/Smart-civic-complaint-management-system",
+      "url": "https://github.com/Nithin-ketavath/Smart-civic-complaint-management-system",
+      "snippet": "Stars:0 | AI-powered civic complaint management system for reporting and tracking issues like road damage, garbage, water leaks, and streetlights. Features include Claude AI chatbot assistance, automated categorization and department routing, admin dashboard, notifications, image uploads, and MySQL-based complaint management using Flask."
+    },
+    {
+      "date": "2026-08-29",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "cmhamel11/Remove-watermarks-in-Claude",
+      "url": "https://github.com/cmhamel11/Remove-watermarks-in-Claude",
+      "snippet": "Stars:0 | Remove all water marks in Claude"
     }
   ]
 }

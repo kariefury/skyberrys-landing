@@ -6589,6 +6589,16 @@
       "title": "cmhamel11/Remove-watermarks-in-Claude",
       "url": "https://github.com/cmhamel11/Remove-watermarks-in-Claude",
       "snippet": "Stars:0 | Remove all water marks in Claude"
+    },
+    {
+      "date": "2026-08-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shriyaaamrutkar-collab/smart-water-quality-advisory",
+      "url": "https://github.com/shriyaaamrutkar-collab/smart-water-quality-advisory",
+      "snippet": "Stars:0 | AI-powered water quality prediction and advisory system using machine learning and an LLM-based assistant."
     }
   ]
 }

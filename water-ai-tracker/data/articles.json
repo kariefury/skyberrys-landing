@@ -6599,6 +6599,46 @@
       "title": "shriyaaamrutkar-collab/smart-water-quality-advisory",
       "url": "https://github.com/shriyaaamrutkar-collab/smart-water-quality-advisory",
       "snippet": "Stars:0 | AI-powered water quality prediction and advisory system using machine learning and an LLM-based assistant."
+    },
+    {
+      "date": "2026-08-31",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kpadmasree99/AI-Powered-Smart-Rural-Health-Monitoring-and-Water-Quality-System",
+      "url": "https://github.com/kpadmasree99/AI-Powered-Smart-Rural-Health-Monitoring-and-Water-Quality-System",
+      "snippet": "Stars:0 | AI-powered system for rural health and water quality monitoring. Uses Machine Learning, IoT, and data analytics to detect health risks, assess water quality, generate alerts, and provide actionable insights through an interactive dashboard."
+    },
+    {
+      "date": "2026-08-31",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": null,
+      "source": "github",
+      "title": "rabiamunsaf/GEE-Water-Quality-ML-Pipeline",
+      "url": "https://github.com/rabiamunsaf/GEE-Water-Quality-ML-Pipeline",
+      "snippet": "Stars:0 | Google Earth Engine-based machine learning workflow for freshwater water-quality estimation and spatio-temporal mapping using Landsat imagery and in-situ observations."
+    },
+    {
+      "date": "2026-08-31",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sushmithamunurai21-prog/water-quality-prediction-analysis",
+      "url": "https://github.com/sushmithamunurai21-prog/water-quality-prediction-analysis",
+      "snippet": "Stars:0 | Analysis of water quality parameters and predictive modeling to estimate the Water Quality Index (WQI) using Python and machine learning techniques."
+    },
+    {
+      "date": "2026-08-31",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Fino-wind/vaultbeat-apple-health",
+      "url": "https://github.com/Fino-wind/vaultbeat-apple-health",
+      "snippet": "Stars:1 | Official local MCP server for Vaultbeat — AI Health Sync. Your AI agent reads your end-to-end-encrypted Apple Health data (sleep, cycle, weight, water) — decrypted only on your machine."
     }
   ]
 }

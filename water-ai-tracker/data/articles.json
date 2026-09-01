@@ -6639,6 +6639,36 @@
       "title": "Fino-wind/vaultbeat-apple-health",
       "url": "https://github.com/Fino-wind/vaultbeat-apple-health",
       "snippet": "Stars:1 | Official local MCP server for Vaultbeat — AI Health Sync. Your AI agent reads your end-to-end-encrypted Apple Health data (sleep, cycle, weight, water) — decrypted only on your machine."
+    },
+    {
+      "date": "2026-09-01",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "tesfakokeb/water_ai_platform",
+      "url": "https://github.com/tesfakokeb/water_ai_platform",
+      "snippet": "Stars:0 | AI-powered water resources platform for streamflow forecasting, drought assessment, water quality monitoring, watershed and hydrologic modeling, flood risk assessment, water supply planning, and water demand forecasting."
+    },
+    {
+      "date": "2026-09-01",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "DanSchmutz/FLMS_2026_VIBE",
+      "url": "https://github.com/DanSchmutz/FLMS_2026_VIBE",
+      "snippet": "Stars:0 | Synthetic water quality data files created by Claude for a Vibe Coding workshop at the FLMS 2026"
+    },
+    {
+      "date": "2026-09-01",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "dobrzynskim/ha-analog-meter-reader",
+      "url": "https://github.com/dobrzynskim/ha-analog-meter-reader",
+      "snippet": "Stars:0 | Home Assistant integration that reads dumb analog meters (water, gas) from a camera snapshot using AI vision (Gemini, Claude, or any OpenAI-compatible model - including self-hosted)"
     }
   ]
 }

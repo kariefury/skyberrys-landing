@@ -6669,6 +6669,26 @@
       "title": "dobrzynskim/ha-analog-meter-reader",
       "url": "https://github.com/dobrzynskim/ha-analog-meter-reader",
       "snippet": "Stars:0 | Home Assistant integration that reads dumb analog meters (water, gas) from a camera snapshot using AI vision (Gemini, Claude, or any OpenAI-compatible model - including self-hosted)"
+    },
+    {
+      "date": "2026-09-02",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "jahnavi-bodicherla/Predicting-Urban-Water-Quality",
+      "url": "https://github.com/jahnavi-bodicherla/Predicting-Urban-Water-Quality",
+      "snippet": "Stars:0 | An intelligent Django-based web application that uses Machine Learning to predict urban water quality, analyze water-quality patterns, and provide data-driven insights through an interactive web interface."
+    },
+    {
+      "date": "2026-09-02",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Kartik-Varshney-4ks/UP-Arsenic-Prediction",
+      "url": "https://github.com/Kartik-Varshney-4ks/UP-Arsenic-Prediction",
+      "snippet": "Stars:0 | Machine learning project for predicting arsenic contamination in groundwater across Uttar Pradesh using government water-quality, geographical, rainfall, and soil-moisture data."
     }
   ]
 }

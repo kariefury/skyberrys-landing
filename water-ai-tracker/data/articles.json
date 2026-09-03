@@ -6689,6 +6689,56 @@
       "title": "Kartik-Varshney-4ks/UP-Arsenic-Prediction",
       "url": "https://github.com/Kartik-Varshney-4ks/UP-Arsenic-Prediction",
       "snippet": "Stars:0 | Machine learning project for predicting arsenic contamination in groundwater across Uttar Pradesh using government water-quality, geographical, rainfall, and soil-moisture data."
+    },
+    {
+      "date": "2026-09-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "not-vibhu/datacenter-geo",
+      "url": "https://github.com/not-vibhu/datacenter-geo",
+      "snippet": "Stars:0 | Agent harness for AI data center site selection. 59 factors across power, water, climate, land, connectivity, regulation, community and supply chain — every number carries its evidence tier."
+    },
+    {
+      "date": "2026-09-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "HariniRamsala/water-quality-classification-and-contamination-risk-predition",
+      "url": "https://github.com/HariniRamsala/water-quality-classification-and-contamination-risk-predition",
+      "snippet": "Stars:0 | Developed a machine learning model to classify water quality based on physical and chemical parameters. Predicted contamination risk to help identify potentially unsafe water and support early preventive actions."
+    },
+    {
+      "date": "2026-09-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "manikantaaketi/Water-Quality-classification-and-contamination-risk-prediction",
+      "url": "https://github.com/manikantaaketi/Water-Quality-classification-and-contamination-risk-prediction",
+      "snippet": "Stars:0 | Developed a machine learning model to classify water quality based on physical and chemical parameters. Predicted contamination risk to help identify potentially unsafe water and support early preventive actions."
+    },
+    {
+      "date": "2026-09-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "aequitas-labs/lobstah",
+      "url": "https://github.com/aequitas-labs/lobstah",
+      "snippet": "Stars:0 | 🦞✨ Harness-agnostic, token-efficient supervision framework for coding agents. Nobody stares at the water — your agents just bring home the lobstahs."
+    },
+    {
+      "date": "2026-09-03",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ratherlegit/environmental-impact-tracker",
+      "url": "https://github.com/ratherlegit/environmental-impact-tracker",
+      "snippet": "Stars:15 | A Claude Code skill that translates AI token usage into real-world environmental impact (energy, water) with relatable comparisons."
     }
   ]
 }

@@ -6739,6 +6739,56 @@
       "title": "ratherlegit/environmental-impact-tracker",
       "url": "https://github.com/ratherlegit/environmental-impact-tracker",
       "snippet": "Stars:15 | A Claude Code skill that translates AI token usage into real-world environmental impact (energy, water) with relatable comparisons."
+    },
+    {
+      "date": "2026-09-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "izazahmed-dev/CivicPulse",
+      "url": "https://github.com/izazahmed-dev/CivicPulse",
+      "snippet": "Stars:0 | CivicPulse is an AI-powered civic intelligence platform that empowers citizens to report water, road, electricity, and sanitation issues across 11 Indian languages via text or voice. It features real-time complaint tracking, community bounty verification, predictive supply forecasting, and a Kanban dashboard with AI triage for municipal governance."
+    },
+    {
+      "date": "2026-09-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Tharun062/WaterNet",
+      "url": "https://github.com/Tharun062/WaterNet",
+      "snippet": "Stars:0 | WaterNet – An IoT and Machine Learning based system for real-time monitoring and classification of water quality for drinking and irrigation use."
+    },
+    {
+      "date": "2026-09-04",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Dineshv52/claude-token-water",
+      "url": "https://github.com/Dineshv52/claude-token-water",
+      "snippet": "Stars:0 | The plugin a memorable environmental-cost visualisation without falsely claiming that the displayed water amount is an actual measurement"
+    },
+    {
+      "date": "2026-09-04",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ChanMeng666/slack-waterline-skill",
+      "url": "https://github.com/ChanMeng666/slack-waterline-skill",
+      "snippet": "Stars:0 | Read every message in a Slack workspace and prove nothing was missed — a Claude Code skill that catches you up, DMs you a daily/weekly digest, and drafts the reply. Zero dependencies, many workspaces from one install."
+    },
+    {
+      "date": "2026-09-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sjaiswalnetwork/sj-buddy",
+      "url": "https://github.com/sjaiswalnetwork/sj-buddy",
+      "snippet": "Stars:0 | Desktop toon companion for Windows: Shinchan, SpongeBob, Doraemon, Jethalal or Bhide sits on your taskbar, reacts when you type, reminds you to drink water and learns your routine. Free, no install."
     }
   ]
 }

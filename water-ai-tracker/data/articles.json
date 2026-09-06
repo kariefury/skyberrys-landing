@@ -6799,6 +6799,46 @@
       "title": "siddhikalate-ds/water-quality-analytics-",
       "url": "https://github.com/siddhikalate-ds/water-quality-analytics-",
       "snippet": "Stars:0 | A data science project for analyzing and predicting water quality using data analytics and machine learning."
+    },
+    {
+      "date": "2026-09-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kishoor-nm/water-quality-analytics",
+      "url": "https://github.com/kishoor-nm/water-quality-analytics",
+      "snippet": "Stars:0 | AI-powered full-stack web application for real-time water potability analysis, quality parameter assessment, and machine learning predictions."
+    },
+    {
+      "date": "2026-09-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ygdesai/Water-Potability-Prediction-Using-Explainable-Ensemble-Machine-Learning",
+      "url": "https://github.com/ygdesai/Water-Potability-Prediction-Using-Explainable-Ensemble-Machine-Learning",
+      "snippet": "Stars:0 | Explainable ensemble machine-learning system for predicting water potability using physicochemical water-quality data."
+    },
+    {
+      "date": "2026-09-06",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Institut-du-Numerique-Responsable/green-claude",
+      "url": "https://github.com/Institut-du-Numerique-Responsable/green-claude",
+      "snippet": "Stars:45 | 🌱 Eco-design skill for Claude Code: digital sobriety, RGESN/GR491 compliance, AI responsibility, eco-conception, frugal AI, carbon footprint, water/electricity/CPU/GPU optimization, sustainable software, green IT"
+    },
+    {
+      "date": "2026-09-06",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "kai-chop/agent-water-divination",
+      "url": "https://github.com/kai-chop/agent-water-divination",
+      "snippet": "Stars:0 | Measure the operator, not the model: carry your own Claude Code history into a corpus, let a judge model read it and name which of six 系統 your instructions actually show, in ウイング's voice, every quote machine-verified. AIの性能ではなく、AIを率いる側の系統を履歴から読む水見式（v3: 道具は運ぶだけ、読むのは判定層）"
     }
   ]
 }

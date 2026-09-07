@@ -6839,6 +6839,46 @@
       "title": "kai-chop/agent-water-divination",
       "url": "https://github.com/kai-chop/agent-water-divination",
       "snippet": "Stars:0 | Measure the operator, not the model: carry your own Claude Code history into a corpus, let a judge model read it and name which of six 系統 your instructions actually show, in ウイング's voice, every quote machine-verified. AIの性能ではなく、AIを率いる側の系統を履歴から読む水見式（v3: 道具は運ぶだけ、読むのは判定層）"
+    },
+    {
+      "date": "2026-09-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "dhyeyd1810/industrial-water-quality-analysis-ml",
+      "url": "https://github.com/dhyeyd1810/industrial-water-quality-analysis-ml",
+      "snippet": "Stars:0 | Machine learning models for predicting and analyzing industrial water quality."
+    },
+    {
+      "date": "2026-09-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Er-Rajas/aquaclass-Water-Quality-Classifier",
+      "url": "https://github.com/Er-Rajas/aquaclass-Water-Quality-Classifier",
+      "snippet": "Stars:0 | Exploratory investigation and machine learning classification of the AquaClass water quality dataset."
+    },
+    {
+      "date": "2026-09-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Lakshmi-Bhavani99/Drinking-Water-Quality-Analysis",
+      "url": "https://github.com/Lakshmi-Bhavani99/Drinking-Water-Quality-Analysis",
+      "snippet": "Stars:0 | Machine Learning-based web application for analyzing water quality parameters, predicting drinking water safety, visualizing results, and generating automated PDF reports."
+    },
+    {
+      "date": "2026-09-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Shivagupta9679/Aquaculture-Water-Quality-Index-Prediction-Using-Machine-Learning",
+      "url": "https://github.com/Shivagupta9679/Aquaculture-Water-Quality-Index-Prediction-Using-Machine-Learning",
+      "snippet": "Stars:0 | End-to-end Machine Learning project for predicting Aquaculture Water Quality Index using ensemble models"
     }
   ]
 }

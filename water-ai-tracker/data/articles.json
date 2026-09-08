@@ -6879,6 +6879,66 @@
       "title": "Shivagupta9679/Aquaculture-Water-Quality-Index-Prediction-Using-Machine-Learning",
       "url": "https://github.com/Shivagupta9679/Aquaculture-Water-Quality-Index-Prediction-Using-Machine-Learning",
       "snippet": "Stars:0 | End-to-end Machine Learning project for predicting Aquaculture Water Quality Index using ensemble models"
+    },
+    {
+      "date": "2026-09-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ahammadmejbah/Explainable-Machine-Learning-for-Drinking-Water-Quality-Assessment",
+      "url": "https://github.com/ahammadmejbah/Explainable-Machine-Learning-for-Drinking-Water-Quality-Assessment",
+      "snippet": "Stars:0 | An explainable machine learning framework assesses drinking water quality across Gilgit-Baltistan, identifying contamination patterns, predicting safety risks, and revealing key physicochemical and microbial factors influencing water quality."
+    },
+    {
+      "date": "2026-09-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Praveenraj1618/Water-Quality-Predictor",
+      "url": "https://github.com/Praveenraj1618/Water-Quality-Predictor",
+      "snippet": "Stars:0 | The Project aims in Predicting the Quality of Water based on few metrics with machine learning and classify them by quality level."
+    },
+    {
+      "date": "2026-09-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "thotamanikant/Water-Qualitity-Predicition",
+      "url": "https://github.com/thotamanikant/Water-Qualitity-Predicition",
+      "snippet": "Stars:0 | Machine learning-based water quality prediction system that predicts whether water is suitable for drinking using water quality parameters and Random Forest classification."
+    },
+    {
+      "date": "2026-09-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Arun20-cloud/water-impurity",
+      "url": "https://github.com/Arun20-cloud/water-impurity",
+      "snippet": "Stars:1 | Water Impurity Detection Tool using Machine Learning and Computer Vision to analyze water quality parameters such as pH, TDS, and turbidity and identify potential contamination risks."
+    },
+    {
+      "date": "2026-09-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "buseko-Actuary/pump-watch",
+      "url": "https://github.com/buseko-Actuary/pump-watch",
+      "snippet": "Stars:0 | SMS fault reporting and repair triage for rural water points in Zambia (SDG 6). Supplies the dated functionality records the national WPdx data has never had."
+    },
+    {
+      "date": "2026-09-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "WeiyeLi688/nutrient-abatement-llm-workflows",
+      "url": "https://github.com/WeiyeLi688/nutrient-abatement-llm-workflows",
+      "snippet": "Stars:0 | LLM-assisted construction of a nutrient abatement measure hierarchy and preliminary literature screening for coastal bay water quality management."
     }
   ]
 }

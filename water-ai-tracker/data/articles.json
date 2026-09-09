@@ -6939,6 +6939,46 @@
       "title": "WeiyeLi688/nutrient-abatement-llm-workflows",
       "url": "https://github.com/WeiyeLi688/nutrient-abatement-llm-workflows",
       "snippet": "Stars:0 | LLM-assisted construction of a nutrient abatement measure hierarchy and preliminary literature screening for coastal bay water quality management."
+    },
+    {
+      "date": "2026-09-09",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "mgiovani/water-gate",
+      "url": "https://github.com/mgiovani/water-gate",
+      "snippet": "Stars:0 | 💧 Claude Code plugin that blocks your next prompt until your webcam sees you drink water. 100% local, fail-open."
+    },
+    {
+      "date": "2026-09-09",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "jamesvillarrubia/nutprint",
+      "url": "https://github.com/jamesvillarrubia/nutprint",
+      "snippet": "Stars:0 | Shows AI water usage in your Claude Code status bar, converted to almonds."
+    },
+    {
+      "date": "2026-09-09",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "qpe1991bond-eng/Claude-water-mark",
+      "url": "https://github.com/qpe1991bond-eng/Claude-water-mark",
+      "snippet": "Stars:0 | Water mark"
+    },
+    {
+      "date": "2026-09-09",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "priyeshchowta/aqua-tokens",
+      "url": "https://github.com/priyeshchowta/aqua-tokens",
+      "snippet": "Stars:0 | Local CLI that converts Claude Code token logs into an estimated water-consumption range"
     }
   ]
 }

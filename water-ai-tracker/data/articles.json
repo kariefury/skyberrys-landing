@@ -6979,6 +6979,16 @@
       "title": "priyeshchowta/aqua-tokens",
       "url": "https://github.com/priyeshchowta/aqua-tokens",
       "snippet": "Stars:0 | Local CLI that converts Claude Code token logs into an estimated water-consumption range"
+    },
+    {
+      "date": "2026-09-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ABHINAYASRI-T/water-quality-prediction",
+      "url": "https://github.com/ABHINAYASRI-T/water-quality-prediction",
+      "snippet": "Stars:0 | A Flask-based Machine Learning Web Application for Water Quality Prediction"
     }
   ]
 }

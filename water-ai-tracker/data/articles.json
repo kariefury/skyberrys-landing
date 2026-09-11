@@ -6989,6 +6989,96 @@
       "title": "ABHINAYASRI-T/water-quality-prediction",
       "url": "https://github.com/ABHINAYASRI-T/water-quality-prediction",
       "snippet": "Stars:0 | A Flask-based Machine Learning Web Application for Water Quality Prediction"
+    },
+    {
+      "date": "2026-09-11",
+      "company": "anthropic",
+      "model_family": null,
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "The evolution of groundwater quality in France: perspectives for enduring use for human consumption.",
+      "url": "https://www.semanticscholar.org/paper/b05f805b984bb7b54e06de0fcffeaf1e34e9998a",
+      "snippet": ""
+    },
+    {
+      "date": "2026-09-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shirinzadeh-personal/water-potability",
+      "url": "https://github.com/shirinzadeh-personal/water-potability",
+      "snippet": "Stars:0 | An end-to-end machine learning project for predicting water potability from physicochemical water quality parameters."
+    },
+    {
+      "date": "2026-09-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "WQM-Project/water-quality-ml",
+      "url": "https://github.com/WQM-Project/water-quality-ml",
+      "snippet": "Stars:0 | Backend for real-time water quality monitoring. This repository contains the machine learning pipeline (EDA, training scripts, and inference modules) to process live sensor data (pH, TDS, Turbidity, DO, etc.) from an RC boat, classifying water potability, detecting contamination anomalies, and forecasting future parameter values."
+    },
+    {
+      "date": "2026-09-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mouboni07/Aqua-Alert",
+      "url": "https://github.com/mouboni07/Aqua-Alert",
+      "snippet": "Stars:0 | AquaAlert is a web-based water quality monitoring and risk prediction system that uses machine learning to predict dissolved oxygen levels and identify potential water-quality and algae-related risks from environmental data."
+    },
+    {
+      "date": "2026-09-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "DssRam24/HydroGaurd",
+      "url": "https://github.com/DssRam24/HydroGaurd",
+      "snippet": "Stars:0 | -Android application for Adaptive Machine Learning based water quality forecasting for the students and college administration "
+    },
+    {
+      "date": "2026-09-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Lahari09-sree/Spatial-Water-Quality-Analysis-and-Prediction-using-Machine-Learning-Techniques",
+      "url": "https://github.com/Lahari09-sree/Spatial-Water-Quality-Analysis-and-Prediction-using-Machine-Learning-Techniques",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-09-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "DarioAll77/Thirsty-Machines",
+      "url": "https://github.com/DarioAll77/Thirsty-Machines",
+      "snippet": "Stars:1 | AI data centers need huge amounts of water for cooling, but where should new ones go? This Building AI course project looks at how to pick locations with enough water, far from people, and with clean energy nearby — without making things worse for the planet."
+    },
+    {
+      "date": "2026-09-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "SuyamaCorporation/window-cleaning-frequency-water-hardness-guide",
+      "url": "https://github.com/SuyamaCorporation/window-cleaning-frequency-water-hardness-guide",
+      "snippet": "Stars:0 | AI-generated app: 地域水硬度・窓方角・花粉シーズン・排気ガス曝露から汚れやすさスコアを算出し、推奨清掃頻度・清掃方法・スケール防止コスト比較をlocalStorage保存付きで提示する窓ガラス清掃ガイドアプリ。 (zerohuman-labs daily 2026-09-11)"
+    },
+    {
+      "date": "2026-09-11",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "bmoresca/waterbar",
+      "url": "https://github.com/bmoresca/waterbar",
+      "snippet": "Stars:0 | How much water is Claude Code drinking? A macOS menu bar tally, and a thinking spinner that tells you."
     }
   ]
 }

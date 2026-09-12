@@ -7079,6 +7079,76 @@
       "title": "bmoresca/waterbar",
       "url": "https://github.com/bmoresca/waterbar",
       "snippet": "Stars:0 | How much water is Claude Code drinking? A macOS menu bar tally, and a thinking spinner that tells you."
+    },
+    {
+      "date": "2026-09-12",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "34% water storage left in Sangli, officials to brace for scarcity",
+      "url": "https://timesofindia.indiatimes.com/city/kolhapur/34-water-storage-left-in-sangli-officials-to-brace-for-scarcity/articleshow/134021065.cms",
+      "snippet": "Sangli reservoirs are at 34% storage across 83 dams; Guardian Minister Chandrakant Patil urges priority drinking water plans amid El Nino scarcity fears."
+    },
+    {
+      "date": "2026-09-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Richa30407/Algae-Based-Carbon-Sequestration-Monitoring-Platform",
+      "url": "https://github.com/Richa30407/Algae-Based-Carbon-Sequestration-Monitoring-Platform",
+      "snippet": "Stars:0 | AlgaeGuard is an AIoT-based water quality and algae monitoring platform using Arduino Uno, environmental sensors, and the Algae Carbon 360 machine learning model to predict algae growth and estimate CO₂ capture."
+    },
+    {
+      "date": "2026-09-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "KayKeerthana2112k3kannan/Water-Quality-Prediction-Using-ML-Models",
+      "url": "https://github.com/KayKeerthana2112k3kannan/Water-Quality-Prediction-Using-ML-Models",
+      "snippet": "Stars:0 | A web-based Water Quality Prediction System developed using Python and Django. It uses machine learning to predict whether water is safe or unsafe based on multiple quality parameters. The system provides user authentication, prediction, database storage, profile management, reports, and an admin module."
+    },
+    {
+      "date": "2026-09-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shirolananya-art/Real-time-water-analysis-system",
+      "url": "https://github.com/shirolananya-art/Real-time-water-analysis-system",
+      "snippet": "Stars:0 | Real-Time Water Analysis System is a low-cost smart solution that continuously monitors water quality using pH and turbidity sensors. Machine Learning detects abnormal conditions, while automated Gmail alerts notify users instantly, enabling quick action and reliable water quality monitoring."
+    },
+    {
+      "date": "2026-09-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "KrishnaHebbar07/GovGrid-",
+      "url": "https://github.com/KrishnaHebbar07/GovGrid-",
+      "snippet": "Stars:0 | Bharat Green Intelligence Grid (BGIG): An AI-powered national environmental, resource, and green-economy intelligence platform. Features cross-sector decision intelligence for water, waste circular economy, agriculture, clean energy microgrids, and a GIS digital twin with real-time IoT telemetry."
+    },
+    {
+      "date": "2026-09-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "priyaprajapati07/AquaWise",
+      "url": "https://github.com/priyaprajapati07/AquaWise",
+      "snippet": "Stars:0 | AI-powered web chatbot for SDG 6 – Clean Water & Sanitation, helping users learn practical ways to conserve water and reduce wastage"
+    },
+    {
+      "date": "2026-09-12",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "cameronbracken/waterology-research",
+      "url": "https://github.com/cameronbracken/waterology-research",
+      "snippet": "Stars:0 | Research skills, agents, and workflows for Claude Code, Codex, and OpenCode."
     }
   ]
 }

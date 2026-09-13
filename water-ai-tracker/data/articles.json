@@ -7149,6 +7149,36 @@
       "title": "cameronbracken/waterology-research",
       "url": "https://github.com/cameronbracken/waterology-research",
       "snippet": "Stars:0 | Research skills, agents, and workflows for Claude Code, Codex, and OpenCode."
+    },
+    {
+      "date": "2026-09-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "LokeshReddySangana/Drinking-Water-Quality-Prediction",
+      "url": "https://github.com/LokeshReddySangana/Drinking-Water-Quality-Prediction",
+      "snippet": "Stars:0 | Streamlit machine-learning app for predicting drinking water potability from uploaded water-quality datasets."
+    },
+    {
+      "date": "2026-09-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Arvindtechguy/skyfox",
+      "url": "https://github.com/Arvindtechguy/skyfox",
+      "snippet": "Stars:0 | Skyfox is an multi-role drone system with an automated quick-swap payload rack. It Combines emergency Health/Disaster response (emergency food, AED/ Medical kits, and BLE/AI victim tracking) with Smart solar panel maintenance (dust-density-based air/water cleaning) on a Parallel Rack System."
+    },
+    {
+      "date": "2026-09-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "BALASURIYA-PERIYASAMY/Solar_Panel_Efficiency_Optimizer-AI_Powered_Smart_Monitoring_System",
+      "url": "https://github.com/BALASURIYA-PERIYASAMY/Solar_Panel_Efficiency_Optimizer-AI_Powered_Smart_Monitoring_System",
+      "snippet": "Stars:0 | AI-driven solar panel optimization using AEGA, ESP32, and IoT sensors monitors dust, temperature, light, and power output. When efficiency drops, it automatically activates a water-pump cleaning system and displays real-time data on a Flask dashboard, reducing water consumption by 30–40% and maintenance costs by 25–30%."
     }
   ]
 }

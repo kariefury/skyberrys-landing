@@ -7179,6 +7179,66 @@
       "title": "BALASURIYA-PERIYASAMY/Solar_Panel_Efficiency_Optimizer-AI_Powered_Smart_Monitoring_System",
       "url": "https://github.com/BALASURIYA-PERIYASAMY/Solar_Panel_Efficiency_Optimizer-AI_Powered_Smart_Monitoring_System",
       "snippet": "Stars:0 | AI-driven solar panel optimization using AEGA, ESP32, and IoT sensors monitors dust, temperature, light, and power output. When efficiency drops, it automatically activates a water-pump cleaning system and displays real-time data on a Flask dashboard, reducing water consumption by 30–40% and maintenance costs by 25–30%."
+    },
+    {
+      "date": "2026-09-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Jack11111eee/Large-Diameter-Water-Supply-Network-Safety-Risk-Intelligent-Assessment-System",
+      "url": "https://github.com/Jack11111eee/Large-Diameter-Water-Supply-Network-Safety-Risk-Intelligent-Assessment-System",
+      "snippet": "Stars:0 | AI-driven risk assessment and decision support for large-diameter (≥DN300) urban water networks, fusing multi-source lifecycle data (GIS, SCADA, hydraulics) to enable precise risk detection, root-cause analysis, and smart O&M."
+    },
+    {
+      "date": "2026-09-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "aqshariqaq-bot/City-connect-Ai",
+      "url": "https://github.com/aqshariqaq-bot/City-connect-Ai",
+      "snippet": "Stars:0 | in our app you can complain where is type of daily life problems like water supply or Street dog problems etc etc we have different types of dashboards one citizens one for workers and one for government admin in our app a citizen will files a complaint then it will go to the admin dashboard the admin will assign the work to the worker and worker"
+    },
+    {
+      "date": "2026-09-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "asifahamed11/Leakage-Controlled-Water-Quality-Prediction",
+      "url": "https://github.com/asifahamed11/Leakage-Controlled-Water-Quality-Prediction",
+      "snippet": "Stars:0 | Reproducible Python pipeline for leakage-controlled one-day-ahead prediction of water level, turbidity, and specific conductance using chronological validation and tree-based machine-learning models."
+    },
+    {
+      "date": "2026-09-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AwanthiJayathilaka/Water_Quality_Prediction_UI",
+      "url": "https://github.com/AwanthiJayathilaka/Water_Quality_Prediction_UI",
+      "snippet": "Stars:0 | Machine learning-based automated water-quality monitoring and prediction system using sensor data to predict ORP (mV), NH4+ (ppm), NO3- (ppm), Chlo.a (ppb), Phycocyanin (ppb), and Sal (psu) through an interactive Streamlit web interface."
+    },
+    {
+      "date": "2026-09-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AlluKishore57/Water-Quality-Prediction",
+      "url": "https://github.com/AlluKishore57/Water-Quality-Prediction",
+      "snippet": "Stars:0 | Machine learning-based water quality prediction system using Random Forest and Streamlit."
+    },
+    {
+      "date": "2026-09-14",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ommistry15/wellness-reminder",
+      "url": "https://github.com/ommistry15/wellness-reminder",
+      "snippet": "Stars:0 | A tiny Windows tray app that reminds you to drink water, look away, and take walk breaks. Fully vibe coded with Claude Code."
     }
   ]
 }

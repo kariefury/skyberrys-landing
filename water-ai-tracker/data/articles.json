@@ -7239,6 +7239,26 @@
       "title": "ommistry15/wellness-reminder",
       "url": "https://github.com/ommistry15/wellness-reminder",
       "snippet": "Stars:0 | A tiny Windows tray app that reminds you to drink water, look away, and take walk breaks. Fully vibe coded with Claude Code."
+    },
+    {
+      "date": "2026-09-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "PurushGS/claude-water-extension",
+      "url": "https://github.com/PurushGS/claude-water-extension",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-09-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "PurushGS/claude-water-plugin",
+      "url": "https://github.com/PurushGS/claude-water-plugin",
+      "snippet": "Stars:0 | "
     }
   ]
 }

@@ -7259,6 +7259,76 @@
       "title": "PurushGS/claude-water-plugin",
       "url": "https://github.com/PurushGS/claude-water-plugin",
       "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-09-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AiOmarAdel/Water-Quality-Classification",
+      "url": "https://github.com/AiOmarAdel/Water-Quality-Classification",
+      "snippet": "Stars:0 | Machine Learning project for classifying water quality based on physicochemical properties using data preprocessing, exploratory data analysis, feature engineering, and classification models."
+    },
+    {
+      "date": "2026-09-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Blen1234/DRINKING-WATER-QUALITY-ANALYSIS-AND-MACHINE-LEARNING",
+      "url": "https://github.com/Blen1234/DRINKING-WATER-QUALITY-ANALYSIS-AND-MACHINE-LEARNING",
+      "snippet": "Stars:0 | DRINKING WATER QUALITY ANALYSIS AND MACHINE LEARNING"
+    },
+    {
+      "date": "2026-09-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "arihantjakkannavar90-coder/Real-time-water-analysis-system",
+      "url": "https://github.com/arihantjakkannavar90-coder/Real-time-water-analysis-system",
+      "snippet": "Stars:0 | Real-time water quality monitoring system using pH and turbidity sensors with Arduino UNO, Django dashboard, machine learning analysis, and automated Gmail alerts."
+    },
+    {
+      "date": "2026-09-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "astlinshijohash/AquaClean-Autonomous-Water-Surface-Cleaning-Robot",
+      "url": "https://github.com/astlinshijohash/AquaClean-Autonomous-Water-Surface-Cleaning-Robot",
+      "snippet": "Stars:0 | AquaClean is an autonomous water-surface cleaning robot designed to detect and collect floating waste. It combines AI-based waste detection, GPS navigation, obstacle avoidance, remote monitoring, and an automated collection system to improve water cleanliness while reducing manual effort."
+    },
+    {
+      "date": "2026-09-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Abinaya12042005/NeerNadai",
+      "url": "https://github.com/Abinaya12042005/NeerNadai",
+      "snippet": "Stars:0 | AI-powered area-wise water wastage monitoring dashboard for Chennai with a RAG chatbot advisor. Built for SDG 6 (Clean Water & Sanitation) — 1M1B AI for Sustainability Internship."
+    },
+    {
+      "date": "2026-09-17",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "Smallballoons01/hydration-coach",
+      "url": "https://github.com/Smallballoons01/hydration-coach",
+      "snippet": "Stars:1 | One water-reminder Agent Skill for every mainstream AI coding tool — Claude Code, Codex, Cursor, Gemini CLI, WorkBuddy and anything else that reads SKILL.md. Zero dependencies, auto-triggering hooks."
+    },
+    {
+      "date": "2026-09-17",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "rambi853/farm-to-fork-ledger",
+      "url": "https://github.com/rambi853/farm-to-fork-ledger",
+      "snippet": "Stars:0 | Interactive dashboard on the environmental footprint of 43 foods (GHG, water, land, eutrophication), built with Claude Code."
     }
   ]
 }

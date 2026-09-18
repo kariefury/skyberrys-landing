@@ -7329,6 +7329,36 @@
       "title": "rambi853/farm-to-fork-ledger",
       "url": "https://github.com/rambi853/farm-to-fork-ledger",
       "snippet": "Stars:0 | Interactive dashboard on the environmental footprint of 43 foods (GHG, water, land, eutrophication), built with Claude Code."
+    },
+    {
+      "date": "2026-09-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "hieutachi/water-quality-iot-ml",
+      "url": "https://github.com/hieutachi/water-quality-iot-ml",
+      "snippet": "Stars:0 | Huong dan NCKH: Giam sat & Du bao Chat luong nuoc Nuoi trong Thuy san bang IoT va Machine Learning - Nhom 67CNTT2 Truong Dai hoc Thuy Loi"
+    },
+    {
+      "date": "2026-09-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Vvedika05/AquaGuard",
+      "url": "https://github.com/Vvedika05/AquaGuard",
+      "snippet": "Stars:0 | AquaGuard — an end-to-end machine learning application for water-quality classification, model evaluation, and simulated real-time monitoring using Streamlit."
+    },
+    {
+      "date": "2026-09-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Niyati489/aquaguard-ai",
+      "url": "https://github.com/Niyati489/aquaguard-ai",
+      "snippet": "Stars:0 | Full-stack water quality and disease risk intelligence platform using React, FastAPI, PostgreSQL and Machine Learning."
     }
   ]
 }

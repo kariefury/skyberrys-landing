@@ -7359,6 +7359,26 @@
       "title": "Niyati489/aquaguard-ai",
       "url": "https://github.com/Niyati489/aquaguard-ai",
       "snippet": "Stars:0 | Full-stack water quality and disease risk intelligence platform using React, FastAPI, PostgreSQL and Machine Learning."
+    },
+    {
+      "date": "2026-09-19",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "Maharashtra govt foresees water scarcity, asks officials to ready action plan",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-govt-foresees-water-scarcity-asks-officials-to-ready-action-plan/articleshow/134317889.cms",
+      "snippet": "Maharashtra plans for drinking water scarcity Oct 2026–June 2027; officials told to draft action plans, boost conservation, fast-track Jal Jeevan Mission, limit tankers."
+    },
+    {
+      "date": "2026-09-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Rithwik-Reddy11/AI-Based-Environmental-Risk-Monitoring-Water-Quality-Intelligence-Platform",
+      "url": "https://github.com/Rithwik-Reddy11/AI-Based-Environmental-Risk-Monitoring-Water-Quality-Intelligence-Platform",
+      "snippet": "Stars:0 | Developed an AI-powered environmental monitoring platform using machine learning to predict water quality and classify pollution risk from multiple environmental parameters. Built an interactive Streamlit dashboard featuring WQI analysis, historical trends, , automated alerts, model explainability, and what-if environmental simulations."
     }
   ]
 }

@@ -7419,6 +7419,36 @@
       "title": "Krishna2005jpg/AquaCheck-water-risk-advisor",
       "url": "https://github.com/Krishna2005jpg/AquaCheck-water-risk-advisor",
       "snippet": "Stars:0 | AquaCheck — An AI-powered water contamination risk advisor. Logs observable conditions (storage duration, container, season, clarity/odor/color) to predict contamination risk and retrieve matching WHO/BIS safety guidance. Built for SDG 6 (Clean Water & Sanitation) as part of the 1M1B AI for Sustainability Virtual Internship."
+    },
+    {
+      "date": "2026-09-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "siri-thummala/Water-Quality-Prediction",
+      "url": "https://github.com/siri-thummala/Water-Quality-Prediction",
+      "snippet": "Stars:0 | Machine Learning project for predicting water quality using chemical parameters — combines domain knowledge in chemical engineering with AI techniques."
+    },
+    {
+      "date": "2026-09-21",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": null,
+      "source": "github",
+      "title": "AbdulSaqeebKalim/Drink-H2O",
+      "url": "https://github.com/AbdulSaqeebKalim/Drink-H2O",
+      "snippet": "Stars:0 | Drink H2O - ​A clean, interactive daily water tracking app built with Google AI Studio to help you hit your hydration goals."
+    },
+    {
+      "date": "2026-09-21",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "krilliam887/le-poisson-steve",
+      "url": "https://github.com/krilliam887/le-poisson-steve",
+      "snippet": "Stars:0 | A pixel-art fish with stick legs who lives on your Mac desktop and talks to you via Claude. Pat him, feed him goldfish (carefully), throw sticks, water Gerald… and don't let the chat go on too long."
     }
   ]
 }

@@ -7479,6 +7479,36 @@
       "title": "sitoplus2025/mission-air-bersih",
       "url": "https://github.com/sitoplus2025/mission-air-bersih",
       "snippet": "Stars:0 | Interactive learning experience for Indonesian persuasion texts with a clean water detective theme."
+    },
+    {
+      "date": "2026-09-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mmubarak3620-oss/Water-potability-prediction",
+      "url": "https://github.com/mmubarak3620-oss/Water-potability-prediction",
+      "snippet": "Stars:0 | Machine Learning project that predicts water potability using water quality parameters and a random forest clasifier"
+    },
+    {
+      "date": "2026-09-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "makwanaprithviraj19-LOOP/AquaInsights",
+      "url": "https://github.com/makwanaprithviraj19-LOOP/AquaInsights",
+      "snippet": "Stars:0 | AquaInsights - Water Quality Analytics Platform developed using Python, Streamlit, Pandas, NumPy, Plotly, Scikit-learn and Machine Learning."
+    },
+    {
+      "date": "2026-09-23",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Matswm86/vivarium-agent-skills",
+      "url": "https://github.com/Matswm86/vivarium-agent-skills",
+      "snippet": "Stars:0 | A sourced reference pack for building and stocking paludariums, vivariums, terrariums and aquariums: glass, climate, lighting, water, plants, animals, bioactive. 52 plain-Markdown files any agent can read, Claude or Qwen or GPT or a local model. Every number a decision rests on carries a source URL."
     }
   ]
 }

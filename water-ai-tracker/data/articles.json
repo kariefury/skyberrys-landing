@@ -7509,6 +7509,36 @@
       "title": "Matswm86/vivarium-agent-skills",
       "url": "https://github.com/Matswm86/vivarium-agent-skills",
       "snippet": "Stars:0 | A sourced reference pack for building and stocking paludariums, vivariums, terrariums and aquariums: glass, climate, lighting, water, plants, animals, bioactive. 52 plain-Markdown files any agent can read, Claude or Qwen or GPT or a local model. Every number a decision rests on carries a source URL."
+    },
+    {
+      "date": "2026-09-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ghabilaadithyaa624/ai-water-quality-platform",
+      "url": "https://github.com/ghabilaadithyaa624/ai-water-quality-platform",
+      "snippet": "Stars:0 | AI/ML Full-Stack Platform - 01 Classical Machine Learning"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "xai",
+      "model_family": "grok",
+      "model_variant": "grok-generic",
+      "source": "github",
+      "title": "aulakhs/yamuna-taj-journey",
+      "url": "https://github.com/aulakhs/yamuna-taj-journey",
+      "snippet": "Stars:0 | Interactive Three.js boat journey past the Taj Mahal, with dense autumn groves, realistic water, and Claude/Grok replication guides."
+    },
+    {
+      "date": "2026-09-24",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "menepet/planet-receipt",
+      "url": "https://github.com/menepet/planet-receipt",
+      "snippet": "Stars:0 | 🧾 A funny, research-based receipt for every AI answer: electricity, water, CO₂ and tree-time. Works with Claude, ChatGPT, Gemini and local models. Type /planet-receipt."
     }
   ]
 }

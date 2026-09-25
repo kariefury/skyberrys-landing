@@ -7539,6 +7539,76 @@
       "title": "menepet/planet-receipt",
       "url": "https://github.com/menepet/planet-receipt",
       "snippet": "Stars:0 | 🧾 A funny, research-based receipt for every AI answer: electricity, water, CO₂ and tree-time. Works with Claude, ChatGPT, Gemini and local models. Type /planet-receipt."
+    },
+    {
+      "date": "2026-09-25",
+      "company": "anthropic",
+      "model_family": null,
+      "model_variant": null,
+      "source": "semantic_scholar",
+      "title": "CottonBot: An AI-driven cotton farming assistant and irrigation advisor using LLM-RAG and agentic AI tools",
+      "url": "https://www.semanticscholar.org/paper/59dc55b1a5f92d80f08d0d0f12a753e641022620",
+      "snippet": ""
+    },
+    {
+      "date": "2026-09-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "acharya-aditya92/integrated-urban-groundwater-quality-assessment",
+      "url": "https://github.com/acharya-aditya92/integrated-urban-groundwater-quality-assessment",
+      "snippet": "Stars:0 | Integrated urban groundwater quality assessment using Water Quality Index, climate data, and machine learning."
+    },
+    {
+      "date": "2026-09-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Ndumisorh/water-quality-nh3n-predictor",
+      "url": "https://github.com/Ndumisorh/water-quality-nh3n-predictor",
+      "snippet": "Stars:0 | Machine-learning app that predicts and forecasts ammoniacal nitrogen (NH3-N) levels from water-quality data using Random Forest."
+    },
+    {
+      "date": "2026-09-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AjayGhale7/Water_Quality_Prediction",
+      "url": "https://github.com/AjayGhale7/Water_Quality_Prediction",
+      "snippet": "Stars:0 | This project predicts the potability of water based on parameters like pH, Turbidity, TDS, and Temperature using machine learning algorithms. It uses a Random Forest Classifier trained on the Kaggle Water Potability Dataset to classify water samples as safe or unsafe for drinking."
+    },
+    {
+      "date": "2026-09-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Akshitha2006-baikani/AI-Water-Quality-Prediction",
+      "url": "https://github.com/Akshitha2006-baikani/AI-Water-Quality-Prediction",
+      "snippet": "Stars:0 | AI-based water quality analysis and next-day pH prediction using machine learning"
+    },
+    {
+      "date": "2026-09-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "twysth/water-quality-intelligence",
+      "url": "https://github.com/twysth/water-quality-intelligence",
+      "snippet": "Stars:0 | Water quality analysis with Python, Machine Learning, SHAP and Streamlit."
+    },
+    {
+      "date": "2026-09-25",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "rl4yt/autocad-mcp",
+      "url": "https://github.com/rl4yt/autocad-mcp",
+      "snippet": "Stars:0 | IA dentro do AutoCAD via MCP (Claude ou Codex). Fork PT-BR de puran-water/autocad-mcp com auto-load e reconexão automática. L4 Engenharia."
     }
   ]
 }

@@ -7609,6 +7609,56 @@
       "title": "rl4yt/autocad-mcp",
       "url": "https://github.com/rl4yt/autocad-mcp",
       "snippet": "Stars:0 | IA dentro do AutoCAD via MCP (Claude ou Codex). Fork PT-BR de puran-water/autocad-mcp com auto-load e reconexão automática. L4 Engenharia."
+    },
+    {
+      "date": "2026-09-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "hariharanshizukah-svg/Smart_Water_Supply_management.",
+      "url": "https://github.com/hariharanshizukah-svg/Smart_Water_Supply_management.",
+      "snippet": "Stars:0 | AI_immersion Smart Water Supply anagement."
+    },
+    {
+      "date": "2026-09-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Kanhaiya219/Water_Quality_Predictor",
+      "url": "https://github.com/Kanhaiya219/Water_Quality_Predictor",
+      "snippet": "Stars:0 | 💧 Water Quality Prediction using Machine Learning & Streamlit. Predicts whether water is Potable or Not Potable based on 9 parameters. Built with Python, Scikit-learn & Streamlit."
+    },
+    {
+      "date": "2026-09-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "YarisHaris/Cleanup_apk",
+      "url": "https://github.com/YarisHaris/Cleanup_apk",
+      "snippet": "Stars:0 | Cleanup Protocol is a 3D sci-fi survival game where household helper robots turn hostile after an AI objective-alignment failure. Fight through a smart home using an EMP Water Blaster, collect breaker keys, and shut down the SmartHub before the Cleanup Protocol eliminates its final source of “contamination” — you."
+    },
+    {
+      "date": "2026-09-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "zey-netizen/GreenAI-Refactor",
+      "url": "https://github.com/zey-netizen/GreenAI-Refactor",
+      "snippet": "Stars:0 | AI usage detector on the backend to eliminate unnecessary calls, saving on API costs and conserving clean water."
+    },
+    {
+      "date": "2026-09-26",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "kimstoica/water-filter",
+      "url": "https://github.com/kimstoica/water-filter",
+      "snippet": "Stars:0 | Claude"
     }
   ]
 }

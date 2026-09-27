@@ -7659,6 +7659,76 @@
       "title": "kimstoica/water-filter",
       "url": "https://github.com/kimstoica/water-filter",
       "snippet": "Stars:0 | Claude"
+    },
+    {
+      "date": "2026-09-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "rahul142627/Water-Quality-Risk-Classification",
+      "url": "https://github.com/rahul142627/Water-Quality-Risk-Classification",
+      "snippet": "Stars:0 | An end-to-end, zero-cost machine learning prototype developed as a 10-day capstone project. This system evaluates physicochemical water parameters and classifies samples into safe or high-risk categories to assist in environmental safety monitoring."
+    },
+    {
+      "date": "2026-09-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ananyarnaik18/Water-Quality-Risk-Classification",
+      "url": "https://github.com/ananyarnaik18/Water-Quality-Risk-Classification",
+      "snippet": "Stars:0 | An end-to-end, zero-cost machine learning prototype developed as a 10-day capstone project. This system evaluates physicochemical water parameters and classifies samples into safe or high-risk categories to assist in environmental safety monitoring."
+    },
+    {
+      "date": "2026-09-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sollinselvand-source/Water-Quality-Prediction",
+      "url": "https://github.com/sollinselvand-source/Water-Quality-Prediction",
+      "snippet": "Stars:0 | HydroSense AI is an end-to-end Machine Learning web application designed to predict whether water is safe for human consumption based on 9 physicochemical parameters (such as pH, hardness, chloramines, and turbidity). "
+    },
+    {
+      "date": "2026-09-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AnupamaR14803/AI-Multi-Parameter-Quality-Intelligence-System",
+      "url": "https://github.com/AnupamaR14803/AI-Multi-Parameter-Quality-Intelligence-System",
+      "snippet": "Stars:0 | AI-based multi-parameter quality assessment system for analyzing water, food, air, and temperature data using machine learning, anomaly detection, and interactive dashboards"
+    },
+    {
+      "date": "2026-09-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "manahil2306/water-quality-capstone",
+      "url": "https://github.com/manahil2306/water-quality-capstone",
+      "snippet": "Stars:0 | A zero-cost, end-to-end machine learning solution for water potability classification. Covers data cleaning, EDA, model comparison (Logistic Regression, KNN, Decision Tree), hyperparameter tuning, and a Streamlit prediction app. Final model: tuned Decision Tree, ROC-AUC 0.613. Built for LearnDepth Academy's Track 1 Final Capstone"
+    },
+    {
+      "date": "2026-09-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "MeghanaSri-A/water-quality-prediction",
+      "url": "https://github.com/MeghanaSri-A/water-quality-prediction",
+      "snippet": "Stars:0 | A machine learning web app that predicts water contamination from physicochemical parameters like pH, turbidity, dissolved oxygen, and nitrate levels. Uses a Random Forest classifier served via a Flask API, with a React frontend for easy input and instant safe/contaminated predictions."
+    },
+    {
+      "date": "2026-09-27",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Nobatgeldi/webgpuDemo",
+      "url": "https://github.com/Nobatgeldi/webgpuDemo",
+      "snippet": "Stars:0 | WebGPU Water demo with claude"
     }
   ]
 }

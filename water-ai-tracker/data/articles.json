@@ -7729,6 +7729,36 @@
       "title": "Nobatgeldi/webgpuDemo",
       "url": "https://github.com/Nobatgeldi/webgpuDemo",
       "snippet": "Stars:0 | WebGPU Water demo with claude"
+    },
+    {
+      "date": "2026-09-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "magus24/SmartWater-Controle",
+      "url": "https://github.com/magus24/SmartWater-Controle",
+      "snippet": "Stars:0 | Interactive water supply map with AI-based leak detection (FastAPI + IsolationForest). Kuvasoy, Uzbekistan."
+    },
+    {
+      "date": "2026-09-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "saniak40/water_potability.",
+      "url": "https://github.com/saniak40/water_potability.",
+      "snippet": "Stars:0 | A machine learning pipeline designed to predict drinking water potability based on 9 core physicochemical properties, including pH, Hardness, Sulfate, and Chloramines. This project bridges chemical and environmental engineering with artificial intelligence to automate water quality assessments according to WHO parameter guidelines."
+    },
+    {
+      "date": "2026-09-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "SrishtikSekar/AquaKwal",
+      "url": "https://github.com/SrishtikSekar/AquaKwal",
+      "snippet": "Stars:0 | Large-Scale Water Quality Analytics and Pattern Discovery Using Distributed Big Data and Machine Learning"
     }
   ]
 }

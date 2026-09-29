@@ -7759,6 +7759,16 @@
       "title": "SrishtikSekar/AquaKwal",
       "url": "https://github.com/SrishtikSekar/AquaKwal",
       "snippet": "Stars:0 | Large-Scale Water Quality Analytics and Pattern Discovery Using Distributed Big Data and Machine Learning"
+    },
+    {
+      "date": "2026-09-29",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": "claude-generic",
+      "source": "github",
+      "title": "KJLKurt/waterslide-game-sonnet-5.5",
+      "url": "https://github.com/KJLKurt/waterslide-game-sonnet-5.5",
+      "snippet": "Stars:1 | a test to see how AI 0-shot performs against a game I have various models. This version is using Claude Sonnet 5.5 with EXTRA HIGH effort."
     }
   ]
 }

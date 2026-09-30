@@ -7769,6 +7769,86 @@
       "title": "KJLKurt/waterslide-game-sonnet-5.5",
       "url": "https://github.com/KJLKurt/waterslide-game-sonnet-5.5",
       "snippet": "Stars:1 | a test to see how AI 0-shot performs against a game I have various models. This version is using Claude Sonnet 5.5 with EXTRA HIGH effort."
+    },
+    {
+      "date": "2026-09-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "vamsikrishna116/smart_water_quality_monitor",
+      "url": "https://github.com/vamsikrishna116/smart_water_quality_monitor",
+      "snippet": "Stars:0 | The Smart Water Quality Monitoring System (SWQMS) uses sensors and IoT connectivity for real-time monitoring of water parameters such as pH, dissolved oxygen, turbidity, conductivity, and temperature. It uses machine learning to predict trends and detect anomalies, offering a scalable, cost-effective solution for water management."
+    },
+    {
+      "date": "2026-09-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "bhmeghanag-art/water-quality-classification",
+      "url": "https://github.com/bhmeghanag-art/water-quality-classification",
+      "snippet": "Stars:0 | Machine Learning project for classifying fish pond water quality"
+    },
+    {
+      "date": "2026-09-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Kks022/model_development",
+      "url": "https://github.com/Kks022/model_development",
+      "snippet": "Stars:0 | Model development integrates groundwater flow and nitrate transport modelling with GIS and machine learning. FEFLOW simulations and SVM, RF, BRT, and XGBoost models are developed, calibrated, and validated using hydrogeological and water-quality data to predict nitrate migration, identify hotspots, and support groundwater management."
+    },
+    {
+      "date": "2026-09-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "somu-r/Optimizing-Wastewater-Treatment-Through-Artificial-Intelligence",
+      "url": "https://github.com/somu-r/Optimizing-Wastewater-Treatment-Through-Artificial-Intelligence",
+      "snippet": "Stars:0 | AI-based water-quality analysis project that predicts water potability using pH, turbidity, dissolved oxygen, temperature, and TDS. Multiple machine learning models are compared, including Decision Tree, KNN, Logistic Regression, Random Forest, XGBoost, and SVM. XGBoost achieved a reported test accuracy of 96.73%."
+    },
+    {
+      "date": "2026-09-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kurayaminohikari/Water-Quality-Prediction-Dashboard",
+      "url": "https://github.com/kurayaminohikari/Water-Quality-Prediction-Dashboard",
+      "snippet": "Stars:0 | Hybrid Water Quality Prediction System using CPCB standards and Random Forest Machine Learning with an interactive Streamlit dashboard."
+    },
+    {
+      "date": "2026-09-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "swagatd67-hub/S3A3-MineVision",
+      "url": "https://github.com/swagatd67-hub/S3A3-MineVision",
+      "snippet": "Stars:1 | AI-powered robotic pipeline inspection, 3D mapping, cleaning and water-quality intelligence platform."
+    },
+    {
+      "date": "2026-09-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "idleprocesscc/paper-boats",
+      "url": "https://github.com/idleprocesscc/paper-boats",
+      "snippet": "Stars:0 | Paper boats on glinting water: paintings, songs and a brush Claude made for nerolette, with the code and how they were made. https://claude-n-koshi.cc/nerolette/"
+    },
+    {
+      "date": "2026-09-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "alphazolo12200-tech/sky-rangers-wildfire-rescue",
+      "url": "https://github.com/alphazolo12200-tech/sky-rangers-wildfire-rescue",
+      "snippet": "Stars:0 | Playable demo of Sky Rangers: Wildfire Rescue, a single-file HTML5 firefighting-aircraft game. Scoop water, read the wind, and put out the wildfire. Built with Claude Code."
     }
   ]
 }

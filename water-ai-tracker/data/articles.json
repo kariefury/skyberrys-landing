@@ -7849,6 +7849,76 @@
       "title": "alphazolo12200-tech/sky-rangers-wildfire-rescue",
       "url": "https://github.com/alphazolo12200-tech/sky-rangers-wildfire-rescue",
       "snippet": "Stars:0 | Playable demo of Sky Rangers: Wildfire Rescue, a single-file HTML5 firefighting-aircraft game. Scoop water, read the wind, and put out the wildfire. Built with Claude Code."
+    },
+    {
+      "date": "2026-10-01",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Lucky032516/Added-Water-Potability-Analysis-and-Prediction-project",
+      "url": "https://github.com/Lucky032516/Added-Water-Potability-Analysis-and-Prediction-project",
+      "snippet": "Stars:0 | A Machine Learning project for analyzing water quality parameters and predicting water potability. The project includes data preprocessing, exploratory data analysis, visualization, feature analysis, and ML model implementation to determine whether water is safe for drinking."
+    },
+    {
+      "date": "2026-10-01",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mohamedsadhathj-techwork/Smart-Aquaculture-Assistant",
+      "url": "https://github.com/mohamedsadhathj-techwork/Smart-Aquaculture-Assistant",
+      "snippet": "Stars:1 | AI-Powered Smart Aquaculture Assistant for fish health monitoring and water quality management using ESP32, sensors, and machine learning."
+    },
+    {
+      "date": "2026-10-01",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "gowtham786786/watercleaning-robot",
+      "url": "https://github.com/gowtham786786/watercleaning-robot",
+      "snippet": "Stars:0 | AI-powered autonomous water surface cleaning robot integrating robotics, sensors, computer vision, and automated waste collection for efficient water pollution management."
+    },
+    {
+      "date": "2026-10-01",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Sneha14-sudo/Smart-water-conservation-",
+      "url": "https://github.com/Sneha14-sudo/Smart-water-conservation-",
+      "snippet": "Stars:0 | https://claude.ai/share/96d3653b-8bd6-4ab4-adc1-706017505edb"
+    },
+    {
+      "date": "2026-10-01",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "kgiannopoulou/personal-home-helper",
+      "url": "https://github.com/kgiannopoulou/personal-home-helper",
+      "snippet": "Stars:0 | Personal Home Helper, all in one app: food & water, activity coach, kitchen inventory, shopping, money, chores, planner, weather and quick actions, with a home screen that connects them (Expo, React Native, Claude)."
+    },
+    {
+      "date": "2026-10-01",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "beausterling/drip-ai-water-usage",
+      "url": "https://github.com/beausterling/drip-ai-water-usage",
+      "snippet": "Stars:0 | How much water is your AI agent drinking? Live water-usage meter for Claude Code & Codex CLI — status line, split-pane meter, research-backed estimates."
+    },
+    {
+      "date": "2026-10-01",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "golapdk/claude-water-meter",
+      "url": "https://github.com/golapdk/claude-water-meter",
+      "snippet": "Stars:0 | A Claude Code status line extension that shows a live estimate of the water used by your AI sessions. Track tokens, water, and environmental impact right in your terminal."
     }
   ]
 }

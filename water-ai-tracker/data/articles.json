@@ -7919,6 +7919,36 @@
       "title": "golapdk/claude-water-meter",
       "url": "https://github.com/golapdk/claude-water-meter",
       "snippet": "Stars:0 | A Claude Code status line extension that shows a live estimate of the water used by your AI sessions. Track tokens, water, and environmental impact right in your terminal."
+    },
+    {
+      "date": "2026-10-02",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ooropuloo/skill-tank",
+      "url": "https://github.com/ooropuloo/skill-tank",
+      "snippet": "Stars:0 | Watch Claude Code load skills as cards dropping into a three.js aquarium — the water level is your context window, overflow = auto-compact. 用 3D 水缸看 Claude Code 的 skill 與 context 用量。"
+    },
+    {
+      "date": "2026-10-02",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "mbsoft/waterboy",
+      "url": "https://github.com/mbsoft/waterboy",
+      "snippet": "Stars:0 | Fantasy football assistant you text over iMessage. Runs on your Mac with Claude or ChatGPT."
+    },
+    {
+      "date": "2026-10-02",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "vedant-contentstack/dontfckmothernature",
+      "url": "https://github.com/vedant-contentstack/dontfckmothernature",
+      "snippet": "Stars:0 | See the water, energy and CO₂ behind your Claude Code and Codex usage, then pay it back."
     }
   ]
 }

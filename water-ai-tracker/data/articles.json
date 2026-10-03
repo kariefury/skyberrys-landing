@@ -7949,6 +7949,36 @@
       "title": "vedant-contentstack/dontfckmothernature",
       "url": "https://github.com/vedant-contentstack/dontfckmothernature",
       "snippet": "Stars:0 | See the water, energy and CO₂ behind your Claude Code and Codex usage, then pay it back."
+    },
+    {
+      "date": "2026-10-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Shariyakhan07/Water-Quality-Prediction-Using-Machine-Learning",
+      "url": "https://github.com/Shariyakhan07/Water-Quality-Prediction-Using-Machine-Learning",
+      "snippet": "Stars:0 | Water quality is an important environmental and public health concern. This project uses Machine Learning to predict whether a water sample is Potable (safe for drinking) or Not Potable based on different water quality parameters. "
+    },
+    {
+      "date": "2026-10-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ankitpandeybls108-spec/WaterQualityPrediction",
+      "url": "https://github.com/ankitpandeybls108-spec/WaterQualityPrediction",
+      "snippet": "Stars:0 | I is a machine learning model which predict ie water is potable or not "
+    },
+    {
+      "date": "2026-10-03",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Data-Crypto-Engineer/CarboQuest-Claude",
+      "url": "https://github.com/Data-Crypto-Engineer/CarboQuest-Claude",
+      "snippet": "Stars:0 | CarbonQuest is an Agentic AI digital twin that coordinates energy, solar, batteries, water and carbon decisions. Using real Pakistan grid data, manual meter inputs and multi-agent optimization, it helps facilities reduce costs, emissions and peak demand while maintaining water security."
     }
   ]
 }

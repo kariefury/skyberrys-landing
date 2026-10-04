@@ -7979,6 +7979,56 @@
       "title": "Data-Crypto-Engineer/CarboQuest-Claude",
       "url": "https://github.com/Data-Crypto-Engineer/CarboQuest-Claude",
       "snippet": "Stars:0 | CarbonQuest is an Agentic AI digital twin that coordinates energy, solar, batteries, water and carbon decisions. Using real Pakistan grid data, manual meter inputs and multi-agent optimization, it helps facilities reduce costs, emissions and peak demand while maintaining water security."
+    },
+    {
+      "date": "2026-10-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Calipha-Rayyan/AquaSwarm-AI",
+      "url": "https://github.com/Calipha-Rayyan/AquaSwarm-AI",
+      "snippet": "Stars:0 | Autonomous multi-agent AI system for predicting water shortages, detecting abnormal consumption, coordinating water supply, and verifying deliveries through an intelligent management workflow."
+    },
+    {
+      "date": "2026-10-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sanathsarker10/Aquashield-Water-Resilience-Operating-System",
+      "url": "https://github.com/sanathsarker10/Aquashield-Water-Resilience-Operating-System",
+      "snippet": "Stars:0 | AI-powered water resilience platform for large buildings. Combines data from municipal supply, borewells, rainwater, STP water and tankers to forecast a \"Water Security Horizon\" (days of usable water left) and recommend actions to cut shortages and tanker costs."
+    },
+    {
+      "date": "2026-10-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shoryamittal/Zero-Waste-Changeover-Engine",
+      "url": "https://github.com/shoryamittal/Zero-Waste-Changeover-Engine",
+      "snippet": "Stars:0 | The Zero-Waste Changeover Engine is an AI-powered decision and optimization system designed to reduce water consumption, cleaning time, chemical usage, and production downtime during multi-product manufacturing changeovers."
+    },
+    {
+      "date": "2026-10-04",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "SadiaAshrafi07/Gen-AI_Footprint_Lab",
+      "url": "https://github.com/SadiaAshrafi07/Gen-AI_Footprint_Lab",
+      "snippet": "Stars:0 | GenAI Footprint Lab is a Streamlit app that estimates the energy, carbon and water footprint of generative AI across 9 regions, tests ways to cut it, and shows the uncertainty. AI Studio adds a live LLM (Claude, OpenAI or Gemini): grounded advisor, prompt optimizer with LLM judge, executive memos. Works in demo mode without an API key."
+    },
+    {
+      "date": "2026-10-04",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "RiyanshiVerma-11/JalRakshak-AI",
+      "url": "https://github.com/RiyanshiVerma-11/JalRakshak-AI",
+      "snippet": "Stars:0 | 🌊 Autonomous Climate & Water Emergency Command Engine for Mumbai. Powered by AWS Strands 5-Agent DAG, Bedrock Claude 3.5 Sonnet, NDMA RAG & Rekognition. Turns raw monsoon IoT data into prioritized, human-authorized tactical actions in <600ms."
     }
   ]
 }

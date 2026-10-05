@@ -8029,6 +8029,36 @@
       "title": "RiyanshiVerma-11/JalRakshak-AI",
       "url": "https://github.com/RiyanshiVerma-11/JalRakshak-AI",
       "snippet": "Stars:0 | 🌊 Autonomous Climate & Water Emergency Command Engine for Mumbai. Powered by AWS Strands 5-Agent DAG, Bedrock Claude 3.5 Sonnet, NDMA RAG & Rekognition. Turns raw monsoon IoT data into prioritized, human-authorized tactical actions in <600ms."
+    },
+    {
+      "date": "2026-10-05",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "aksoaib8-eng/AI-ENABELD-DETECTION-AND-ANALYSIS-OF-MICROPLASTICS-IN-DRINKING-WATER-SYSTEMS",
+      "url": "https://github.com/aksoaib8-eng/AI-ENABELD-DETECTION-AND-ANALYSIS-OF-MICROPLASTICS-IN-DRINKING-WATER-SYSTEMS",
+      "snippet": "Stars:0 | An AI-powered system that detects and analyzes microplastics in drinking water using image processing and machine learning. It identifies potential microplastic particles, estimates their concentration, assesses contamination levels, and supports faster, smarter water-quality monitoring."
+    },
+    {
+      "date": "2026-10-05",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "YossiAbutbul/claude-water-reminder",
+      "url": "https://github.com/YossiAbutbul/claude-water-reminder",
+      "snippet": "Stars:1 | Claude Code plugin: the Claude critter reminds you to drink water"
+    },
+    {
+      "date": "2026-10-05",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "andriuskleinas/love-my-plants",
+      "url": "https://github.com/andriuskleinas/love-my-plants",
+      "snippet": "Stars:0 | Snap a photo of a house plant and know what it needs: AI health checks, watering that learns, rescue plans, plant-sitter links and a Telegram Plant Buddy. Next.js 16 + Supabase + Claude vision PWA."
     }
   ]
 }

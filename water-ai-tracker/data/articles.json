@@ -8059,6 +8059,36 @@
       "title": "andriuskleinas/love-my-plants",
       "url": "https://github.com/andriuskleinas/love-my-plants",
       "snippet": "Stars:0 | Snap a photo of a house plant and know what it needs: AI health checks, watering that learns, rescue plans, plant-sitter links and a Telegram Plant Buddy. Next.js 16 + Supabase + Claude vision PWA."
+    },
+    {
+      "date": "2026-10-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "6362192234/AI-Based-Water-Conservation-Assistant",
+      "url": "https://github.com/6362192234/AI-Based-Water-Conservation-Assistant",
+      "snippet": "Stars:0 | Analyze household and fixture-level water-consumption patterns across time. • Clean, validate, and prepare the real-world HSB dataset for machine-learning use."
+    },
+    {
+      "date": "2026-10-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sridharan-18/AI-Water-Guardian-",
+      "url": "https://github.com/sridharan-18/AI-Water-Guardian-",
+      "snippet": "Stars:0 | AI Water Guardian is a smart water-quality monitoring system that uses low-cost IoT sensors and AI anomaly detection to provide early warnings of potential contamination. It is designed to support SDG 6: Clean Water and Sanitation by ensuring safer drinking water for communities."
+    },
+    {
+      "date": "2026-10-06",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "austinWWGC/token-footprint",
+      "url": "https://github.com/austinWWGC/token-footprint",
+      "snippet": "Stars:0 | Windows desktop widget that turns Claude Code and Cowork token usage into estimated electricity, carbon, and water"
     }
   ]
 }

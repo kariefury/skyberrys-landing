@@ -8089,6 +8089,46 @@
       "title": "austinWWGC/token-footprint",
       "url": "https://github.com/austinWWGC/token-footprint",
       "snippet": "Stars:0 | Windows desktop widget that turns Claude Code and Cowork token usage into estimated electricity, carbon, and water"
+    },
+    {
+      "date": "2026-10-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kaledcorona/water-quality-classification-paper",
+      "url": "https://github.com/kaledcorona/water-quality-classification-paper",
+      "snippet": "Stars:2 | Code and data to reproduce \"Water Quality Classification via Cost-Efficient Machine Learning: A Case Study in Nuevo León\" (MICAI 2025, Springer LNAI)."
+    },
+    {
+      "date": "2026-10-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mohammadabdullahalsakib-sketch/AI-Based-Water-Quality-Monitoring-Pollution-Prediction-System",
+      "url": "https://github.com/mohammadabdullahalsakib-sketch/AI-Based-Water-Quality-Monitoring-Pollution-Prediction-System",
+      "snippet": "Stars:0 | A project on python using machine Learning and ai on AI-Based Water Quality Monitoring & Pollution Prediction System"
+    },
+    {
+      "date": "2026-10-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "buwenge/waterline",
+      "url": "https://github.com/buwenge/waterline",
+      "snippet": "Stars:0 | Claude Code 侧栏 mod：水位线——上下文 / 5 小时额度 / 周额度到线时，自动发一句你写好的话给 Claude"
+    },
+    {
+      "date": "2026-10-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "sverma24/sip-water-tracker",
+      "url": "https://github.com/sverma24/sip-water-tracker",
+      "snippet": "Stars:0 | Sip, a SwiftUI water tracker for iPhone that Claude Code built in three prompts. Full source + the exact prompts."
     }
   ]
 }

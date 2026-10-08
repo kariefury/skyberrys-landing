@@ -8129,6 +8129,56 @@
       "title": "sverma24/sip-water-tracker",
       "url": "https://github.com/sverma24/sip-water-tracker",
       "snippet": "Stars:0 | Sip, a SwiftUI water tracker for iPhone that Claude Code built in three prompts. Full source + the exact prompts."
+    },
+    {
+      "date": "2026-10-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "swapnilnaik29/FlowSense-AI-AI-Powered-Water-Infrastructure-Intelligence",
+      "url": "https://github.com/swapnilnaik29/FlowSense-AI-AI-Powered-Water-Infrastructure-Intelligence",
+      "snippet": "Stars:0 | FlowSense AI is an intelligent municipal water management system that uses flow and pressure data, machine learning, and AI to detect pipeline leakages, predict infrastructure failures, prioritize repair work, and notify affected citizens about water supply disruptions. Detect. Predict. Prioritize. Inform."
+    },
+    {
+      "date": "2026-10-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sethharsh-09/River-Water-Quality-Analytics",
+      "url": "https://github.com/sethharsh-09/River-Water-Quality-Analytics",
+      "snippet": "Stars:0 | End-to-end River Water Quality Analytics and Machine Learning System"
+    },
+    {
+      "date": "2026-10-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "hamzashafiqraja/Water-Quality-AI",
+      "url": "https://github.com/hamzashafiqraja/Water-Quality-AI",
+      "snippet": "Stars:0 | Machine Learning based Water Quality Prediction with SHAP Explainability and Streamlit"
+    },
+    {
+      "date": "2026-10-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "taniyachandra/Smart-Water-Body-Monitoring-System",
+      "url": "https://github.com/taniyachandra/Smart-Water-Body-Monitoring-System",
+      "snippet": "Stars:0 | A full-stack MERN web application to monitor the quality of India's rivers and lakes, report pollution, and explore live sensor readings, trends and machine-learning based water quality prediction."
+    },
+    {
+      "date": "2026-10-08",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "EvanDongChen/ShowMeTheMonet",
+      "url": "https://github.com/EvanDongChen/ShowMeTheMonet",
+      "snippet": "Stars:0 | An endlessly varied, procedurally painted Bridge over a Pond of Water Lilies (after Claude Monet, 1899), with a rowboat you can take into the painting."
     }
   ]
 }

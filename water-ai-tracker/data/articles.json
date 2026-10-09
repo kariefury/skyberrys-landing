@@ -8179,6 +8179,36 @@
       "title": "EvanDongChen/ShowMeTheMonet",
       "url": "https://github.com/EvanDongChen/ShowMeTheMonet",
       "snippet": "Stars:0 | An endlessly varied, procedurally painted Bridge over a Pond of Water Lilies (after Claude Monet, 1899), with a rowboat you can take into the painting."
+    },
+    {
+      "date": "2026-10-09",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "samuelrebel/Machine-learning-water-quality",
+      "url": "https://github.com/samuelrebel/Machine-learning-water-quality",
+      "snippet": "Stars:0 | Basin-scale water quality prediction pipeline using WQMS observations, HydroBASINS/HydroATLAS predictors, Random Forest models, spatial prediction maps, feature importance, and leave-station-out validation."
+    },
+    {
+      "date": "2026-10-09",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "robbyDAninja/swat-watersports-foundation",
+      "url": "https://github.com/robbyDAninja/swat-watersports-foundation",
+      "snippet": "Stars:0 | SWAT Watersports review foundation with an Erinn/Claude GitHub and Cloudflare Workers handoff."
+    },
+    {
+      "date": "2026-10-09",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "VladGirboan/claude-breaks",
+      "url": "https://github.com/VladGirboan/claude-breaks",
+      "snippet": "Stars:0 | Cooldown-style health reminders for Claude Code: water, eyes, stretch, walk."
     }
   ]
 }

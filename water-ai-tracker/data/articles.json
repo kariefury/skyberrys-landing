@@ -8209,6 +8209,36 @@
       "title": "VladGirboan/claude-breaks",
       "url": "https://github.com/VladGirboan/claude-breaks",
       "snippet": "Stars:0 | Cooldown-style health reminders for Claude Code: water, eyes, stretch, walk."
+    },
+    {
+      "date": "2026-10-10",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nelmkt/Maeen",
+      "url": "https://github.com/nelmkt/Maeen",
+      "snippet": "Stars:0 | Maeen: real-time leak and water-quality detection for water pipelines using machine learning"
+    },
+    {
+      "date": "2026-10-10",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "sevas/eco-status",
+      "url": "https://github.com/sevas/eco-status",
+      "snippet": "Stars:0 | Claude Code mod: rough CO2/water/energy estimate of your session"
+    },
+    {
+      "date": "2026-10-10",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "winsomeplanet/winsome-ireland-claude",
+      "url": "https://github.com/winsomeplanet/winsome-ireland-claude",
+      "snippet": "Stars:0 | Winsome Ireland plugin for Claude: Ireland's outdoors from official open data (EPA bathing water, Met Éireann, trails, forests, heritage)"
     }
   ]
 }

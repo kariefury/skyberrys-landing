@@ -8239,6 +8239,136 @@
       "title": "winsomeplanet/winsome-ireland-claude",
       "url": "https://github.com/winsomeplanet/winsome-ireland-claude",
       "snippet": "Stars:0 | Winsome Ireland plugin for Claude: Ireland's outdoors from official open data (EPA bathing water, Met Éireann, trails, forests, heritage)"
+    },
+    {
+      "date": "2026-10-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Jyoti-coder-1004/water-supply-memorizing-project",
+      "url": "https://github.com/Jyoti-coder-1004/water-supply-memorizing-project",
+      "snippet": "Stars:0 | 💧 AI-Powered Water Supply Management | 🌿 Green India Theme | 🤖 Smart Chatbot | 🇮🇳 Water Conservation & Community Support"
+    },
+    {
+      "date": "2026-10-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mdfazal547/River-Water-Quality-Analytics",
+      "url": "https://github.com/mdfazal547/River-Water-Quality-Analytics",
+      "snippet": "Stars:0 | River water quality prediction and analytics using Machine Learning and Streamlit."
+    },
+    {
+      "date": "2026-10-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "prabhanshusinha/Water_Potability_Prediction",
+      "url": "https://github.com/prabhanshusinha/Water_Potability_Prediction",
+      "snippet": "Stars:1 | End-to-end Machine Learning project to predict water potability using water quality parameters, data preprocessing, exploratory data analysis, and classification models."
+    },
+    {
+      "date": "2026-10-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sejalyadav-analytics/Water-Quality-Analysis-and-Potability-Classification",
+      "url": "https://github.com/sejalyadav-analytics/Water-Quality-Analysis-and-Potability-Classification",
+      "snippet": "Stars:0 | Water quality analysis and potability classification using Python and machine learning"
+    },
+    {
+      "date": "2026-10-11",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "anugrah-eng/visarjan-ghat-watch",
+      "url": "https://github.com/anugrah-eng/visarjan-ghat-watch",
+      "snippet": "Stars:0 | Bhopal immersion-ghat water tests checked against CPCB bathing limits: alerts, map, bilingual brief (Claude Impact Lab 2026, Track 2)"
+    },
+    {
+      "date": "2026-10-11",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "bitCrafterDS/visarjan-ghat-watch",
+      "url": "https://github.com/bitCrafterDS/visarjan-ghat-watch",
+      "snippet": "Stars:0 | Ranks Bhopal’s idol-immersion ghats by water-test risk before Durga visarjan, with the report page behind every number and a Hindi/English brief. Claude Impact Lab Bhopal 2026, Track 2."
+    },
+    {
+      "date": "2026-10-11",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "jayeshrajani/NeerSetu",
+      "url": "https://github.com/jayeshrajani/NeerSetu",
+      "snippet": "Stars:0 | NeerSetu | An AI-powered, evidence-based water quality monitoring and decision-support platform for Bhopal's immersion ghats. Built for the Claude Impact Lab Hackathon 2026, Bhopal."
+    },
+    {
+      "date": "2026-10-11",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Nikhilncy/visarjan-sentinel",
+      "url": "https://github.com/Nikhilncy/visarjan-sentinel",
+      "snippet": "Stars:0 | Evidence-backed water-quality follow-up prioritisation for Bhopal immersion ghats (Claude Impact Lab Bhopal 2026, Track 2)"
+    },
+    {
+      "date": "2026-10-11",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "christian-engels/claude-footprint",
+      "url": "https://github.com/christian-engels/claude-footprint",
+      "snippet": "Stars:0 | Claude Code mod: estimated electricity ⚡ and water 💧 behind each turn and session, with sources"
+    },
+    {
+      "date": "2026-10-11",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ArgonQQ/sipp",
+      "url": "https://github.com/ArgonQQ/sipp",
+      "snippet": "Stars:2 | 💧 A passive-aggressive water reminder for Claude Code. Zero tokens, maximum judgment."
+    },
+    {
+      "date": "2026-10-11",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "GoSlowPoke168/claude-statusline",
+      "url": "https://github.com/GoSlowPoke168/claude-statusline",
+      "snippet": "Stars:8 | Two-line truecolor statusline for Claude Code (bash + native Windows PowerShell): model, effort, context bar, cost, rate-limit resets, git branch, plus an optional water-usage estimate with everyday equivalents. One-line install."
+    },
+    {
+      "date": "2026-10-11",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "teambepo/buckel",
+      "url": "https://github.com/teambepo/buckel",
+      "snippet": "Stars:0 | A macOS menu bar app for Claude Code power users: it shows the live CPU, GPU and memory load of everything Claude Code runs on the Mac, by session, and reminds you to sit straight, touch grass and drink water. A shade dims the screen below the Mac's lowest brightness for the night."
+    },
+    {
+      "date": "2026-10-11",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "Showrish/Smart-Water-Quality-Prediction-using-IoT-and-ML-",
+      "url": "https://github.com/Showrish/Smart-Water-Quality-Prediction-using-IoT-and-ML-",
+      "snippet": "Stars:0 | Water quality prediction for aquaculture: LSTM, GRU and CNN models, a live Firebase web app and a Gemini-powered fish water conditions lookup"
     }
   ]
 }

@@ -8369,6 +8369,46 @@
       "title": "Showrish/Smart-Water-Quality-Prediction-using-IoT-and-ML-",
       "url": "https://github.com/Showrish/Smart-Water-Quality-Prediction-using-IoT-and-ML-",
       "snippet": "Stars:0 | Water quality prediction for aquaculture: LSTM, GRU and CNN models, a live Firebase web app and a Gemini-powered fish water conditions lookup"
+    },
+    {
+      "date": "2026-10-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "younseong/WaterQualityIndex",
+      "url": "https://github.com/younseong/WaterQualityIndex",
+      "snippet": "Stars:0 | Machine learning models for water quality prediction and assessment"
+    },
+    {
+      "date": "2026-10-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Kona28/Water-Quality-and-Potability",
+      "url": "https://github.com/Kona28/Water-Quality-and-Potability",
+      "snippet": "Stars:0 | Tugas Machine Learning - Prapemrosesan dan Klasifikasi Kualitas Air (Water Quality and Potability)"
+    },
+    {
+      "date": "2026-10-12",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kashmirtrip105-afk/Python_pds",
+      "url": "https://github.com/kashmirtrip105-afk/Python_pds",
+      "snippet": "Stars:0 | Python-based water-quality monitoring and analytics system using Streamlit, statistical analysis, data visualization, and machine learning."
+    },
+    {
+      "date": "2026-10-12",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "m-ayyad/hydro-mcp-agent",
+      "url": "https://github.com/m-ayyad/hydro-mcp-agent",
+      "snippet": "Stars:0 | MCP server and Claude agent for live USGS water data: guardrails, web demo UI, and AWS EC2 deployment"
     }
   ]
 }

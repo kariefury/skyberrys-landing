@@ -8409,6 +8409,96 @@
       "title": "m-ayyad/hydro-mcp-agent",
       "url": "https://github.com/m-ayyad/hydro-mcp-agent",
       "snippet": "Stars:0 | MCP server and Claude agent for live USGS water data: guardrails, web demo UI, and AWS EC2 deployment"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "transcenddev/agwasuri",
+      "url": "https://github.com/transcenddev/agwasuri",
+      "snippet": "Stars:6 | A solar-powered IoT and machine-learning system that monitors water quality in real time and recommends suitable aquaculture species for fishponds."
+    },
+    {
+      "date": "2026-10-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "KhalisTk/Water-Potability-Prediction",
+      "url": "https://github.com/KhalisTk/Water-Potability-Prediction",
+      "snippet": "Stars:0 | A Machine Learning Pipeline to predict the potability of water from physical-chemical water quality data, comparing XGBoost and LSTM models (SDG 6)."
+    },
+    {
+      "date": "2026-10-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shalinsouraj-sudo/Smart-Water-Quality",
+      "url": "https://github.com/shalinsouraj-sudo/Smart-Water-Quality",
+      "snippet": "Stars:0 | Smart Water Quality Monitoring System using Machine Learning"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "aribahwfn/EcoFlow-Wastewater-Monitoring-Dashboard",
+      "url": "https://github.com/aribahwfn/EcoFlow-Wastewater-Monitoring-Dashboard",
+      "snippet": "Stars:0 | Machine Learning - Based Anomaly Detection and Trend Prediction for Industrial Effluent Water Quality Monitoring"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "IshikaGaur318/citypulse-ai",
+      "url": "https://github.com/IshikaGaur318/citypulse-ai",
+      "snippet": "Stars:0 | Full-stack AI-powered smart city dashboard for predicting traffic flow, air quality, energy usage, and water reserves using machine learning, React, Node.js, Python, and MongoDB."
+    },
+    {
+      "date": "2026-10-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mounikachalluri417-lgtm/WaterQualityPrediction",
+      "url": "https://github.com/mounikachalluri417-lgtm/WaterQualityPrediction",
+      "snippet": "Stars:0 | End-to-end Water Quality Prediction using Machine Learning, FastAPI, Docker, MLflow, and GitHub Actions CI/CD."
+    },
+    {
+      "date": "2026-10-13",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "movanet/water-tenure-skills",
+      "url": "https://github.com/movanet/water-tenure-skills",
+      "snippet": "Stars:0 | AI agent skills (Claude Code plugin) for water tenure analysis on the FAO typology: source-cited catalogues, reports by tenure type, media scans, storymap publishing. Vibe-coded with AI agents, orchestrated by Mohamad Mova Al'Afghani (CRPG)."
+    },
+    {
+      "date": "2026-10-13",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "bepolabs/buckel",
+      "url": "https://github.com/bepolabs/buckel",
+      "snippet": "Stars:0 | rex watches claude. buckel watches your back. A macOS menu bar app for Claude Code power users: rex, a watchdog for your coordinator and waiting chats; live CPU, GPU and memory of everything Claude runs, by session; reminders to sit straight, drink water and touch grass; a shade for the night; a mute for what sessions play."
+    },
+    {
+      "date": "2026-10-13",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "erwnxo2/fireboy-and-watergirl-online-mp",
+      "url": "https://github.com/erwnxo2/fireboy-and-watergirl-online-mp",
+      "snippet": "Stars:0 | Fireboy and Watergirl Online Multiplayer mod by claude"
     }
   ]
 }

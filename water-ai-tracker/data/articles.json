@@ -8499,6 +8499,76 @@
       "title": "erwnxo2/fireboy-and-watergirl-online-mp",
       "url": "https://github.com/erwnxo2/fireboy-and-watergirl-online-mp",
       "snippet": "Stars:0 | Fireboy and Watergirl Online Multiplayer mod by claude"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nila-26/Water-Quality-Risk-Prediction-System",
+      "url": "https://github.com/nila-26/Water-Quality-Risk-Prediction-System",
+      "snippet": "Stars:0 | Water Quality Risk Assessment for Water-Borne Disease Prevention Using Machine Learning"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kavinda44/water-quality-phase2-baseline",
+      "url": "https://github.com/kavinda44/water-quality-phase2-baseline",
+      "snippet": "Stars:0 | Machine Learning Phase 2 coursework: Water quality classification using Logistic Regression with and without SMOTE, including data preprocessing, hyperparameter tuning and model evaluation."
+    },
+    {
+      "date": "2026-10-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "prabhatmaharana402-create/smart-hostel-management",
+      "url": "https://github.com/prabhatmaharana402-create/smart-hostel-management",
+      "snippet": "Stars:0 | A Smart Hostel Management System web application for managing hostel complaints, tracking cleaning and water issues, digital gate-pass requests, mentor and parent approvals, and AI/ML-based complaint priority prediction."
+    },
+    {
+      "date": "2026-10-14",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "D4vRAM369/vaso-de-contexto",
+      "url": "https://github.com/D4vRAM369/vaso-de-contexto",
+      "snippet": "Stars:0 | Local context meter for Claude Code sessions: a glass of water that fills up, with a Cinnamon panel applet"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ygruns/burger-water",
+      "url": "https://github.com/ygruns/burger-water",
+      "snippet": "Stars:0 | Claude Code mod: your all-time token usage as water use, measured in hamburgers"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "TripylonMedia/ClaudeWaterCycle",
+      "url": "https://github.com/TripylonMedia/ClaudeWaterCycle",
+      "snippet": "Stars:0 | Creating an agentic AI system for Water Cycle"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "enewellUC/Nirrig_CentralValley_github",
+      "url": "https://github.com/enewellUC/Nirrig_CentralValley_github",
+      "snippet": "Stars:0 | Adaptation of Fig. 2 from Serra et al., \"Global analysis of nitrogen inputs from irrigation water to cropland\" (Nature Sustainability, 2026), re-centered on California's Central Valley. Scripts written primarily using Claude."
     }
   ]
 }

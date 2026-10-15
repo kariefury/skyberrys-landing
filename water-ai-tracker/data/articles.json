@@ -8569,6 +8569,116 @@
       "title": "enewellUC/Nirrig_CentralValley_github",
       "url": "https://github.com/enewellUC/Nirrig_CentralValley_github",
       "snippet": "Stars:0 | Adaptation of Fig. 2 from Serra et al., \"Global analysis of nitrogen inputs from irrigation water to cropland\" (Nature Sustainability, 2026), re-centered on California's Central Valley. Scripts written primarily using Claude."
+    },
+    {
+      "date": "2026-10-15",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "Maharashtra CM Devendra Fadnavis expands drought-hit talukas to 305, announces ₹5,000 Diwali bonus for farmers",
+      "url": "https://economictimes.indiatimes.com/news/india/maharashtra-cm-devendra-fadnavis-expands-drought-hit-talukas-to-305-announces-5000-diwali-bonus-for-farmers/articleshow/134936388.cms",
+      "snippet": "Maharashtra Chief Minister Devendra Fadnavis announced the expansion of the drought declaration to 305 talukas. A Diwali bonus of ₹5,000 will be deposited into farmers' accounts to alleviate financial distress. The government is also monitoring drinking water…"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mansivarpe/AquaSense_AI",
+      "url": "https://github.com/mansivarpe/AquaSense_AI",
+      "snippet": "Stars:0 | AquaSense AI: An IoT and Machine Learning-Based Water Level and Water Quality Monitoring and Prediction System"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "anushchougale/AquaSense_AI",
+      "url": "https://github.com/anushchougale/AquaSense_AI",
+      "snippet": "Stars:0 | AquaSense AI: An IoT and Machine Learning-Based Water Level and Water Quality Monitoring and Prediction System"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sagarsaggy23/aquaponicssystem",
+      "url": "https://github.com/sagarsaggy23/aquaponicssystem",
+      "snippet": "Stars:0 | IoT-based smart aquaponics system using ESP32-CAM and machine learning for automated fish feeding, water quality monitoring and plant nutrient tracking, with a web dashboard."
+    },
+    {
+      "date": "2026-10-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "suryarajamani75-netizen/AquaPredict",
+      "url": "https://github.com/suryarajamani75-netizen/AquaPredict",
+      "snippet": "Stars:0 | Machine Learning-Based Water Quality Assessment and Potability Prediction"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Phani2617/Quality-of-water-Testing",
+      "url": "https://github.com/Phani2617/Quality-of-water-Testing",
+      "snippet": "Stars:0 | Smart Water Quality Monitoring and Prediction Using Machine Learning"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "saytooyum/AquaPulse",
+      "url": "https://github.com/saytooyum/AquaPulse",
+      "snippet": "Stars:1 | Machine learning-based water quality assessment using GEMStat data and Random Forest classification."
+    },
+    {
+      "date": "2026-10-15",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "JoaoLucasMelo/vivara-claude-plugin",
+      "url": "https://github.com/JoaoLucasMelo/vivara-claude-plugin",
+      "snippet": "Stars:0 | Vivara plugin for Claude: log meals and water and review your nutrition from a conversation."
+    },
+    {
+      "date": "2026-10-15",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "leon-lourenco/green-ai",
+      "url": "https://github.com/leon-lourenco/green-ai",
+      "snippet": "Stars:0 | Claude Code plugins that make the environmental cost of AI visible. Friendly Reminder shows the water behind every response."
+    },
+    {
+      "date": "2026-10-15",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "miscusi-crew/aiindex-water-tracker",
+      "url": "https://github.com/miscusi-crew/aiindex-water-tracker",
+      "snippet": "Stars:0 | Log glasses of water and hit your daily goal. Runs offline in your browser; made with Claude Code for AI Index."
+    },
+    {
+      "date": "2026-10-15",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "priyagoyalofficial/WateringCan",
+      "url": "https://github.com/priyagoyalofficial/WateringCan",
+      "snippet": "Stars:0 | Watering Can: plant-care web app and Claude-powered plant agent"
     }
   ]
 }

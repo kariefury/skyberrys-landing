@@ -8679,6 +8679,76 @@
       "title": "priyagoyalofficial/WateringCan",
       "url": "https://github.com/priyagoyalofficial/WateringCan",
       "snippet": "Stars:0 | Watering Can: plant-care web app and Claude-powered plant agent"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "3nrlque/Water-potability-classification",
+      "url": "https://github.com/3nrlque/Water-potability-classification",
+      "snippet": "Stars:0 | Machine learning and ANN-based water quality assessment, evaluating MLP and Random Forest classifiers on physicochemical water potability metrics."
+    },
+    {
+      "date": "2026-10-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "SharmaNitin987/Aqua-Epoch--Team-NEXA",
+      "url": "https://github.com/SharmaNitin987/Aqua-Epoch--Team-NEXA",
+      "snippet": "Stars:0 | Aqua-Epoch water quality prediction using machine learning"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nomster95/water-potability-prediction",
+      "url": "https://github.com/nomster95/water-potability-prediction",
+      "snippet": "Stars:0 | 💧 Machine learning project that predicts water potability using water-quality features, an SVM classifier, and an interactive Streamlit web app."
+    },
+    {
+      "date": "2026-10-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "heemanshika-sunflower/water-quality-monitoring-agent",
+      "url": "https://github.com/heemanshika-sunflower/water-quality-monitoring-agent",
+      "snippet": "Stars:0 | Water Quality Monitoring Agent | Python, Machine Learning & Streamlit  A machine learning-based water quality monitoring dashboard built using Python, Streamlit, and Random Forest. Features interactive graphs, water quality parameter analysis, prediction results, and recommendations through an attractive, user-friendly interface. 💧📊"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "tesarwijaya/water-bar",
+      "url": "https://github.com/tesarwijaya/water-bar",
+      "snippet": "Stars:0 | Estimate the water AI inference consumes, shown live in Claude Code and OpenCode."
+    },
+    {
+      "date": "2026-10-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "mattoddie/hive-mcp",
+      "url": "https://github.com/mattoddie/hive-mcp",
+      "snippet": "Stars:0 | MCP server for Hive heating: check and control your thermostat, hot water, radiator valves, plugs and lights from Claude and other AI assistants. Runs in Docker."
+    },
+    {
+      "date": "2026-10-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Pure-Water-Automations/agent-skills",
+      "url": "https://github.com/Pure-Water-Automations/agent-skills",
+      "snippet": "Stars:0 | Reusable Claude Code skills from Pure Water Automations"
     }
   ]
 }

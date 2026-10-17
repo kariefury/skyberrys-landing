@@ -8749,6 +8749,36 @@
       "title": "Pure-Water-Automations/agent-skills",
       "url": "https://github.com/Pure-Water-Automations/agent-skills",
       "snippet": "Stars:0 | Reusable Claude Code skills from Pure Water Automations"
+    },
+    {
+      "date": "2026-10-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Tuguzbay/alberta-grid-watch",
+      "url": "https://github.com/Tuguzbay/alberta-grid-watch",
+      "snippet": "Stars:1 | Real AESO data on what large new loads like AI data centres could mean for Alberta's grid and power prices: forecasts, supply cushion, emissions and water."
+    },
+    {
+      "date": "2026-10-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Rosh-am/Intelligent-Water-Quality-Prediction-and-Explainable-Risk-Analysis-Platform",
+      "url": "https://github.com/Rosh-am/Intelligent-Water-Quality-Prediction-and-Explainable-Risk-Analysis-Platform",
+      "snippet": "Stars:0 | An end-to-end AI-powered water quality assessment and risk prediction platform integrating machine learning, deep learning, explainable AI (SHAP), water quality analysis, risk classification, actionable recommendations, and an interactive Streamlit dashboard."
+    },
+    {
+      "date": "2026-10-17",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "darwin-data/claude-nature",
+      "url": "https://github.com/darwin-data/claude-nature",
+      "snippet": "Stars:0 | The nature footprint of your Claude Code sessions: energy, climate, and water against basin water stress."
     }
   ]
 }

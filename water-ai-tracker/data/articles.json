@@ -8779,6 +8779,46 @@
       "title": "darwin-data/claude-nature",
       "url": "https://github.com/darwin-data/claude-nature",
       "snippet": "Stars:0 | The nature footprint of your Claude Code sessions: energy, climate, and water against basin water stress."
+    },
+    {
+      "date": "2026-10-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "prajwalasai/water-potability-predictor",
+      "url": "https://github.com/prajwalasai/water-potability-predictor",
+      "snippet": "Stars:0 | A machine learning-based web application that predicts drinking water potability using water quality parameters. Built with Python, Scikit-learn, Flask, HTML, and CSS, with a focus on a potential application in Warangal."
+    },
+    {
+      "date": "2026-10-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "jagadeesh2k07/hydroscan-ai",
+      "url": "https://github.com/jagadeesh2k07/hydroscan-ai",
+      "snippet": "Stars:0 | HydroScan AI is an AI-powered water quality analysis platform designed to help users assess water quality using smartphone images and water test strips. The system uses computer vision, image processing, and machine learning techniques to analyze test-strip images, estimate water quality parameters, and provide easy-to-understand results with confi"
+    },
+    {
+      "date": "2026-10-18",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "HarikaPunati/herbalance",
+      "url": "https://github.com/HarikaPunati/herbalance",
+      "snippet": "Stars:0 | Cycle-synced wellness app: AI meal plans, goal-based calorie/water/workout targets and a smart grocery list for women managing PCOS/PMOS and hormonal health. React + TypeScript, Supabase, Vercel, Claude API."
+    },
+    {
+      "date": "2026-10-18",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "waterplane-dev/waterplane",
+      "url": "https://github.com/waterplane-dev/waterplane",
+      "snippet": "Stars:1 | Drive the real Claude Code CLI on your desktop from your phone, over Tailscale"
     }
   ]
 }

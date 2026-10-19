@@ -8819,6 +8819,26 @@
       "title": "waterplane-dev/waterplane",
       "url": "https://github.com/waterplane-dev/waterplane",
       "snippet": "Stars:1 | Drive the real Claude Code CLI on your desktop from your phone, over Tailscale"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ninelie723-rgb/yellow-river-water-quality-2025",
+      "url": "https://github.com/ninelie723-rgb/yellow-river-water-quality-2025",
+      "snippet": "Stars:0 | Statistical analysis and machine learning exploration of Yellow River water quality."
+    },
+    {
+      "date": "2026-10-19",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "saadmir/caretaker-ai",
+      "url": "https://github.com/saadmir/caretaker-ai",
+      "snippet": "Stars:0 | An experimental, real-world agentic AI system: Claude decides when and how to water my garden; ESP32 controllers act on hardware within code-enforced safety limits."
     }
   ]
 }

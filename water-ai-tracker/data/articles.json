@@ -8839,6 +8839,46 @@
       "title": "saadmir/caretaker-ai",
       "url": "https://github.com/saadmir/caretaker-ai",
       "snippet": "Stars:0 | An experimental, real-world agentic AI system: Claude decides when and how to water my garden; ESP32 controllers act on hardware within code-enforced safety limits."
+    },
+    {
+      "date": "2026-10-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "agastyajeeshan/aquaintel",
+      "url": "https://github.com/agastyajeeshan/aquaintel",
+      "snippet": "Stars:0 | AquaIntel is an AI-powered smart prawn farming system that integrates IoT sensors, machine learning, and automation for real-time water quality monitoring, intelligent feeding, aeration control, and early disease-risk prediction."
+    },
+    {
+      "date": "2026-10-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "liyajohn627-rgb/Water-quality-prediction-",
+      "url": "https://github.com/liyajohn627-rgb/Water-quality-prediction-",
+      "snippet": "Stars:0 | Machine learning project to predict water potability based on chemical properties."
+    },
+    {
+      "date": "2026-10-20",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "Bibimbap67/magtira-ka-naman",
+      "url": "https://github.com/Bibimbap67/magtira-ka-naman",
+      "snippet": "Stars:0 | 💧 Chrome/Brave extension that turns your ChatGPT, Claude & Gemini tokens into water, from a glass all the way to Atlantis. Magtira ka naman!"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "darwin-data/lamarck",
+      "url": "https://github.com/darwin-data/lamarck",
+      "snippet": "Stars:0 | The nature footprint of your Claude Code sessions in species·yr: climate, water, pollution and land at each data centre."
     }
   ]
 }

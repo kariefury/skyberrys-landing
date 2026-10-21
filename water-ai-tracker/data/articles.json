@@ -8879,6 +8879,46 @@
       "title": "darwin-data/lamarck",
       "url": "https://github.com/darwin-data/lamarck",
       "snippet": "Stars:0 | The nature footprint of your Claude Code sessions in species·yr: climate, water, pollution and land at each data centre."
+    },
+    {
+      "date": "2026-10-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "aedwinbobby/Hybrid-AI-Chiller-Controller",
+      "url": "https://github.com/aedwinbobby/Hybrid-AI-Chiller-Controller",
+      "snippet": "Stars:2 | Hybrid AI controller that recommends the optimal chilled water supply temperature (CHWS) for large buildings — Reinforcement Learning (PyTorch) + physics-based HVAC rules, with a Gradio interface."
+    },
+    {
+      "date": "2026-10-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "harshsharma1447-gif/PurifyX",
+      "url": "https://github.com/harshsharma1447-gif/PurifyX",
+      "snippet": "Stars:0 | AI and IoT-powered water quality assessment prototype integrating sensor data, machine learning, and water treatment evaluation."
+    },
+    {
+      "date": "2026-10-21",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "navyasrijoga/water-quality-prediction-ml",
+      "url": "https://github.com/navyasrijoga/water-quality-prediction-ml",
+      "snippet": "Stars:0 | Water quality classification using machine learning algorithms and model evaluation."
+    },
+    {
+      "date": "2026-10-21",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Mudi12138/env-journal-review",
+      "url": "https://github.com/Mudi12138/env-journal-review",
+      "snippet": "Stars:0 | AI pre-submission review for environmental journals (ES&T, Water Research, Nature Water, ...): an agent skill for Claude Code and Codex with a local literature index of ~40,000 papers."
     }
   ]
 }

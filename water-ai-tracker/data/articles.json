@@ -8919,6 +8919,16 @@
       "title": "Mudi12138/env-journal-review",
       "url": "https://github.com/Mudi12138/env-journal-review",
       "snippet": "Stars:0 | AI pre-submission review for environmental journals (ES&T, Water Research, Nature Water, ...): an agent skill for Claude Code and Codex with a local literature index of ~40,000 papers."
+    },
+    {
+      "date": "2026-10-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Aakashaash/SmartWaterNet-Edge-AI-Based-Leakage-Prediction-and-Water-Quality-Monitoring-Using-IoT",
+      "url": "https://github.com/Aakashaash/SmartWaterNet-Edge-AI-Based-Leakage-Prediction-and-Water-Quality-Monitoring-Using-IoT",
+      "snippet": "Stars:0 |  Edge AI to detect water leakage, predict pipeline failures, and monitor water quality in real time. Sensors collect data on water flow, pressure, pH, and turbidity, while AI analyzes the data to identify abnormalities and send instant alerts, reducing water wastage and ensuring safe water supply."
     }
   ]
 }

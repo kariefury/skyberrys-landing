@@ -8929,6 +8929,86 @@
       "title": "Aakashaash/SmartWaterNet-Edge-AI-Based-Leakage-Prediction-and-Water-Quality-Monitoring-Using-IoT",
       "url": "https://github.com/Aakashaash/SmartWaterNet-Edge-AI-Based-Leakage-Prediction-and-Water-Quality-Monitoring-Using-IoT",
       "snippet": "Stars:0 |  Edge AI to detect water leakage, predict pipeline failures, and monitor water quality in real time. Sensors collect data on water flow, pressure, pH, and turbidity, while AI analyzes the data to identify abnormalities and send instant alerts, reducing water wastage and ensuring safe water supply."
+    },
+    {
+      "date": "2026-10-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "abmalek2560-cmd/AI-Wastewater-Quality-Prediction",
+      "url": "https://github.com/abmalek2560-cmd/AI-Wastewater-Quality-Prediction",
+      "snippet": "Stars:0 | An AI-powered predictive and anomaly-detection system for Wastewater Treatment Plants (WWTP) using machine learning (XGBoost, Random Forest) to monitor effluent water quality and flag high-risk operational anomalies."
+    },
+    {
+      "date": "2026-10-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mohitha78/water-quality-prediction",
+      "url": "https://github.com/mohitha78/water-quality-prediction",
+      "snippet": "Stars:0 | Water quality prediction using machine learning, SHAP explainability, station-wise analysis, and uncertainty estimation"
+    },
+    {
+      "date": "2026-10-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "neginnahid/the-hidden-thirst",
+      "url": "https://github.com/neginnahid/the-hidden-thirst",
+      "snippet": "Stars:0 | CSC 317 Group Project 1 - the effect of data centers and AI on clean water"
+    },
+    {
+      "date": "2026-10-23",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "gokayfem/shader-skills",
+      "url": "https://github.com/gokayfem/shader-skills",
+      "snippet": "Stars:374 | GLSL and Shadertoy shader skills for Claude Code, Codex, Cursor, Copilot and Gemini CLI. 186 functions, SDF raymarching, procedural terrain, water, clouds and generative art, with a bundler, checker and 11 examples."
+    },
+    {
+      "date": "2026-10-23",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "nayanikabharadwaj-dev/AI-Resource-Footprint",
+      "url": "https://github.com/nayanikabharadwaj-dev/AI-Resource-Footprint",
+      "snippet": "Stars:0 | Chrome extension that estimates the electricity and water your Claude.ai chats use, with everyday comparisons. Based on 2025 published figures; runs entirely in your browser."
+    },
+    {
+      "date": "2026-10-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "TolongLabs/safe-edge",
+      "url": "https://github.com/TolongLabs/safe-edge",
+      "snippet": "Stars:0 | Drones flag what changed at township water edges. A named owner fixes it, and a second person proves the fix before the edge counts as safe."
+    },
+    {
+      "date": "2026-10-23",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "mazieight/kachf-omega",
+      "url": "https://github.com/mazieight/kachf-omega",
+      "snippet": "Stars:0 | Human vs Claude investigation in Smart Water City, with deterministic simulation, equal experiment budgets, and secure local AI activation."
+    },
+    {
+      "date": "2026-10-23",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "awnsh/dripstat",
+      "url": "https://github.com/awnsh/dripstat",
+      "snippet": "Stars:0 | DripStat: estimate how much water your Claude, ChatGPT and Gemini chats used."
     }
   ]
 }

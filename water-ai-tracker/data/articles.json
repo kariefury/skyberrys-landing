@@ -9009,6 +9009,46 @@
       "title": "awnsh/dripstat",
       "url": "https://github.com/awnsh/dripstat",
       "snippet": "Stars:0 | DripStat: estimate how much water your Claude, ChatGPT and Gemini chats used."
+    },
+    {
+      "date": "2026-10-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "SrushtiKhandelwal/JalWatch",
+      "url": "https://github.com/SrushtiKhandelwal/JalWatch",
+      "snippet": "Stars:0 | AI-assisted water supply monitoring and incident response system"
+    },
+    {
+      "date": "2026-10-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "SPOORTHI-05428/hydroScanAI",
+      "url": "https://github.com/SPOORTHI-05428/hydroScanAI",
+      "snippet": "Stars:0 | HydroScan – Smart Water Quality Monitoring System using ESP32, Flask, and Machine Learning. This project predicts water quality using sensor data, visualizes trends, and provides reports and recommendations for safe water usage"
+    },
+    {
+      "date": "2026-10-24",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": "claude-generic",
+      "source": "github",
+      "title": "leoli-dev/water-garden-llm-test",
+      "url": "https://github.com/leoli-dev/water-garden-llm-test",
+      "snippet": "Stars:0 | Same WebGL water-garden brief built by Claude Opus 5.5 and GPT 6.1 sol; reviewed in llm-test-reports CLOUD-02"
+    },
+    {
+      "date": "2026-10-24",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "AppMacha-Labs/desktop-wifey",
+      "url": "https://github.com/AppMacha-Labs/desktop-wifey",
+      "snippet": "Stars:0 | A tiny cartoon wife who lives on your Mac and makes sure you drink water, eat and sleep. Electron + Claude."
     }
   ]
 }

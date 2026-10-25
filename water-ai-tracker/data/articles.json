@@ -9049,6 +9049,56 @@
       "title": "AppMacha-Labs/desktop-wifey",
       "url": "https://github.com/AppMacha-Labs/desktop-wifey",
       "snippet": "Stars:0 | A tiny cartoon wife who lives on your Mac and makes sure you drink water, eat and sleep. Electron + Claude."
+    },
+    {
+      "date": "2026-10-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "abdurrahim003/water-quality-prediction",
+      "url": "https://github.com/abdurrahim003/water-quality-prediction",
+      "snippet": "Stars:0 | Machine learning model to predict water safety using WHO guidelines"
+    },
+    {
+      "date": "2026-10-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "saloni243/GreenCityAI",
+      "url": "https://github.com/saloni243/GreenCityAI",
+      "snippet": "Stars:0 | GreenCity AI is a MERN stack-based smart city platform that leverages machine learning to monitor environmental conditions and optimize air quality, water, electricity, and waste management."
+    },
+    {
+      "date": "2026-10-25",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "Farooqui-umar/WaterCast",
+      "url": "https://github.com/Farooqui-umar/WaterCast",
+      "snippet": "Stars:0 | WaterCast is a web app that tracks rainfall and water shortages across India. It combines live weather, government alerts and citizen reports, and uses Gemini AI for risk rankings, report trust scores and local conservation tips. Supports SDG 6: Clean Water and Sanitation."
+    },
+    {
+      "date": "2026-10-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "krishivraj17/rivus-water-air-widget",
+      "url": "https://github.com/krishivraj17/rivus-water-air-widget",
+      "snippet": "Stars:0 | Users type in their ZIP code or city name to get a clean visual scorecard showing local municipal water characteristics and current air quality ratings."
+    },
+    {
+      "date": "2026-10-25",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "cbcarlson3/sightglass",
+      "url": "https://github.com/cbcarlson3/sightglass",
+      "snippet": "Stars:0 | Snap a photo of a water heater or boiler data plate — get age, specs, error codes and parts. (Code name; built with Claude Code.)"
     }
   ]
 }

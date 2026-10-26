@@ -9099,6 +9099,106 @@
       "title": "cbcarlson3/sightglass",
       "url": "https://github.com/cbcarlson3/sightglass",
       "snippet": "Stars:0 | Snap a photo of a water heater or boiler data plate — get age, specs, error codes and parts. (Code name; built with Claude Code.)"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "JironaJaroll-31/NammaProof",
+      "url": "https://github.com/JironaJaroll-31/NammaProof",
+      "snippet": "Stars:0 | NammaProof uses AI and GIS mapping to identify public service failures in water supply, sanitation, roads, and accessibility. Citizens report issues through text, photos, or voice. The platform prioritises recurring problems, tracks follow-ups, and enables community verification to promote transparent, inclusive, and accountable governance."
+    },
+    {
+      "date": "2026-10-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Nuwanthi608/AquaGuard-AI",
+      "url": "https://github.com/Nuwanthi608/AquaGuard-AI",
+      "snippet": "Stars:0 | An AI/ML-powered water quality analysis web application featuring machine learning predictions, explainable AI, model evaluation, and AI-generated reports."
+    },
+    {
+      "date": "2026-10-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Madushika23/environmental-pollution-prediction-monitoring",
+      "url": "https://github.com/Madushika23/environmental-pollution-prediction-monitoring",
+      "snippet": "Stars:0 | A final-year project focused on predicting and monitoring environmental pollution using machine learning and data analysis. The system aims to assess air, water, and soil quality using Python, data visualization, and predictive models."
+    },
+    {
+      "date": "2026-10-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "BajpaiS01/AI-DRIVEN-WATER-QUALITY-PREDICTION-USING-MACHINE-LEARNING-TECHNIQUES-",
+      "url": "https://github.com/BajpaiS01/AI-DRIVEN-WATER-QUALITY-PREDICTION-USING-MACHINE-LEARNING-TECHNIQUES-",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-10-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "charansaimangamuri/Water_Quality_Prediction",
+      "url": "https://github.com/charansaimangamuri/Water_Quality_Prediction",
+      "snippet": "Stars:0 | Predicting the quality of water by using Machine Learning Algorithms"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Lalit-creater/aquasavers",
+      "url": "https://github.com/Lalit-creater/aquasavers",
+      "snippet": "Stars:0 | AquaSavers is an IoT-enabled sustainability project that captures low-grade waste heat from AI servers and computing hardware to purify saline or wastewater into clean water through thermal desalination / membrane distillation. It features real-time ESP32 sensor telemetry, thermodynamic physics simulation, and an interactive monitoring dashboard. "
+    },
+    {
+      "date": "2026-10-26",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Adamfatur/gentra-island",
+      "url": "https://github.com/Adamfatur/gentra-island",
+      "snippet": "Stars:1 | A free, open-source Dynamic Island for Mac, Windows, and Linux. Your MacBook notch tells you when Claude Code or Codex needs you, reminds you to take breaks and drink water, and adds now playing, clipboard history, and dev tools. No tracking."
+    },
+    {
+      "date": "2026-10-26",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ian-cambr/ClaudyDay",
+      "url": "https://github.com/ian-cambr/ClaudyDay",
+      "snippet": "Stars:0 | Easily visualize your Claude Code usage statistics in terms of water usage"
+    },
+    {
+      "date": "2026-10-26",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "alibabaskill/aiwateruse",
+      "url": "https://github.com/alibabaskill/aiwateruse",
+      "snippet": "Stars:0 | A glass beside your Claude Code session that fills with an estimate of the water each reply used. A Claude Code plugin."
+    },
+    {
+      "date": "2026-10-26",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "mkieser/ns_wells_vibecoded",
+      "url": "https://github.com/mkieser/ns_wells_vibecoded",
+      "snippet": "Stars:0 | Web map of Nova Scotia water wells, built with Claude Code"
     }
   ]
 }

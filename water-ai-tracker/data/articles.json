@@ -9199,6 +9199,66 @@
       "title": "mkieser/ns_wells_vibecoded",
       "url": "https://github.com/mkieser/ns_wells_vibecoded",
       "snippet": "Stars:0 | Web map of Nova Scotia water wells, built with Claude Code"
+    },
+    {
+      "date": "2026-10-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ramkrishnamajumder432-crypto/COMPARATIVE-MACHINE-LEARNING-APPROACH-FOR-WATER-QUALITY",
+      "url": "https://github.com/ramkrishnamajumder432-crypto/COMPARATIVE-MACHINE-LEARNING-APPROACH-FOR-WATER-QUALITY",
+      "snippet": "Stars:0 | Find the best accuracy of different ML models."
+    },
+    {
+      "date": "2026-10-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AayushK401/Water-Quality-analysis",
+      "url": "https://github.com/AayushK401/Water-Quality-analysis",
+      "snippet": "Stars:0 | End-to-end Machine Learning pipeline analyzing CPCB NWMP-2024 water quality across 755 Indian water bodies. Evaluates EDA, K-Means clustering, and tuned ensemble classifiers (Random Forest ~95.4% accuracy) with an interactive web UI for real-time pollution screening."
+    },
+    {
+      "date": "2026-10-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mohanramkavi2006-lgtm/Ai-based-water-quality-monitoring-system",
+      "url": "https://github.com/mohanramkavi2006-lgtm/Ai-based-water-quality-monitoring-system",
+      "snippet": "Stars:0 | An AI-based water quality monitoring system relies on a multi-layered Internet of Things (IoT) and Machine Learning (ML) architecture to continuously track physical and chemical properties of water, predict safety indexes, and automate contamination alerts in real time."
+    },
+    {
+      "date": "2026-10-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sec25ec305-bee/AquaGuard-AI-Smart-Water-Quality-Monitoring-and-Early-Warning-System",
+      "url": "https://github.com/sec25ec305-bee/AquaGuard-AI-Smart-Water-Quality-Monitoring-and-Early-Warning-System",
+      "snippet": "Stars:0 | AquaGuard AI aims to improve access to safe water by using IoT sensors and artificial intelligence to monitor water quality and identify potential contamination risks. It supports United Nations Sustainable Development Goal 6 (Clean Water and Sanitation) and SDG 3 (Good Health and Well-being) by promoting water safety, early warnings,"
+    },
+    {
+      "date": "2026-10-27",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "dariuszparys/claude-water-reminder",
+      "url": "https://github.com/dariuszparys/claude-water-reminder",
+      "snippet": "Stars:0 | A Claude Code mod that reminds you to drink water: a daily goal, glasses to log, and a nudge every 5 minutes until you drink."
+    },
+    {
+      "date": "2026-10-27",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "cc-code-examples/lovely-waterbuffalo-692008",
+      "url": "https://github.com/cc-code-examples/lovely-waterbuffalo-692008",
+      "snippet": "Stars:0 | Java code example for the Claude Code challenge"
     }
   ]
 }

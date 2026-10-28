@@ -9259,6 +9259,96 @@
       "title": "cc-code-examples/lovely-waterbuffalo-692008",
       "url": "https://github.com/cc-code-examples/lovely-waterbuffalo-692008",
       "snippet": "Stars:0 | Java code example for the Claude Code challenge"
+    },
+    {
+      "date": "2026-10-28",
+      "company": "google",
+      "model_family": null,
+      "model_variant": null,
+      "source": "newsapi",
+      "title": "Dammed Between Energy and Water Scarcity: The Grand Ethiopian Renaissance Dam and the Nile",
+      "url": "https://www.archdaily.com/1186770/dammed-between-energy-and-water-scarcity-the-grand-ethiopian-renaissance-dam-and-the-nile",
+      "snippet": "Every large dam divides as much as it connects, and the Grand Ethiopian Renaissance Dam is no exception. A monumental feat of architecture and engineering, the mega-dam has brought everyone together, for better or worse, to interrogate who gets to declare sov…"
+    },
+    {
+      "date": "2026-10-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "rohinimali272-hue/Water-prediction-system",
+      "url": "https://github.com/rohinimali272-hue/Water-prediction-system",
+      "snippet": "Stars:0 | The Water Quality Prediction System uses Python and Machine Learning (Random Forest) to predict water quality classes. Using Pandas, Scikit-learn, and Streamlit, it provides quick predictions through a simple web app. Results are estimates and do not replace laboratory testing."
+    },
+    {
+      "date": "2026-10-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "rohinimali272-hue/FAI-Microproject-water-prediction-system-",
+      "url": "https://github.com/rohinimali272-hue/FAI-Microproject-water-prediction-system-",
+      "snippet": "Stars:0 |  The Water Quality Prediction System is a software-based project that uses Artificial Intelligence (AI), Machine Learning (ML), and Data Science to predict the classification of water quality based on numerical water parameters.  The system is developed using Python, Pandas, Scikit-learn, and Streamlit. "
+    },
+    {
+      "date": "2026-10-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "vs1410/AQUANTIS",
+      "url": "https://github.com/vs1410/AQUANTIS",
+      "snippet": "Stars:0 | A machine learning framework for water quality prediction using Random Forest, SVM, Logistic Regression, and KNN, featuring an interactive Streamlit dashboard for sample analysis, model comparison, data exploration, and prediction history."
+    },
+    {
+      "date": "2026-10-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "janhavikatgaonkar/marine-water-quality-classification",
+      "url": "https://github.com/janhavikatgaonkar/marine-water-quality-classification",
+      "snippet": "Stars:0 | MarineGuard AI — Machine Learning-Based Marine Water Quality Classification and Analysis"
+    },
+    {
+      "date": "2026-10-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AbhikKumawat/Jal-Jeevan",
+      "url": "https://github.com/AbhikKumawat/Jal-Jeevan",
+      "snippet": "Stars:0 | AI-powered clean water information assistant for India"
+    },
+    {
+      "date": "2026-10-28",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ahaverty/plants",
+      "url": "https://github.com/ahaverty/plants",
+      "snippet": "Stars:0 | Self-hosted plant watering and feeding tracker: phone PWA, rain-aware schedules, Claude MCP, Home Assistant notifications"
+    },
+    {
+      "date": "2026-10-28",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "FishMan2341/ai-usage-ledger",
+      "url": "https://github.com/FishMan2341/ai-usage-ledger",
+      "snippet": "Stars:1 | Local dashboard for your Claude, Codex and Gemini usage: tokens by category and model, API-equivalent cost, and estimated energy, carbon and water. Keys never leave your machine."
+    },
+    {
+      "date": "2026-10-28",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": "claude-generic",
+      "source": "github",
+      "title": "Furkiozknn/pamukkale",
+      "url": "https://github.com/Furkiozknn/pamukkale",
+      "snippet": "Stars:0 | Calm water-flow puzzle on white travertine terraces: guide the spring with stones, dams and splitters to fill every pool. Browser game built by Claude Haiku 5.5 · Pamukkale travertenlerinde su akışı bulmacası. Claude Haiku 5.5 yaptı."
     }
   ]
 }

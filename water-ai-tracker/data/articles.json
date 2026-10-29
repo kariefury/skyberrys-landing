@@ -9349,6 +9349,66 @@
       "title": "Furkiozknn/pamukkale",
       "url": "https://github.com/Furkiozknn/pamukkale",
       "snippet": "Stars:0 | Calm water-flow puzzle on white travertine terraces: guide the spring with stones, dams and splitters to fill every pool. Browser game built by Claude Haiku 5.5 · Pamukkale travertenlerinde su akışı bulmacası. Claude Haiku 5.5 yaptı."
+    },
+    {
+      "date": "2026-10-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "uday123-tech/AquaMind-AI-Water-Resource-Intelligence",
+      "url": "https://github.com/uday123-tech/AquaMind-AI-Water-Resource-Intelligence",
+      "snippet": "Stars:0 | Built using Flask and machine learning. It provides water quality prediction, water availability forecasting, and crop recommendations using environmental data. The system integrates XGBoost, explainable AI techniques (LIME and SHAP), live weather data, and a user-friendly web interface to support informed water resource management."
+    },
+    {
+      "date": "2026-10-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AnanyaSS-13/Water-Quality-Classification1",
+      "url": "https://github.com/AnanyaSS-13/Water-Quality-Classification1",
+      "snippet": "Stars:0 | A machine learning project that classifies water potability based on water quality parameters using Python and Random Forest."
+    },
+    {
+      "date": "2026-10-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "fatimahussnain-netizen/water-potability-prediction",
+      "url": "https://github.com/fatimahussnain-netizen/water-potability-prediction",
+      "snippet": "Stars:0 | A machine learning project for predicting water potability using water-quality measurements."
+    },
+    {
+      "date": "2026-10-29",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "janhavikatgaonkar/AI-Based-Marine-Water-Quality-Classification-System",
+      "url": "https://github.com/janhavikatgaonkar/AI-Based-Marine-Water-Quality-Classification-System",
+      "snippet": "Stars:0 | AI-Based Marine Water Quality Classification System uses Machine Learning to analyze water quality parameters and classify marine water quality, supporting pollution monitoring and marine ecosystem protection."
+    },
+    {
+      "date": "2026-10-29",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "traddmccorkle/claude-code-water",
+      "url": "https://github.com/traddmccorkle/claude-code-water",
+      "snippet": "Stars:2 | An interactive WebGL recreation of Claude Code desktop’s digital water animation."
+    },
+    {
+      "date": "2026-10-29",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "MarinX/heat-pump-skill",
+      "url": "https://github.com/MarinX/heat-pump-skill",
+      "snippet": "Stars:0 | An agent skill that helps Claude size and troubleshoot residential air-to-water heat pump systems"
     }
   ]
 }

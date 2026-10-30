@@ -9409,6 +9409,56 @@
       "title": "MarinX/heat-pump-skill",
       "url": "https://github.com/MarinX/heat-pump-skill",
       "snippet": "Stars:0 | An agent skill that helps Claude size and troubleshoot residential air-to-water heat pump systems"
+    },
+    {
+      "date": "2026-10-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "BigSmokeweb/Water_Quality",
+      "url": "https://github.com/BigSmokeweb/Water_Quality",
+      "snippet": "Stars:0 | Water quality analysis and potability prediction using machine learning, with exploratory data analysis of key water parameters such as pH, hardness, turbidity and conductivity."
+    },
+    {
+      "date": "2026-10-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kousik-728457/Smart-Greywater-Quality-Monitoring-System",
+      "url": "https://github.com/kousik-728457/Smart-Greywater-Quality-Monitoring-System",
+      "snippet": "Stars:0 | Water quality monitoring using pH, TDS, turbidity, temperature sensors, and Random Forest machine learning."
+    },
+    {
+      "date": "2026-10-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Vaishalikotthala/godavari-river-water-quality-analysis",
+      "url": "https://github.com/Vaishalikotthala/godavari-river-water-quality-analysis",
+      "snippet": "Stars:0 | Data Science project analyzing Godavari River water quality using Python, EDA, machine learning classification, K-Means clustering, and PCA."
+    },
+    {
+      "date": "2026-10-30",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nasreenanjum59/peshawar-water-quality-ml",
+      "url": "https://github.com/nasreenanjum59/peshawar-water-quality-ml",
+      "snippet": "Stars:0 | Reproducible machine-learning analysis of E. coli detection in water samples from Peshawar, Pakistan (2009–2024)."
+    },
+    {
+      "date": "2026-10-30",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "MFHanCC/waterexammath-claude-plugin",
+      "url": "https://github.com/MFHanCC/waterexammath-claude-plugin",
+      "snippet": "Stars:0 | WaterExamMath plugin for Claude: skills that teach Claude to run California water operator exam math practice with the WaterExamMath connector."
     }
   ]
 }

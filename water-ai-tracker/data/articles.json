@@ -9459,6 +9459,86 @@
       "title": "MFHanCC/waterexammath-claude-plugin",
       "url": "https://github.com/MFHanCC/waterexammath-claude-plugin",
       "snippet": "Stars:0 | WaterExamMath plugin for Claude: skills that teach Claude to run California water operator exam math practice with the WaterExamMath connector."
+    },
+    {
+      "date": "2026-10-31",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": null,
+      "source": "github",
+      "title": "obi9905/smart-water-quality-analytics",
+      "url": "https://github.com/obi9905/smart-water-quality-analytics",
+      "snippet": "Stars:0 | Smart Water Quality and Scarcity Analytics using Machine Learning, FastAPI, React, and Google BigQuery."
+    },
+    {
+      "date": "2026-10-31",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "arambh8960/AquaPredict",
+      "url": "https://github.com/arambh8960/AquaPredict",
+      "snippet": "Stars:0 | Water Quality Prediction using Apache Spark and Machine Learning"
+    },
+    {
+      "date": "2026-10-31",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "AdityaRokade24/SDG_6_AquaVision-water-quality-monitoring-and-time-series-prediction",
+      "url": "https://github.com/AdityaRokade24/SDG_6_AquaVision-water-quality-monitoring-and-time-series-prediction",
+      "snippet": "Stars:0 | Autonomous Multi-Agent AI System for Sacred River Confluence Telemetry, Machine Learning Predictive Analytics, and Public Ecological Safeguarding"
+    },
+    {
+      "date": "2026-10-31",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "michaelseg3310-design/tank_simulator",
+      "url": "https://github.com/michaelseg3310-design/tank_simulator",
+      "snippet": "Stars:0 | Browser based water tank simulator with PLC style scan cycle logic, interlocks, alarm handling and a live trend chart. Built with Claude Code."
+    },
+    {
+      "date": "2026-10-31",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "rader-ai/painted-pixels",
+      "url": "https://github.com/rader-ai/painted-pixels",
+      "snippet": "Stars:0 | Teach Claude to paint pixel worlds you could stay in for an hour. A Claude Code skill: how we think about light, sky, water and people, with the toolkit behind Lofi Studio."
+    },
+    {
+      "date": "2026-10-31",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "get-tend/tend",
+      "url": "https://github.com/get-tend/tend",
+      "snippet": "Stars:0 | Estimates the energy, carbon, and water behind your Claude Code usage, and helps you fund carbon removal and water restoration in proportion to it. Runs locally."
+    },
+    {
+      "date": "2026-10-31",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": "claude-generic",
+      "source": "github",
+      "title": "MarcoPaoletta/xogot---river-rafter",
+      "url": "https://github.com/MarcoPaoletta/xogot---river-rafter",
+      "snippet": "Stars:0 | River Rafter: a Godot white-water rafting game built entirely on an iPhone with Xogot and Claude Opus 5.5. Includes the full game-dev skill."
+    },
+    {
+      "date": "2026-10-31",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ChanMeng666/chanmeng-slack-waterline",
+      "url": "https://github.com/ChanMeng666/chanmeng-slack-waterline",
+      "snippet": "Stars:0 | 【Star-crossed coders unite!⭐️】 Read every message in a Slack workspace and prove nothing was missed — a Claude Code skill that catches you up, DMs you a daily/weekly digest, and drafts the reply. Zero dependencies, many workspaces from one install."
     }
   ]
 }

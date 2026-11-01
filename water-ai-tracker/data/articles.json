@@ -9539,6 +9539,26 @@
       "title": "ChanMeng666/chanmeng-slack-waterline",
       "url": "https://github.com/ChanMeng666/chanmeng-slack-waterline",
       "snippet": "Stars:0 | 【Star-crossed coders unite!⭐️】 Read every message in a Slack workspace and prove nothing was missed — a Claude Code skill that catches you up, DMs you a daily/weekly digest, and drafts the reply. Zero dependencies, many workspaces from one install."
+    },
+    {
+      "date": "2026-11-01",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "NasserAlalem/water-quality-assessment-ml",
+      "url": "https://github.com/NasserAlalem/water-quality-assessment-ml",
+      "snippet": "Stars:0 | Machine learning pipeline and interactive Streamlit web app for water potability prediction using Random Forest and Scikit-Learn."
+    },
+    {
+      "date": "2026-11-01",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "F-Lapidaire/true-price",
+      "url": "https://github.com/F-Lapidaire/true-price",
+      "snippet": "Stars:0 | Making AI's footprint visible: live estimates of the energy, water and CO₂ behind your Claude Code chats."
     }
   ]
 }

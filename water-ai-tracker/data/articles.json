@@ -9559,6 +9559,36 @@
       "title": "F-Lapidaire/true-price",
       "url": "https://github.com/F-Lapidaire/true-price",
       "snippet": "Stars:0 | Making AI's footprint visible: live estimates of the energy, water and CO₂ behind your Claude Code chats."
+    },
+    {
+      "date": "2026-11-02",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sudhanshu27alt/Water-Quality-Prediction",
+      "url": "https://github.com/sudhanshu27alt/Water-Quality-Prediction",
+      "snippet": "Stars:0 | A Machine Learning-based system that predicts water quality by analyzing parameters like pH, turbidity, and dissolved solids to determine its suitability for use."
+    },
+    {
+      "date": "2026-11-02",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ElvijsCoder/Shoreline",
+      "url": "https://github.com/ElvijsCoder/Shoreline",
+      "snippet": "Stars:1 | A calm water tracker for Android, where the tide rises as you drink. Science-backed daily goal, caffeine that wears off, smart reminders, home screen widgets and Health Connect. Designed by Elvijs S. · built with Claude."
+    },
+    {
+      "date": "2026-11-02",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "mmcjcc/apex-classic-reef-console",
+      "url": "https://github.com/mmcjcc/apex-classic-reef-console",
+      "snippet": "Stars:0 | Local console for a reef aquarium run by a Neptune Apex Classic: long-term history, alerts that name every condition, water tests, analysis, and MCP for Claude"
     }
   ]
 }

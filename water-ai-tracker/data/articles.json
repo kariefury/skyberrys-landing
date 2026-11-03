@@ -9589,6 +9589,76 @@
       "title": "mmcjcc/apex-classic-reef-console",
       "url": "https://github.com/mmcjcc/apex-classic-reef-console",
       "snippet": "Stars:0 | Local console for a reef aquarium run by a Neptune Apex Classic: long-term history, alerts that name every condition, water tests, analysis, and MCP for Claude"
+    },
+    {
+      "date": "2026-11-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Victor-Ahmedu/HydroSteward",
+      "url": "https://github.com/Victor-Ahmedu/HydroSteward",
+      "snippet": "Stars:1 | AI-assisted water monitoring and control that detects leaks and taps left running, cuts off supply, and reduces data-center cooling water use. Simulated prototype for the Xylem Global Student Innovation Challenge 2026 (Water Quantity)."
+    },
+    {
+      "date": "2026-11-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Rithirajendran/AquaSense_AI",
+      "url": "https://github.com/Rithirajendran/AquaSense_AI",
+      "snippet": "Stars:0 | An AI-powered AquaSense water quality monitoring and prediction system integrating machine learning, edge inference, sensor data processing, and a 3D digital twin dashboard."
+    },
+    {
+      "date": "2026-11-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "arionahasankiperera-cell/IOT-Project-",
+      "url": "https://github.com/arionahasankiperera-cell/IOT-Project-",
+      "snippet": "Stars:0 | Low-Cost IoT-Based Water Quality Monitoring System with Cloud Integration and Machine Learning Based Drinkability Classification"
+    },
+    {
+      "date": "2026-11-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Sandeep3426/groundwater-quality-prediction-ml",
+      "url": "https://github.com/Sandeep3426/groundwater-quality-prediction-ml",
+      "snippet": "Stars:0 | A machine learning project analysing government groundwater quality data from the Central Ground Water Board (CGWB), India. Performs EDA, correlation analysis, regression modelling, and classification using Python and Scikit-learn to analyse groundwater chemical parameters and predict chloride-based water quality categories."
+    },
+    {
+      "date": "2026-11-03",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "zakir-maswani/Water-Potability-Prediction",
+      "url": "https://github.com/zakir-maswani/Water-Potability-Prediction",
+      "snippet": "Stars:1 | Machine learning project that predicts water potability from nine water-quality measurements, using a scikit-learn Random Forest pipeline with feature engineering and an interactive Streamlit app."
+    },
+    {
+      "date": "2026-11-03",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "8bsite/water-park-website-template",
+      "url": "https://github.com/8bsite/water-park-website-template",
+      "snippet": "Stars:0 | Free HTML water park website template with scroll animations and no libraries (GSAP build included), for water parks, leisure pools and swim schools. Orange wordmark on black, pool-blue sections. One HTML file, MIT, with AGENTS.md for Claude Code, Cursor and Codex. By 8B."
+    },
+    {
+      "date": "2026-11-03",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "affira/water-sales-assistant",
+      "url": "https://github.com/affira/water-sales-assistant",
+      "snippet": "Stars:0 | CLI AI sales assistant (Python + Claude API): tool routing, brochure retrieval, LLM extraction of messy service reports, cost estimation and process-data analysis. Fictional company, synthetic data."
     }
   ]
 }

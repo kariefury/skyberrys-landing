@@ -9659,6 +9659,86 @@
       "title": "affira/water-sales-assistant",
       "url": "https://github.com/affira/water-sales-assistant",
       "snippet": "Stars:0 | CLI AI sales assistant (Python + Claude API): tool routing, brochure retrieval, LLM extraction of messy service reports, cost estimation and process-data analysis. Fictional company, synthetic data."
+    },
+    {
+      "date": "2026-11-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Bhargavprasad-data/Jalrakshak-water-guarden",
+      "url": "https://github.com/Bhargavprasad-data/Jalrakshak-water-guarden",
+      "snippet": "Stars:1 | A comprehensive IoT-based water supply monitoring and management system for rural areas, featuring real-time sensor data collection, AI-powered anomaly detection, automated alerting, and multi-platform dashboards."
+    },
+    {
+      "date": "2026-11-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "BGDmusic/Water-quality-monitoring-",
+      "url": "https://github.com/BGDmusic/Water-quality-monitoring-",
+      "snippet": "Stars:0 | An AI-Based Water Quality Monitoring and Prediction System is an advanced technological framework that combines IoT (Internet of Things) sensors, Edge/Cloud computing, and Machine Learning (ML) to track, analyze, and forecast the safety and condition of water resources in real time"
+    },
+    {
+      "date": "2026-11-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "karthikgamerkarthikgamer086-jpg/Water-quality-Monitoring",
+      "url": "https://github.com/karthikgamerkarthikgamer086-jpg/Water-quality-Monitoring",
+      "snippet": "Stars:0 | An AI-Based Water Quality Monitoring and Prediction System is an advanced technological framework that combines IoT (Internet of Things) sensors, Edge/Cloud computing, and Machine Learning (ML) to track, analyze, and forecast the safety and condition of water resources in real time"
+    },
+    {
+      "date": "2026-11-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "BGDmusic/water-quality-monitoring",
+      "url": "https://github.com/BGDmusic/water-quality-monitoring",
+      "snippet": "Stars:0 | An AI-Based Water Quality Monitoring and Prediction System is an advanced technological framework that combines IoT (Internet of Things) sensors, Edge/Cloud computing, and Machine Learning (ML) to track, analyze, and forecast the safety and condition of water resources in real time."
+    },
+    {
+      "date": "2026-11-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mohammadreshma482-stack/Smart-Water-Quality-Prediction",
+      "url": "https://github.com/mohammadreshma482-stack/Smart-Water-Quality-Prediction",
+      "snippet": "Stars:0 | \" Smart water quality analysis \" developed a machine learning model to predict drinking water suitability. Used Python, Pandas, NumPy, and Scikit - learn for data analysis and prediction. Designed  a simple wed interface to display prediction results."
+    },
+    {
+      "date": "2026-11-04",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "namithh26/water-quality-analysis",
+      "url": "https://github.com/namithh26/water-quality-analysis",
+      "snippet": "Stars:0 | Water Quality Analysis and Pollution Level Classification using R and Machine Learning"
+    },
+    {
+      "date": "2026-11-04",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "Enterprise-DNA-OS/water-compliance-for-claude-code",
+      "url": "https://github.com/Enterprise-DNA-OS/water-compliance-for-claude-code",
+      "snippet": "Stars:0 | The open-source drinking water compliance system that is just a database and Claude Code."
+    },
+    {
+      "date": "2026-11-04",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "jobfinderbyivan/technozen-claude-theme",
+      "url": "https://github.com/jobfinderbyivan/technozen-claude-theme",
+      "snippet": "Stars:0 | Five Technozen themes and skins for the Claude desktop app, claude.ai and Claude Code CLI. Take is a wet green leaf with water-drop buttons."
     }
   ]
 }

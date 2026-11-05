@@ -9739,6 +9739,46 @@
       "title": "jobfinderbyivan/technozen-claude-theme",
       "url": "https://github.com/jobfinderbyivan/technozen-claude-theme",
       "snippet": "Stars:0 | Five Technozen themes and skins for the Claude desktop app, claude.ai and Claude Code CLI. Take is a wet green leaf with water-drop buttons."
+    },
+    {
+      "date": "2026-11-05",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Atif-Anwar321/aquawatch-ai",
+      "url": "https://github.com/Atif-Anwar321/aquawatch-ai",
+      "snippet": "Stars:0 | AI-driven water quality & pollution monitoring in water supply systems"
+    },
+    {
+      "date": "2026-11-05",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "karthikgamerkarthikgamer086-jpg/Hydro-Quality-Monitoring",
+      "url": "https://github.com/karthikgamerkarthikgamer086-jpg/Hydro-Quality-Monitoring",
+      "snippet": "Stars:0 | An AI-Based Water Quality Monitoring and Prediction System is an advanced technological framework that combines IoT (Internet of Things) sensors, Edge/Cloud computing, and Machine Learning (ML) to track, analyze, and forecast the safety and condition of water resources in real time"
+    },
+    {
+      "date": "2026-11-05",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "rauljuhkam/softwater-assist-claude",
+      "url": "https://github.com/rauljuhkam/softwater-assist-claude",
+      "snippet": "Stars:0 | Water softener educational chatbot built with Claude Code."
+    },
+    {
+      "date": "2026-11-05",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "GSD500BPO/gsd-open-ops",
+      "url": "https://github.com/GSD500BPO/gsd-open-ops",
+      "snippet": "Stars:0 | Open-source appointment-setting & BPO operations kit: WhatsApp recruiting bot with automated candidate scoring, 23-module setter academy (EN/ES), sales cadence templates, CRM ownership rules and a 96-step year-round CRM journey for water-treatment and home-service businesses. Built with Claude. MIT."
     }
   ]
 }

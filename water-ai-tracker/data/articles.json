@@ -9779,6 +9779,36 @@
       "title": "GSD500BPO/gsd-open-ops",
       "url": "https://github.com/GSD500BPO/gsd-open-ops",
       "snippet": "Stars:0 | Open-source appointment-setting & BPO operations kit: WhatsApp recruiting bot with automated candidate scoring, 23-module setter academy (EN/ES), sales cadence templates, CRM ownership rules and a 96-step year-round CRM journey for water-treatment and home-service businesses. Built with Claude. MIT."
+    },
+    {
+      "date": "2026-11-06",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "NabiAdnan/wqi-major-project",
+      "url": "https://github.com/NabiAdnan/wqi-major-project",
+      "snippet": "Stars:0 | A Hybrid Machine Learning Framework for Water Quality Index Prediction Using Adaptive Domain-Aware Neural Network Initialization — KITSW major project (Batch 03)."
+    },
+    {
+      "date": "2026-11-06",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "bunderlog/hathi",
+      "url": "https://github.com/bunderlog/hathi",
+      "snippet": "Stars:0 | Commit and repo checks for Git hooks and CI: Conventional Commits, no secrets, no AI co-authors, no large files, linear history. One law at the watering hole, Claude or not."
+    },
+    {
+      "date": "2026-11-06",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "ghuron/skills",
+      "url": "https://github.com/ghuron/skills",
+      "snippet": "Stars:0 | Agent skills (SKILL.md) for everyday services: Dutch school, transport, energy, water, mobile, banking and groceries (Magister, OVpay, HTM, Budget Thuis, Dunea, Vodafone, ICS, ABN AMRO, Albert Heijn), Epson and Ecovacs devices at home, and Brex corporate cards. For Claude Code, Codex, Cursor and other agents."
     }
   ]
 }

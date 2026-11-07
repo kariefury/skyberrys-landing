@@ -9809,6 +9809,36 @@
       "title": "ghuron/skills",
       "url": "https://github.com/ghuron/skills",
       "snippet": "Stars:0 | Agent skills (SKILL.md) for everyday services: Dutch school, transport, energy, water, mobile, banking and groceries (Magister, OVpay, HTM, Budget Thuis, Dunea, Vodafone, ICS, ABN AMRO, Albert Heijn), Epson and Ecovacs devices at home, and Brex corporate cards. For Claude Code, Codex, Cursor and other agents."
+    },
+    {
+      "date": "2026-11-07",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Gloria-orji/nigeria-water-quality-cluster-analysis",
+      "url": "https://github.com/Gloria-orji/nigeria-water-quality-cluster-analysis",
+      "snippet": "Stars:0 | A machine learning-based Streamlit application for analysing Nigerian water quality indicators using K-Means clustering."
+    },
+    {
+      "date": "2026-11-07",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "BDigness/ThirstyClaude",
+      "url": "https://github.com/BDigness/ThirstyClaude",
+      "snippet": "Stars:0 | A desktop widget: a graduated cylinder that fills with the estimated water behind your Claude Code tokens. Local only, no network."
+    },
+    {
+      "date": "2026-11-07",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "Bibimbap101/magtira-ka-naman",
+      "url": "https://github.com/Bibimbap101/magtira-ka-naman",
+      "snippet": "Stars:0 | 💧 Chrome/Brave extension that turns your ChatGPT, Claude & Gemini tokens into water, from a glass all the way to Atlantis. Magtira ka naman!"
     }
   ]
 }

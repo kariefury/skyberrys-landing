@@ -9839,6 +9839,46 @@
       "title": "Bibimbap101/magtira-ka-naman",
       "url": "https://github.com/Bibimbap101/magtira-ka-naman",
       "snippet": "Stars:0 | 💧 Chrome/Brave extension that turns your ChatGPT, Claude & Gemini tokens into water, from a glass all the way to Atlantis. Magtira ka naman!"
+    },
+    {
+      "date": "2026-11-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Areebamunawar/Water-Potability-Prediction-System",
+      "url": "https://github.com/Areebamunawar/Water-Potability-Prediction-System",
+      "snippet": "Stars:0 | A Machine Learning based system to predict water potability using water quality parameters."
+    },
+    {
+      "date": "2026-11-08",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "fathisas/IoT-Water-Quality-Monitoring-System",
+      "url": "https://github.com/fathisas/IoT-Water-Quality-Monitoring-System",
+      "snippet": "Stars:0 | Low-Cost IoT-Based Water Quality Monitoring System with Cloud Integration and Machine Learning-Based Drinkability Classification"
+    },
+    {
+      "date": "2026-11-08",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "thealihamza04/session-brief-mod",
+      "url": "https://github.com/thealihamza04/session-brief-mod",
+      "snippet": "Stars:0 | A Claude Code mod: session purpose, last wins, work timer, water reminder and a share-your-progress tracker above your prompt."
+    },
+    {
+      "date": "2026-11-08",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "github",
+      "title": "rishinkalra/ai-footprint",
+      "url": "https://github.com/rishinkalra/ai-footprint",
+      "snippet": "Stars:0 | See the energy, carbon, water and cost of every AI reply. Private browser extension and dashboard for ChatGPT, Claude, Gemini and more."
     }
   ]
 }

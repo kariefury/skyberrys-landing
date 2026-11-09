@@ -9879,6 +9879,36 @@
       "title": "rishinkalra/ai-footprint",
       "url": "https://github.com/rishinkalra/ai-footprint",
       "snippet": "Stars:0 | See the energy, carbon, water and cost of every AI reply. Private browser extension and dashboard for ChatGPT, Claude, Gemini and more."
+    },
+    {
+      "date": "2026-11-09",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ashwathikannan/water-quality-prediction-ml",
+      "url": "https://github.com/ashwathikannan/water-quality-prediction-ml",
+      "snippet": "Stars:0 | A simple machine learning project to predict water potability using Random Forest Classification."
+    },
+    {
+      "date": "2026-11-09",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "GekkoQuest/watercoded",
+      "url": "https://github.com/GekkoQuest/watercoded",
+      "snippet": "Stars:0 | A native macOS app for running coding agents like Claude Code in parallel, each in its own git worktree."
+    },
+    {
+      "date": "2026-11-09",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "brann-dev/dungeondraft-mcp",
+      "url": "https://github.com/brann-dev/dungeondraft-mcp",
+      "snippet": "Stars:8 | MCP server and Dungeondraft mod that let an AI assistant such as Claude build and edit maps in a running Dungeondraft: walls, floors, terrain, water, lighting, objects, levels, and Universal VTT export."
     }
   ]
 }

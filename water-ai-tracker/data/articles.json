@@ -9929,6 +9929,16 @@
       "title": "myxu95/FireboyandWatergirl",
       "url": "https://github.com/myxu95/FireboyandWatergirl",
       "snippet": "Stars:0 | Run Claude Code and Codex tasks on each other's behalf, with long-task and token monitoring"
+    },
+    {
+      "date": "2026-11-11",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sonamariyam/Water-Quality-Prediction",
+      "url": "https://github.com/sonamariyam/Water-Quality-Prediction",
+      "snippet": "Stars:0 | A Machine Learning-based Water Quality Prediction System using the Random Forest Classification algorithm. This project analyzes water quality parameters and predicts whether water is suitable for drinking or not. It aims to support water quality monitoring and help identify potentially unsafe water conditions using data-driven predictions."
     }
   ]
 }

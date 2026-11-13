@@ -9999,6 +9999,36 @@
       "title": "carter-sites/watertable-site",
       "url": "https://github.com/carter-sites/watertable-site",
       "snippet": "Stars:0 | The connection between Claude and rolling out a new website pushed to cloudflare"
+    },
+    {
+      "date": "2026-11-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kruton-labyrinth/Jal_Suraksha",
+      "url": "https://github.com/kruton-labyrinth/Jal_Suraksha",
+      "snippet": "Stars:0 | Jal Suraksha is an AI-powered rural drinking water monitoring platform designed to improve the reliability, quality and accessibility of household tap water under the Jal Jeevan Mission. It combines IoT-based sensors, AI/ML-driven anomaly detection, community feedback and GIS dashboards to monitor water supply, identify potential faults,"
+    },
+    {
+      "date": "2026-11-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "tinycoderv/community-water-quality-analysis",
+      "url": "https://github.com/tinycoderv/community-water-quality-analysis",
+      "snippet": "Stars:0 | Python-based water quality data analysis and exploratory machine learning project."
+    },
+    {
+      "date": "2026-11-13",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "yashfakhan0307/vision2030-sdg-agent",
+      "url": "https://github.com/yashfakhan0307/vision2030-sdg-agent",
+      "snippet": "Stars:0 | AI agent addressing urban water demand and desalination energy, aligned with Saudi Vision 2030 and UN SDGs"
     }
   ]
 }

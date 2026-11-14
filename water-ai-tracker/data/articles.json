@@ -10029,6 +10029,76 @@
       "title": "yashfakhan0307/vision2030-sdg-agent",
       "url": "https://github.com/yashfakhan0307/vision2030-sdg-agent",
       "snippet": "Stars:0 | AI agent addressing urban water demand and desalination energy, aligned with Saudi Vision 2030 and UN SDGs"
+    },
+    {
+      "date": "2026-11-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "EzequiasMiocha/ete-platform",
+      "url": "https://github.com/EzequiasMiocha/ete-platform",
+      "snippet": "Stars:0 | Eyes to Earth uses satellite images and machine learning to watch the water quality of the Incomati River and warn about floods in Marracuene, Mozambique. It turns open data into maps, a daily bulletin and simple alerts in Portuguese, English and French. Experimental: it does not replace official warnings from INGD, INAM and ARA-Sul."
+    },
+    {
+      "date": "2026-11-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Shanish-14/water-Potability-Prediction",
+      "url": "https://github.com/Shanish-14/water-Potability-Prediction",
+      "snippet": "Stars:0 | A Machine Learning project that predicts water potability using water quality parameters and a tuned Random Forest Classifier. Built with Python, Pandas, Scikit-learn and VS Code."
+    },
+    {
+      "date": "2026-11-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "saketgoel911-cell/AquaNexus",
+      "url": "https://github.com/saketgoel911-cell/AquaNexus",
+      "snippet": "Stars:0 | AquaNexus – An AI-powered water intelligence and management platform designed to monitor water quality, analyze environment data, predict potential water-related risks using Machine Learning, and provide actionable insights through ab interactive dashboard.Built to promote smarter,data-driven water management,support sustainable water conservation."
+    },
+    {
+      "date": "2026-11-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nada-jajieh/Water-Quality-Prediction",
+      "url": "https://github.com/nada-jajieh/Water-Quality-Prediction",
+      "snippet": "Stars:0 | A Machine Learning project for predicting water potability using Logistic Regression, Random Forest, and XGBoost, with data preprocessing and hyperparameter tuning"
+    },
+    {
+      "date": "2026-11-14",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "dipayandatta090-del/smart-water-quality-prediction",
+      "url": "https://github.com/dipayandatta090-del/smart-water-quality-prediction",
+      "snippet": "Stars:0 | Machine Learning-based Smart Water Quality Prediction using Random Forest and other regression algorithms to predict Biochemical Oxygen Demand (BOD)."
+    },
+    {
+      "date": "2026-11-14",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "alisa-d/outage-radar-demo",
+      "url": "https://github.com/alisa-d/outage-radar-demo",
+      "snippet": "Stars:0 | Demo project for a talk on spec-driven development with AI agents: an outage alert service for water and power, built end to end with Claude Code"
+    },
+    {
+      "date": "2026-11-14",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "guillermollopis/soma-ai-emission-factors",
+      "url": "https://github.com/guillermollopis/soma-ai-emission-factors",
+      "snippet": "Stars:0 | SOMA AI Emission Factors (SAEF). Open CC BY 4.0 carbon and water factors for AI inference (ChatGPT, Copilot, Claude, LLM APIs), per million tokens, by model class and cloud region. pip install saef. Method paper accepted in Sustainable Production and Consumption."
     }
   ]
 }

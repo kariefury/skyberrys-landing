@@ -10099,6 +10099,16 @@
       "title": "guillermollopis/soma-ai-emission-factors",
       "url": "https://github.com/guillermollopis/soma-ai-emission-factors",
       "snippet": "Stars:0 | SOMA AI Emission Factors (SAEF). Open CC BY 4.0 carbon and water factors for AI inference (ChatGPT, Copilot, Claude, LLM APIs), per million tokens, by model class and cloud region. pip install saef. Method paper accepted in Sustainable Production and Consumption."
+    },
+    {
+      "date": "2026-11-15",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "devilapurv/Water-Potability-AI",
+      "url": "https://github.com/devilapurv/Water-Potability-AI",
+      "snippet": "Stars:0 | Machine Learning-based water quality classification with an interactive Streamlit dashboard, single-sample predictions, and bulk CSV analysis."
     }
   ]
 }

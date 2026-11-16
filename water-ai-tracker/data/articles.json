@@ -10109,6 +10109,86 @@
       "title": "devilapurv/Water-Potability-AI",
       "url": "https://github.com/devilapurv/Water-Potability-AI",
       "snippet": "Stars:0 | Machine Learning-based water quality classification with an interactive Streamlit dashboard, single-sample predictions, and bulk CSV analysis."
+    },
+    {
+      "date": "2026-11-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nishhn10-a11y/AquaGuard-Smart-Water-Management_1",
+      "url": "https://github.com/nishhn10-a11y/AquaGuard-Smart-Water-Management_1",
+      "snippet": "Stars:0 | Water wastage is a major environmental problem. Many places lose large amounts of water due to unnoticed leakage, overflowing tanks, and careless usage. Develop an innovative solution using IoT, AI, and sensors to monitor water usage, detect leakage, and automatically control the water supply."
+    },
+    {
+      "date": "2026-11-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nishhn10-a11y/AquaGuard-Smart-Water-Management",
+      "url": "https://github.com/nishhn10-a11y/AquaGuard-Smart-Water-Management",
+      "snippet": "Stars:0 | Water wastage is a major environmental problem. Many places lose large amounts of water due to unnoticed leakage, overflowing tanks, and careless usage. Develop an innovative solution using IoT, AI, and sensors to monitor water usage, detect leakage, and automatically control the water supply."
+    },
+    {
+      "date": "2026-11-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nishhn10-a11y/project-1",
+      "url": "https://github.com/nishhn10-a11y/project-1",
+      "snippet": "Stars:0 | Water wastage is a major environmental problem. Many places lose large amounts of water due to unnoticed leakage, overflowing tanks, and careless usage. Develop an innovative solution using IoT, AI, and sensors to monitor water usage, detect leakage, and automatically control the water supply."
+    },
+    {
+      "date": "2026-11-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "alihassanazad8245/AIWaterQualityProject-AquaVision",
+      "url": "https://github.com/alihassanazad8245/AIWaterQualityProject-AquaVision",
+      "snippet": "Stars:0 | An AI-powered Water Quality Analysis & Monitoring Platform integrating React, FastAPI, Machine Learning, and a LangGraph AI Copilot for intelligent water-quality assessment, analytics, and automated reporting."
+    },
+    {
+      "date": "2026-11-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "dharshrao/JalaDrishti",
+      "url": "https://github.com/dharshrao/JalaDrishti",
+      "snippet": "Stars:0 | An intelligent water-quality assessment and monitoring system powered by machine learning, multi-dataset analysis, anomaly detection and a full-stack web application."
+    },
+    {
+      "date": "2026-11-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sumedhaholkar/Jalrakshak",
+      "url": "https://github.com/sumedhaholkar/Jalrakshak",
+      "snippet": "Stars:0 | JalRakshak is an end-to-end Machine Learning project that analyzes water quality parameters and predicts water potability using classification models. It includes data preprocessing, EDA, model training, evaluation, and an interactive Streamlit dashboard to provide insights into potential water quality risks."
+    },
+    {
+      "date": "2026-11-16",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Peanutz2011/Integrated_Multi-Modal_Deep_Learning_Framework_for_Smart_Irrigation_System",
+      "url": "https://github.com/Peanutz2011/Integrated_Multi-Modal_Deep_Learning_Framework_for_Smart_Irrigation_System",
+      "snippet": "Stars:0 | Traditional irrigation techniques rely on subjective visual inspection and monitoring, leading to limited coverage, inefficient water usage and delayed decision-making. In recent years, the integration of information from various sources are explored by researchers to develop more precise irrigation system. "
+    },
+    {
+      "date": "2026-11-16",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "jc155699/cosmol-hydro-mcp",
+      "url": "https://github.com/jc155699/cosmol-hydro-mcp",
+      "snippet": "Stars:0 | Global 2D Shallow-Water Flood & Hydraulic Modelling MCP Server & Agent Skill for Claude, OpenAI Codex, Cursor & VS Code"
     }
   ]
 }

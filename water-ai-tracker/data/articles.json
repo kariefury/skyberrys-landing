@@ -10189,6 +10189,66 @@
       "title": "jc155699/cosmol-hydro-mcp",
       "url": "https://github.com/jc155699/cosmol-hydro-mcp",
       "snippet": "Stars:0 | Global 2D Shallow-Water Flood & Hydraulic Modelling MCP Server & Agent Skill for Claude, OpenAI Codex, Cursor & VS Code"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "google",
+      "model_family": "gemini",
+      "model_variant": "gemini-generic",
+      "source": "semantic_scholar",
+      "title": "Smart Agriculture for Hilly and Terraced Farming: A Literature Review and Decision-Support System Design",
+      "url": "https://www.semanticscholar.org/paper/5fb4d3442268fd8516cd9ac61f6c24c7a47cc4b0",
+      "snippet": "Hilly agriculture presents conditions that are not adequately represented by uniform-field assumptions, including slope-dependent water movement, fragmented terraces, elevation variation, and difficult physical access. This paper reviews fifteen verified scholarly sources, including eight focal works on agricultural sensing, irrigation scheduling, machine learning, remote sensing, unmanned aerial "
+    },
+    {
+      "date": "2026-11-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Aravind276/AI-BASED-PROJECT-FINAL",
+      "url": "https://github.com/Aravind276/AI-BASED-PROJECT-FINAL",
+      "snippet": "Stars:0 | An AI powered waste water treatment optimization system that uses a Random forest Machine Learning model to predict water contamination levels based on water quality parameters and recommends suitable, Sustainable treatment processes"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Athenessa/water-quality-machine-learning",
+      "url": "https://github.com/Athenessa/water-quality-machine-learning",
+      "snippet": "Stars:0 | This project is about water quality machine learning "
+    },
+    {
+      "date": "2026-11-17",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "snehalj890/ml-water-quality-prediction",
+      "url": "https://github.com/snehalj890/ml-water-quality-prediction",
+      "snippet": "Stars:0 | A machine learning-based water quality classification and prediction system built with Python and Streamlit to evaluate drinking water potability."
+    },
+    {
+      "date": "2026-11-17",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "davelalande/public-lands-field-guide",
+      "url": "https://github.com/davelalande/public-lands-field-guide",
+      "snippet": "Stars:0 | National forest & BLM camping skill for AI agents: find free and dispersed camps on US public land, plan a trip, check water and weather, from sourced records. Claude Code, Cursor, Codex, Kiro. No sign-in."
+    },
+    {
+      "date": "2026-11-17",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "craftgrow/ai-impact-tracker",
+      "url": "https://github.com/craftgrow/ai-impact-tracker",
+      "snippet": "Stars:0 | Measure the energy, water and CO2e of your AI use from the session transcripts already on your machine. A Claude plugin."
     }
   ]
 }

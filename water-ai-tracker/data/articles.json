@@ -10249,6 +10249,156 @@
       "title": "craftgrow/ai-impact-tracker",
       "url": "https://github.com/craftgrow/ai-impact-tracker",
       "snippet": "Stars:0 | Measure the energy, water and CO2e of your AI use from the session transcripts already on your machine. A Claude plugin."
+    },
+    {
+      "date": "2026-11-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ZephyrNULL/hydroshield",
+      "url": "https://github.com/ZephyrNULL/hydroshield",
+      "snippet": "Stars:0 | HydroShield is a Flutter-based smart water management prototype for residential/rental properties. It provides role-based Property Owner and Tenant interfaces with mock IoT data/services to demonstrate tank monitoring, usage/billing, cleaning/maintenance, leakage detection, and remote supply control flows."
+    },
+    {
+      "date": "2026-11-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kavanatk06-bot/Aquaguard",
+      "url": "https://github.com/kavanatk06-bot/Aquaguard",
+      "snippet": "Stars:0 | Water wastage is a major environmental problem. Many places lose large amounts of water due to unnoticed leakage, overflowing tanks, and careless usage. Develop an innovative solution using IoT, AI, and sensors to monitor water usage, detect leakage, and automatically control the water supply."
+    },
+    {
+      "date": "2026-11-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shanyaMk/aquaguard",
+      "url": "https://github.com/shanyaMk/aquaguard",
+      "snippet": "Stars:0 | Water wastage is a major environmental problem. Many places lose large amounts of water due to unnoticed leakage, overflowing tanks, and careless usage. Develop an innovative solution using IoT, AI, and sensors to monitor water usage, detect leakage, and automatically control the water supply."
+    },
+    {
+      "date": "2026-11-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "mdjamalsoudagar2626-creator/HydroGuard.AI",
+      "url": "https://github.com/mdjamalsoudagar2626-creator/HydroGuard.AI",
+      "snippet": "Stars:0 | oprating water supply"
+    },
+    {
+      "date": "2026-11-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "bbynichaa/Rayong-Water-Quality-ML",
+      "url": "https://github.com/bbynichaa/Rayong-Water-Quality-ML",
+      "snippet": "Stars:0 | Machine Learning-Based Estimation of Surface Water Quality Using Reduced Monitoring Parameters in Rayong Province."
+    },
+    {
+      "date": "2026-11-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Athenessa/Coral-Bleaching-machine-learning",
+      "url": "https://github.com/Athenessa/Coral-Bleaching-machine-learning",
+      "snippet": "Stars:0 | This project is about water quality machine learning "
+    },
+    {
+      "date": "2026-11-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Ar-5060/water-quality-indexing-thesis",
+      "url": "https://github.com/Ar-5060/water-quality-indexing-thesis",
+      "snippet": "Stars:0 | Water Quality Indexing using Machine Learning and Deep Learning"
+    },
+    {
+      "date": "2026-11-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Anonymouns-Account/Predicting-Risk-v2",
+      "url": "https://github.com/Anonymouns-Account/Predicting-Risk-v2",
+      "snippet": "Stars:0 | Code and data for recreational water-quality exceedance prediction using machine learning."
+    },
+    {
+      "date": "2026-11-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ahanjitghosh43-boop/AQUAGUARD",
+      "url": "https://github.com/ahanjitghosh43-boop/AQUAGUARD",
+      "snippet": "Stars:0 | Machine Learning Based Water Quality Prediction System"
+    },
+    {
+      "date": "2026-11-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Optidaddy/hope-spring-website",
+      "url": "https://github.com/Optidaddy/hope-spring-website",
+      "snippet": "Stars:0 | Hope Spring is a modern,NGO and charity website dedicated to empowering children, families and communities across Africa through education, healthcare, clean water, and community development. Built with Python (Flask), HTML, CSS, and JavaScript,an interactive AI-style assistant (Upendo), and Safaricom M-Pesa Daraja STK Push donation integration."
+    },
+    {
+      "date": "2026-11-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "longtime04/makefun-relax-entry-clean",
+      "url": "https://github.com/longtime04/makefun-relax-entry-clean",
+      "snippet": "Stars:0 | A short text to relax an AI judge: an empty pool hall after closing, the water settling, light at rest. Built by an AI agent for make.fun’s “Make the AI judge relax” bounty, $50 in USDC plus entry fees."
+    },
+    {
+      "date": "2026-11-18",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "leinemann/ha-meter-vision",
+      "url": "https://github.com/leinemann/ha-meter-vision",
+      "snippet": "Stars:0 | Home Assistant integration: read water, gas and electricity meters from a camera with any vision AI (Claude, OpenAI, Kimi, local Qwen via Ollama). Plausibility-checked readings for the Energy dashboard."
+    },
+    {
+      "date": "2026-11-18",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "RNT56/agent-skill-blender-export-three.js",
+      "url": "https://github.com/RNT56/agent-skill-blender-export-three.js",
+      "snippet": "Stars:0 | Agent skill: verified Blender → three.js pipeline. Bake, LOD, meshopt + KTX2, validate, export & engine-check game-ready GLBs. Tileable PBR generator, procedural buildings, three.js runtime (terrain, wind grass, water, sky). For Claude Code & Codex."
+    },
+    {
+      "date": "2026-11-18",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "it-entity/ccguilt",
+      "url": "https://github.com/it-entity/ccguilt",
+      "snippet": "Stars:0 | Claude Code Guilt Trip — satirical environmental impact tracker for your AI habit. Research-backed energy, CO2, water, and tree destruction metrics."
+    },
+    {
+      "date": "2026-11-18",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "netlab-sapienza/LLM-water-network",
+      "url": "https://github.com/netlab-sapienza/LLM-water-network",
+      "snippet": "Stars:0 | Code and prompts for the paper: \"Experts Under Pressure: Benchmarking LLMs versus Engineered Water-Network Management Models\", presented at AAIML 2027"
     }
   ]
 }

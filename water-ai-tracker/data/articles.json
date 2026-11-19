@@ -10399,6 +10399,46 @@
       "title": "netlab-sapienza/LLM-water-network",
       "url": "https://github.com/netlab-sapienza/LLM-water-network",
       "snippet": "Stars:0 | Code and prompts for the paper: \"Experts Under Pressure: Benchmarking LLMs versus Engineered Water-Network Management Models\", presented at AAIML 2027"
+    },
+    {
+      "date": "2026-11-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ankithajabale-creator/Aquaguard",
+      "url": "https://github.com/ankithajabale-creator/Aquaguard",
+      "snippet": "Stars:0 | Water wastage is a major environmental problem. Many places lose large amounts of water due to unnoticed leakage, overflowing tanks, and careless usage. Develop an innovative solution using IoT, AI, and sensors to monitor water usage, detect leakage, and automatically control the water supply."
+    },
+    {
+      "date": "2026-11-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "banavathrishi/open-source-project",
+      "url": "https://github.com/banavathrishi/open-source-project",
+      "snippet": "Stars:0 | A machine learning-based water quality classification system that predicts water quality using chemical parameters and identifies abnormal samples using anomaly detection."
+    },
+    {
+      "date": "2026-11-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "bbynichaa/Rayong-Water-Quality-Assessment",
+      "url": "https://github.com/bbynichaa/Rayong-Water-Quality-Assessment",
+      "snippet": "Stars:0 | Data-driven surface water quality assessment, pollution hotspot identification, and machine learning-based environmental management in Rayong Province (2018–2024)."
+    },
+    {
+      "date": "2026-11-19",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sumanyaadav58-dev/Blue-guardian",
+      "url": "https://github.com/sumanyaadav58-dev/Blue-guardian",
+      "snippet": "Stars:0 | Ai Water Cleaning Robert "
     }
   ]
 }

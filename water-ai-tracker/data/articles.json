@@ -10439,6 +10439,46 @@
       "title": "sumanyaadav58-dev/Blue-guardian",
       "url": "https://github.com/sumanyaadav58-dev/Blue-guardian",
       "snippet": "Stars:0 | Ai Water Cleaning Robert "
+    },
+    {
+      "date": "2026-11-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "kavim2203-hub/Ground-Water-Quality-prediction---Machine-Learning",
+      "url": "https://github.com/kavim2203-hub/Ground-Water-Quality-prediction---Machine-Learning",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-11-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "tagorenaiduchitti/smart-water-quality-assessment-ml",
+      "url": "https://github.com/tagorenaiduchitti/smart-water-quality-assessment-ml",
+      "snippet": "Stars:0 | Machine Learning-based Water Quality Assessment and Potability Prediction using Python, Scikit-learn and Streamlit."
+    },
+    {
+      "date": "2026-11-20",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "bismac707/EarthSage-AI",
+      "url": "https://github.com/bismac707/EarthSage-AI",
+      "snippet": "Stars:0 | An interactive planetary sustainability intelligence platform for climate risk analysis, water security, air quality monitoring, food-system exposure and clean-energy insights using environmental data analytics."
+    },
+    {
+      "date": "2026-11-20",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "omprabhu31/plip-pet",
+      "url": "https://github.com/omprabhu31/plip-pet",
+      "snippet": "Stars:0 | Plip, a tiny pixel water droplet pet for Claude Code, with a macOS desktop overlay"
     }
   ]
 }

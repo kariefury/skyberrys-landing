@@ -10489,6 +10489,56 @@
       "title": "nehashaikh7603/AI-POWERED-WATER-QUALITY-ANALYSIS-",
       "url": "https://github.com/nehashaikh7603/AI-POWERED-WATER-QUALITY-ANALYSIS-",
       "snippet": "Stars:0 | Machine Learning based water potability prediction using classification algorithms."
+    },
+    {
+      "date": "2026-11-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "narjes-ranjbari/shrimp-farming-risk-assessment",
+      "url": "https://github.com/narjes-ranjbari/shrimp-farming-risk-assessment",
+      "snippet": "Stars:0 | A data-driven system for monitoring shrimp farming water quality, assessing risks, and providing preventive recommendations using machine learning."
+    },
+    {
+      "date": "2026-11-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "aruproy06/AquaSense-AI",
+      "url": "https://github.com/aruproy06/AquaSense-AI",
+      "snippet": "Stars:0 | Drinking-water quality monitoring with ESP32 sensors, cloud ingestion, machine-learning contamination detection and a real-time bento dashboard."
+    },
+    {
+      "date": "2026-11-22",
+      "company": "openai",
+      "model_family": "sora",
+      "model_variant": "sora",
+      "source": "github",
+      "title": "ahmedmoalla-ai/sorai",
+      "url": "https://github.com/ahmedmoalla-ai/sorai",
+      "snippet": "Stars:0 | SOLARCLEAN AI (SORAI): solar-panel dirt detection with deep learning + water-aware cleaning decisions (Next.js + FastAPI + EfficientNet-B0)"
+    },
+    {
+      "date": "2026-11-22",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "thibaud360/stillmotion",
+      "url": "https://github.com/thibaud360/stillmotion",
+      "snippet": "Stars:0 | A Claude skill that turns one still photo into a looping cinemagraph. Only the sky, water or steam moves."
+    },
+    {
+      "date": "2026-11-22",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "HazelKahlil/AgentGauge",
+      "url": "https://github.com/HazelKahlil/AgentGauge",
+      "snippet": "Stars:2 | Your AI quota, as clear as water · AI 额度，清澈如水 — Native macOS Metal liquid gauge in your Dock & menu bar for 50 AI apps & coding agents."
     }
   ]
 }

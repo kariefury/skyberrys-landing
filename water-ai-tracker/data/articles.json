@@ -10539,6 +10539,36 @@
       "title": "HazelKahlil/AgentGauge",
       "url": "https://github.com/HazelKahlil/AgentGauge",
       "snippet": "Stars:2 | Your AI quota, as clear as water · AI 额度，清澈如水 — Native macOS Metal liquid gauge in your Dock & menu bar for 50 AI apps & coding agents."
+    },
+    {
+      "date": "2026-11-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shreeyutdogra40-arch/water-leakage",
+      "url": "https://github.com/shreeyutdogra40-arch/water-leakage",
+      "snippet": "Stars:0 | ai powered water leakage detector for detecting the gap and burst pipes in an effective way and to mange the supply of water in more effective way"
+    },
+    {
+      "date": "2026-11-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Antriksh-Mishra/water-leakage-system",
+      "url": "https://github.com/Antriksh-Mishra/water-leakage-system",
+      "snippet": "Stars:0 | ai powered water leakage system to detect the leakage and the accurate water supply in the daily usage"
+    },
+    {
+      "date": "2026-11-23",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "naga123-ya/waterborne-disease-prediction-ml-gis",
+      "url": "https://github.com/naga123-ya/waterborne-disease-prediction-ml-gis",
+      "snippet": "Stars:0 | Machine learning and GIS educational prototype for water quality analysis and geographical risk visualization using Python.  Visibility: Public  Initialize repository: Leave all initialization options unchecked."
     }
   ]
 }

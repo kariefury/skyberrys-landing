@@ -10569,6 +10569,96 @@
       "title": "naga123-ya/waterborne-disease-prediction-ml-gis",
       "url": "https://github.com/naga123-ya/waterborne-disease-prediction-ml-gis",
       "snippet": "Stars:0 | Machine learning and GIS educational prototype for water quality analysis and geographical risk visualization using Python.  Visibility: Public  Initialize repository: Leave all initialization options unchecked."
+    },
+    {
+      "date": "2026-11-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Debankur-Dey/water-quality-prediction",
+      "url": "https://github.com/Debankur-Dey/water-quality-prediction",
+      "snippet": "Stars:0 | End-to-end machine learning pipeline for Smart Water Quality Prediction using physicochemical water parameters, domain feature engineering, KNN imputation, and ExtraTrees classification."
+    },
+    {
+      "date": "2026-11-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "killianjgleeson/tap_wq",
+      "url": "https://github.com/killianjgleeson/tap_wq",
+      "snippet": "Stars:0 | Code for: Explainable Machine Learning and Complex Network Theory to Manage Drinking Water Quality at Customer Taps (Gleeson et al., 2026)"
+    },
+    {
+      "date": "2026-11-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "rahul-dev746/smart-water-quality-prediction",
+      "url": "https://github.com/rahul-dev746/smart-water-quality-prediction",
+      "snippet": "Stars:0 | Smart Water Quality Prediction using Machine Learning and Streamlit"
+    },
+    {
+      "date": "2026-11-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "nikila190/HAB-Detection-System",
+      "url": "https://github.com/nikila190/HAB-Detection-System",
+      "snippet": "Stars:0 | An explainable machine learning-based Harmful Algal Bloom (HAB) detection system that uses water quality parameters and XGBoost classification to identify potential HAB occurrences. Features include SHAP-based explainability, detection history, CSV batch analysis, and an interactive web dashboard built with React, Flask, and MySQL."
+    },
+    {
+      "date": "2026-11-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ankita-verse/AquaSense",
+      "url": "https://github.com/ankita-verse/AquaSense",
+      "snippet": "Stars:0 | Smart Water Quality Prediction Using Explainable Machine Learning"
+    },
+    {
+      "date": "2026-11-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Bijoy-paul-01/aquasense-edge-iot-water-quality",
+      "url": "https://github.com/Bijoy-paul-01/aquasense-edge-iot-water-quality",
+      "snippet": "Stars:0 | AQUASENSE: AN EDGE-IOT CYBER-PHYSICAL SYSTEM AND ENSEMBLE MACHINE LEARNING FRAMEWORK FOR REAL-TIME DRINKING WATER QUALITY MONITORING, ANOMALY DETECTION, AND HEALTH RISK ASSESSMENT"
+    },
+    {
+      "date": "2026-11-24",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "nguyenquangtin/da-nang-dragon-bridge",
+      "url": "https://github.com/nguyenquangtin/da-nang-dragon-bridge",
+      "snippet": "Stars:0 | Pixel-art Da Nang at night for the Claude desktop app: the Dragon Bridge breathing fire and water over the Han River."
+    },
+    {
+      "date": "2026-11-24",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "KPVishal/Water_Billing_Claude_Code",
+      "url": "https://github.com/KPVishal/Water_Billing_Claude_Code",
+      "snippet": "Stars:0 | "
+    },
+    {
+      "date": "2026-11-24",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "YangzhenRuan/ht-waterlessradiant-mcp",
+      "url": "https://github.com/YangzhenRuan/ht-waterlessradiant-mcp",
+      "snippet": "Stars:0 | MCP server for HT's articles, guides and FAQs on waterless radiant floors, where a heat pump drives refrigerant through copper capillary tubing. It covers comparisons with hydronic systems, cold climates, cooling, slab design, retrofits, costs and zoning. Results cite source URLs, and unresolved…"
     }
   ]
 }

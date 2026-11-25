@@ -10659,6 +10659,66 @@
       "title": "YangzhenRuan/ht-waterlessradiant-mcp",
       "url": "https://github.com/YangzhenRuan/ht-waterlessradiant-mcp",
       "snippet": "Stars:0 | MCP server for HT's articles, guides and FAQs on waterless radiant floors, where a heat pump drives refrigerant through copper capillary tubing. It covers comparisons with hydronic systems, cold climates, cooling, slab design, retrofits, costs and zoning. Results cite source URLs, and unresolved…"
+    },
+    {
+      "date": "2026-11-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "dipayandatta090-del/AquaSense-AI",
+      "url": "https://github.com/dipayandatta090-del/AquaSense-AI",
+      "snippet": "Stars:0 | River Water Quality Prediction using Machine Learning"
+    },
+    {
+      "date": "2026-11-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ankita-verse/AQUANTIS",
+      "url": "https://github.com/ankita-verse/AQUANTIS",
+      "snippet": "Stars:0 | Smart Water Quality Prediction Using Explainable Machine Learning"
+    },
+    {
+      "date": "2026-11-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shivang2006sharma-cmyk/water-quality-sensor-fusion",
+      "url": "https://github.com/shivang2006sharma-cmyk/water-quality-sensor-fusion",
+      "snippet": "Stars:0 | A theoretical research study on real-time water quality and potability prediction using sensor fusion and machine learning. 6."
+    },
+    {
+      "date": "2026-11-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "shivang2006sharma-cmyk/Machine-Learning-Models-for-Real-Time-Water-Quality-and-Potability-Prediction-Using-Sensor-Fusion",
+      "url": "https://github.com/shivang2006sharma-cmyk/Machine-Learning-Models-for-Real-Time-Water-Quality-and-Potability-Prediction-Using-Sensor-Fusion",
+      "snippet": "Stars:0 | A theoretical research study on real-time water quality and potability prediction using sensor fusion and machine learning."
+    },
+    {
+      "date": "2026-11-25",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "Optidaddy/Warm-hearts-website",
+      "url": "https://github.com/Optidaddy/Warm-hearts-website",
+      "snippet": "Stars:0 | Warm Hearts NGO — A modern charity web platform supporting African children through school meals, education, clean water, and healthcare, featuring Light/Dark mode, the Meshlex AI assistant, and M-Pesa STK Push donations."
+    },
+    {
+      "date": "2026-11-25",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "emansor81-pixel/technical-office-platform",
+      "url": "https://github.com/emansor81-pixel/technical-office-platform",
+      "snippet": "Stars:0 | Desktop program for a construction technical office on water & sewer pipeline projects: document control, WIR, QS takeoff, MAR/MIR, subcontractor and client payment certificates. Built by a civil engineer with Claude."
     }
   ]
 }

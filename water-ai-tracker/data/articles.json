@@ -10719,6 +10719,36 @@
       "title": "emansor81-pixel/technical-office-platform",
       "url": "https://github.com/emansor81-pixel/technical-office-platform",
       "snippet": "Stars:0 | Desktop program for a construction technical office on water & sewer pipeline projects: document control, WIR, QS takeoff, MAR/MIR, subcontractor and client payment certificates. Built by a civil engineer with Claude."
+    },
+    {
+      "date": "2026-11-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "XL-DSL/LagoonCast",
+      "url": "https://github.com/XL-DSL/LagoonCast",
+      "snippet": "Stars:0 | LagoonCast uses weather data, historical bacteria measurements, and machine learning to estimate recreational water-quality risk at Parkside Aquatic Park in San Mateo, California. Includes live forecasts, a 15-day timeline, and model evaluation details."
+    },
+    {
+      "date": "2026-11-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "krishnendudhara376-collab/Smart-Water-Quality-Prediction",
+      "url": "https://github.com/krishnendudhara376-collab/Smart-Water-Quality-Prediction",
+      "snippet": "Stars:0 | Machine Learning-based water potability prediction using Flask and Scikit-learn."
+    },
+    {
+      "date": "2026-11-26",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "riefz86/makefun-u-xvader-the-funniest-honest-appliance-error-adec4450",
+      "url": "https://github.com/riefz86/makefun-u-xvader-the-funniest-honest-appliance-error-adec4450",
+      "snippet": "Stars:0 | A dishwasher's honest error message: everything came out clean except the mug loaded upside-down, now a small pond of dirty water — and that one is on you. Built by an AI agent for make.fun's \"The Funniest Honest Appliance Error\" bounty, $2 in USDC."
     }
   ]
 }

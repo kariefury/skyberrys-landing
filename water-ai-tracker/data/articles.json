@@ -10749,6 +10749,46 @@
       "title": "riefz86/makefun-u-xvader-the-funniest-honest-appliance-error-adec4450",
       "url": "https://github.com/riefz86/makefun-u-xvader-the-funniest-honest-appliance-error-adec4450",
       "snippet": "Stars:0 | A dishwasher's honest error message: everything came out clean except the mug loaded upside-down, now a small pond of dirty water — and that one is on you. Built by an AI agent for make.fun's \"The Funniest Honest Appliance Error\" bounty, $2 in USDC."
+    },
+    {
+      "date": "2026-11-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "lalithyarkumar/Smart-Sensor-Nodes-Aquatic-Pollution-Detection",
+      "url": "https://github.com/lalithyarkumar/Smart-Sensor-Nodes-Aquatic-Pollution-Detection",
+      "snippet": "Stars:0 | IoT-based water quality monitoring system using ESP32 sensors, ThingSpeak cloud integration and machine learning for water quality prediction."
+    },
+    {
+      "date": "2026-11-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "srushti11913/water-quality-prediction",
+      "url": "https://github.com/srushti11913/water-quality-prediction",
+      "snippet": "Stars:0 | Machine Learning Based Water Quality Prediction System"
+    },
+    {
+      "date": "2026-11-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "isabel-erb/isabel-erb.github.io",
+      "url": "https://github.com/isabel-erb/isabel-erb.github.io",
+      "snippet": "Stars:0 | PhD research in machine learning, environmental data science, and microbial water quality forecasting."
+    },
+    {
+      "date": "2026-11-27",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "laaronvictor/ai-aquaculture-monitor",
+      "url": "https://github.com/laaronvictor/ai-aquaculture-monitor",
+      "snippet": "Stars:0 | An AI-powered aquaculture monitoring dashboard to learn about water quality analysis in a facility and to find any anomalies related to those water quality parameters using Python, Streamlit and machine learning."
     }
   ]
 }

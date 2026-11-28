@@ -10789,6 +10789,36 @@
       "title": "laaronvictor/ai-aquaculture-monitor",
       "url": "https://github.com/laaronvictor/ai-aquaculture-monitor",
       "snippet": "Stars:0 | An AI-powered aquaculture monitoring dashboard to learn about water quality analysis in a facility and to find any anomalies related to those water quality parameters using Python, Streamlit and machine learning."
+    },
+    {
+      "date": "2026-11-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "ZeroOutsider/adaptive-water-sensor",
+      "url": "https://github.com/ZeroOutsider/adaptive-water-sensor",
+      "snippet": "Stars:0 | ESP32-based adaptive water quality monitoring system using pH, turbidity, TDS, and temperature sensors, with machine learning, automated valve control, Flutter, and Firebase."
+    },
+    {
+      "date": "2026-11-28",
+      "company": "general",
+      "model_family": null,
+      "model_variant": null,
+      "source": "github",
+      "title": "sathvikmr09/context-aware-ai-chatbot",
+      "url": "https://github.com/sathvikmr09/context-aware-ai-chatbot",
+      "snippet": "Stars:0 | Context-aware AI chatbot for Clean Water and Sanitation (SDG 6) using IBM Watson Assistant, NLP, Python and Streamlit."
+    },
+    {
+      "date": "2026-11-28",
+      "company": "anthropic",
+      "model_family": "claude",
+      "model_variant": null,
+      "source": "github",
+      "title": "slimsomania/game-flipper",
+      "url": "https://github.com/slimsomania/game-flipper",
+      "snippet": "Stars:0 | Flipsy: a bottle-flip skill game for the browser on PC and phone. Judge the water level, set the power, and land the bottle upright. Built with autonomous Claude Code agents. TypeScript, Phaser 3, planck.js."
     }
   ]
 }
